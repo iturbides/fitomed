@@ -1,0 +1,485 @@
+/* ==========================================
+   FitoMed
+   Hoja de estilos principal
+========================================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+
+    --bg: #1c1c1c;
+    --surface: #2a2a2a;
+    --surface-hover: #343434;
+
+    --text: #f2f2f2;
+    --text-soft: #bdbdbd;
+
+    --accent: #5aa469;
+    --border: #404040;
+
+    --radius: 12px;
+
+    --max-width: 900px;
+
+    --font: system-ui, -apple-system, BlinkMacSystemFont,
+             "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
+}
+
+body.dark {
+
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font);
+
+}
+
+.header {
+
+    max-width: var(--max-width);
+    margin: 0 auto;
+
+    padding: 2rem 1rem 1rem;
+
+}
+
+.header h1 {
+
+    text-align: center;
+    font-size: 2.2rem;
+    font-weight: 700;
+
+}
+
+.subtitulo {
+
+    text-align: center;
+    color: var(--text-soft);
+
+    margin-top: .3rem;
+    margin-bottom: 2rem;
+
+}
+
+.buscador {
+
+    margin-bottom: 1.5rem;
+
+}
+
+#buscar {
+
+    width: 100%;
+
+    padding: 14px 18px;
+
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+
+    background: var(--surface);
+    color: var(--text);
+
+    font-size: 1rem;
+
+    outline: none;
+
+}
+
+#buscar:focus {
+
+    border-color: var(--accent);
+
+}
+
+#app {
+
+    max-width: var(--max-width);
+
+    margin: auto;
+
+    padding: 0 1rem 2rem;
+
+}
+
+/* ===========================
+   Tarjetas de resultados
+=========================== */
+
+.resultado {
+
+    padding: 1rem;
+
+    margin-bottom: .8rem;
+
+    background: var(--surface);
+
+    border-radius: var(--radius);
+
+    border: 1px solid var(--border);
+
+    cursor: pointer;
+
+    transition: .2s;
+
+}
+
+.resultado:hover {
+
+    background: var(--surface-hover);
+
+}
+
+.resultado h2 {
+
+    font-size: 1.15rem;
+
+    margin-bottom: .25rem;
+
+}
+
+.resultado .botanico {
+
+    color: var(--text-soft);
+
+    font-style: italic;
+
+    margin-bottom: .45rem;
+
+}
+
+.resultado .acciones {
+
+    font-size: .92rem;
+
+    color: var(--accent);
+
+}
+
+/* ===========================
+   Responsive
+=========================== */
+
+@media (max-width:600px){
+
+    .header{
+
+        padding-top:1.2rem;
+
+    }
+
+    .header h1{
+
+        font-size:1.9rem;
+
+    }
+
+}
+
+
+/* ===========================
+   Etiquetas
+=========================== */
+
+.etiquetas{
+
+    display:flex;
+    flex-wrap:wrap;
+    gap:.45rem;
+
+    margin-top:.4rem;
+
+}
+
+.etiqueta{
+
+    background:#3a3a3a;
+
+    color:var(--text);
+
+    border:none;
+
+    border-radius:999px;
+
+    padding:.35rem .75rem;
+
+    font-size:.88rem;
+
+    cursor:pointer;
+
+    transition:.2s;
+
+}
+
+.etiqueta:hover{
+
+    background:#4b4b4b;
+
+}
+
+.etiqueta:active{
+
+    transform:scale(.97);
+
+}
+/* ==========================================
+   Etiquetas
+========================================== */
+
+.etiquetas {
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: .55rem;
+
+    margin-top: .5rem;
+
+}
+
+.etiqueta {
+
+    padding: .40rem .80rem;
+
+    border: none;
+    border-radius: 999px;
+
+    color: #f2f2f2;
+
+    font-size: .88rem;
+
+    cursor: pointer;
+
+    transition: .18s ease;
+
+}
+
+.etiqueta:hover {
+
+    filter: brightness(1.15);
+
+}
+
+.etiqueta:active {
+
+    transform: scale(.97);
+
+}
+
+
+/* ==========================================
+   Colores por categoría
+========================================== */
+
+/* Acciones */
+
+.etiqueta[data-tipo="accion"] {
+
+    background: #4b6b52;
+
+}
+
+/* Principios activos */
+
+.etiqueta[data-tipo="principio"] {
+
+    background: #4a6178;
+
+}
+
+/* Drogas vegetales */
+
+.etiqueta[data-tipo="droga"] {
+
+    background: #6b5b4b;
+
+}
+
+/* Usos */
+
+.etiqueta[data-tipo="uso"] {
+
+    background: #64506d;
+
+}
+
+/* ==========================================
+   Nombre botánico
+========================================== */
+
+.botanico {
+
+    margin: .4rem 0 .9rem;
+
+    font-style: italic;
+
+}
+
+.botanico a {
+
+    color: #d9c86a;
+
+    text-decoration: none;
+
+    transition: color .2s ease;
+
+}
+
+.botanico a:hover {
+
+    color: #f1dd7a;
+
+    text-decoration: underline;
+
+}
+
+.botanico a::after {
+
+    content: " ↗";
+
+    font-style: normal;
+
+    font-size: .85em;
+
+    opacity: .75;
+
+}
+
+
+/* ==========================================
+   Observación
+========================================== */
+
+.observacion {
+
+    display: inline-block;
+
+    margin-top: .35rem;
+
+    padding: .45rem .80rem;
+
+    background: #7b6b1f;
+
+    color: #fff6c2;
+
+    border-radius: 8px;
+
+    font-weight: 600;
+
+}
+
+
+/* ==========================================
+   Logo
+========================================== */
+
+.logo {
+
+    color: var(--accent);
+
+    text-decoration: none;
+
+    transition: opacity .2s;
+
+}
+
+.logo:hover {
+
+    opacity: .85;
+
+}
+
+/* ==========================================
+   Ficha
+========================================== */
+
+.ficha {
+
+    background: var(--surface);
+
+    border: 1px solid var(--border);
+
+    border-radius: 16px;
+
+    padding: 1.5rem;
+
+    margin-bottom: 2rem;
+
+    box-shadow: 0 4px 12px rgba(0,0,0,.25);
+
+}
+
+.ficha h2 {
+
+    margin-bottom: .3rem;
+
+    font-size: 2rem;
+
+}
+
+.ficha section {
+
+    margin-top: 1.6rem;
+
+}
+
+.ficha h3 {
+
+    margin-bottom: .65rem;
+
+    font-size: 1rem;
+
+    font-weight: 600;
+
+    color: var(--accent);
+
+    text-transform: uppercase;
+
+    letter-spacing: .05em;
+
+}
+
+
+.etiquetas {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: .6rem;
+
+    margin-top: .6rem;
+
+    margin-bottom: .2rem;
+
+}
+.ficha p {
+
+    line-height: 1.6;
+
+}
+
+
+
+
+.resultado .botanico {
+
+    border-bottom: 1px solid rgba(255,255,255,.08);
+
+    padding-bottom: .45rem;
+
+    margin-bottom: .55rem;
+
+}
+
+.ficha .botanico {
+
+    border-bottom: 1px solid var(--border);
+
+    padding-bottom: .8rem;
+
+    margin-bottom: 1rem;
+
+}
