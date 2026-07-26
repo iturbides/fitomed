@@ -4899,5 +4899,1730 @@
     ],
     "observacion": "Su aceite esencial es hepatotóxico y abortivo incluso a dosis bajas; no debe usarse el aceite esencial puro por ninguna vía, y se recomienda prudencia incluso en infusión, evitando el embarazo.",
     "notas": "Planta aromática europea de la familia de las mentas, usada tradicionalmente en infusión digestiva, aunque hoy con uso limitado por seguridad."
+  },
+  {
+    "id": 189,
+    "nombreComun": "CAFÉ",
+    "nombreBotanico": "Coffea arabica",
+    "acciones": [
+      "NOOTRÓPICA",
+      "DIURÉTICA",
+      "ADELGAZANTE"
+    ],
+    "principiosActivos": [
+      "Cafeína",
+      "Ácidos fenólicos",
+      "Taninos varios"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Polvo",
+      "Infusión",
+      "Cápsula"
+    ],
+    "observacion": "Evitar o moderar en hipertensión, ansiedad, embarazo e insomnio por su contenido en cafeína.",
+    "notas": "Arbusto originario de África cuya semilla tostada es la bebida estimulante más consumida del mundo, también usada en fitoterapia como digestivo y termogénico."
+  },
+  {
+    "id": 190,
+    "nombreComun": "CACAO",
+    "nombreBotanico": "Theobroma cacao",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "VASODILATADORA",
+      "NOOTRÓPICA"
+    ],
+    "principiosActivos": [
+      "Flavonoides varios",
+      "Teobromina",
+      "Magnesio (Mg)"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Polvo",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Árbol originario de América tropical cuya semilla, rica en flavonoides, se usa por su efecto antioxidante y sobre el ánimo."
+  },
+  {
+    "id": 191,
+    "nombreComun": "GRANADO",
+    "nombreBotanico": "Punica granatum",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "ANTIINFLAMATORIA"
+    ],
+    "principiosActivos": [
+      "Antocianinas",
+      "Taninos varios",
+      "Vitamina C (ácido ascórbico)"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Zumo",
+      "Extracto seco",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Árbol mediterráneo cuyo fruto, muy rico en antioxidantes, se usa tradicionalmente como tónico y antiinflamatorio."
+  },
+  {
+    "id": 192,
+    "nombreComun": "ESPÁRRAGO",
+    "nombreBotanico": "Asparagus officinalis",
+    "acciones": [
+      "DIURÉTICA"
+    ],
+    "principiosActivos": [
+      "Saponinas",
+      "Flavonoides varios",
+      "Sales minerales"
+    ],
+    "drogaVegetal": [
+      "Raíz",
+      "Turión"
+    ],
+    "uso": [
+      "Decocción",
+      "Infusión"
+    ],
+    "observacion": "Evitar en gota e insuficiencia renal grave por su contenido en purinas.",
+    "notas": "Planta mediterránea cuyos turiones son un alimento habitual y cuya raíz se usa tradicionalmente como diurético."
+  },
+  {
+    "id": 193,
+    "nombreComun": "MAÍZ, ESTIGMAS",
+    "nombreBotanico": "Zea mays",
+    "acciones": [
+      "DIURÉTICA",
+      "ANTIINFLAMATORIA"
+    ],
+    "principiosActivos": [
+      "Flavonoides varios",
+      "Saponinas",
+      "Sales minerales"
+    ],
+    "drogaVegetal": [
+      "Estigma"
+    ],
+    "uso": [
+      "Infusión",
+      "Decocción",
+      "Extracto fluido"
+    ],
+    "observacion": "",
+    "notas": "Los estigmas o 'barbas' de la mazorca de maíz son uno de los diuréticos vegetales más usados y suaves en fitoterapia europea."
+  },
+  {
+    "id": 194,
+    "nombreComun": "BREZO",
+    "nombreBotanico": "Calluna vulgaris",
+    "acciones": [
+      "ANTISÉPTICA",
+      "DIURÉTICA",
+      "ANTIINFLAMATORIA"
+    ],
+    "principiosActivos": [
+      "Flavonoides varios",
+      "Taninos varios",
+      "Arbutina"
+    ],
+    "drogaVegetal": [
+      "Sumidad florida"
+    ],
+    "uso": [
+      "Infusión",
+      "Decocción"
+    ],
+    "observacion": "",
+    "notas": "Arbusto de brezales europeos cuya sumidad florida se usa tradicionalmente como antiséptico urinario, similar a la gayuba."
+  },
+  {
+    "id": 195,
+    "nombreComun": "VELLOSILLA",
+    "nombreBotanico": "Hieracium pilosella",
+    "acciones": [
+      "DIURÉTICA",
+      "ANTIINFLAMATORIA"
+    ],
+    "principiosActivos": [
+      "Flavonoides varios",
+      "Cumarina simple",
+      "Taninos varios"
+    ],
+    "drogaVegetal": [
+      "Parte aérea"
+    ],
+    "uso": [
+      "Infusión",
+      "Decocción"
+    ],
+    "observacion": "",
+    "notas": "Pequeña planta de flores amarillas propia de prados europeos, usada tradicionalmente como diurético suave."
+  },
+  {
+    "id": 196,
+    "nombreComun": "ESCUTELARIA",
+    "nombreBotanico": "Scutellaria lateriflora",
+    "acciones": [
+      "SEDANTE",
+      "ANSIOLÍTICA",
+      "ANTIESPASMÓDICA"
+    ],
+    "principiosActivos": [
+      "Flavonoides varios",
+      "Iridoides",
+      "Taninos varios"
+    ],
+    "drogaVegetal": [
+      "Parte aérea"
+    ],
+    "uso": [
+      "Infusión",
+      "Tintura",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Planta originaria de Norteamérica, cada vez más presente en Europa como relajante nervioso suave."
+  },
+  {
+    "id": 197,
+    "nombreComun": "DAMIANA",
+    "nombreBotanico": "Turnera diffusa",
+    "acciones": [
+      "ADAPTÓGENA",
+      "TÓNICO DIGESTIVO"
+    ],
+    "principiosActivos": [
+      "Aceite Esencial",
+      "Flavonoides varios",
+      "Taninos varios"
+    ],
+    "drogaVegetal": [
+      "Hoja"
+    ],
+    "uso": [
+      "Infusión",
+      "Tintura",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Arbusto originario de América Central, tradicionalmente usado como tónico general y digestivo, popular en mezclas de bienestar."
+  },
+  {
+    "id": 198,
+    "nombreComun": "GRIFFONIA",
+    "nombreBotanico": "Griffonia simplicifolia",
+    "acciones": [
+      "ANSIOLÍTICA",
+      "SEDANTE"
+    ],
+    "principiosActivos": [
+      "5-HTP",
+      "Alcaloides varios",
+      "Taninos varios"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Cápsula",
+      "Extracto seco"
+    ],
+    "observacion": "No combinar con antidepresivos (ISRS, IMAO) ni otros fármacos serotoninérgicos por riesgo de síndrome serotoninérgico.",
+    "notas": "Planta trepadora de África occidental cuya semilla es una de las fuentes naturales de 5-HTP, precursor de la serotonina."
+  },
+  {
+    "id": 199,
+    "nombreComun": "ANGÉLICA CHINA, DONG QUAI",
+    "nombreBotanico": "Angelica sinensis",
+    "acciones": [
+      "EMENAGOGA",
+      "ESTROGÉNICA",
+      "ANTIESPASMÓDICA"
+    ],
+    "principiosActivos": [
+      "Furanocumarinas",
+      "Aceite Esencial",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Raíz"
+    ],
+    "uso": [
+      "Decocción",
+      "Cápsula",
+      "Extracto seco"
+    ],
+    "observacion": "Fotosensibilizante y con posible efecto anticoagulante; evitar junto con anticoagulantes y durante el embarazo.",
+    "notas": "Raíz de la medicina tradicional china, muy usada en Europa como tónico femenino para el ciclo menstrual."
+  },
+  {
+    "id": 200,
+    "nombreComun": "MACA",
+    "nombreBotanico": "Lepidium meyenii",
+    "acciones": [
+      "ADAPTÓGENA",
+      "NUTRITIVA",
+      "AFRODISÍACA"
+    ],
+    "principiosActivos": [
+      "Glucosinolatos",
+      "Alcaloides varios",
+      "Esteroles varios"
+    ],
+    "drogaVegetal": [
+      "Raíz"
+    ],
+    "uso": [
+      "Polvo",
+      "Cápsula",
+      "Extracto seco"
+    ],
+    "observacion": "",
+    "notas": "Raíz andina cultivada en los Andes peruanos a gran altitud, popularizada en Europa como adaptógeno y tónico energético."
+  },
+  {
+    "id": 201,
+    "nombreComun": "CLAVO DE OLOR",
+    "nombreBotanico": "Syzygium aromaticum",
+    "acciones": [
+      "ANALGÉSICA",
+      "ANTISÉPTICA",
+      "CARMINATIVA"
+    ],
+    "principiosActivos": [
+      "Aceite Esencial",
+      "Taninos varios",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Flor"
+    ],
+    "uso": [
+      "Aceite esencial",
+      "Uso tópico",
+      "Infusión"
+    ],
+    "observacion": "El aceite esencial puro es muy irritante; diluir siempre antes de aplicar sobre piel o mucosas.",
+    "notas": "Botón floral seco de un árbol tropical asiático, célebre analgésico natural para el dolor dental gracias a su alto contenido en eugenol."
+  },
+  {
+    "id": 202,
+    "nombreComun": "NUEZ MOSCADA",
+    "nombreBotanico": "Myristica fragrans",
+    "acciones": [
+      "CARMINATIVA",
+      "DIGESTIVA",
+      "SEDANTE"
+    ],
+    "principiosActivos": [
+      "Aceite Esencial",
+      "Miristicina",
+      "Ácidos grasos"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Polvo",
+      "Aceite esencial"
+    ],
+    "observacion": "A dosis altas (más de una cucharadita) es psicoactiva y tóxica; usar solo en las pequeñas cantidades propias de un condimento.",
+    "notas": "Semilla aromática de un árbol tropical asiático, de uso culinario y, en dosis mínimas, digestivo tradicional."
+  },
+  {
+    "id": 203,
+    "nombreComun": "LAUREL",
+    "nombreBotanico": "Laurus nobilis",
+    "acciones": [
+      "DIGESTIVA",
+      "CARMINATIVA",
+      "ANTISÉPTICA"
+    ],
+    "principiosActivos": [
+      "Aceite Esencial",
+      "Taninos varios",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Hoja"
+    ],
+    "uso": [
+      "Infusión",
+      "Decocción"
+    ],
+    "observacion": "",
+    "notas": "Árbol mediterráneo cuya hoja aromática, además de su uso culinario, se emplea tradicionalmente como digestivo tras las comidas."
+  },
+  {
+    "id": 204,
+    "nombreComun": "MOSTAZA BLANCA",
+    "nombreBotanico": "Sinapis alba",
+    "acciones": [
+      "RUBEFACIENTE",
+      "EXPECTORANTE"
+    ],
+    "principiosActivos": [
+      "Glucosinolatos",
+      "Ácidos grasos",
+      "Mucílagos"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Polvo",
+      "Uso tópico"
+    ],
+    "observacion": "El uso tópico prolongado puede causar quemaduras en la piel; limitar el tiempo de aplicación.",
+    "notas": "Planta europea cuya semilla molida, en cataplasma, es un rubefaciente clásico para aliviar la congestión respiratoria."
+  },
+  {
+    "id": 205,
+    "nombreComun": "RÁBANO PICANTE",
+    "nombreBotanico": "Armoracia rusticana",
+    "acciones": [
+      "ANTIBACTERIANA",
+      "EXPECTORANTE",
+      "DIGESTIVA"
+    ],
+    "principiosActivos": [
+      "Glucosinolatos",
+      "Vitamina C (ácido ascórbico)",
+      "Aceite Esencial"
+    ],
+    "drogaVegetal": [
+      "Raíz"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Zumo"
+    ],
+    "observacion": "",
+    "notas": "Raíz europea de sabor muy picante, usada tradicionalmente como antibacteriano de las vías respiratorias y urinarias."
+  },
+  {
+    "id": 206,
+    "nombreComun": "BERRO",
+    "nombreBotanico": "Nasturtium officinale",
+    "acciones": [
+      "DEPURATIVA GENERAL",
+      "EXPECTORANTE"
+    ],
+    "principiosActivos": [
+      "Glucosinolatos",
+      "Vitamina C (ácido ascórbico)",
+      "Hierro (Fe)"
+    ],
+    "drogaVegetal": [
+      "Hoja"
+    ],
+    "uso": [
+      "Zumo",
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Planta acuática europea de sabor picante, rica en vitamina C y hierro, usada tradicionalmente como depurativo de primavera."
+  },
+  {
+    "id": 207,
+    "nombreComun": "PIMIENTA NEGRA",
+    "nombreBotanico": "Piper nigrum",
+    "acciones": [
+      "DIGESTIVA",
+      "CARMINATIVA"
+    ],
+    "principiosActivos": [
+      "Piperina",
+      "Aceite Esencial",
+      "Alcaloides varios"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Polvo",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Fruto seco de una liana tropical asiática, la especia más comercializada del mundo, usada también como digestivo."
+  },
+  {
+    "id": 208,
+    "nombreComun": "AZAFRÁN",
+    "nombreBotanico": "Crocus sativus",
+    "acciones": [
+      "ANTIDEPRESIVA",
+      "ANTIOXIDANTE",
+      "DIGESTIVA"
+    ],
+    "principiosActivos": [
+      "Crocina",
+      "Safranal",
+      "Carotenoides"
+    ],
+    "drogaVegetal": [
+      "Estigma"
+    ],
+    "uso": [
+      "Infusión",
+      "Polvo",
+      "Cápsula"
+    ],
+    "observacion": "A dosis muy altas (varios gramos) es abortivo; no exceder las dosis culinarias o terapéuticas habituales, especialmente en embarazo.",
+    "notas": "Los estigmas de esta pequeña flor mediterránea son la especia más cara del mundo, con un uso creciente en fitoterapia para el estado de ánimo."
+  },
+  {
+    "id": 209,
+    "nombreComun": "TANACETO",
+    "nombreBotanico": "Tanacetum parthenium",
+    "acciones": [
+      "ANTIMIGRAÑOSA",
+      "ANTIINFLAMATORIA"
+    ],
+    "principiosActivos": [
+      "Lactonas sesquiterpénicas",
+      "Flavonoides varios",
+      "Taninos varios"
+    ],
+    "drogaVegetal": [
+      "Hoja"
+    ],
+    "uso": [
+      "Cápsula",
+      "Extracto seco",
+      "Infusión"
+    ],
+    "observacion": "Evitar en embarazo; suspender el uso prolongado de forma gradual, ya que el cese brusco puede causar dolores de rebote.",
+    "notas": "Planta europea de flores similares a la manzanilla, muy usada como prevención de la migraña recurrente."
+  },
+  {
+    "id": 210,
+    "nombreComun": "VERÓNICA",
+    "nombreBotanico": "Veronica officinalis",
+    "acciones": [
+      "EXPECTORANTE",
+      "DEPURATIVA GENERAL",
+      "ASTRINGENTE"
+    ],
+    "principiosActivos": [
+      "Iridoides",
+      "Taninos varios",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Parte aérea"
+    ],
+    "uso": [
+      "Infusión",
+      "Decocción"
+    ],
+    "observacion": "",
+    "notas": "Pequeña planta de prados y bosques europeos, usada tradicionalmente como expectorante y depurativo suave."
+  },
+  {
+    "id": 211,
+    "nombreComun": "FUCUS, ALGA PARDA",
+    "nombreBotanico": "Fucus vesiculosus",
+    "acciones": [
+      "ADELGAZANTE",
+      "NUTRITIVA"
+    ],
+    "principiosActivos": [
+      "Yodo (I)",
+      "Polisacáridos varios",
+      "Minerales varios"
+    ],
+    "drogaVegetal": [
+      "Alga"
+    ],
+    "uso": [
+      "Cápsula",
+      "Polvo"
+    ],
+    "observacion": "Su alto contenido en yodo puede afectar la función tiroidea; evitar en hipertiroidismo o enfermedad tiroidea sin supervisión médica.",
+    "notas": "Alga parda de las costas atlánticas europeas, rica en yodo, usada tradicionalmente como apoyo en dietas de control de peso."
+  },
+  {
+    "id": 212,
+    "nombreComun": "ZANAHORIA",
+    "nombreBotanico": "Daucus carota",
+    "acciones": [
+      "DIURÉTICA",
+      "CARMINATIVA",
+      "ANTIOXIDANTE"
+    ],
+    "principiosActivos": [
+      "Carotenoides",
+      "Aceite Esencial",
+      "Vitamina A (retinol)"
+    ],
+    "drogaVegetal": [
+      "Raíz",
+      "Semilla"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Zumo",
+      "Infusión"
+    ],
+    "observacion": "",
+    "notas": "Raíz muy popular en la alimentación europea, cuya semilla se usa en fitoterapia como diurético y carminativo."
+  },
+  {
+    "id": 213,
+    "nombreComun": "ESPINACA",
+    "nombreBotanico": "Spinacia oleracea",
+    "acciones": [
+      "NUTRITIVA",
+      "REMINERALIZANTE"
+    ],
+    "principiosActivos": [
+      "Hierro (Fe)",
+      "Clorofila",
+      "Vitaminas varias"
+    ],
+    "drogaVegetal": [
+      "Hoja"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Cocida",
+      "Zumo"
+    ],
+    "observacion": "",
+    "notas": "Hortaliza de hoja verde muy rica en hierro y minerales, usada como alimento remineralizante en dietas de refuerzo nutricional."
+  },
+  {
+    "id": 214,
+    "nombreComun": "REMOLACHA",
+    "nombreBotanico": "Beta vulgaris",
+    "acciones": [
+      "DEPURATIVA HEPÁTICA",
+      "HIPOTENSORA",
+      "NUTRITIVA"
+    ],
+    "principiosActivos": [
+      "Nitratos",
+      "Antocianinas",
+      "Sales minerales"
+    ],
+    "drogaVegetal": [
+      "Raíz"
+    ],
+    "uso": [
+      "Zumo",
+      "Comer fresco",
+      "Cocida"
+    ],
+    "observacion": "",
+    "notas": "Raíz de color intenso rica en nitratos naturales, usada tradicionalmente para el hígado y, más recientemente, para la tensión arterial."
+  },
+  {
+    "id": 215,
+    "nombreComun": "MANZANA",
+    "nombreBotanico": "Malus domestica",
+    "acciones": [
+      "HIPOCOLESTEROLEMIANTE",
+      "DIGESTIVA",
+      "REMINERALIZANTE"
+    ],
+    "principiosActivos": [
+      "Pectina",
+      "Flavonoides varios",
+      "Vitamina C (ácido ascórbico)"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Zumo",
+      "Cocida"
+    ],
+    "observacion": "",
+    "notas": "Fruto europeo muy popular cuya fibra soluble (pectina) ayuda a regular el colesterol y el tránsito intestinal."
+  },
+  {
+    "id": 216,
+    "nombreComun": "LIMÓN",
+    "nombreBotanico": "Citrus limon",
+    "acciones": [
+      "ANTISÉPTICA",
+      "DIGESTIVA",
+      "ANTIOXIDANTE"
+    ],
+    "principiosActivos": [
+      "Vitamina C (ácido ascórbico)",
+      "Flavonoides varios",
+      "Aceite Esencial"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Zumo",
+      "Aceite esencial"
+    ],
+    "observacion": "",
+    "notas": "Cítrico mediterráneo muy rico en vitamina C, usado tradicionalmente como digestivo y antiséptico natural."
+  },
+  {
+    "id": 217,
+    "nombreComun": "MEMBRILLO",
+    "nombreBotanico": "Cydonia oblonga",
+    "acciones": [
+      "ASTRINGENTE",
+      "ANTIDIARREICA",
+      "DEMULCENTE"
+    ],
+    "principiosActivos": [
+      "Taninos varios",
+      "Mucílagos",
+      "Pectina"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Cocida",
+      "Zumo"
+    ],
+    "observacion": "",
+    "notas": "Fruto europeo muy astringente, tradicionalmente cocido en dulce o decocción para cortar diarreas leves."
+  },
+  {
+    "id": 218,
+    "nombreComun": "HIGUERA",
+    "nombreBotanico": "Ficus carica",
+    "acciones": [
+      "LAXANTE",
+      "HIPOGLUCEMIANTE"
+    ],
+    "principiosActivos": [
+      "Fibra soluble",
+      "Flavonoides varios",
+      "Mucílagos"
+    ],
+    "drogaVegetal": [
+      "Fruto",
+      "Hoja"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Decocción",
+      "Fruto seco"
+    ],
+    "observacion": "",
+    "notas": "Árbol mediterráneo cuyo fruto seco es laxante por su fibra, mientras que la hoja se usa en decocción para ayudar a regular el azúcar en sangre."
+  },
+  {
+    "id": 219,
+    "nombreComun": "DÁTIL",
+    "nombreBotanico": "Phoenix dactylifera",
+    "acciones": [
+      "NUTRITIVA",
+      "LAXANTE"
+    ],
+    "principiosActivos": [
+      "Fibra soluble",
+      "Potasio (K)",
+      "Vitaminas varias"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Fruto seco"
+    ],
+    "observacion": "",
+    "notas": "Fruto de la palmera datilera, muy energético y rico en fibra y potasio, tradicional en la dieta mediterránea y de Oriente Medio."
+  },
+  {
+    "id": 220,
+    "nombreComun": "AGUACATE",
+    "nombreBotanico": "Persea americana",
+    "acciones": [
+      "HIPOLIPEMIANTE",
+      "NUTRITIVA",
+      "ANTIINFLAMATORIA"
+    ],
+    "principiosActivos": [
+      "Ácidos grasos",
+      "Vitamina E (tocoferol)",
+      "Esteroles varios"
+    ],
+    "drogaVegetal": [
+      "Fruto",
+      "Hoja"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Infusión"
+    ],
+    "observacion": "",
+    "notas": "Fruto originario de América Central rico en grasas saludables, cuya hoja se usa también en infusión de forma tradicional."
+  },
+  {
+    "id": 221,
+    "nombreComun": "SÉSAMO",
+    "nombreBotanico": "Sesamum indicum",
+    "acciones": [
+      "NUTRITIVA",
+      "HIPOCOLESTEROLEMIANTE",
+      "ANTIOXIDANTE"
+    ],
+    "principiosActivos": [
+      "Lignanos",
+      "Ácidos grasos",
+      "Calcio (Ca)"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Polvo",
+      "Aceite"
+    ],
+    "observacion": "",
+    "notas": "Semilla oleaginosa muy antigua, rica en lignanos y calcio, usada como alimento funcional para el colesterol y los huesos."
+  },
+  {
+    "id": 222,
+    "nombreComun": "CHÍA",
+    "nombreBotanico": "Salvia hispanica",
+    "acciones": [
+      "NUTRITIVA",
+      "LAXANTE",
+      "HIPOCOLESTEROLEMIANTE"
+    ],
+    "principiosActivos": [
+      "Mucílagos",
+      "Omega 3",
+      "Fibra soluble"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Polvo",
+      "Comer fresco",
+      "Disuelto en licuado"
+    ],
+    "observacion": "",
+    "notas": "Semilla originaria de Centroamérica, muy rica en mucílagos y omega 3, popularizada en Europa como alimento funcional."
+  },
+  {
+    "id": 223,
+    "nombreComun": "QUINOA",
+    "nombreBotanico": "Chenopodium quinoa",
+    "acciones": [
+      "NUTRITIVA",
+      "REMINERALIZANTE"
+    ],
+    "principiosActivos": [
+      "Proteínas varias",
+      "Sales minerales",
+      "Vitaminas varias"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Cocida",
+      "Polvo"
+    ],
+    "observacion": "",
+    "notas": "Semilla andina de alto valor nutricional, con todos los aminoácidos esenciales, cada vez más presente en la dieta europea."
+  },
+  {
+    "id": 224,
+    "nombreComun": "AVENA",
+    "nombreBotanico": "Avena sativa",
+    "acciones": [
+      "NUTRITIVA",
+      "HIPOCOLESTEROLEMIANTE",
+      "SEDANTE"
+    ],
+    "principiosActivos": [
+      "Polisacáridos varios",
+      "Avenina",
+      "Vitaminas varias"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Polvo",
+      "Tintura",
+      "Cocida"
+    ],
+    "observacion": "",
+    "notas": "Cereal europeo cuyo grano regula el colesterol por su fibra beta-glucano, y cuya semilla fresca en tintura se usa como tónico nervioso suave."
+  },
+  {
+    "id": 225,
+    "nombreComun": "CEBADA",
+    "nombreBotanico": "Hordeum vulgare",
+    "acciones": [
+      "NUTRITIVA",
+      "HIPOCOLESTEROLEMIANTE"
+    ],
+    "principiosActivos": [
+      "Polisacáridos varios",
+      "Fibra soluble",
+      "Sales minerales"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Polvo",
+      "Cocida",
+      "Decocción"
+    ],
+    "observacion": "",
+    "notas": "Cereal europeo tradicional cuya agua de cebada se ha usado durante siglos como bebida digestiva y remineralizante."
+  },
+  {
+    "id": 226,
+    "nombreComun": "FRAMBUESA",
+    "nombreBotanico": "Rubus idaeus",
+    "acciones": [
+      "TÓNICO UTERINO",
+      "ANTIOXIDANTE",
+      "ASTRINGENTE"
+    ],
+    "principiosActivos": [
+      "Taninos varios",
+      "Antocianinas",
+      "Vitamina C (ácido ascórbico)"
+    ],
+    "drogaVegetal": [
+      "Hoja",
+      "Fruto"
+    ],
+    "uso": [
+      "Infusión",
+      "Comer fresco"
+    ],
+    "observacion": "La hoja se usa tradicionalmente al final del embarazo para tonificar el útero; su empleo durante la gestación requiere siempre supervisión profesional.",
+    "notas": "Arbusto europeo cuya hoja es una de las plantas más asociadas al embarazo tardío, y cuyo fruto es un antioxidante popular."
+  },
+  {
+    "id": 227,
+    "nombreComun": "ZARZAMORA",
+    "nombreBotanico": "Rubus fruticosus",
+    "acciones": [
+      "ASTRINGENTE",
+      "ANTIDIARREICA",
+      "ANTIOXIDANTE"
+    ],
+    "principiosActivos": [
+      "Taninos varios",
+      "Antocianinas",
+      "Vitamina C (ácido ascórbico)"
+    ],
+    "drogaVegetal": [
+      "Hoja",
+      "Fruto"
+    ],
+    "uso": [
+      "Infusión",
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Arbusto espinoso europeo cuya hoja astringente y fruto antioxidante son de uso tradicional muy extendido."
+  },
+  {
+    "id": 228,
+    "nombreComun": "FRESA",
+    "nombreBotanico": "Fragaria vesca",
+    "acciones": [
+      "DIURÉTICA",
+      "ASTRINGENTE",
+      "ANTIOXIDANTE"
+    ],
+    "principiosActivos": [
+      "Taninos varios",
+      "Vitamina C (ácido ascórbico)",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Hoja",
+      "Fruto"
+    ],
+    "uso": [
+      "Infusión",
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Planta europea de fruto muy apreciado, cuya hoja se usa tradicionalmente en infusión como diurético suave."
+  },
+  {
+    "id": 229,
+    "nombreComun": "ENDRINO",
+    "nombreBotanico": "Prunus spinosa",
+    "acciones": [
+      "LAXANTE",
+      "DEPURATIVA GENERAL"
+    ],
+    "principiosActivos": [
+      "Flavonoides varios",
+      "Taninos varios",
+      "Mucílagos"
+    ],
+    "drogaVegetal": [
+      "Flor",
+      "Fruto"
+    ],
+    "uso": [
+      "Infusión",
+      "Decocción"
+    ],
+    "observacion": "",
+    "notas": "Arbusto espinoso europeo de flor blanca temprana, tradicionalmente usado como laxante suave y depurativo de primavera."
+  },
+  {
+    "id": 230,
+    "nombreComun": "TAMARINDO",
+    "nombreBotanico": "Tamarindus indica",
+    "acciones": [
+      "LAXANTE",
+      "DIGESTIVA"
+    ],
+    "principiosActivos": [
+      "Ácidos orgánicos",
+      "Fibra soluble",
+      "Taninos varios"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Zumo",
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Árbol tropical cuya pulpa ácida se usa tradicionalmente como laxante suave y digestivo."
+  },
+  {
+    "id": 231,
+    "nombreComun": "OLMO AMERICANO",
+    "nombreBotanico": "Ulmus rubra",
+    "acciones": [
+      "DEMULCENTE",
+      "ANTIINFLAMATORIA",
+      "PROTECTORA DE LA MUCOSA"
+    ],
+    "principiosActivos": [
+      "Mucílagos",
+      "Taninos varios",
+      "Almidón"
+    ],
+    "drogaVegetal": [
+      "Corteza"
+    ],
+    "uso": [
+      "Polvo",
+      "Decocción",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Árbol norteamericano cuya corteza interna, muy mucilaginosa, se usa tradicionalmente para calmar la mucosa digestiva irritada."
+  },
+  {
+    "id": 232,
+    "nombreComun": "GINSENG AMERICANO",
+    "nombreBotanico": "Panax quinquefolius",
+    "acciones": [
+      "ADAPTÓGENA",
+      "NOOTRÓPICA",
+      "HIPOGLUCEMIANTE"
+    ],
+    "principiosActivos": [
+      "Saponinas triterpenoides",
+      "Polisacáridos varios",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Raíz"
+    ],
+    "uso": [
+      "Cápsula",
+      "Extracto seco",
+      "Tintura"
+    ],
+    "observacion": "",
+    "notas": "Especie de ginseng norteamericana, de efecto adaptógeno algo más suave que el ginseng asiático."
+  },
+  {
+    "id": 233,
+    "nombreComun": "SHATAVARI",
+    "nombreBotanico": "Asparagus racemosus",
+    "acciones": [
+      "ADAPTÓGENA",
+      "ESTROGÉNICA",
+      "NUTRITIVA"
+    ],
+    "principiosActivos": [
+      "Saponinas",
+      "Mucílagos",
+      "Esteroles varios"
+    ],
+    "drogaVegetal": [
+      "Raíz"
+    ],
+    "uso": [
+      "Polvo",
+      "Cápsula",
+      "Decocción"
+    ],
+    "observacion": "",
+    "notas": "Raíz de la medicina ayurvédica, tradicionalmente usada como tónico femenino y adaptógeno."
+  },
+  {
+    "id": 234,
+    "nombreComun": "GUDUCHI",
+    "nombreBotanico": "Tinospora cordifolia",
+    "acciones": [
+      "INMUNOMODULADORA",
+      "ANTIINFLAMATORIA",
+      "HIPOGLUCEMIANTE"
+    ],
+    "principiosActivos": [
+      "Alcaloides varios",
+      "Polisacáridos varios",
+      "Taninos varios"
+    ],
+    "drogaVegetal": [
+      "Tallo"
+    ],
+    "uso": [
+      "Polvo",
+      "Cápsula",
+      "Extracto seco"
+    ],
+    "observacion": "",
+    "notas": "Liana de la medicina ayurvédica, cada vez más presente en Europa como apoyo del sistema inmunitario."
+  },
+  {
+    "id": 235,
+    "nombreComun": "NEEM",
+    "nombreBotanico": "Azadirachta indica",
+    "acciones": [
+      "ANTISÉPTICA",
+      "ANTIFÚNGICA",
+      "ANTIHELMÍNTICA"
+    ],
+    "principiosActivos": [
+      "Nimbina",
+      "Taninos varios",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Hoja"
+    ],
+    "uso": [
+      "Uso tópico",
+      "Cápsula"
+    ],
+    "observacion": "El uso oral prolongado o durante el embarazo no está recomendado; se emplea sobre todo por vía tópica en cosmética y cuidado de la piel.",
+    "notas": "Árbol originario del subcontinente indio, muy usado en cosmética natural europea por sus propiedades antisépticas."
+  },
+  {
+    "id": 236,
+    "nombreComun": "CALABAZA, SEMILLAS",
+    "nombreBotanico": "Cucurbita pepo",
+    "acciones": [
+      "ANTIINFLAMATORIA",
+      "DIURÉTICA"
+    ],
+    "principiosActivos": [
+      "Ácidos grasos",
+      "Esteroles varios",
+      "Zinc (Zn)"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Polvo",
+      "Cápsula",
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Semilla de calabaza rica en zinc y ácidos grasos, muy usada en Europa para la salud de la próstata y la vejiga."
+  },
+  {
+    "id": 237,
+    "nombreComun": "TOMILLO SERPOL",
+    "nombreBotanico": "Thymus serpyllum",
+    "acciones": [
+      "EXPECTORANTE",
+      "ANTISÉPTICA",
+      "ESPASMOLÍTICA"
+    ],
+    "principiosActivos": [
+      "Aceite Esencial",
+      "Flavonoides varios",
+      "Taninos varios"
+    ],
+    "drogaVegetal": [
+      "Sumidad florida"
+    ],
+    "uso": [
+      "Infusión",
+      "Jarabe"
+    ],
+    "observacion": "",
+    "notas": "Variedad silvestre y rastrera del tomillo, de aroma más suave, usada igualmente como expectorante y digestivo."
+  },
+  {
+    "id": 238,
+    "nombreComun": "PERIFOLLO",
+    "nombreBotanico": "Anthriscus cerefolium",
+    "acciones": [
+      "DIGESTIVA",
+      "DIURÉTICA"
+    ],
+    "principiosActivos": [
+      "Aceite Esencial",
+      "Flavonoides varios",
+      "Vitamina C (ácido ascórbico)"
+    ],
+    "drogaVegetal": [
+      "Hoja"
+    ],
+    "uso": [
+      "Infusión",
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Hierba aromática europea de uso culinario francés, tradicionalmente usada como digestivo suave."
+  },
+  {
+    "id": 239,
+    "nombreComun": "ROOIBOS",
+    "nombreBotanico": "Aspalathus linearis",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "ESPASMOLÍTICA"
+    ],
+    "principiosActivos": [
+      "Flavonoides varios",
+      "Ácidos fenólicos",
+      "Minerales varios"
+    ],
+    "drogaVegetal": [
+      "Hoja"
+    ],
+    "uso": [
+      "Infusión"
+    ],
+    "observacion": "",
+    "notas": "Arbusto sudafricano cuya hoja, sin cafeína, se toma en infusión como alternativa antioxidante al té."
+  },
+  {
+    "id": 240,
+    "nombreComun": "CARDO CORREDOR",
+    "nombreBotanico": "Eryngium campestre",
+    "acciones": [
+      "DIURÉTICA",
+      "EXPECTORANTE"
+    ],
+    "principiosActivos": [
+      "Saponinas",
+      "Aceite Esencial",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Raíz"
+    ],
+    "uso": [
+      "Decocción",
+      "Infusión"
+    ],
+    "observacion": "",
+    "notas": "Planta espinosa de suelos secos europeos, cuya raíz se usa tradicionalmente como diurético y expectorante suave."
+  },
+  {
+    "id": 241,
+    "nombreComun": "COCO",
+    "nombreBotanico": "Cocos nucifera",
+    "acciones": [
+      "ANTIBACTERIANA",
+      "NUTRITIVA"
+    ],
+    "principiosActivos": [
+      "Ácidos grasos",
+      "Ácido láurico",
+      "Vitamina E (tocoferol)"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Aceite",
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Palmera tropical cuyo fruto proporciona una pulpa y un aceite muy usados en alimentación y cosmética natural."
+  },
+  {
+    "id": 242,
+    "nombreComun": "ALMENDRA",
+    "nombreBotanico": "Prunus dulcis",
+    "acciones": [
+      "NUTRITIVA",
+      "DEMULCENTE",
+      "HIPOCOLESTEROLEMIANTE"
+    ],
+    "principiosActivos": [
+      "Ácidos grasos",
+      "Vitamina E (tocoferol)",
+      "Calcio (Ca)"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Polvo",
+      "Aceite",
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Fruto seco mediterráneo muy nutritivo, cuyo aceite se usa también como emoliente para la piel."
+  },
+  {
+    "id": 243,
+    "nombreComun": "NUEZ",
+    "nombreBotanico": "Juglans regia",
+    "acciones": [
+      "NUTRITIVA",
+      "HIPOGLUCEMIANTE",
+      "ASTRINGENTE"
+    ],
+    "principiosActivos": [
+      "Ácidos grasos",
+      "Taninos varios",
+      "Omega 3"
+    ],
+    "drogaVegetal": [
+      "Semilla",
+      "Hoja"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Infusión",
+      "Decocción"
+    ],
+    "observacion": "",
+    "notas": "Árbol europeo cuyo fruto es rico en omega 3, y cuya hoja se usa tradicionalmente como astringente y para regular el azúcar en sangre."
+  },
+  {
+    "id": 244,
+    "nombreComun": "AVELLANA",
+    "nombreBotanico": "Corylus avellana",
+    "acciones": [
+      "NUTRITIVA",
+      "VENOTÓNICA"
+    ],
+    "principiosActivos": [
+      "Ácidos grasos",
+      "Flavonoides varios",
+      "Vitamina E (tocoferol)"
+    ],
+    "drogaVegetal": [
+      "Semilla",
+      "Hoja"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Infusión"
+    ],
+    "observacion": "",
+    "notas": "Arbusto europeo cuyo fruto seco es muy nutritivo, y cuya hoja se usa tradicionalmente para la circulación venosa."
+  },
+  {
+    "id": 245,
+    "nombreComun": "PIPAS DE GIRASOL",
+    "nombreBotanico": "Helianthus annuus",
+    "acciones": [
+      "NUTRITIVA",
+      "ANTIOXIDANTE"
+    ],
+    "principiosActivos": [
+      "Vitamina E (tocoferol)",
+      "Ácidos grasos",
+      "Selenio (Se)"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Aceite"
+    ],
+    "observacion": "",
+    "notas": "Semilla muy popular como aperitivo, fuente destacada de vitamina E y ácidos grasos saludables."
+  },
+  {
+    "id": 246,
+    "nombreComun": "CÁÑAMO, SEMILLA",
+    "nombreBotanico": "Cannabis sativa",
+    "acciones": [
+      "NUTRITIVA",
+      "ANTIINFLAMATORIA"
+    ],
+    "principiosActivos": [
+      "Omega 3",
+      "Ácidos grasos",
+      "Proteínas varias"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Polvo",
+      "Aceite",
+      "Comer fresco"
+    ],
+    "observacion": "La semilla no contiene cantidades significativas de compuestos psicoactivos y es un alimento de venta legal en toda la Unión Europea.",
+    "notas": "Semilla de cáñamo muy valorada como alimento por su equilibrado perfil de ácidos grasos omega 3 y 6."
+  },
+  {
+    "id": 247,
+    "nombreComun": "PIÑONES",
+    "nombreBotanico": "Pinus pinea",
+    "acciones": [
+      "NUTRITIVA"
+    ],
+    "principiosActivos": [
+      "Ácidos grasos",
+      "Vitamina E (tocoferol)",
+      "Magnesio (Mg)"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Polvo"
+    ],
+    "observacion": "",
+    "notas": "Semilla comestible del pino piñonero mediterráneo, apreciada en la cocina y como fruto seco nutritivo."
+  },
+  {
+    "id": 248,
+    "nombreComun": "CASTAÑA",
+    "nombreBotanico": "Castanea sativa",
+    "acciones": [
+      "NUTRITIVA",
+      "ANTITUSIVA"
+    ],
+    "principiosActivos": [
+      "Almidón",
+      "Taninos varios",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Fruto",
+      "Hoja"
+    ],
+    "uso": [
+      "Cocida",
+      "Infusión"
+    ],
+    "observacion": "",
+    "notas": "Árbol europeo cuyo fruto es muy energético, y cuya hoja se usa tradicionalmente en infusión para la tos."
+  },
+  {
+    "id": 249,
+    "nombreComun": "ALISMA, LLANTÉN DE AGUA",
+    "nombreBotanico": "Alisma plantago-aquatica",
+    "acciones": [
+      "DIURÉTICA",
+      "HIPOLIPEMIANTE"
+    ],
+    "principiosActivos": [
+      "Triterpenos varios",
+      "Polisacáridos varios",
+      "Aceite Esencial"
+    ],
+    "drogaVegetal": [
+      "Rizoma"
+    ],
+    "uso": [
+      "Decocción",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Planta acuática europea cuyo rizoma se usa tradicionalmente como diurético, con un papel relevante también en la fitoterapia china."
+  },
+  {
+    "id": 250,
+    "nombreComun": "GROSELLERO ROJO",
+    "nombreBotanico": "Ribes rubrum",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "DIURÉTICA"
+    ],
+    "principiosActivos": [
+      "Vitamina C (ácido ascórbico)",
+      "Antocianinas",
+      "Ácidos orgánicos"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Zumo",
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Arbusto europeo de bayas rojas ácidas, rico en vitamina C, usado tradicionalmente como diurético suave."
+  },
+  {
+    "id": 251,
+    "nombreComun": "UVA ESPINA",
+    "nombreBotanico": "Ribes uva-crispa",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "NUTRITIVA"
+    ],
+    "principiosActivos": [
+      "Vitamina C (ácido ascórbico)",
+      "Flavonoides varios",
+      "Ácidos orgánicos"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Zumo"
+    ],
+    "observacion": "",
+    "notas": "Arbusto europeo de fruto ácido, pariente del grosellero, apreciado por su aporte de vitamina C."
+  },
+  {
+    "id": 252,
+    "nombreComun": "CIRUELA",
+    "nombreBotanico": "Prunus domestica",
+    "acciones": [
+      "LAXANTE",
+      "ANTIOXIDANTE"
+    ],
+    "principiosActivos": [
+      "Fibra soluble",
+      "Sorbitol",
+      "Vitaminas varias"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Fruto seco"
+    ],
+    "observacion": "",
+    "notas": "Fruto europeo cuya variedad seca (ciruela pasa) es uno de los laxantes naturales más usados por su fibra y sorbitol."
+  },
+  {
+    "id": 253,
+    "nombreComun": "ALBARICOQUE",
+    "nombreBotanico": "Prunus armeniaca",
+    "acciones": [
+      "NUTRITIVA",
+      "ANTIOXIDANTE"
+    ],
+    "principiosActivos": [
+      "Carotenoides",
+      "Vitamina A (retinol)",
+      "Potasio (K)"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Fruto seco"
+    ],
+    "observacion": "",
+    "notas": "Fruto mediterráneo de color anaranjado, rico en carotenoides y potasio, tradicional en la dieta europea de verano."
+  },
+  {
+    "id": 254,
+    "nombreComun": "MELOCOTÓN",
+    "nombreBotanico": "Prunus persica",
+    "acciones": [
+      "SEDANTE",
+      "DIURÉTICA"
+    ],
+    "principiosActivos": [
+      "Flavonoides varios",
+      "Taninos varios",
+      "Vitamina C (ácido ascórbico)"
+    ],
+    "drogaVegetal": [
+      "Hoja",
+      "Fruto"
+    ],
+    "uso": [
+      "Infusión",
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Árbol frutal europeo cuya hoja se usa tradicionalmente en Francia como relajante suave y diurético."
+  },
+  {
+    "id": 255,
+    "nombreComun": "KIWI",
+    "nombreBotanico": "Actinidia deliciosa",
+    "acciones": [
+      "LAXANTE",
+      "ANTIOXIDANTE"
+    ],
+    "principiosActivos": [
+      "Vitamina C (ácido ascórbico)",
+      "Fibra soluble",
+      "Actinidina"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Fruto de origen asiático muy popularizado en Europa, con un contenido de vitamina C superior al de muchos cítricos."
+  },
+  {
+    "id": 256,
+    "nombreComun": "NARANJA",
+    "nombreBotanico": "Citrus sinensis",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "DIGESTIVA"
+    ],
+    "principiosActivos": [
+      "Vitamina C (ácido ascórbico)",
+      "Flavonoides varios",
+      "Aceite Esencial"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Zumo",
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Cítrico mediterráneo de consumo muy extendido, clásico aporte de vitamina C y flavonoides antioxidantes."
+  },
+  {
+    "id": 257,
+    "nombreComun": "POMELO",
+    "nombreBotanico": "Citrus paradisi",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "HIPOCOLESTEROLEMIANTE"
+    ],
+    "principiosActivos": [
+      "Naringenina",
+      "Vitamina C (ácido ascórbico)",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Zumo",
+      "Comer fresco"
+    ],
+    "observacion": "Interacciona con numerosos medicamentos (estatinas, algunos antihipertensivos e inmunosupresores) al inhibir una enzima intestinal; consultar con un profesional si se toma alguna medicación.",
+    "notas": "Cítrico de sabor amargo muy usado en dietas de control de peso, aunque destaca por sus interacciones farmacológicas."
+  },
+  {
+    "id": 258,
+    "nombreComun": "MARACUYÁ",
+    "nombreBotanico": "Passiflora edulis",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "SEDANTE"
+    ],
+    "principiosActivos": [
+      "Vitamina C (ácido ascórbico)",
+      "Flavonoides varios",
+      "Carotenoides"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Zumo",
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Fruto de una especie de pasiflora distinta a la usada como sedante, apreciado sobre todo por su sabor y su aporte antioxidante."
+  },
+  {
+    "id": 259,
+    "nombreComun": "MANGO",
+    "nombreBotanico": "Mangifera indica",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "HIPOGLUCEMIANTE"
+    ],
+    "principiosActivos": [
+      "Carotenoides",
+      "Vitamina C (ácido ascórbico)",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Fruto",
+      "Hoja"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Infusión"
+    ],
+    "observacion": "",
+    "notas": "Fruto tropical muy popular, cuya hoja se usa en algunas tradiciones para ayudar a regular el azúcar en sangre."
+  },
+  {
+    "id": 260,
+    "nombreComun": "GUAYABA",
+    "nombreBotanico": "Psidium guajava",
+    "acciones": [
+      "ANTIDIARREICA",
+      "HIPOGLUCEMIANTE",
+      "ANTIOXIDANTE"
+    ],
+    "principiosActivos": [
+      "Taninos varios",
+      "Vitamina C (ácido ascórbico)",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Hoja",
+      "Fruto"
+    ],
+    "uso": [
+      "Infusión",
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Árbol tropical cuya hoja es un remedio muy extendido para la diarrea, y cuyo fruto destaca por su altísimo contenido en vitamina C."
   }
 ]
