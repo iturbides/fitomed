@@ -3,7 +3,7 @@
 // Service Worker
 // ==========================================
 
-const CACHE = "fitomed-v1.3";
+const CACHE = "fitomed-v1.4";
 
 const ARCHIVOS = [
 
@@ -28,6 +28,8 @@ const ARCHIVOS = [
 
 self.addEventListener("install", event => {
 
+    self.skipWaiting();
+
     event.waitUntil(
 
         caches.open(CACHE)
@@ -37,12 +39,36 @@ self.addEventListener("install", event => {
 
 });
 
+
+self.addEventListener("activate", event => {
+
+    event.waitUntil(
+
+        caches.keys().then(keys =>
+
+            Promise.all(
+
+                keys
+                    .filter(key => key !== CACHE)
+                    .map(key => caches.delete(key))
+
+            )
+
+        )
+
+    );
+
+    self.clients.claim();
+
+});
+
+
 self.addEventListener("fetch", event => {
 
     event.respondWith(
 
         caches.match(event.request)
-            .then(respuesta => respuesta || fetch(event.request))
+            .then(response => response || fetch(event.request))
 
     );
 
