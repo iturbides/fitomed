@@ -1,6 +1,6 @@
 GNU General Public License (GPLv3)
-DhammaCal - Theravāda observance days and lunar phases integrated
-Copyright (C) 2025 Upāsaka Ānanda
+FitoMed - Plantas Medicinales
+Copyright (C) 2026 Matias Iturbides
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
