@@ -68,6 +68,8 @@ body.dark {
 .buscador {
 
     margin-bottom: 1.5rem;
+      width: min(100%, 500px);
+    min-width: 400px;
 
 }
 
@@ -481,5 +483,50 @@ body.dark {
     padding-bottom: .8rem;
 
     margin-bottom: 1rem;
+
+}
+
+/* ==========================
+   Footer
+========================== */
+
+body {
+
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+main {
+
+    flex: 1;
+
+}
+
+.footer {
+
+    display: flex;
+    justify-content: center;
+
+    padding: 1.5rem 0;
+
+}
+
+.footer a {
+
+    color: #666;
+
+    transition: color .2s ease,
+                transform .2s ease;
+
+}
+
+.footer a:hover {
+
+    color: #7fb069;
+
+    transform: scale(1.15);
 
 }
