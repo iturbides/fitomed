@@ -443,7 +443,8 @@
       "Antocianinas",
       "Flavonoides varios",
       "Taninos varios",
-      "Vitamina C (ácido ascórbico)"
+      "Vitamina C (ácido ascórbico)",
+      "Proantocianidinas"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -681,7 +682,10 @@
     "principiosActivos": [
       "Taninos varios",
       "Polisacáridos varios",
-      "Esteroles varios"
+      "Esteroles varios",
+      "Calagualina",
+      "Polipodina",
+      "Ácidos grasos"
     ],
     "drogaVegetal": [
       "Rizoma"
@@ -757,7 +761,8 @@
     "principiosActivos": [
       "Flavonoides varios",
       "Glucosinolatos",
-      "Vitamina C (ácido ascórbico)"
+      "Vitamina C (ácido ascórbico)",
+      "Aceite Esencial"
     ],
     "drogaVegetal": [
       "Sumidad florida"
@@ -784,7 +789,12 @@
     "principiosActivos": [
       "Aceite Esencial",
       "Flavonoides varios",
-      "Ácidos fenólicos"
+      "Ácidos fenólicos",
+      "Ácidos grasos",
+      "Taninos varios",
+      "Esteroles varios",
+      "Alcaloides varios",
+      "Almidón"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -816,7 +826,9 @@
       "Omega 3",
       "Omega 9",
       "Quercetina",
-      "Silimarina"
+      "Silimarina",
+      "Vitamina E (tocoferol)",
+      "Esteroles varios"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -918,7 +930,8 @@
     "principiosActivos": [
       "Polisacáridos varios",
       "Ergosterol",
-      "Proteínas varias"
+      "Proteínas varias",
+      "Beta-glucanos"
     ],
     "drogaVegetal": [
       "Cuerpo fructífero"
@@ -1131,7 +1144,9 @@
     "principiosActivos": [
       "Flavonoides varios",
       "Saponinas",
-      "Cumarina simple"
+      "Cumarina simple",
+      "Ácido clorogénico",
+      "Ácidos fenólicos"
     ],
     "drogaVegetal": [
       "Sumidad aérea"
@@ -1322,7 +1337,8 @@
     "principiosActivos": [
       "Eleuterósidos",
       "Polisacáridos varios",
-      "Flavonoides varios"
+      "Flavonoides varios",
+      "Ácidos fenólicos"
     ],
     "drogaVegetal": [
       "Raíz",
@@ -1349,7 +1365,8 @@
     "principiosActivos": [
       "Ácidos fenólicos",
       "Aceite Esencial",
-      "Flavonoides varios"
+      "Flavonoides varios",
+      "Ácido clorogénico"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -1373,7 +1390,9 @@
       "Polisacáridos varios",
       "Alquilamidas",
       "Flavonoides varios",
-      "Ácidos fenólicos"
+      "Ácidos fenólicos",
+      "Aceite Esencial",
+      "Alcaloides varios"
     ],
     "drogaVegetal": [
       "Raíz",
@@ -1398,7 +1417,9 @@
     "principiosActivos": [
       "Glucosinolatos",
       "Flavonoides varios",
-      "Vitamina C (ácido ascórbico)"
+      "Vitamina C (ácido ascórbico)",
+      "Aceite Esencial",
+      "Mucílagos"
     ],
     "drogaVegetal": [
       "Parte aérea"
@@ -1424,7 +1445,9 @@
     "principiosActivos": [
       "Flavonoides varios",
       "Proantocianidinas",
-      "Ácidos fenólicos"
+      "Ácidos fenólicos",
+      "Triterpenos varios",
+      "Potasio (K)"
     ],
     "drogaVegetal": [
       "Flor",
@@ -1449,7 +1472,8 @@
     "principiosActivos": [
       "Lignanos",
       "Polisacáridos varios",
-      "Ácidos orgánicos"
+      "Ácidos orgánicos",
+      "Sesquiterpenos varios"
     ],
     "drogaVegetal": [
       "Baya",
@@ -1522,7 +1546,9 @@
     "principiosActivos": [
       "Aceite Esencial",
       "Taninos varios",
-      "Flavonoides varios"
+      "Flavonoides varios",
+      "Ácidos fenólicos",
+      "Resinas"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -1596,7 +1622,10 @@
     "principiosActivos": [
       "Iridoides",
       "Alcaloides varios",
-      "Taninos varios"
+      "Taninos varios",
+      "Oligosacáridos",
+      "Xantonas",
+      "Esteroles varios"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -1745,7 +1774,10 @@
     "principiosActivos": [
       "Vitamina C (ácido ascórbico)",
       "Antocianinas",
-      "Flavonoides varios"
+      "Flavonoides varios",
+      "Ácidos fenólicos",
+      "Proantocianidinas",
+      "Carotenoides"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -1796,7 +1828,9 @@
     "principiosActivos": [
       "Taninos varios",
       "Flavonoides varios",
-      "Aceite Esencial"
+      "Aceite Esencial",
+      "Proantocianidinas",
+      "Ácido gálico"
     ],
     "drogaVegetal": [
       "Corteza",
@@ -1828,7 +1862,10 @@
       "Aceite Esencial",
       "Flavonoides varios",
       "Lactonas amargas",
-      "Lactonas sesquiterpénicas"
+      "Lactonas sesquiterpénicas",
+      "Esteroles varios",
+      "Ácidos fenólicos",
+      "Ácido ursólico"
     ],
     "drogaVegetal": [
       "Capítulo floral"
@@ -1880,7 +1917,8 @@
     "principiosActivos": [
       "Aceite Esencial",
       "Flavonoides varios",
-      "Iridoides"
+      "Iridoides",
+      "Furanocumarinas"
     ],
     "drogaVegetal": [
       "Flor (fresca)",
@@ -1906,7 +1944,9 @@
     "principiosActivos": [
       "Aceite Esencial",
       "Flavonoides varios",
-      "Cumarina simple"
+      "Cumarina simple",
+      "Furanocumarinas",
+      "Esteroles varios"
     ],
     "drogaVegetal": [
       "Fruto",
@@ -1960,7 +2000,10 @@
     "principiosActivos": [
       "Aceite Esencial",
       "Gingeroles",
-      "Shogaoles"
+      "Shogaoles",
+      "Almidón",
+      "Vitamina C (ácido ascórbico)",
+      "Ácidos grasos"
     ],
     "drogaVegetal": [
       "Rizoma"
@@ -1983,7 +2026,10 @@
     "principiosActivos": [
       "Flavonoides varios",
       "Saponinas",
-      "Polisacáridos varios"
+      "Polisacáridos varios",
+      "Vitamina C (ácido ascórbico)",
+      "Celulosa",
+      "Phaseolamina"
     ],
     "drogaVegetal": [
       "Semilla",
@@ -2149,7 +2195,8 @@
     "principiosActivos": [
       "Polisacáridos varios",
       "Ergosterol",
-      "Proteínas varias"
+      "Proteínas varias",
+      "Beta-glucanos"
     ],
     "drogaVegetal": [
       "Cuerpo fructífero"
@@ -2261,7 +2308,8 @@
     "principiosActivos": [
       "Mucílagos",
       "Aceite Esencial",
-      "Flavonoides varios"
+      "Flavonoides varios",
+      "Cumarina simple"
     ],
     "drogaVegetal": [
       "Flor"
@@ -2504,7 +2552,12 @@
     "principiosActivos": [
       "Polisacáridos varios",
       "Flavonoides varios",
-      "Mucílagos"
+      "Mucílagos",
+      "Vitamina C (ácido ascórbico)",
+      "Calcio (Ca)",
+      "Hierro (Fe)",
+      "Potasio (K)",
+      "Fibra soluble"
     ],
     "drogaVegetal": [
       "Penca",
@@ -2555,7 +2608,10 @@
     "principiosActivos": [
       "Aceite Esencial",
       "Flavonoides varios",
-      "Ácidos fenólicos"
+      "Ácidos fenólicos",
+      "Ácido rosmarínico",
+      "Ácido clorogénico",
+      "Taninos varios"
     ],
     "drogaVegetal": [
       "Flor",
@@ -2668,7 +2724,9 @@
     "principiosActivos": [
       "Almidón",
       "Vitamina C (ácido ascórbico)",
-      "Potasio (K)"
+      "Potasio (K)",
+      "Sales minerales",
+      "Taninos varios"
     ],
     "drogaVegetal": [
       "Jugo del tubérculo fresco sin brotes ni partes verdes"
@@ -2877,7 +2935,8 @@
     "principiosActivos": [
       "Glicirricina",
       "Flavonoides varios",
-      "Cumarina simple"
+      "Cumarina simple",
+      "Isoflavonas"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -2904,7 +2963,8 @@
     "principiosActivos": [
       "Polisacáridos varios",
       "Triterpenos varios",
-      "Ergosterol"
+      "Ergosterol",
+      "Beta-glucanos"
     ],
     "drogaVegetal": [
       "Cuerpo fructífero"
@@ -3008,7 +3068,10 @@
     "principiosActivos": [
       "Saponinas",
       "Flavonoides varios",
-      "Aceite Esencial"
+      "Aceite Esencial",
+      "Taninos varios",
+      "Esteroles varios",
+      "Ácidos grasos"
     ],
     "drogaVegetal": [
       "Raíz",
@@ -3036,7 +3099,8 @@
     "principiosActivos": [
       "Taninos varios",
       "Alcaloides varios",
-      "Proantocianidinas"
+      "Proantocianidinas",
+      "Catequinas"
     ],
     "drogaVegetal": [
       "Látex"
@@ -3109,7 +3173,8 @@
     "principiosActivos": [
       "Glucósidos antraquinónicos",
       "Mucílagos",
-      "Flavonoides varios"
+      "Flavonoides varios",
+      "Resinas"
     ],
     "drogaVegetal": [
       "Fruto sin semillas",
@@ -3133,7 +3198,8 @@
     "principiosActivos": [
       "Polisacáridos varios",
       "Ergosterol",
-      "Eritadenina"
+      "Eritadenina",
+      "Beta-glucanos"
     ],
     "drogaVegetal": [
       "Cuerpo fructífero",
@@ -3161,7 +3227,9 @@
       "Fósforo (P)",
       "Hierro (Fe)",
       "Vitamina B1 (tiamina)",
-      "Vitamina B2 (riboflavina)"
+      "Vitamina B2 (riboflavina)",
+      "Aceite Esencial",
+      "Ácido rosmarínico"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -3221,7 +3289,8 @@
     "principiosActivos": [
       "Catequinas",
       "Flavonoides varios",
-      "Cafeína"
+      "Cafeína",
+      "Polifenoles varios"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -3244,7 +3313,8 @@
     "principiosActivos": [
       "Taninos varios",
       "Flavonoides varios",
-      "Esteroles varios"
+      "Esteroles varios",
+      "Alcaloides varios"
     ],
     "drogaVegetal": [
       "Corteza"
@@ -3292,7 +3362,9 @@
     "principiosActivos": [
       "Aceite Esencial",
       "Flavonoides varios",
-      "Ácidos fenólicos"
+      "Ácidos fenólicos",
+      "Ácido rosmarínico",
+      "Taninos varios"
     ],
     "drogaVegetal": [
       "Flor",
@@ -3320,7 +3392,9 @@
     "principiosActivos": [
       "Taninos varios",
       "Flavonoides varios",
-      "Ácido gálico"
+      "Ácido gálico",
+      "Proantocianidinas",
+      "Aceite Esencial"
     ],
     "drogaVegetal": [
       "Rizoma"
@@ -3344,7 +3418,10 @@
     "principiosActivos": [
       "Salicilatos",
       "Flavonoides varios",
-      "Taninos varios"
+      "Taninos varios",
+      "Ácidos fenólicos",
+      "Aceite Esencial",
+      "Cumarina simple"
     ],
     "drogaVegetal": [
       "Sumidad florida"
@@ -3493,7 +3570,9 @@
     "principiosActivos": [
       "Alcaloides varios",
       "Flavonoides varios",
-      "Aceite Esencial"
+      "Aceite Esencial",
+      "Mucílagos",
+      "Ácido salicílico"
     ],
     "drogaVegetal": [
       "Flor"
@@ -3518,7 +3597,10 @@
     "principiosActivos": [
       "Mucílagos",
       "Polisacáridos varios",
-      "Fibra soluble"
+      "Fibra soluble",
+      "Proteínas varias",
+      "Ácidos grasos",
+      "Iridoides"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -6624,5 +6706,971 @@
     ],
     "observacion": "",
     "notas": "Árbol tropical cuya hoja es un remedio muy extendido para la diarrea, y cuyo fruto destaca por su altísimo contenido en vitamina C."
+  },
+  {
+    "id": 261,
+    "nombreComun": "JIAOGULAN",
+    "nombreBotanico": "Gynostemma pentaphyllum",
+    "acciones": [
+      "ADAPTÓGENA",
+      "HIPOTENSORA",
+      "HIPOCOLESTEROLEMIANTE"
+    ],
+    "principiosActivos": [
+      "Saponinas",
+      "Gipenósidos",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Hoja"
+    ],
+    "uso": [
+      "Infusión",
+      "Cápsula",
+      "Extracto seco"
+    ],
+    "observacion": "",
+    "notas": "Planta trepadora del sureste asiático, conocida como 'ginseng del sur', usada como adaptógeno y para la tensión arterial."
+  },
+  {
+    "id": 262,
+    "nombreComun": "CORDYCEPS",
+    "nombreBotanico": "Cordyceps militaris",
+    "acciones": [
+      "ADAPTÓGENA",
+      "INMUNOMODULADORA",
+      "ANTIOXIDANTE"
+    ],
+    "principiosActivos": [
+      "Cordicepina",
+      "Polisacáridos varios",
+      "Ergosterol"
+    ],
+    "drogaVegetal": [
+      "Cuerpo fructífero"
+    ],
+    "uso": [
+      "Cápsula",
+      "Polvo",
+      "Extracto seco"
+    ],
+    "observacion": "",
+    "notas": "Hongo medicinal originario de Asia, tradicionalmente usado para la resistencia física y el sistema inmunitario."
+  },
+  {
+    "id": 263,
+    "nombreComun": "CHAGA",
+    "nombreBotanico": "Inonotus obliquus",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "INMUNOMODULADORA"
+    ],
+    "principiosActivos": [
+      "Polisacáridos varios",
+      "Melanina",
+      "Triterpenos varios"
+    ],
+    "drogaVegetal": [
+      "Cuerpo fructífero"
+    ],
+    "uso": [
+      "Decocción",
+      "Polvo",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Hongo que crece sobre abedules en zonas frías de Europa y Asia, usado tradicionalmente como tónico antioxidante."
+  },
+  {
+    "id": 264,
+    "nombreComun": "COLA DE PAVO",
+    "nombreBotanico": "Trametes versicolor",
+    "acciones": [
+      "INMUNOMODULADORA",
+      "ANTIOXIDANTE"
+    ],
+    "principiosActivos": [
+      "Polisacáridos varios",
+      "Beta-glucanos",
+      "Ergosterol"
+    ],
+    "drogaVegetal": [
+      "Cuerpo fructífero"
+    ],
+    "uso": [
+      "Cápsula",
+      "Extracto seco",
+      "Decocción"
+    ],
+    "observacion": "",
+    "notas": "Hongo de vistosas franjas de color, muy estudiado por su efecto sobre el sistema inmunitario."
+  },
+  {
+    "id": 265,
+    "nombreComun": "MELENA DE LEÓN",
+    "nombreBotanico": "Hericium erinaceus",
+    "acciones": [
+      "NOOTRÓPICA",
+      "INMUNOMODULADORA"
+    ],
+    "principiosActivos": [
+      "Polisacáridos varios",
+      "Hericenonas",
+      "Ergosterol"
+    ],
+    "drogaVegetal": [
+      "Cuerpo fructífero"
+    ],
+    "uso": [
+      "Cápsula",
+      "Polvo",
+      "Extracto seco"
+    ],
+    "observacion": "",
+    "notas": "Hongo de aspecto peludo y blanco, muy popular en Europa como apoyo cognitivo y de la memoria."
+  },
+  {
+    "id": 266,
+    "nombreComun": "PORIA",
+    "nombreBotanico": "Poria cocos",
+    "acciones": [
+      "DIURÉTICA",
+      "SEDANTE"
+    ],
+    "principiosActivos": [
+      "Polisacáridos varios",
+      "Triterpenos varios",
+      "Ergosterol"
+    ],
+    "drogaVegetal": [
+      "Cuerpo fructífero"
+    ],
+    "uso": [
+      "Decocción",
+      "Polvo",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Hongo que crece asociado a raíces de pino, clásico de la fitoterapia china como diurético suave y relajante."
+  },
+  {
+    "id": 267,
+    "nombreComun": "USNEA",
+    "nombreBotanico": "Usnea barbata",
+    "acciones": [
+      "ANTIBACTERIANA",
+      "ANTIFÚNGICA",
+      "EXPECTORANTE"
+    ],
+    "principiosActivos": [
+      "Ácido úsnico",
+      "Polisacáridos varios",
+      "Ácidos liquénicos"
+    ],
+    "drogaVegetal": [
+      "Talo"
+    ],
+    "uso": [
+      "Tintura",
+      "Cápsula",
+      "Uso tópico"
+    ],
+    "observacion": "A dosis altas puede ser hepatotóxico; no prolongar el uso interno sin supervisión.",
+    "notas": "Liquen colgante de bosques europeos, usado tradicionalmente como antiséptico natural de amplio espectro."
+  },
+  {
+    "id": 268,
+    "nombreComun": "TRÉBOL ROJO",
+    "nombreBotanico": "Trifolium pratense",
+    "acciones": [
+      "ESTROGÉNICA",
+      "DEPURATIVA CUTÁNEA"
+    ],
+    "principiosActivos": [
+      "Isoflavonas",
+      "Flavonoides varios",
+      "Cumarina simple"
+    ],
+    "drogaVegetal": [
+      "Sumidad florida"
+    ],
+    "uso": [
+      "Infusión",
+      "Cápsula",
+      "Extracto seco"
+    ],
+    "observacion": "Evitar junto con anticoagulantes por su contenido en cumarinas, y en antecedentes de cáncer hormonodependiente sin supervisión médica.",
+    "notas": "Planta europea de flores rosadas, rica en isoflavonas, muy usada para los síntomas de la menopausia."
+  },
+  {
+    "id": 269,
+    "nombreComun": "SOJA",
+    "nombreBotanico": "Glycine max",
+    "acciones": [
+      "ESTROGÉNICA",
+      "HIPOCOLESTEROLEMIANTE",
+      "NUTRITIVA"
+    ],
+    "principiosActivos": [
+      "Isoflavonas",
+      "Proteínas varias",
+      "Lecitina"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Polvo",
+      "Cápsula",
+      "Cocida"
+    ],
+    "observacion": "",
+    "notas": "Legumbre de origen asiático muy cultivada en el mundo, cuyas isoflavonas se usan en Europa para la menopausia y el colesterol."
+  },
+  {
+    "id": 270,
+    "nombreComun": "AÇAÍ",
+    "nombreBotanico": "Euterpe oleracea",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "NUTRITIVA"
+    ],
+    "principiosActivos": [
+      "Antocianinas",
+      "Ácidos grasos",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Polvo",
+      "Zumo",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Fruto de una palmera amazónica, muy popularizado en Europa como superalimento antioxidante."
+  },
+  {
+    "id": 271,
+    "nombreComun": "GOJI",
+    "nombreBotanico": "Lycium barbarum",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "NUTRITIVA",
+      "INMUNOESTIMULANTE"
+    ],
+    "principiosActivos": [
+      "Carotenoides",
+      "Polisacáridos varios",
+      "Vitamina C (ácido ascórbico)"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Fruto seco",
+      "Infusión"
+    ],
+    "observacion": "",
+    "notas": "Baya originaria de Asia, muy popular en Europa como superalimento antioxidante y tónico general."
+  },
+  {
+    "id": 272,
+    "nombreComun": "CAMU CAMU",
+    "nombreBotanico": "Myrciaria dubia",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "INMUNOESTIMULANTE"
+    ],
+    "principiosActivos": [
+      "Vitamina C (ácido ascórbico)",
+      "Antocianinas",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Polvo",
+      "Cápsula",
+      "Zumo"
+    ],
+    "observacion": "",
+    "notas": "Fruto amazónico con uno de los contenidos de vitamina C más altos conocidos, vendido en Europa como suplemento antioxidante."
+  },
+  {
+    "id": 273,
+    "nombreComun": "NONI",
+    "nombreBotanico": "Morinda citrifolia",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "INMUNOMODULADORA"
+    ],
+    "principiosActivos": [
+      "Escopoletina",
+      "Flavonoides varios",
+      "Vitamina C (ácido ascórbico)"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Zumo",
+      "Cápsula"
+    ],
+    "observacion": "Se han descrito casos raros de hepatotoxicidad asociados a su consumo prolongado; se recomienda prudencia y control si se usa de forma continuada.",
+    "notas": "Fruto tropical de sabor y olor intensos, muy comercializado en Europa como tónico general, aunque su evidencia científica es limitada."
+  },
+  {
+    "id": 274,
+    "nombreComun": "MANGOSTÁN",
+    "nombreBotanico": "Garcinia mangostana",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "ANTIINFLAMATORIA"
+    ],
+    "principiosActivos": [
+      "Xantonas",
+      "Taninos varios",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Zumo",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Fruto tropical asiático de cáscara morada, cada vez más presente en Europa por sus xantonas antioxidantes."
+  },
+  {
+    "id": 275,
+    "nombreComun": "GARCINIA",
+    "nombreBotanico": "Garcinia cambogia",
+    "acciones": [
+      "ADELGAZANTE",
+      "HIPOCOLESTEROLEMIANTE"
+    ],
+    "principiosActivos": [
+      "Ácido hidroxicítrico",
+      "Flavonoides varios",
+      "Taninos varios"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Cápsula",
+      "Extracto seco"
+    ],
+    "observacion": "No recomendado en tratamiento con antidepresivos por posible interacción serotoninérgica; se aconseja prudencia en problemas hepáticos.",
+    "notas": "Fruto asiático cuya cáscara es uno de los ingredientes más usados en complementos para el control de peso en Europa."
+  },
+  {
+    "id": 276,
+    "nombreComun": "YERBA MATE",
+    "nombreBotanico": "Ilex paraguariensis",
+    "acciones": [
+      "NOOTRÓPICA",
+      "DIURÉTICA",
+      "ADELGAZANTE"
+    ],
+    "principiosActivos": [
+      "Cafeína",
+      "Ácidos fenólicos",
+      "Taninos varios"
+    ],
+    "drogaVegetal": [
+      "Hoja"
+    ],
+    "uso": [
+      "Infusión",
+      "Polvo",
+      "Cápsula"
+    ],
+    "observacion": "Evitar o moderar en hipertensión, ansiedad y embarazo por su contenido en cafeína.",
+    "notas": "Planta sudamericana cuya hoja, tostada, se consume tradicionalmente en infusión como estimulante y digestivo."
+  },
+  {
+    "id": 277,
+    "nombreComun": "MUIRA PUAMA",
+    "nombreBotanico": "Ptychopetalum olacoides",
+    "acciones": [
+      "ADAPTÓGENA",
+      "TÓNICO DIGESTIVO"
+    ],
+    "principiosActivos": [
+      "Aceite Esencial",
+      "Alcaloides varios",
+      "Taninos varios"
+    ],
+    "drogaVegetal": [
+      "Corteza",
+      "Raíz"
+    ],
+    "uso": [
+      "Decocción",
+      "Cápsula",
+      "Extracto fluido"
+    ],
+    "observacion": "",
+    "notas": "Arbusto amazónico cuya corteza y raíz se usan tradicionalmente como tónico general vigorizante."
+  },
+  {
+    "id": 278,
+    "nombreComun": "CATUABA",
+    "nombreBotanico": "Trichilia catigua",
+    "acciones": [
+      "ADAPTÓGENA",
+      "SEDANTE"
+    ],
+    "principiosActivos": [
+      "Taninos varios",
+      "Alcaloides varios",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Corteza"
+    ],
+    "uso": [
+      "Decocción",
+      "Cápsula",
+      "Extracto fluido"
+    ],
+    "observacion": "",
+    "notas": "Árbol brasileño cuya corteza se usa tradicionalmente como tónico del sistema nervioso."
+  },
+  {
+    "id": 279,
+    "nombreComun": "TRIBULUS",
+    "nombreBotanico": "Tribulus terrestris",
+    "acciones": [
+      "ADAPTÓGENA",
+      "DIURÉTICA"
+    ],
+    "principiosActivos": [
+      "Saponinas",
+      "Flavonoides varios",
+      "Alcaloides varios"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Cápsula",
+      "Extracto seco",
+      "Polvo"
+    ],
+    "observacion": "",
+    "notas": "Planta de zonas cálidas y secas, muy popular como complemento deportivo por su tradicional uso tonificante."
+  },
+  {
+    "id": 280,
+    "nombreComun": "COMINO NEGRO",
+    "nombreBotanico": "Nigella sativa",
+    "acciones": [
+      "ANTIINFLAMATORIA",
+      "ANTIOXIDANTE",
+      "DIGESTIVA"
+    ],
+    "principiosActivos": [
+      "Aceite Esencial",
+      "Timoquinona",
+      "Ácidos grasos"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Aceite",
+      "Polvo",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Semilla de Oriente Medio con siglos de uso tradicional, hoy popular en Europa como aceite antiinflamatorio y digestivo."
+  },
+  {
+    "id": 281,
+    "nombreComun": "MEJORANA",
+    "nombreBotanico": "Origanum majorana",
+    "acciones": [
+      "DIGESTIVA",
+      "CARMINATIVA",
+      "SEDANTE"
+    ],
+    "principiosActivos": [
+      "Aceite Esencial",
+      "Flavonoides varios",
+      "Ácidos fenólicos"
+    ],
+    "drogaVegetal": [
+      "Hoja"
+    ],
+    "uso": [
+      "Infusión",
+      "Aceite esencial"
+    ],
+    "observacion": "",
+    "notas": "Hierba aromática mediterránea pariente del orégano, de sabor más suave, usada como digestivo y relajante leve."
+  },
+  {
+    "id": 282,
+    "nombreComun": "PIMIENTA LARGA",
+    "nombreBotanico": "Piper longum",
+    "acciones": [
+      "DIGESTIVA",
+      "CARMINATIVA"
+    ],
+    "principiosActivos": [
+      "Piperina",
+      "Aceite Esencial",
+      "Alcaloides varios"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Polvo",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Pariente de la pimienta negra, muy usada en la medicina ayurvédica como digestivo y potenciador de otras plantas."
+  },
+  {
+    "id": 283,
+    "nombreComun": "CANELA CHINA",
+    "nombreBotanico": "Cinnamomum cassia",
+    "acciones": [
+      "ANTIMICROBIANA",
+      "HIPOGLUCEMIANTE",
+      "CARMINATIVA"
+    ],
+    "principiosActivos": [
+      "Aceite Esencial",
+      "Cumarina simple",
+      "Proantocianidinas"
+    ],
+    "drogaVegetal": [
+      "Corteza"
+    ],
+    "uso": [
+      "Polvo",
+      "Infusión",
+      "Cápsula"
+    ],
+    "observacion": "Su contenido en cumarina es más alto que el de la canela de Ceilán; no conviene un consumo diario prolongado en grandes cantidades.",
+    "notas": "Variedad de canela muy usada en Asia y cada vez más común en Europa, con un sabor más intenso que la canela tradicional."
+  },
+  {
+    "id": 284,
+    "nombreComun": "AJO DE OSO",
+    "nombreBotanico": "Allium ursinum",
+    "acciones": [
+      "ANTIBACTERIANA",
+      "HIPOTENSORA",
+      "DEPURATIVA GENERAL"
+    ],
+    "principiosActivos": [
+      "Compuestos azufrados",
+      "Flavonoides varios",
+      "Vitamina C (ácido ascórbico)"
+    ],
+    "drogaVegetal": [
+      "Hoja"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Zumo"
+    ],
+    "observacion": "",
+    "notas": "Pariente silvestre del ajo que crece en bosques húmedos europeos, con propiedades similares pero de sabor más suave."
+  },
+  {
+    "id": 285,
+    "nombreComun": "MOSTAZA NEGRA",
+    "nombreBotanico": "Brassica nigra",
+    "acciones": [
+      "RUBEFACIENTE",
+      "EXPECTORANTE"
+    ],
+    "principiosActivos": [
+      "Glucosinolatos",
+      "Ácidos grasos",
+      "Mucílagos"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Polvo",
+      "Uso tópico"
+    ],
+    "observacion": "Más potente e irritante que la mostaza blanca; limitar el tiempo de aplicación tópica para evitar quemaduras.",
+    "notas": "Variedad de mostaza de acción más fuerte que la blanca, usada tradicionalmente en cataplasmas para la congestión respiratoria."
+  },
+  {
+    "id": 286,
+    "nombreComun": "COCHLEARIA",
+    "nombreBotanico": "Cochlearia officinalis",
+    "acciones": [
+      "ANTISÉPTICA",
+      "DIGESTIVA"
+    ],
+    "principiosActivos": [
+      "Vitamina C (ácido ascórbico)",
+      "Glucosinolatos",
+      "Aceite Esencial"
+    ],
+    "drogaVegetal": [
+      "Hoja"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Zumo"
+    ],
+    "observacion": "",
+    "notas": "Planta costera europea históricamente usada por marineros para prevenir el escorbuto, por su alto contenido en vitamina C."
+  },
+  {
+    "id": 287,
+    "nombreComun": "MUNDILLO",
+    "nombreBotanico": "Viburnum opulus",
+    "acciones": [
+      "ANTIESPASMÓDICA",
+      "ESPASMOLÍTICA",
+      "SEDANTE"
+    ],
+    "principiosActivos": [
+      "Taninos varios",
+      "Cumarina simple",
+      "Ácidos orgánicos"
+    ],
+    "drogaVegetal": [
+      "Corteza"
+    ],
+    "uso": [
+      "Decocción",
+      "Tintura",
+      "Extracto fluido"
+    ],
+    "observacion": "",
+    "notas": "Arbusto europeo cuya corteza se usa tradicionalmente para calambres musculares y molestias menstruales, de ahí su nombre en inglés 'cramp bark'."
+  },
+  {
+    "id": 288,
+    "nombreComun": "CODONOPSIS",
+    "nombreBotanico": "Codonopsis pilosula",
+    "acciones": [
+      "ADAPTÓGENA",
+      "NUTRITIVA",
+      "INMUNOESTIMULANTE"
+    ],
+    "principiosActivos": [
+      "Polisacáridos varios",
+      "Saponinas",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Raíz"
+    ],
+    "uso": [
+      "Decocción",
+      "Cápsula",
+      "Extracto seco"
+    ],
+    "observacion": "",
+    "notas": "Raíz de la medicina china, usada como alternativa más suave al ginseng para el cansancio y las defensas."
+  },
+  {
+    "id": 289,
+    "nombreComun": "CISTANCHE",
+    "nombreBotanico": "Cistanche deserticola",
+    "acciones": [
+      "ADAPTÓGENA",
+      "LAXANTE"
+    ],
+    "principiosActivos": [
+      "Polisacáridos varios",
+      "Iridoides",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Tallo"
+    ],
+    "uso": [
+      "Decocción",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Planta desértica parásita usada en la medicina china tradicional como tónico general suave."
+  },
+  {
+    "id": 290,
+    "nombreComun": "DANSHEN",
+    "nombreBotanico": "Salvia miltiorrhiza",
+    "acciones": [
+      "VASODILATADORA",
+      "ANTIOXIDANTE",
+      "CARDIOTÓNICA"
+    ],
+    "principiosActivos": [
+      "Ácidos fenólicos",
+      "Diterpenos varios",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Raíz"
+    ],
+    "uso": [
+      "Decocción",
+      "Cápsula",
+      "Extracto seco"
+    ],
+    "observacion": "Puede potenciar el efecto de los anticoagulantes; evitar su combinación sin supervisión médica.",
+    "notas": "Raíz de una salvia roja china, muy estudiada en Europa por su efecto sobre la circulación cardiovascular."
+  },
+  {
+    "id": 291,
+    "nombreComun": "ALCAPARRA",
+    "nombreBotanico": "Capparis spinosa",
+    "acciones": [
+      "ANTIINFLAMATORIA",
+      "ANTIOXIDANTE"
+    ],
+    "principiosActivos": [
+      "Flavonoides varios",
+      "Ácidos fenólicos",
+      "Vitamina C (ácido ascórbico)"
+    ],
+    "drogaVegetal": [
+      "Flor"
+    ],
+    "uso": [
+      "Uso tópico",
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Arbusto mediterráneo cuyo botón floral, muy usado en cocina, contiene compuestos antioxidantes de interés fitoterapéutico."
+  },
+  {
+    "id": 292,
+    "nombreComun": "PHYSALIS, UCHUVA",
+    "nombreBotanico": "Physalis peruviana",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "NUTRITIVA"
+    ],
+    "principiosActivos": [
+      "Carotenoides",
+      "Vitamina C (ácido ascórbico)",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Comer fresco",
+      "Zumo"
+    ],
+    "observacion": "",
+    "notas": "Pequeño fruto sudamericano de sabor agridulce, cada vez más presente en Europa como alimento antioxidante."
+  },
+  {
+    "id": 293,
+    "nombreComun": "BAOBAB",
+    "nombreBotanico": "Adansonia digitata",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "NUTRITIVA"
+    ],
+    "principiosActivos": [
+      "Vitamina C (ácido ascórbico)",
+      "Fibra soluble",
+      "Sales minerales"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Polvo",
+      "Zumo"
+    ],
+    "observacion": "",
+    "notas": "El fruto de este emblemático árbol africano es muy rico en vitamina C y fibra, cada vez más usado como superalimento en Europa."
+  },
+  {
+    "id": 294,
+    "nombreComun": "PITAYA, FRUTA DEL DRAGÓN",
+    "nombreBotanico": "Hylocereus undatus",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "NUTRITIVA"
+    ],
+    "principiosActivos": [
+      "Vitamina C (ácido ascórbico)",
+      "Flavonoides varios",
+      "Fibra soluble"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Comer fresco"
+    ],
+    "observacion": "",
+    "notas": "Fruto exótico de un cactus trepador, de aspecto muy vistoso, apreciado por su aporte de fibra y antioxidantes."
+  },
+  {
+    "id": 295,
+    "nombreComun": "UVA DE OREGÓN",
+    "nombreBotanico": "Mahonia aquifolium",
+    "acciones": [
+      "COLERÉTICA",
+      "ANTIINFLAMATORIA",
+      "ANTIBACTERIANA"
+    ],
+    "principiosActivos": [
+      "Berberina",
+      "Alcaloides varios",
+      "Taninos varios"
+    ],
+    "drogaVegetal": [
+      "Raíz",
+      "Corteza"
+    ],
+    "uso": [
+      "Decocción",
+      "Extracto seco",
+      "Uso tópico"
+    ],
+    "observacion": "",
+    "notas": "Arbusto norteamericano naturalizado en Europa, cuya raíz rica en berberina se usa para el hígado y, tópicamente, para la piel."
+  },
+  {
+    "id": 296,
+    "nombreComun": "CÚRCUMA ZEDOARIA",
+    "nombreBotanico": "Curcuma zedoaria",
+    "acciones": [
+      "DIGESTIVA",
+      "CARMINATIVA",
+      "ANTIINFLAMATORIA"
+    ],
+    "principiosActivos": [
+      "Aceite Esencial",
+      "Curcumina",
+      "Almidón"
+    ],
+    "drogaVegetal": [
+      "Rizoma"
+    ],
+    "uso": [
+      "Polvo",
+      "Decocción",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Pariente de la cúrcuma común, de sabor más amargo, usada tradicionalmente como digestivo en Asia."
+  },
+  {
+    "id": 297,
+    "nombreComun": "GALANGA",
+    "nombreBotanico": "Alpinia officinarum",
+    "acciones": [
+      "DIGESTIVA",
+      "CARMINATIVA",
+      "ANTIEMÉTICA"
+    ],
+    "principiosActivos": [
+      "Aceite Esencial",
+      "Flavonoides varios",
+      "Resinas"
+    ],
+    "drogaVegetal": [
+      "Rizoma"
+    ],
+    "uso": [
+      "Polvo",
+      "Decocción",
+      "Infusión"
+    ],
+    "observacion": "",
+    "notas": "Rizoma de la familia del jengibre, de aroma picante, usado tradicionalmente como digestivo y contra las náuseas."
+  },
+  {
+    "id": 298,
+    "nombreComun": "SANQI, GINSENG NOTOGINSENG",
+    "nombreBotanico": "Panax notoginseng",
+    "acciones": [
+      "HEMOSTÁTICA",
+      "VASOPROTECTORA",
+      "ANTIINFLAMATORIA"
+    ],
+    "principiosActivos": [
+      "Saponinas triterpenoides",
+      "Flavonoides varios",
+      "Polisacáridos varios"
+    ],
+    "drogaVegetal": [
+      "Raíz"
+    ],
+    "uso": [
+      "Polvo",
+      "Cápsula",
+      "Extracto seco"
+    ],
+    "observacion": "",
+    "notas": "Pariente del ginseng, muy valorado en la medicina china para golpes, hematomas y salud circulatoria."
+  },
+  {
+    "id": 299,
+    "nombreComun": "LEUZEA",
+    "nombreBotanico": "Rhaponticum carthamoides",
+    "acciones": [
+      "ADAPTÓGENA",
+      "NOOTRÓPICA"
+    ],
+    "principiosActivos": [
+      "Ecdisteroides",
+      "Flavonoides varios",
+      "Taninos varios"
+    ],
+    "drogaVegetal": [
+      "Raíz"
+    ],
+    "uso": [
+      "Cápsula",
+      "Extracto seco",
+      "Tintura"
+    ],
+    "observacion": "",
+    "notas": "Planta de las montañas de Siberia, tradicionalmente usada como adaptógeno para el rendimiento físico y mental."
+  },
+  {
+    "id": 300,
+    "nombreComun": "HARITAKI, MIROBÁLANO",
+    "nombreBotanico": "Terminalia chebula",
+    "acciones": [
+      "LAXANTE",
+      "ANTIOXIDANTE",
+      "DIGESTIVA"
+    ],
+    "principiosActivos": [
+      "Taninos varios",
+      "Ácido gálico",
+      "Flavonoides varios"
+    ],
+    "drogaVegetal": [
+      "Fruto"
+    ],
+    "uso": [
+      "Polvo",
+      "Decocción",
+      "Cápsula"
+    ],
+    "observacion": "",
+    "notas": "Fruto ayurvédico considerado uno de los pilares de la fórmula Triphala, tradicionalmente usado como laxante suave y digestivo."
   }
 ]

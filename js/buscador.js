@@ -72,7 +72,7 @@ function obtenerResultados(texto) {
         }))
         .filter(r => r.prioridad > 0)
         .sort((a, b) => b.prioridad - a.prioridad)
-        .slice(0, 5);
+        .slice(0, 8);
 
 }
 
