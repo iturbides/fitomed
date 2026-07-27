@@ -6,7 +6,8 @@
     "acciones": [
       "ANTIGOTOSA",
       "HIPOURICEMIANTE",
-      "DEPURATIVA RENAL"
+      "DEPURATIVA RENAL",
+      "DIURÉTICA"
     ],
     "principiosActivos": [
       "Flavonoides varios",
@@ -63,7 +64,8 @@
       "COLERÉTICA",
       "EUPÉPTICA",
       "LAXANTE SUAVE",
-      "TÓNICO DIGESTIVO"
+      "TÓNICO DIGESTIVO",
+      "DEPURATIVA HEPÁTICA"
     ],
     "principiosActivos": [
       "Ácido clorogénico",
@@ -89,7 +91,8 @@
       "ANTIVIRAL",
       "CICATRIZANTE",
       "HEMOSTÁTICA",
-      "ANTIHEMORRÁGICA"
+      "ANTIHEMORRÁGICA",
+      "ASTRINGENTE"
     ],
     "principiosActivos": [
       "Taninos varios",
@@ -114,7 +117,8 @@
       "ANTIMICROBIANA",
       "APERITIVA",
       "DIGESTIVA",
-      "EUPÉPTICA"
+      "EUPÉPTICA",
+      "CARMINATIVA"
     ],
     "principiosActivos": [
       "Aceite Esencial",
@@ -144,7 +148,8 @@
       "ANTIVIRAL",
       "CARDIOTÓNICA",
       "HIPOGLUCEMIANTE",
-      "HIPOLIPEMIANTE"
+      "HIPOLIPEMIANTE",
+      "HIPOTENSORA"
     ],
     "principiosActivos": [
       "Azufre (S)",
@@ -175,7 +180,8 @@
     "acciones": [
       "ANTISÉPTICA",
       "CARMINATIVA",
-      "ESPASMOLÍTICA"
+      "ESPASMOLÍTICA",
+      "DIGESTIVA"
     ],
     "principiosActivos": [
       "Aceite Esencial",
@@ -252,7 +258,8 @@
       "ALCALINIZANTE",
       "ESTROGÉNICA",
       "NUTRITIVA",
-      "REMINERALIZANTE"
+      "REMINERALIZANTE",
+      "HIPOCOLESTEROLEMIANTE"
     ],
     "principiosActivos": [
       "Calcio (Ca)",
@@ -308,7 +315,8 @@
       "APERITIVA",
       "DEMULCENTE",
       "GASTROPROTECTORA",
-      "TÓNICO DIGESTIVO"
+      "TÓNICO DIGESTIVO",
+      "HIPOGLUCEMIANTE"
     ],
     "principiosActivos": [
       "Flavonoides varios",
@@ -333,7 +341,8 @@
     "acciones": [
       "ANTIINFLAMATORIA",
       "PROTECTORA DE LA MUCOSA",
-      "DEMULCENTE"
+      "DEMULCENTE",
+      "CICATRIZANTE"
     ],
     "principiosActivos": [
       "Polisacáridos varios",
@@ -411,7 +420,8 @@
       "ESPASMOLÍTICA",
       "CARMINATIVA",
       "DIGESTIVA",
-      "EUPÉPTICA"
+      "EUPÉPTICA",
+      "EXPECTORANTE"
     ],
     "principiosActivos": [
       "Aceite Esencial",
@@ -437,7 +447,9 @@
       "HIPOVISCOSIZANTE",
       "ANTIOXIDANTE",
       "ASTRINGENTE",
-      "ANTIINFECCIOSA"
+      "ANTIINFECCIOSA",
+      "VASOPROTECTORA",
+      "VENOTÓNICA"
     ],
     "principiosActivos": [
       "Antocianinas",
@@ -463,7 +475,9 @@
       "ANTIEDEMATOSA",
       "HEMOSTÁTICA",
       "ANTIHEMORRÁGICA",
-      "VASOCONSTRICTORA"
+      "VASOCONSTRICTORA",
+      "ANTIINFLAMATORIA",
+      "ANALGÉSICA"
     ],
     "principiosActivos": [
       "Helenalina",
@@ -539,7 +553,8 @@
       "ANTIOXIDANTE",
       "ANTIVIRAL",
       "HEPATOPROTECTORA",
-      "INMUNOESTIMULANTE"
+      "INMUNOESTIMULANTE",
+      "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
       "Goma de tragacanto",
@@ -595,7 +610,8 @@
       "ANTIGOTOSA",
       "HIPOURICEMIANTE",
       "ANTIINFLAMATORIA",
-      "ANTIOXIDANTE"
+      "ANTIOXIDANTE",
+      "ASTRINGENTE"
     ],
     "principiosActivos": [
       "Taninos varios",
@@ -706,7 +722,8 @@
       "PROTECTORA DE LA MUCOSA",
       "ANTIOXIDANTE",
       "CICATRIZANTE",
-      "INMUNOMODULADORA"
+      "INMUNOMODULADORA",
+      "VULNERARIA"
     ],
     "principiosActivos": [
       "Flavonoides varios",
@@ -784,7 +801,9 @@
       "ANTIOXIDANTE",
       "APERITIVA",
       "CARMINATIVA",
-      "DIURÉTICA"
+      "DIURÉTICA",
+      "ANTIESPASMÓDICA",
+      "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
       "Aceite Esencial",
@@ -818,7 +837,8 @@
       "DEPURATIVA HEPÁTICA",
       "DIGESTIVA",
       "HEPATOPROTECTORA",
-      "HIPOCOLESTEROLEMIANTE"
+      "HIPOCOLESTEROLEMIANTE",
+      "DIURÉTICA"
     ],
     "principiosActivos": [
       "Ácido linoleico",
@@ -878,7 +898,8 @@
       "ANTIINFLAMATORIA",
       "BRONCODILATADORA",
       "EXPECTORANTE",
-      "MUCOLÍTICA"
+      "MUCOLÍTICA",
+      "HIPOGLUCEMIANTE"
     ],
     "principiosActivos": [
       "Flavonoides varios",
@@ -925,7 +946,9 @@
     "nombreBotanico": "Agaricus subrufescens / blazei",
     "acciones": [
       "ANTICANCERÍGENA",
-      "INMUNOMODULADORA"
+      "INMUNOMODULADORA",
+      "ANTIINFECCIOSA",
+      "HEPATOPROTECTORA"
     ],
     "principiosActivos": [
       "Polisacáridos varios",
@@ -950,7 +973,8 @@
     "acciones": [
       "DEPURATIVA GENERAL",
       "NUTRITIVA",
-      "QUELANTE"
+      "QUELANTE",
+      "INMUNOESTIMULANTE"
     ],
     "principiosActivos": [
       "Ácidos grasos",
@@ -976,7 +1000,8 @@
       "CARMINATIVA",
       "DEPURATIVA GENERAL",
       "HIPOGLUCEMIANTE",
-      "QUELANTE"
+      "QUELANTE",
+      "DIGESTIVA"
     ],
     "principiosActivos": [
       "Aceite Esencial",
@@ -999,7 +1024,9 @@
     "nombreComun": "CIPRÉS",
     "nombreBotanico": "Cupressus semprevivum",
     "acciones": [
-      "ANTIHEMORROIDAL"
+      "ANTIHEMORROIDAL",
+      "ASTRINGENTE",
+      "VENOTÓNICA"
     ],
     "principiosActivos": [
       "Aceite Esencial",
@@ -1112,7 +1139,8 @@
     "nombreBotanico": "Hintonia latiflora",
     "acciones": [
       "HIPOCOLESTEROLEMIANTE",
-      "HIPOGLUCEMIANTE"
+      "HIPOGLUCEMIANTE",
+      "TÓNICO DIGESTIVO"
     ],
     "principiosActivos": [
       "Cumarina simple",
@@ -1178,7 +1206,10 @@
       "HIPOCOLESTEROLEMIANTE",
       "HIPOLIPEMIANTE",
       "INMUNOMODULADORA",
-      "VASODILATADORA"
+      "VASODILATADORA",
+      "COLAGOGA",
+      "HEPATOPROTECTORA",
+      "HIPOGLUCEMIANTE"
     ],
     "principiosActivos": [
       "Curcumina",
@@ -1332,7 +1363,8 @@
       "ANTICANCERÍGENA",
       "ANTIOXIDANTE",
       "HIPOGLUCEMIANTE",
-      "INMUNOMODULADORA"
+      "INMUNOMODULADORA",
+      "ANTIVIRAL"
     ],
     "principiosActivos": [
       "Eleuterósidos",
@@ -1360,7 +1392,9 @@
     "acciones": [
       "ANTIFÚNGICA",
       "CARMINATIVA",
-      "ESPASMOLÍTICA"
+      "ESPASMOLÍTICA",
+      "BACTERIOSTÁTICA",
+      "PROTECTORA DE LA MUCOSA"
     ],
     "principiosActivos": [
       "Ácidos fenólicos",
@@ -1412,7 +1446,10 @@
     "nombreBotanico": "Sisymbrium officinale",
     "acciones": [
       "ANTIINFLAMATORIA",
-      "EXPECTORANTE"
+      "EXPECTORANTE",
+      "ANTIBACTERIANA",
+      "ANTIFÚNGICA",
+      "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
       "Glucosinolatos",
@@ -1440,14 +1477,14 @@
       "HIPOTENSORA",
       "REGULADORA DE LA TENSIÓN ARTERIAL",
       "VASODILATADORA",
-      "VASODILATADORA CORONARIA"
+      "VASODILATADORA CORONARIA",
+      "ANTIARRÍTMICA"
     ],
     "principiosActivos": [
       "Flavonoides varios",
       "Proantocianidinas",
       "Ácidos fenólicos",
-      "Triterpenos varios",
-      "Potasio (K)"
+      "Triterpenos varios"
     ],
     "drogaVegetal": [
       "Flor",
@@ -1467,7 +1504,10 @@
     "acciones": [
       "ANTICANCERÍGENA",
       "ANTIINFLAMATORIA",
-      "ANTIOXIDANTE"
+      "ANTIOXIDANTE",
+      "NOOTRÓPICA",
+      "HEPATOPROTECTORA",
+      "INMUNOMODULADORA"
     ],
     "principiosActivos": [
       "Lignanos",
@@ -1517,7 +1557,8 @@
     "acciones": [
       "APERITIVA",
       "CARMINATIVA",
-      "EUPÉPTICA"
+      "EUPÉPTICA",
+      "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
       "Aceite Esencial",
@@ -1541,7 +1582,9 @@
       "ANTIINFLAMATORIA",
       "BALSÁMICA",
       "ANTITUSIVA",
-      "EXPECTORANTE"
+      "EXPECTORANTE",
+      "ANTISÉPTICA",
+      "MUCOLÍTICA"
     ],
     "principiosActivos": [
       "Aceite Esencial",
@@ -1566,7 +1609,8 @@
     "nombreComun": "FRESNO",
     "nombreBotanico": "Fraxinus excelsior",
     "acciones": [
-      "DEPURATIVA RENAL"
+      "DEPURATIVA RENAL",
+      "DIURÉTICA"
     ],
     "principiosActivos": [
       "Flavonoides varios",
@@ -1617,7 +1661,8 @@
       "ANTIBACTERIANA",
       "APERITIVA",
       "ESPASMOLÍTICA",
-      "TÓNICO DIGESTIVO"
+      "TÓNICO DIGESTIVO",
+      "COLAGOGA"
     ],
     "principiosActivos": [
       "Iridoides",
@@ -1670,14 +1715,13 @@
       "ANTIOXIDANTE",
       "CARDIOTÓNICA",
       "NOOTRÓPICA",
-      "VASODILATADORA"
+      "VASODILATADORA",
+      "VASOPROTECTORA"
     ],
     "principiosActivos": [
-      "Calcio (Ca)",
       "Ginkgetina",
-      "Hierro (Fe)",
-      "Magnesio (Mg)",
-      "Potasio (K)"
+      "Flavonoides varios",
+      "Diterpenos varios"
     ],
     "drogaVegetal": [
       "Hoja (seca, triturada)"
@@ -1748,11 +1792,13 @@
     "id": 65,
     "nombreComun": "GRAMA DE LAS BOTICAS",
     "nombreBotanico": "Agropyrum repens",
-    "acciones": [],
+    "acciones": [
+      "DIURÉTICA"
+    ],
     "principiosActivos": [
       "Flavonoides varios",
       "Mucílagos",
-      "Potasio (K)"
+      "Polisacáridos varios"
     ],
     "drogaVegetal": [
       "Rizoma"
@@ -1769,7 +1815,9 @@
     "nombreBotanico": "Ribes nigrum",
     "acciones": [
       "ANALGÉSICA",
-      "ANTIINFLAMATORIA"
+      "ANTIINFLAMATORIA",
+      "ANTIALÉRGICA",
+      "ANTIHISTAMÍNICA"
     ],
     "principiosActivos": [
       "Vitamina C (ácido ascórbico)",
@@ -1798,7 +1846,8 @@
       "ANTIAGREGANTE PLAQUETARIA",
       "ANTIMALÁRICA",
       "HIPOCOLESTEROLEMIANTE",
-      "HIPOLIPEMIANTE"
+      "HIPOLIPEMIANTE",
+      "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
       "Guggulsteronas",
@@ -1823,7 +1872,10 @@
       "ANTIINFLAMATORIA",
       "ASTRINGENTE",
       "ANTIINFECCIOSA",
-      "VASOPROTECTORA"
+      "VASOPROTECTORA",
+      "HEMOSTÁTICA",
+      "VENOTÓNICA",
+      "ANTIOXIDANTE"
     ],
     "principiosActivos": [
       "Taninos varios",
@@ -1939,7 +1991,10 @@
       "ESPASMOLÍTICA",
       "ANTIINFECCIOSA",
       "DIGESTIVA",
-      "CARMINATIVA"
+      "CARMINATIVA",
+      "ANTISÉPTICA",
+      "ANTIINFLAMATORIA",
+      "EUPÉPTICA"
     ],
     "principiosActivos": [
       "Aceite Esencial",
@@ -1995,7 +2050,9 @@
       "CARMINATIVA",
       "DIGESTIVA",
       "PANCREÁTICA EXÓGENA",
-      "SIALAGOGA"
+      "SIALAGOGA",
+      "COLAGOGA",
+      "ANTIEMÉTICA"
     ],
     "principiosActivos": [
       "Aceite Esencial",
@@ -2071,7 +2128,8 @@
       "DEPURATIVA INTESTINAL",
       "LAXANTE MECÁNICO",
       "DEMULCENTE",
-      "QUELANTE"
+      "QUELANTE",
+      "HIPOCOLESTEROLEMIANTE"
     ],
     "principiosActivos": [
       "Ácido linoleico",
@@ -2097,7 +2155,8 @@
       "ANTIINFECCIOSA",
       "ANTITUSIVA",
       "DEMULCENTE",
-      "EXPECTORANTE"
+      "EXPECTORANTE",
+      "INMUNOMODULADORA"
     ],
     "principiosActivos": [
       "Polisacáridos varios",
@@ -2190,7 +2249,10 @@
     "nombreComun": "MAITAKE",
     "nombreBotanico": "Gritola frondosa",
     "acciones": [
-      "INMUNOESTIMULANTE"
+      "INMUNOESTIMULANTE",
+      "ANTICANCERÍGENA",
+      "HIPOLIPEMIANTE",
+      "HIPOGLUCEMIANTE"
     ],
     "principiosActivos": [
       "Polisacáridos varios",
@@ -2215,7 +2277,8 @@
     "acciones": [
       "ANTIINFLAMATORIA",
       "PROTECTORA DE LA MUCOSA",
-      "LAXANTE SUAVE"
+      "LAXANTE SUAVE",
+      "DEMULCENTE"
     ],
     "principiosActivos": [
       "Mucílagos",
@@ -2242,7 +2305,8 @@
       "ANTITUSIVA",
       "DEMULCENTE",
       "EXPECTORANTE",
-      "LAXANTE SUAVE"
+      "LAXANTE SUAVE",
+      "HIPOGLUCEMIANTE"
     ],
     "principiosActivos": [
       "Mucílagos de malva",
@@ -2327,7 +2391,8 @@
     "acciones": [
       "ANTIINFLAMATORIA",
       "CARMINATIVA",
-      "DIGESTIVA"
+      "DIGESTIVA",
+      "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
       "Aceite Esencial",
@@ -2384,7 +2449,8 @@
       "ESPASMOLÍTICA",
       "ANTIHEMORROIDAL",
       "EXPECTORANTE",
-      "VENOTÓNICA"
+      "VENOTÓNICA",
+      "VASOPROTECTORA"
     ],
     "principiosActivos": [
       "Ácido salicílico",
@@ -2577,7 +2643,11 @@
       "HIPOCOLESTEROLEMIANTE",
       "HIPOGLUCEMIANTE",
       "VASODILATADORA",
-      "VASODILATADORA CORONARIA"
+      "VASODILATADORA CORONARIA",
+      "HIPOTENSORA",
+      "ANALGÉSICA",
+      "DIURÉTICA",
+      "ANTIOXIDANTE"
     ],
     "principiosActivos": [
       "Oleuropeína",
@@ -2671,12 +2741,13 @@
     "nombreBotanico": "Ortosiphon stamineus",
     "acciones": [
       "DEPURATIVA HEPÁTICA",
-      "DEPURATIVA RENAL"
+      "DEPURATIVA RENAL",
+      "DIURÉTICA"
     ],
     "principiosActivos": [
       "Flavonoides varios",
-      "Sales minerales",
-      "Ácidos fenólicos"
+      "Ácidos fenólicos",
+      "Potasio (K)"
     ],
     "drogaVegetal": [
       "Hoja",
@@ -2876,7 +2947,8 @@
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
       "ANTIINFLAMATORIA",
-      "ANTIOXIDANTE"
+      "ANTIOXIDANTE",
+      "VASOPROTECTORA"
     ],
     "principiosActivos": [
       "Proantocianidinas",
@@ -2930,7 +3002,10 @@
       "FLUIDIFICANTE",
       "GASTROPROTECTORA",
       "ANTI-HELICOBACTER PYLORI",
-      "SIALAGOGA"
+      "SIALAGOGA",
+      "CICATRIZANTE",
+      "ANTIINFLAMATORIA",
+      "PROTECTORA DE LA MUCOSA"
     ],
     "principiosActivos": [
       "Glicirricina",
@@ -2958,7 +3033,9 @@
       "ANTIALÉRGICA",
       "ANTIOXIDANTE",
       "ANTIVIRAL",
-      "HIPOLIPEMIANTE"
+      "HIPOLIPEMIANTE",
+      "INMUNOESTIMULANTE",
+      "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
       "Polisacáridos varios",
@@ -3017,7 +3094,9 @@
     "nombreBotanico": "Lepidium latifolium",
     "acciones": [
       "DEPURATIVA HEPÁTICA",
-      "DEPURATIVA RENAL"
+      "DEPURATIVA RENAL",
+      "DIURÉTICA",
+      "ANTILITIÁSICA RENAL"
     ],
     "principiosActivos": [
       "Compuestos azufrados",
@@ -3041,7 +3120,8 @@
     "acciones": [
       "ASTRINGENTE",
       "ANTIINFECCIOSA",
-      "NUTRITIVA"
+      "NUTRITIVA",
+      "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
       "Catequinas",
@@ -3063,7 +3143,9 @@
     "nombreBotanico": "Ruscus aculeatus",
     "acciones": [
       "VASOPROTECTORA",
-      "VENOTÓNICA"
+      "VENOTÓNICA",
+      "ANTIINFLAMATORIA",
+      "ANTIEDEMATOSA"
     ],
     "principiosActivos": [
       "Saponinas",
@@ -3146,7 +3228,8 @@
       "DEPURATIVA RENAL",
       "DIAFORÉTICA",
       "FEBRÍFUGA",
-      "SUDORÍFICA"
+      "SUDORÍFICA",
+      "ANTIVIRAL"
     ],
     "principiosActivos": [
       "Aceite Esencial",
@@ -3193,7 +3276,8 @@
     "acciones": [
       "ANTIBACTERIANA",
       "ANTIHELMÍNTICA",
-      "ANTIVIRAL"
+      "ANTIVIRAL",
+      "INMUNOMODULADORA"
     ],
     "principiosActivos": [
       "Polisacáridos varios",
@@ -3220,7 +3304,8 @@
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
       "ANTIINFLAMATORIA",
-      "BRONCODILATADORA"
+      "BRONCODILATADORA",
+      "ANTIASMÁTICA"
     ],
     "principiosActivos": [
       "Calcio (Ca)",
@@ -3249,7 +3334,9 @@
       "ALCALINIZANTE",
       "DEPURATIVA GENERAL",
       "NUTRITIVA",
-      "QUELANTE"
+      "QUELANTE",
+      "INMUNOESTIMULANTE",
+      "ANTIOXIDANTE"
     ],
     "principiosActivos": [
       "Calcio (Ca)",
@@ -3284,7 +3371,8 @@
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
       "ANTITUMORAL",
-      "HIPOCOLESTEROLEMIANTE"
+      "HIPOCOLESTEROLEMIANTE",
+      "ANTIOXIDANTE"
     ],
     "principiosActivos": [
       "Catequinas",
@@ -3333,7 +3421,8 @@
       "ANTITUSIVA",
       "ESPASMOLÍTICA",
       "SEDANTE SUAVE",
-      "SUDORÍFICA"
+      "SUDORÍFICA",
+      "TRANQUILIZANTE"
     ],
     "principiosActivos": [
       "Aceite Esencial",
@@ -3491,7 +3580,8 @@
     "nombreComun": "VARA DE ORO",
     "nombreBotanico": "Solidago virgaurea",
     "acciones": [
-      "DEPURATIVA RENAL"
+      "DEPURATIVA RENAL",
+      "DIURÉTICA"
     ],
     "principiosActivos": [
       "Flavonoides varios",
@@ -3513,7 +3603,9 @@
     "nombreComun": "VID ROJA",
     "nombreBotanico": "Vitis vinifera",
     "acciones": [
-      "ANTICANCERÍGENA"
+      "ANTICANCERÍGENA",
+      "VENOTÓNICA",
+      "VASOPROTECTORA"
     ],
     "principiosActivos": [
       "Antocianinas",
@@ -5065,7 +5157,7 @@
     "principiosActivos": [
       "Saponinas",
       "Flavonoides varios",
-      "Sales minerales"
+      "Potasio (K)"
     ],
     "drogaVegetal": [
       "Raíz",
@@ -5089,7 +5181,7 @@
     "principiosActivos": [
       "Flavonoides varios",
       "Saponinas",
-      "Sales minerales"
+      "Potasio (K)"
     ],
     "drogaVegetal": [
       "Estigma"
@@ -5595,7 +5687,7 @@
     "principiosActivos": [
       "Nitratos",
       "Antocianinas",
-      "Sales minerales"
+      "Potasio (K)"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -5813,8 +5905,9 @@
     ],
     "principiosActivos": [
       "Proteínas varias",
-      "Sales minerales",
-      "Vitaminas varias"
+      "Vitaminas varias",
+      "Hierro (Fe)",
+      "Magnesio (Mg)"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -5838,7 +5931,7 @@
     "principiosActivos": [
       "Polisacáridos varios",
       "Avenina",
-      "Vitaminas varias"
+      "Vitamina B1 (tiamina)"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -6508,7 +6601,7 @@
     "principiosActivos": [
       "Fibra soluble",
       "Sorbitol",
-      "Vitaminas varias"
+      "Vitamina K (filoquinona)"
     ],
     "drogaVegetal": [
       "Fruto"
