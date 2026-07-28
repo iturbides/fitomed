@@ -2028,7 +2028,10 @@
       "Flavonoles",
       "Taninos varios"
     ],
-    "drogaVegetal": [],
+    "drogaVegetal": [
+      "Hoja",
+      "Sumidad florida"
+    ],
     "uso": [
       "Extracto fluido",
       "Extracto seco",
