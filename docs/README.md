@@ -12,12 +12,12 @@ El objetivo principal es construir una base de datos fitoterapéutica rigurosa, 
 
 La base de datos debe cumplir los siguientes principios:
 
-* Información científicamente contrastada.
+* Información científicamente contrastada cuando exista evidencia disponible.
 * Terminología uniforme.
 * Estructura sencilla.
 * Fácil mantenimiento.
 * Orientación práctica para la fitoterapia.
-* Compatible con la PWA FitoMed y con FitoMed Admin.
+* Compatibilidad con la PWA FitoMed y con FitoMed Admin.
 
 ---
 
@@ -32,6 +32,8 @@ Las fuentes utilizadas se consultarán siguiendo el siguiente orden de prioridad
 5. Literatura científica reciente revisada por pares.
 
 Cuando existan discrepancias entre diferentes fuentes, prevalecerán la Farmacopea Europea, ESCOP y EMA.
+
+Para determinadas plantas de uso tradicional que dispongan de menor documentación científica moderna, podrán considerarse también fuentes tradicionales y farmacognósticas de reconocida relevancia. Entre ellas se incluyen, especialmente, las tradiciones médicas ayurvédicas, siempre diferenciando el uso tradicional de la evidencia clínica actualmente disponible.
 
 ---
 
@@ -61,7 +63,7 @@ La estructura del archivo JSON deberá mantenerse lo más simple posible.
 
 Ejemplo:
 
-```
+```text
 MANZANILLA DULCE
 ```
 
@@ -73,7 +75,7 @@ Se utilizará la denominación científica aceptada actualmente.
 
 Ejemplo:
 
-```
+```text
 Matricaria chamomilla L.
 ```
 
@@ -90,6 +92,9 @@ Las acciones representan las propiedades fitoterapéuticas principales de la pla
 * Se incluirán únicamente las acciones relevantes para el uso fitoterapéutico.
 * No se añadirán acciones experimentales sin aplicación clínica consolidada.
 * Las acciones se ordenarán por importancia terapéutica.
+* No es necesario incluir todas las actividades farmacológicas descritas en la literatura si no tienen relevancia práctica en fitoterapia.
+
+Una planta puede presentar numerosas actividades farmacológicas, pero el registro deberá centrarse en aquellas que tengan mayor relevancia para su utilización fitoterapéutica habitual.
 
 ## Terminología
 
@@ -178,6 +183,17 @@ El campo "uso" recogerá únicamente las principales indicaciones fitoterapéuti
 
 No pretende sustituir una monografía completa.
 
+El término **uso** se refiere a la forma o preparación mediante la que se emplea la planta, cuando corresponda.
+
+Ejemplos:
+
+* Infusión
+* Decocción
+* Polvo
+* Extracto
+* Uso externo
+* Aplicación tópica
+
 ---
 
 # Observación
@@ -218,11 +234,52 @@ No existe un límite estricto de longitud.
 Las nuevas especies deberán cumplir los siguientes requisitos:
 
 * interés fitoterapéutico reconocido;
-* documentación suficiente;
-* respaldo en Farmacopea Europea, ESCOP o EMA cuando sea posible;
+* documentación suficiente sobre sus propiedades o usos;
+* respaldo en Farmacopea Europea, ESCOP o EMA cuando exista;
 * terminología compatible con el resto de la base de datos.
 
+También podrán incorporarse plantas cuyo uso fitoterapéutico esté ampliamente documentado por la tradición médica y farmacognóstica, aunque su investigación científica moderna sea todavía limitada.
+
+En estos casos, especialmente cuando se trate de plantas utilizadas tradicionalmente en sistemas como la medicina ayurvédica, la información deberá reflejar claramente su carácter tradicional y no presentar dicho uso como equivalente a una evidencia clínica moderna cuando esta no exista.
+
 No se añadirán especies únicamente por aumentar el número de registros.
+
+---
+
+# Búsqueda de acciones
+
+La PWA permite realizar búsquedas específicas de acciones mediante el comando:
+
+```text
+!a
+```
+
+Por ejemplo:
+
+```text
+!a car
+```
+
+mostrará dinámicamente las acciones que coincidan con el texto introducido, como:
+
+```text
+CARMINATIVA
+CARDIOTÓNICA
+```
+
+El usuario puede continuar escribiendo hasta encontrar la acción deseada o seleccionar directamente una de las opciones mostradas.
+
+Al seleccionar una acción, FitoMed genera el mismo listado de plantas que se obtiene al pulsar dicha acción desde la ficha de cualquier planta.
+
+También es posible introducir directamente la acción completa:
+
+```text
+!a carminativa
+```
+
+En este caso se accederá directamente al listado correspondiente.
+
+Este sistema utiliza las acciones registradas en `plantas_medicinales.json`, por lo que la nomenclatura de las acciones debe mantenerse uniforme en toda la base de datos.
 
 ---
 
@@ -233,4 +290,14 @@ FitoMed prioriza la calidad sobre la cantidad.
 Es preferible disponer de unas 300 plantas cuidadosamente documentadas que de miles de registros incompletos o inconsistentes.
 
 La base de datos debe mantenerse sencilla, coherente y fácilmente editable durante muchos años.
+
+La información científica disponible tendrá prioridad cuando exista, pero FitoMed también reconoce el valor documental y farmacognóstico del uso tradicional de determinadas plantas, especialmente aquellas utilizadas durante largos periodos en sistemas médicos tradicionales como el Ayurveda.
+
+En estos casos se procurará mantener una separación clara entre:
+
+* evidencia científica moderna;
+* conocimiento farmacognóstico;
+* uso tradicional.
+
+De esta manera, FitoMed puede recoger un patrimonio fitoterapéutico amplio sin presentar como evidencia clínica aquello que todavía no ha sido suficientemente estudiado.
 
