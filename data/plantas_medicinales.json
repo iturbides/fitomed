@@ -3028,6 +3028,7 @@
     "nombreBotanico": "Ganoderma lucidum",
     "acciones": [
       "ANTICANCERÍGENA",
+      "HIPOTENSORA",
       "ANTIHIPERTENSIVA",
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
@@ -6220,6 +6221,9 @@
     "nombreBotanico": "Cucurbita pepo",
     "acciones": [
       "ANTIINFLAMATORIA",
+      "ANTIHELMÍNTICA",
+      "NUTRITIVA",
+      "ANTIOXIDANTE",
       "DIURÉTICA"
     ],
     "principiosActivos": [

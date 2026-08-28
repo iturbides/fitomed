@@ -3,7 +3,7 @@
 // Service Worker
 // ==========================================
 
-const CACHE = "fitomed-v1.12";
+const CACHE = "fitomed-v1.13";
 
 const ARCHIVOS = [
 
