@@ -141,7 +141,7 @@
     "acciones": [
       "ANTIAGREGANTE PLAQUETARIA",
       "ANTIBACTERIANA",
-      "ANTIHELMÍNTICA",
+      "ANTIHELMÍNTICA-VERMÍFUGA",
       "ANTIINFECCIOSA",
       "DIGESTIVA",
       "ANTIOXIDANTE",
@@ -500,7 +500,7 @@
     "acciones": [
       "ABORTIVA",
       "ALERGÉNICA",
-      "ANTIHELMÍNTICA",
+      "ANTIHELMÍNTICA-VERMÍFUGA",
       "EMENAGOGA"
     ],
     "principiosActivos": [
@@ -1113,7 +1113,7 @@
     "nombreComun": "COMINO",
     "nombreBotanico": "Cuminum cyminum",
     "acciones": [
-      "ANTIHELMÍNTICA",
+      "ANTIHELMÍNTICA-VERMÍFUGA",
       "ANTIMICROBIANA",
       "CARMINATIVA",
       "ESPASMOLÍTICA",
@@ -2331,7 +2331,7 @@
     "nombreComun": "MANZANILLA DE MAHÓN ABRÓTANO HEMBRA",
     "nombreBotanico": "Santolina chamaecyparissus",
     "acciones": [
-      "ANTIHELMÍNTICA",
+      "ANTIHELMÍNTICA-VERMÍFUGA",
       "ANTIINFLAMATORIA",
       "CARMINATIVA",
       "DIGESTIVA"
@@ -2815,7 +2815,7 @@
     "acciones": [
       "ANTICANCERÍGENA",
       "ANTIFÚNGICA",
-      "ANTIHELMÍNTICA",
+      "ANTIHELMÍNTICA-VERMÍFUGA",
       "ANTIINFECCIOSA",
       "ANTIULCEROSA",
       "ASTRINGENTE"
@@ -3276,7 +3276,7 @@
     "nombreBotanico": "Lentinula edodes",
     "acciones": [
       "ANTIBACTERIANA",
-      "ANTIHELMÍNTICA",
+      "ANTIHELMÍNTICA-VERMÍFUGA",
       "ANTIVIRAL",
       "INMUNOMODULADORA"
     ],
@@ -4866,7 +4866,7 @@
     "acciones": [
       "APERITIVA",
       "TÓNICO DIGESTIVO",
-      "ANTIHELMÍNTICA"
+      "ANTIHELMÍNTICA-VERMÍFUGA"
     ],
     "principiosActivos": [
       "Lactonas amargas",
@@ -6198,7 +6198,7 @@
     "acciones": [
       "ANTISÉPTICA",
       "ANTIFÚNGICA",
-      "ANTIHELMÍNTICA"
+      "ANTIHELMÍNTICA-VERMÍFUGA"
     ],
     "principiosActivos": [
       "Nimbina",
@@ -6221,7 +6221,7 @@
     "nombreBotanico": "Cucurbita pepo",
     "acciones": [
       "ANTIINFLAMATORIA",
-      "ANTIHELMÍNTICA",
+      "ANTIHELMÍNTICA-VERMÍFUGA",
       "NUTRITIVA",
       "ANTIOXIDANTE",
       "DIURÉTICA"
