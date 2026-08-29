@@ -5878,8 +5878,7 @@
     "acciones": [
       "NUTRITIVA",
       "LAXANTE",
-      "HIPOCOLESTEROLEMIANTE",
-      "LAXANTE MECÁNICO"
+      "HIPOCOLESTEROLEMIANTE"
     ],
     "principiosActivos": [
       "Mucílagos",
@@ -7770,96 +7769,5 @@
     ],
     "observacion": "",
     "notas": "Fruto ayurvédico considerado uno de los pilares de la fórmula Triphala, tradicionalmente usado como laxante suave y digestivo."
-  },
-  {
-    "id": 301,
-    "nombreComun": "PLANTAGO OVATA, ISPÁGULA",
-    "nombreBotanico": "Plantago ovata",
-    "acciones": [
-      "LAXANTE MECÁNICO",
-      "PROTECTORA DE LA MUCOSA",
-      "ANTIINFLAMATORIA"
-    ],
-    "principiosActivos": [
-      "Mucílagos",
-      "Polisacáridos varios",
-      "Fibra soluble"
-    ],
-    "drogaVegetal": [
-      "Semilla"
-    ],
-    "uso": [
-      "Maceración",
-      "Polvo"
-    ],
-    "observacion": "Tomar siempre con abundante líquido para evitar obstrucción; separar su ingesta de otros medicamentos por al menos una hora.",
-    "notas": "Planta originaria de la India y el Mediterráneo cuya semilla, conocida como ispágula o psyllium rubio, es una de las fibras solubles más usadas como laxante formador de volumen."
-  },
-  {
-    "id": 302,
-    "nombreComun": "KONJAC",
-    "nombreBotanico": "Amorphophallus konjac",
-    "acciones": [
-      "LAXANTE MECÁNICO",
-      "HIPOCOLESTEROLEMIANTE"
-    ],
-    "principiosActivos": [
-      "Glucomanano",
-      "Polisacáridos varios",
-      "Fibra soluble"
-    ],
-    "drogaVegetal": [
-      "Rizoma"
-    ],
-    "uso": [
-      "Polvo",
-      "Cápsula"
-    ],
-    "observacion": "Tomar siempre con abundante líquido; el glucomanano en pastillas secas ha causado obstrucción esofágica en casos raros.",
-    "notas": "Tubérculo asiático cuya harina, muy rica en glucomanano, es una de las fibras formadoras de volumen más potentes usadas en complementos."
-  },
-  {
-    "id": 303,
-    "nombreComun": "SALVADO DE TRIGO",
-    "nombreBotanico": "Triticum aestivum",
-    "acciones": [
-      "LAXANTE MECÁNICO"
-    ],
-    "principiosActivos": [
-      "Fibra soluble",
-      "Polisacáridos varios",
-      "Sales minerales"
-    ],
-    "drogaVegetal": [
-      "Semilla"
-    ],
-    "uso": [
-      "Polvo",
-      "Cocida"
-    ],
-    "observacion": "",
-    "notas": "Cubierta exterior del grano de trigo, uno de los laxantes mecánicos más tradicionales por su fibra insoluble."
-  },
-  {
-    "id": 304,
-    "nombreComun": "AGAR-AGAR",
-    "nombreBotanico": "Gelidium sp.",
-    "acciones": [
-      "LAXANTE MECÁNICO"
-    ],
-    "principiosActivos": [
-      "Polisacáridos varios",
-      "Fibra soluble",
-      "Mucílagos"
-    ],
-    "drogaVegetal": [
-      "Alga"
-    ],
-    "uso": [
-      "Polvo",
-      "Disuelto en licuado"
-    ],
-    "observacion": "",
-    "notas": "Alga roja de la que se extrae una fibra gelificante muy usada en Asia como espesante y laxante mecánico tradicional."
   }
 ]
