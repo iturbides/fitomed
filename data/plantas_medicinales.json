@@ -115,6 +115,7 @@
     "nombreBotanico": "Satureja montana",
     "acciones": [
       "ANTIMICROBIANA",
+      "ANTIHELMÍNTICA-VERMÍFUGA",
       "APERITIVA",
       "DIGESTIVA",
       "EUPÉPTICA",
@@ -894,6 +895,7 @@
     "nombreBotanico": "Allium cepa",
     "acciones": [
       "ANTIHISTAMÍNICA",
+      "ANTIHELMÍNTICA-VERMÍFUGA",
       "ANTIALÉRGICA",
       "ANTIINFLAMATORIA",
       "BRONCODILATADORA",
@@ -7861,5 +7863,33 @@
     ],
     "observacion": "",
     "notas": "Alga roja de la que se extrae una fibra gelificante muy usada en Asia como espesante y laxante mecánico tradicional."
-  }
+  },
+{
+  "id": 305,
+  "nombreComun": "NOGAL",
+  "nombreBotanico": "Juglans regia L.",
+  "acciones": [
+    "ASTRINGENTE",
+    "ANTIHELMÍNTICA-VERMÍFUGA",
+    "ANTIDIARREICO",
+    "ANTISÉPTICO"
+  ],
+  "principiosActivos": [
+    "Taninos",
+    "Naftoquinonas",
+    "Flavonoides",
+    "Ácidos fenólicos"
+  ],
+  "drogaVegetal": [
+    "Hojas",
+    "Cáscara verde del fruto"
+  ],
+  "uso": [
+    "Infusión",
+    "Decocción",
+    "Uso externo"
+  ],
+  "observacion": "",
+  "notas": "Las hojas del nogal son ricas en taninos y juglona, responsables de su acción astringente y antiséptica. Tradicionalmente se emplean tanto por vía interna en trastornos digestivos leves como en aplicaciones externas sobre la piel."
+}
 ]
