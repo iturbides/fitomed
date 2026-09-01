@@ -3375,6 +3375,7 @@
       "ANTIAGREGANTE PLAQUETARIA",
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
+      "BRONCODILATADORA",
       "ANTITUMORAL",
       "HIPOCOLESTEROLEMIANTE",
       "ANTIOXIDANTE"
@@ -3450,6 +3451,7 @@
     "acciones": [
       "ANTIINFLAMATORIA",
       "CARMINATIVA",
+      "BRONCODILATADORA",
       "DIGESTIVA",
       "INMUNOESTIMULANTE"
     ],
@@ -4795,6 +4797,7 @@
     "acciones": [
       "EXPECTORANTE",
       "ANTITUSIVA-BÉQUICA",
+      "BRONCODILATADORA",
       "DEMULCENTE"
     ],
     "principiosActivos": [
