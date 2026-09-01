@@ -3,7 +3,11 @@
 // buscador.js
 // ==========================================
 
-import { obtenerPlantas } from "./datos.js";
+import {
+    obtenerPlantas,
+    obtenerDefiniciones
+} from "./datos.js";
+
 import { mostrarFicha } from "./ficha.js";
 import { mostrarListado } from "./listado.js";
 
@@ -20,6 +24,9 @@ export function inicializarBuscador() {
 }
 
 
+/**
+ * Normaliza un texto para facilitar las búsquedas.
+ */
 function normalizar(texto) {
 
     return texto
@@ -30,6 +37,9 @@ function normalizar(texto) {
 }
 
 
+/**
+ * Gestiona los clics sobre los resultados.
+ */
 function gestionarClick(evento) {
 
     // ==========================================
@@ -51,6 +61,19 @@ function gestionarClick(evento) {
 
 
     // ==========================================
+    // Resultado de búsqueda de definición
+    // ==========================================
+
+    const definicion = evento.target.closest(".resultado-definicion");
+
+    if (definicion) {
+
+        return;
+
+    }
+
+
+    // ==========================================
     // Resultado normal de búsqueda de planta
     // ==========================================
 
@@ -65,6 +88,9 @@ function gestionarClick(evento) {
 }
 
 
+/**
+ * Realiza la búsqueda.
+ */
 function buscar() {
 
     const input = document.getElementById("buscar");
@@ -81,13 +107,17 @@ function buscar() {
 
 
     // ==========================================
-    // Comando !a
+    // Comandos
     // ==========================================
 
     const comando = normalizar(textoOriginal);
 
 
-    if (comando === "!a") {
+    // ==========================================
+    // Comando !
+    // ==========================================
+
+    if (comando === "!") {
 
         mostrarAcciones("");
 
@@ -96,11 +126,36 @@ function buscar() {
     }
 
 
-    if (comando.startsWith("!a ")) {
+    if (comando.startsWith("! ")) {
 
         const accion = textoOriginal.slice(3).trim();
 
         buscarAccion(accion);
+
+        return;
+
+    }
+
+
+    // ==========================================
+    // Comando !!
+    // Busca en definiciones.json
+    // ==========================================
+
+    if (comando === "!!") {
+
+        mostrarDefiniciones("");
+
+        return;
+
+    }
+
+
+    if (comando.startsWith("!! ")) {
+
+        const texto = textoOriginal.slice(3).trim();
+
+        buscarDefinicion(texto);
 
         return;
 
@@ -120,6 +175,9 @@ function buscar() {
 }
 
 
+/**
+ * Busca una acción.
+ */
 function buscarAccion(texto) {
 
     const plantas = obtenerPlantas();
@@ -159,6 +217,9 @@ function buscarAccion(texto) {
 }
 
 
+/**
+ * Muestra las acciones disponibles.
+ */
 function mostrarAcciones(texto) {
 
     const plantas = obtenerPlantas();
@@ -255,6 +316,9 @@ function mostrarAcciones(texto) {
 }
 
 
+/**
+ * Calcula la prioridad de una acción.
+ */
 function calcularPrioridadAccion(accion, texto) {
 
     const nombre = normalizar(accion);
@@ -280,6 +344,165 @@ function calcularPrioridadAccion(accion, texto) {
 }
 
 
+/**
+ * Busca una definición concreta.
+ */
+function buscarDefinicion(texto) {
+
+    const definiciones = obtenerDefiniciones();
+
+    const busqueda = normalizar(texto);
+
+
+    const resultados = definiciones
+        .filter(definicion =>
+            normalizar(definicion.accion).includes(busqueda) ||
+            normalizar(definicion.definicion).includes(busqueda)
+        )
+        .map(definicion => ({
+
+            definicion,
+
+            prioridad: calcularPrioridadDefinicion(
+                definicion,
+                busqueda
+            )
+
+        }))
+        .sort((a, b) =>
+            b.prioridad - a.prioridad
+        )
+        .slice(0, 8);
+
+
+    mostrarDefinicionesResultados(resultados);
+
+}
+
+
+/**
+ * Muestra todas las definiciones que coinciden.
+ */
+function mostrarDefiniciones(texto) {
+
+    const definiciones = obtenerDefiniciones();
+
+    const busqueda = normalizar(texto);
+
+
+    const resultados = definiciones
+        .filter(definicion =>
+            normalizar(definicion.accion).includes(busqueda) ||
+            normalizar(definicion.definicion).includes(busqueda)
+        )
+        .map(definicion => ({
+
+            definicion,
+
+            prioridad: calcularPrioridadDefinicion(
+                definicion,
+                busqueda
+            )
+
+        }))
+        .sort((a, b) =>
+            b.prioridad - a.prioridad
+        );
+
+
+    mostrarDefinicionesResultados(resultados);
+
+}
+
+
+/**
+ * Calcula la prioridad de una definición.
+ */
+function calcularPrioridadDefinicion(definicion, texto) {
+
+    const accion = normalizar(definicion.accion);
+    const descripcion = normalizar(definicion.definicion);
+
+
+    // La acción empieza exactamente por lo escrito
+    if (accion.startsWith(texto))
+        return 1000;
+
+
+    // Alguna palabra de la acción empieza por lo escrito
+    if (
+        accion
+            .split(/[\s-]+/)
+            .some(palabra => palabra.startsWith(texto))
+    )
+        return 900;
+
+
+    // La acción contiene el texto
+    if (accion.includes(texto))
+        return 800;
+
+
+    // La definición contiene el texto
+    if (descripcion.includes(texto))
+        return 500;
+
+
+    return 0;
+
+}
+
+
+/**
+ * Genera los resultados de las definiciones.
+ */
+function mostrarDefinicionesResultados(resultados) {
+
+    const app = document.getElementById("app");
+
+
+    if (resultados.length === 0) {
+
+        app.innerHTML = `
+            <p>No se han encontrado definiciones.</p>
+        `;
+
+        return;
+
+    }
+
+
+    let html = "";
+
+
+    resultados.forEach(({ definicion }) => {
+
+        html += `
+
+            <article
+                class="resultado resultado-definicion">
+
+                <h2>${definicion.accion}</h2>
+
+                <div class="definicion">
+                    ${definicion.definicion}
+                </div>
+
+            </article>
+
+        `;
+
+    });
+
+
+    app.innerHTML = html;
+
+}
+
+
+/**
+ * Obtiene los resultados de búsqueda de plantas.
+ */
 function obtenerResultados(texto) {
 
     const plantas = obtenerPlantas();
@@ -298,6 +521,9 @@ function obtenerResultados(texto) {
 }
 
 
+/**
+ * Calcula la prioridad de una planta.
+ */
 function calcularPrioridad(planta, texto) {
 
     texto = normalizar(texto);
@@ -374,6 +600,9 @@ function calcularPrioridad(planta, texto) {
 }
 
 
+/**
+ * Muestra los resultados normales de plantas.
+ */
 function mostrarResultados(resultados) {
 
     const app = document.getElementById("app");
@@ -421,4 +650,3 @@ function mostrarResultados(resultados) {
     app.innerHTML = html;
 
 }
-

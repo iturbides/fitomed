@@ -5,29 +5,43 @@
 // ==========================================
 
 let plantas = [];
+let definiciones = [];
 
 /**
- * Carga el archivo JSON de plantas.
+ * Carga los archivos JSON de plantas y definiciones.
  */
 export async function cargarDatos() {
 
     try {
 
-        const respuesta = await fetch("data/plantas_medicinales.json");
+        const [respuestaPlantas, respuestaDefiniciones] = await Promise.all([
+            fetch("data/plantas_medicinales.json"),
+            fetch("data/definiciones.json")
+        ]);
 
-        if (!respuesta.ok) {
-            throw new Error(`Error ${respuesta.status}: no se pudo cargar la base de datos.`);
+        if (!respuestaPlantas.ok) {
+            throw new Error(
+                `Error ${respuestaPlantas.status}: no se pudo cargar la base de datos de plantas.`
+            );
         }
 
-        plantas = await respuesta.json();
+        if (!respuestaDefiniciones.ok) {
+            throw new Error(
+                `Error ${respuestaDefiniciones.status}: no se pudo cargar la base de datos de definiciones.`
+            );
+        }
+
+        plantas = await respuestaPlantas.json();
+        definiciones = await respuestaDefiniciones.json();
 
         console.log(`✔ ${plantas.length} plantas cargadas.`);
+        console.log(`✔ ${definiciones.length} definiciones cargadas.`);
 
         return plantas;
 
     } catch (error) {
 
-        console.error("Error cargando plantas_medicinales.json", error);
+        console.error("Error cargando las bases de datos:", error);
 
         return [];
 
@@ -45,6 +59,15 @@ export function obtenerPlantas() {
 }
 
 /**
+ * Devuelve todas las definiciones.
+ */
+export function obtenerDefiniciones() {
+
+    return definiciones;
+
+}
+
+/**
  * Busca una planta por su ID.
  */
 export function obtenerPlantaPorId(id) {
@@ -52,3 +75,4 @@ export function obtenerPlantaPorId(id) {
     return plantas.find(planta => planta.id === id);
 
 }
+

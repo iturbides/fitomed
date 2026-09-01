@@ -1,0 +1,567 @@
+[
+  {
+    "id": 1,
+    "accion": "ANTIGOTOSA",
+    "definicion": "Ayuda a prevenir o aliviar las manifestaciones relacionadas con la gota y el exceso de ácido úrico."
+  },
+  {
+    "id": 2,
+    "accion": "HIPOURICEMIANTE",
+    "definicion": "Ayuda a disminuir la concentración de ácido úrico en la sangre."
+  },
+  {
+    "id": 3,
+    "accion": "DEPURATIVA RENAL",
+    "definicion": "Favorece la función de eliminación renal y la excreción de sustancias de desecho a través de la orina."
+  },
+  {
+    "id": 4,
+    "accion": "DIURÉTICA",
+    "definicion": "Aumenta la producción y eliminación de orina, favoreciendo la excreción de agua y determinadas sustancias."
+  },
+  {
+    "id": 5,
+    "accion": "ANTIOXIDANTE",
+    "definicion": "Ayuda a proteger las células frente al daño producido por especies reactivas y procesos de oxidación."
+  },
+  {
+    "id": 6,
+    "accion": "NUTRITIVA",
+    "definicion": "Aporta nutrientes que contribuyen al mantenimiento y funcionamiento normal del organismo."
+  },
+  {
+    "id": 7,
+    "accion": "HIPOGLUCEMIANTE",
+    "definicion": "Ayuda a disminuir o controlar los niveles de glucosa en sangre."
+  },
+  {
+    "id": 8,
+    "accion": "INMUNOESTIMULANTE",
+    "definicion": "Favorece o estimula determinadas funciones de la respuesta inmunitaria."
+  },
+  {
+    "id": 9,
+    "accion": "APERITIVA",
+    "definicion": "Estimula el apetito y favorece la preparación del aparato digestivo para la ingesta."
+  },
+  {
+    "id": 10,
+    "accion": "COLAGOGA",
+    "definicion": "Favorece la expulsión de la bilis desde la vesícula biliar hacia el intestino."
+  },
+  {
+    "id": 11,
+    "accion": "COLERÉTICA",
+    "definicion": "Estimula la producción y secreción de bilis por el hígado."
+  },
+  {
+    "id": 12,
+    "accion": "EUPÉPTICA",
+    "definicion": "Favorece la digestión y el funcionamiento adecuado del proceso digestivo."
+  },
+  {
+    "id": 13,
+    "accion": "LAXANTE SUAVE",
+    "definicion": "Favorece una evacuación intestinal más fácil y regular sin provocar una accion purgante intensa."
+  },
+  {
+    "id": 14,
+    "accion": "TÓNICO DIGESTIVO",
+    "definicion": "Favorece el tono y el funcionamiento general del aparato digestivo."
+  },
+  {
+    "id": 15,
+    "accion": "DEPURATIVA HEPÁTICA",
+    "definicion": "Favorece las funciones fisiológicas de eliminación y transformación de sustancias realizadas por el hígado."
+  },
+  {
+    "id": 16,
+    "accion": "ANTIBACTERIANA",
+    "definicion": "Actúa contra las bacterias o dificulta su crecimiento y desarrollo."
+  },
+  {
+    "id": 17,
+    "accion": "ANTIDIARREICA",
+    "definicion": "Ayuda a disminuir la frecuencia o intensidad de las deposiciones diarreicas."
+  },
+  {
+    "id": 18,
+    "accion": "ANTIVIRAL",
+    "definicion": "Actúa frente a virus o dificulta su multiplicación."
+  },
+  {
+    "id": 19,
+    "accion": "CICATRIZANTE",
+    "definicion": "Favorece la reparación y cierre de los tejidos lesionados."
+  },
+  {
+    "id": 20,
+    "accion": "HEMOSTÁTICA",
+    "definicion": "Favorece la detención de una hemorragia mediante mecanismos que ayudan a controlar el sangrado."
+  },
+  {
+    "id": 21,
+    "accion": "ANTIHEMORRÁGICA",
+    "definicion": "Ayuda a prevenir o disminuir las hemorragias y el sangrado excesivo."
+  },
+  {
+    "id": 22,
+    "accion": "ASTRINGENTE",
+    "definicion": "Contrae los tejidos y disminuye determinadas secreciones, produciendo un efecto local de constricción."
+  },
+  {
+    "id": 23,
+    "accion": "ANTIMICROBIANA",
+    "definicion": "Actúa contra microorganismos como bacterias, hongos y otros agentes infecciosos, o dificulta su desarrollo."
+  },
+  {
+    "id": 24,
+    "accion": "ANTIHELMÍNTICA-VERMÍFUGA",
+    "definicion": "Ambos términos se utilizan para definir plantas con accion frente a helmintos o gusanos intestinales, favoreciendo su eliminación del organismo."
+  },
+  {
+    "id": 25,
+    "accion": "DIGESTIVA",
+    "definicion": "Favorece el proceso normal de la digestión y el funcionamiento del aparato digestivo."
+  },
+  {
+    "id": 26,
+    "accion": "CARMINATIVA",
+    "definicion": "Favorece la expulsión de gases intestinales y ayuda a reducir la flatulencia y la distensión abdominal."
+  },
+  {
+    "id": 27,
+    "accion": "ANTIAGREGANTE PLAQUETARIA",
+    "definicion": "Disminuye la tendencia de las plaquetas a agregarse entre sí, reduciendo la formación de agregados plaquetarios."
+  },
+  {
+    "id": 28,
+    "accion": "ANTIINFECCIOSA",
+    "definicion": "Ayuda a combatir o limitar procesos causados por agentes infecciosos."
+  },
+  {
+    "id": 29,
+    "accion": "CARDIOTÓNICA",
+    "definicion": "Favorece la fuerza y el rendimiento de la contraccion del músculo cardíaco."
+  },
+  {
+    "id": 30,
+    "accion": "HIPOLIPEMIANTE",
+    "definicion": "Ayuda a reducir los niveles elevados de lípidos en la sangre."
+  },
+  {
+    "id": 31,
+    "accion": "HIPOTENSORA",
+    "definicion": "Contribuye a disminuir una presión arterial elevada."
+  },
+  {
+    "id": 32,
+    "accion": "ANTISÉPTICA",
+    "definicion": "Inhibe o limita el crecimiento de microorganismos sobre tejidos vivos."
+  },
+  {
+    "id": 33,
+    "accion": "ESPASMOLÍTICA",
+    "definicion": "Relaja la musculatura lisa y ayuda a disminuir los espasmos o contracciones involuntarias."
+  },
+  {
+    "id": 34,
+    "accion": "HEPATOPROTECTORA",
+    "definicion": "Ayuda a proteger las células y funciones del hígado frente a determinados agentes o procesos lesivos."
+  },
+  {
+    "id": 35,
+    "accion": "HIPOCOLESTEROLEMIANTE",
+    "definicion": "Ayuda a disminuir los niveles de colesterol en la sangre."
+  },
+  {
+    "id": 36,
+    "accion": "ANTIESPASMÓDICA",
+    "definicion": "Ayuda a aliviar los espasmos y contracciones involuntarias, especialmente de la musculatura lisa."
+  },
+  {
+    "id": 37,
+    "accion": "ALCALINIZANTE",
+    "definicion": "Favorece un aumento de la alcalinidad o del pH de determinados medios corporales, especialmente de la orina."
+  },
+  {
+    "id": 38,
+    "accion": "ESTROGÉNICA",
+    "definicion": "Presenta efectos similares o relacionados con la accion de los estrógenos en el organismo."
+  },
+  {
+    "id": 39,
+    "accion": "REMINERALIZANTE",
+    "definicion": "Aporta o favorece la disponibilidad de minerales necesarios para el mantenimiento de los tejidos."
+  },
+  {
+    "id": 40,
+    "accion": "ABSORBENTE",
+    "definicion": "Capta y retiene determinadas sustancias, líquidos o gases en su superficie o estructura."
+  },
+  {
+    "id": 41,
+    "accion": "ANTIINFLAMATORIA",
+    "definicion": "Ayuda a reducir la inflamación y los procesos asociados a ella."
+  },
+  {
+    "id": 42,
+    "accion": "PROTECTORA DE LA MUCOSA",
+    "definicion": "Ayuda a proteger las membranas mucosas frente a irritaciones y agresiones físicas o químicas."
+  },
+  {
+    "id": 43,
+    "accion": "DEMULCENTE",
+    "definicion": "Forma una capa protectora y calmante sobre las mucosas, ayudando a aliviar su irritación."
+  },
+  {
+    "id": 44,
+    "accion": "GASTROPROTECTORA",
+    "definicion": "Ayuda a proteger la mucosa y las funciones del estómago frente a factores irritantes."
+  },
+  {
+    "id": 45,
+    "accion": "ANTITUSIVA-BÉQUICA",
+    "definicion": "Ambos términos se utilizan para definir plantas que alivian la tos y la irritación de garganta."
+  },
+  {
+    "id": 46,
+    "accion": "SEDANTE SUAVE",
+    "definicion": "Produce un efecto calmante leve y ayuda a disminuir la excitación o tensión nerviosa."
+  },
+  {
+    "id": 47,
+    "accion": "EXPECTORANTE",
+    "definicion": "Favorece la expulsión de las secreciones acumuladas en las vías respiratorias mediante la tos."
+  },
+  {
+    "id": 48,
+    "accion": "FLUIDIFICANTE",
+    "definicion": "Disminuye la viscosidad de determinadas secreciones, especialmente del moco respiratorio, facilitando su eliminación."
+  },
+  {
+    "id": 49,
+    "accion": "HIPOVISCOSIZANTE",
+    "definicion": "Disminuye la viscosidad de la sangre, favoreciendo su fluidez."
+  },
+  {
+    "id": 50,
+    "accion": "VASOPROTECTORA",
+    "definicion": "Ayuda a mantener la integridad y resistencia de los vasos sanguíneos, especialmente de los pequeños vasos."
+  },
+  {
+    "id": 51,
+    "accion": "VENOTÓNICA",
+    "definicion": "Favorece el tono y el funcionamiento de las venas, contribuyendo al retorno venoso."
+  },
+  {
+    "id": 52,
+    "accion": "ANTIEDEMATOSA",
+    "definicion": "Ayuda a reducir la acumulación de líquido en los tejidos y, por tanto, el edema."
+  },
+  {
+    "id": 53,
+    "accion": "VASOCONSTRICTORA",
+    "definicion": "Provoca o favorece la contraccion de los vasos sanguíneos, reduciendo su calibre."
+  },
+  {
+    "id": 54,
+    "accion": "ANALGÉSICA",
+    "definicion": "Ayuda a aliviar o disminuir la sensación de dolor."
+  },
+  {
+    "id": 55,
+    "accion": "ABORTIVA",
+    "definicion": "Puede provocar o favorecer la interrupción del embarazo; es una accion de especial riesgo y no debe interpretarse como indicación de uso."
+  },
+  {
+    "id": 56,
+    "accion": "ALERGÉNICA",
+    "definicion": "Puede desencadenar una respuesta alérgica o de hipersensibilidad en personas susceptibles."
+  },
+  {
+    "id": 57,
+    "accion": "EMENAGOGA",
+    "definicion": "Favorece o estimula la aparición o el flujo menstrual."
+  },
+  {
+    "id": 58,
+    "accion": "ANTIMALÁRICA",
+    "definicion": "Actúa frente al parásito causante de la malaria o paludismo y puede ayudar a combatir esta infección."
+  },
+  {
+    "id": 59,
+    "accion": "DIAFORÉTICA",
+    "definicion": "Favorece la sudoración."
+  },
+  {
+    "id": 60,
+    "accion": "FEBRÍFUGA",
+    "definicion": "Ayuda a reducir la fiebre o a aliviar los estados febriles."
+  },
+  {
+    "id": 61,
+    "accion": "ADAPTÓGENA",
+    "definicion": "Se utiliza para favorecer la adaptación del organismo frente a factores de estrés y ayudar a mantener el equilibrio fisiológico."
+  },
+  {
+    "id": 62,
+    "accion": "DEPURATIVA INTESTINAL",
+    "definicion": "Favorece la eliminación intestinal de residuos y el funcionamiento regular del intestino."
+  },
+  {
+    "id": 63,
+    "accion": "DEPURATIVA CUTÁNEA",
+    "definicion": "Favorece los procesos fisiológicos de eliminación asociados a la piel y se emplea tradicionalmente para mantenerla limpia y en buen estado."
+  },
+  {
+    "id": 64,
+    "accion": "ANTICANCERÍGENA",
+    "definicion": "Se atribuye capacidad para actuar contra procesos relacionados con el desarrollo de células cancerosas; no equivale a un tratamiento oncológico."
+  },
+  {
+    "id": 65,
+    "accion": "ANTIASMÁTICA",
+    "definicion": "Se utiliza tradicionalmente para aliviar manifestaciones asociadas al asma y facilitar la respiración."
+  },
+  {
+    "id": 66,
+    "accion": "BRONCODILATADORA",
+    "definicion": "Favorece la dilatación de los bronquios, facilitando el paso del aire por las vías respiratorias."
+  },
+  {
+    "id": 67,
+    "accion": "SEDANTE",
+    "definicion": "Disminuye la actividad del sistema nervioso y favorece un estado de calma o relajación."
+  },
+  {
+    "id": 68,
+    "accion": "TRANQUILIZANTE",
+    "definicion": "Ayuda a reducir la tensión, la inquietud o la excitación nerviosa y favorece la calma."
+  },
+  {
+    "id": 69,
+    "accion": "INMUNOMODULADORA",
+    "definicion": "Modula la actividad del sistema inmunitario, pudiendo estimular o regular determinadas respuestas inmunitarias."
+  },
+  {
+    "id": 70,
+    "accion": "VULNERARIA",
+    "definicion": "Se utiliza tradicionalmente para favorecer la recuperación de heridas, contusiones y otras lesiones superficiales."
+  },
+  {
+    "id": 71,
+    "accion": "ANTIMICÓTICA",
+    "definicion": "Actúa contra los hongos o dificulta su crecimiento."
+  },
+  {
+    "id": 72,
+    "accion": "BACTERIOSTÁTICA",
+    "definicion": "Inhibe o frena el crecimiento y la multiplicación de las bacterias sin implicar necesariamente su destrucción."
+  },
+  {
+    "id": 73,
+    "accion": "VIRUSTÁTICA",
+    "definicion": "Inhibe o frena la multiplicación de los virus."
+  },
+  {
+    "id": 74,
+    "accion": "ANTITUMORAL",
+    "definicion": "Actúa contra el crecimiento o desarrollo de tumores; el término no implica por sí mismo eficacia clínica como tratamiento del cáncer."
+  },
+  {
+    "id": 75,
+    "accion": "ANTIHEMORROIDAL",
+    "definicion": "Ayuda a aliviar las molestias asociadas a las hemorroides, como inflamación, congestión o irritación."
+  },
+  {
+    "id": 76,
+    "accion": "VASORREGENERADORA",
+    "definicion": "Favorece el mantenimiento y la recuperación de la estructura y funcionalidad de los vasos sanguíneos."
+  },
+  {
+    "id": 77,
+    "accion": "ANTIHISTAMÍNICA",
+    "definicion": "Reduce o bloquea determinados efectos producidos por la histamina, mediador implicado en reacciones alérgicas."
+  },
+  {
+    "id": 78,
+    "accion": "ANTIALÉRGICA",
+    "definicion": "Ayuda a reducir o prevenir determinadas manifestaciones de las reacciones alérgicas."
+  },
+  {
+    "id": 79,
+    "accion": "MUCOLÍTICA",
+    "definicion": "Fluidifica y ayuda a descomponer el moco, facilitando su eliminación de las vías respiratorias."
+  },
+  {
+    "id": 80,
+    "accion": "DEPURATIVA GENERAL",
+    "definicion": "Favorece los procesos fisiológicos de eliminación de sustancias de desecho del organismo."
+  },
+  {
+    "id": 81,
+    "accion": "QUELANTE",
+    "definicion": "Se une químicamente a determinados iones metálicos, formando complejos que pueden facilitar su eliminación."
+  },
+  {
+    "id": 82,
+    "accion": "ANTIULCEROSA",
+    "definicion": "Ayuda a proteger la mucosa y a reducir factores relacionados con la formación o agravamiento de úlceras."
+  },
+  {
+    "id": 83,
+    "accion": "ANTILITIÁSICA",
+    "definicion": "Ayuda a prevenir o favorecer la eliminación de cálculos o piedras formados en el organismo."
+  },
+  {
+    "id": 84,
+    "accion": "ANTILITIÁSICA BILIAR",
+    "definicion": "Ayuda a prevenir o favorecer la eliminación de cálculos formados en la vesícula o las vías biliares."
+  },
+  {
+    "id": 85,
+    "accion": "ANTILITIÁSICA RENAL",
+    "definicion": "Ayuda a prevenir o favorecer la eliminación de cálculos formados en los riñones o las vías urinarias."
+  },
+  {
+    "id": 86,
+    "accion": "VASODILATADORA",
+    "definicion": "Favorece la relajación de las paredes de los vasos sanguíneos, aumentando su calibre."
+  },
+  {
+    "id": 87,
+    "accion": "ADELGAZANTE",
+    "definicion": "Se utiliza tradicionalmente con el objetivo de favorecer la reducción o el control del peso corporal."
+  },
+  {
+    "id": 88,
+    "accion": "ANTIFÚNGICA",
+    "definicion": "Actúa contra los hongos o dificulta su crecimiento y desarrollo."
+  },
+  {
+    "id": 89,
+    "accion": "REGULADORA DE LA TENSIÓN ARTERIAL",
+    "definicion": "Contribuye a mantener la presión arterial dentro de valores adecuados, pudiendo actuar sobre una presión elevada o baja según el caso."
+  },
+  {
+    "id": 90,
+    "accion": "VASODILATADORA CORONARIA",
+    "definicion": "Favorece la dilatación de los vasos sanguíneos coronarios que irrigan el músculo cardíaco."
+  },
+  {
+    "id": 91,
+    "accion": "ANTIARRÍTMICA",
+    "definicion": "Ayuda a prevenir o corregir alteraciones del ritmo normal del corazón."
+  },
+  {
+    "id": 92,
+    "accion": "NOOTRÓPICA",
+    "definicion": "Se atribuye capacidad para favorecer determinadas funciones cognitivas como la memoria, la atención o el rendimiento mental."
+  },
+  {
+    "id": 93,
+    "accion": "BALSÁMICA",
+    "definicion": "Alivia y suaviza las irritaciones de las vías respiratorias y favorece una sensación de bienestar respiratorio."
+  },
+  {
+    "id": 94,
+    "accion": "PANCREÁTICA EXÓGENA",
+    "definicion": "Aporta o favorece enzimas digestivas de origen externo que ayudan a la digestión de nutrientes."
+  },
+  {
+    "id": 95,
+    "accion": "SIALAGOGA",
+    "definicion": "Estimula la producción y secreción de saliva."
+  },
+  {
+    "id": 96,
+    "accion": "ANTIEMÉTICA",
+    "definicion": "Ayuda a prevenir o reducir las náuseas y los vómitos."
+  },
+  {
+    "id": 97,
+    "accion": "LAXANTE MECÁNICO",
+    "definicion": "Favorece la evacuación intestinal aumentando el volumen o la hidratación de las heces y estimulando mecánicamente el tránsito."
+  },
+  {
+    "id": 98,
+    "accion": "DEPURATIVA PULMONAR",
+    "definicion": "Favorece la eliminación de secreciones y sustancias acumuladas en las vías respiratorias."
+  },
+  {
+    "id": 99,
+    "accion": "ANSIOLÍTICA",
+    "definicion": "Ayuda a reducir la ansiedad, la tensión y la inquietud nerviosa."
+  },
+  {
+    "id": 100,
+    "accion": "HIPNÓTICA",
+    "definicion": "Favorece la aparición y el mantenimiento del sueño."
+  },
+  {
+    "id": 101,
+    "accion": "HIPERTENSORA",
+    "definicion": "Favorece el aumento de una presión arterial baja."
+  },
+  {
+    "id": 102,
+    "accion": "ANTIÁCIDA",
+    "definicion": "Neutraliza o reduce la acidez excesiva del contenido gástrico."
+  },
+  {
+    "id": 103,
+    "accion": "ANTI-HELICOBACTER PYLORI",
+    "definicion": "Actúa frente a la bacteria Helicobacter pylori o dificulta su crecimiento."
+  },
+  {
+    "id": 104,
+    "accion": "ANTIHIPERTENSIVA",
+    "definicion": "Ayuda a reducir o controlar una presión arterial elevada."
+  },
+  {
+    "id": 105,
+    "accion": "SUDORÍFICA",
+    "definicion": "Favorece la producción y expulsión de sudor."
+  },
+  {
+    "id": 106,
+    "accion": "LAXANTE CATÁRTICO-ANTRAQUINÓNICO",
+    "definicion": "Ambos términos se refieren a una accion laxante intensa asociada a derivados antraquinónicos, que estimulan el tránsito y la evacuación intestinal."
+  },
+  {
+    "id": 107,
+    "accion": "ANTIDEPRESIVA",
+    "definicion": "Se atribuye capacidad para aliviar determinados síntomas relacionados con estados depresivos y favorecer el equilibrio del estado de ánimo."
+  },
+  {
+    "id": 108,
+    "accion": "ANTIRREUMÁTICA",
+    "definicion": "Ayuda a aliviar molestias asociadas a procesos reumáticos, especialmente dolor e inflamación articular."
+  },
+  {
+    "id": 109,
+    "accion": "RUBEFACIENTE",
+    "definicion": "Provoca un aumento local de la circulación sanguínea y enrojecimiento de la piel, generando una sensación de calor."
+  },
+  {
+    "id": 110,
+    "accion": "LAXANTE",
+    "definicion": "Favorece la evacuación intestinal y ayuda a combatir el estreñimiento."
+  },
+  {
+    "id": 111,
+    "accion": "AFRODISÍACA",
+    "definicion": "Se atribuye capacidad para estimular el deseo o la función sexual."
+  },
+  {
+    "id": 112,
+    "accion": "ANTIMIGRAÑOSA",
+    "definicion": "Ayuda a prevenir o aliviar los síntomas asociados a la migraña, especialmente el dolor de cabeza."
+  },
+  {
+    "id": 113,
+    "accion": "TÓNICO UTERINO",
+    "definicion": "Favorece el tono y la actividad de la musculatura uterina."
+  }
+]
