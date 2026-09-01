@@ -367,7 +367,7 @@
     "acciones": [
       "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
-      "ANTITUSIVA",
+      "ANTITUSIVA-BÉQUICA",
       "DEMULCENTE",
       "SEDANTE SUAVE"
     ],
@@ -1234,6 +1234,7 @@
     "nombreBotanico": "Desmodium ascendens",
     "acciones": [
       "ANTIHISTAMÍNICA",
+      "BRONCODILATADORA",
       "ANTIALÉRGICA",
       "ANTIINFLAMATORIA",
       "COLAGOGA",
@@ -1307,7 +1308,7 @@
       "ANTIBACTERIANA",
       "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
-      "ANTITUSIVA",
+      "ANTITUSIVA-BÉQUICA",
       "EXPECTORANTE"
     ],
     "principiosActivos": [
@@ -1334,7 +1335,7 @@
       "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "ANTIINFECCIOSA",
-      "ANTITUSIVA",
+      "ANTITUSIVA-BÉQUICA",
       "EXPECTORANTE",
       "FLUIDIFICANTE"
     ],
@@ -1583,7 +1584,7 @@
     "acciones": [
       "ANTIINFLAMATORIA",
       "BALSÁMICA",
-      "ANTITUSIVA",
+      "ANTITUSIVA-BÉQUICA",
       "EXPECTORANTE",
       "ANTISÉPTICA",
       "MUCOLÍTICA"
@@ -1635,6 +1636,7 @@
     "nombreBotanico": "Fumaria officinalis",
     "acciones": [
       "ANALGÉSICA",
+      "BRONCODILATADORA",
       "COLAGOGA",
       "COLERÉTICA",
       "DEPURATIVA HEPÁTICA",
@@ -1768,7 +1770,7 @@
     "acciones": [
       "ANTIINFLAMATORIA",
       "ANTIVIRAL",
-      "ANTITUSIVA",
+      "ANTITUSIVA-BÉQUICA",
       "DEMULCENTE",
       "EXPECTORANTE"
     ],
@@ -1905,7 +1907,7 @@
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
       "ANTIINFLAMATORIA",
-      "ANTITUSIVA",
+      "ANTITUSIVA-BÉQUICA",
       "COLAGOGA",
       "COLERÉTICA",
       "DIURÉTICA",
@@ -2155,7 +2157,7 @@
     "nombreBotanico": "Cetraria islandica",
     "acciones": [
       "ANTIINFECCIOSA",
-      "ANTITUSIVA",
+      "ANTITUSIVA-BÉQUICA",
       "DEMULCENTE",
       "EXPECTORANTE",
       "INMUNOMODULADORA"
@@ -2185,7 +2187,7 @@
       "ANTIINFECCIOSA",
       "ANTIINFLAMATORIA",
       "PROTECTORA DE LA MUCOSA",
-      "ANTITUSIVA",
+      "ANTITUSIVA-BÉQUICA",
       "CICATRIZANTE",
       "DEMULCENTE",
       "DEPURATIVA PULMONAR",
@@ -2221,7 +2223,7 @@
       "ANTIINFECCIOSA",
       "ANTIINFLAMATORIA",
       "PROTECTORA DE LA MUCOSA",
-      "ANTITUSIVA",
+      "ANTITUSIVA-BÉQUICA",
       "CICATRIZANTE",
       "DEMULCENTE",
       "DEPURATIVA PULMONAR",
@@ -2304,7 +2306,7 @@
     "nombreBotanico": "Althaea officinalis",
     "acciones": [
       "ANTIINFLAMATORIA",
-      "ANTITUSIVA",
+      "ANTITUSIVA-BÉQUICA",
       "DEMULCENTE",
       "EXPECTORANTE",
       "LAXANTE SUAVE",
@@ -3421,7 +3423,7 @@
     "nombreComun": "TILO",
     "nombreBotanico": "Tilia sp.",
     "acciones": [
-      "ANTITUSIVA",
+      "ANTITUSIVA-BÉQUICA",
       "ESPASMOLÍTICA",
       "SEDANTE SUAVE",
       "SUDORÍFICA",
@@ -3657,7 +3659,7 @@
     "nombreComun": "VIOLETA",
     "nombreBotanico": "Viola odorata",
     "acciones": [
-      "ANTITUSIVA",
+      "ANTITUSIVA-BÉQUICA",
       "DEMULCENTE",
       "EXPECTORANTE",
       "FEBRÍFUGA"
@@ -4594,7 +4596,7 @@
     "nombreBotanico": "Grindelia robusta",
     "acciones": [
       "EXPECTORANTE",
-      "ANTITUSIVA",
+      "ANTITUSIVA-BÉQUICA",
       "BRONCODILATADORA"
     ],
     "principiosActivos": [
@@ -4792,7 +4794,7 @@
     "nombreBotanico": "Tussilago farfara",
     "acciones": [
       "EXPECTORANTE",
-      "ANTITUSIVA",
+      "ANTITUSIVA-BÉQUICA",
       "DEMULCENTE"
     ],
     "principiosActivos": [
@@ -6510,7 +6512,7 @@
     "nombreBotanico": "Castanea sativa",
     "acciones": [
       "NUTRITIVA",
-      "ANTITUSIVA"
+      "ANTITUSIVA-BÉQUICA"
     ],
     "principiosActivos": [
       "Almidón",
