@@ -29,6 +29,8 @@ export function inicializarBuscador() {
  */
 function normalizar(texto) {
 
+    if (!texto) return "";
+    
     return texto
         .normalize("NFD")
         .replace(/[\u0300-\u036f]/g, "")
@@ -128,8 +130,9 @@ function buscar() {
 
     if (comando.startsWith("! ")) {
 
-        const accion = textoOriginal.slice(3).trim();
-
+        // Extraer el texto después de "! "
+        const accion = textoOriginal.slice(2).trim();
+        
         buscarAccion(accion);
 
         return;
@@ -139,7 +142,6 @@ function buscar() {
 
     // ==========================================
     // Comando !!
-    // Busca en definiciones.json
     // ==========================================
 
     if (comando === "!!") {
@@ -153,6 +155,7 @@ function buscar() {
 
     if (comando.startsWith("!! ")) {
 
+        // Extraer el texto después de "!! "
         const texto = textoOriginal.slice(3).trim();
 
         buscarDefinicion(texto);
@@ -212,6 +215,7 @@ function buscarAccion(texto) {
     // Si no es exacta, mostrar coincidencias
     // ------------------------------------------
 
+    // Pasamos el texto original, NO el normalizado
     mostrarAcciones(texto);
 
 }
@@ -224,6 +228,7 @@ function mostrarAcciones(texto) {
 
     const plantas = obtenerPlantas();
 
+    // Normalizamos el texto aquí (una sola vez)
     const busqueda = normalizar(texto);
 
     const acciones = [];
@@ -255,27 +260,57 @@ function mostrarAcciones(texto) {
 
 
     // ------------------------------------------
-    // Filtrar y ordenar por prioridad
+    // Filtrar acciones que coinciden
     // ------------------------------------------
 
-    const resultados = acciones
+    const accionesFiltradas = acciones
         .filter(accion =>
             normalizar(accion).includes(busqueda)
-        )
-        .map(accion => ({
-
-            accion,
-
-            prioridad: calcularPrioridadAccion(
-                accion,
-                busqueda
-            )
-
-        }))
-        .sort((a, b) =>
-            b.prioridad - a.prioridad
         );
 
+
+    // Si no hay texto de búsqueda, mostrar todas ordenadas alfabéticamente
+    if (busqueda === "") {
+        const resultados = accionesFiltradas
+            .sort((a, b) => {
+                const normalizadaA = normalizar(a);
+                const normalizadaB = normalizar(b);
+                return normalizadaA.localeCompare(normalizadaB);
+            });
+        
+        mostrarAccionesResultados(resultados);
+        return;
+    }
+
+
+    // Ordenar: primero las que empiezan por el texto, luego las que contienen
+    const resultados = accionesFiltradas
+        .sort((a, b) => {
+            const accionA = normalizar(a);
+            const accionB = normalizar(b);
+            
+            // Verificar si empiezan por el texto buscado
+            const empiezaA = accionA.startsWith(busqueda);
+            const empiezaB = accionB.startsWith(busqueda);
+            
+            // Si una empieza y la otra no, la que empieza va primero
+            if (empiezaA && !empiezaB) return -1;
+            if (!empiezaA && empiezaB) return 1;
+            
+            // Si ambas empiezan o ambas no empiezan, orden alfabético usando valores normalizados
+            return accionA.localeCompare(accionB);
+        });
+
+
+    mostrarAccionesResultados(resultados);
+
+}
+
+
+/**
+ * Muestra los resultados de acciones.
+ */
+function mostrarAccionesResultados(resultados) {
 
     const app = document.getElementById("app");
 
@@ -294,7 +329,7 @@ function mostrarAcciones(texto) {
     let html = "";
 
 
-    resultados.forEach(({ accion }) => {
+    resultados.forEach((accion) => {
 
         html += `
 
@@ -317,34 +352,6 @@ function mostrarAcciones(texto) {
 
 
 /**
- * Calcula la prioridad de una acción.
- */
-function calcularPrioridadAccion(accion, texto) {
-
-    const nombre = normalizar(accion);
-
-
-    // La acción empieza exactamente por lo escrito
-    if (nombre.startsWith(texto))
-        return 1000;
-
-
-    // Alguna palabra empieza por lo escrito
-    if (
-        nombre
-            .split(" ")
-            .some(palabra => palabra.startsWith(texto))
-    )
-        return 900;
-
-
-    // La acción contiene el texto
-    return 800;
-
-}
-
-
-/**
  * Busca una definición concreta.
  */
 function buscarDefinicion(texto) {
@@ -354,24 +361,31 @@ function buscarDefinicion(texto) {
     const busqueda = normalizar(texto);
 
 
-    const resultados = definiciones
+    // Primero filtramos las definiciones que coinciden
+    const filtradas = definiciones
         .filter(definicion =>
             normalizar(definicion.accion).includes(busqueda) ||
             normalizar(definicion.definicion).includes(busqueda)
-        )
-        .map(definicion => ({
+        );
 
-            definicion,
 
-            prioridad: calcularPrioridadDefinicion(
-                definicion,
-                busqueda
-            )
-
-        }))
-        .sort((a, b) =>
-            b.prioridad - a.prioridad
-        )
+    // Luego las ordenamos: primero las que empiezan por el texto, luego las que contienen
+    const resultados = filtradas
+        .sort((a, b) => {
+            const accionA = normalizar(a.accion);
+            const accionB = normalizar(b.accion);
+            
+            // Verificar si empiezan por el texto buscado
+            const empiezaA = accionA.startsWith(busqueda);
+            const empiezaB = accionB.startsWith(busqueda);
+            
+            // Si una empieza y la otra no, la que empieza va primero
+            if (empiezaA && !empiezaB) return -1;
+            if (!empiezaA && empiezaB) return 1;
+            
+            // Si ambas empiezan o ambas no empiezan, orden alfabético
+            return accionA.localeCompare(accionB);
+        })
         .slice(0, 8);
 
 
@@ -390,65 +404,48 @@ function mostrarDefiniciones(texto) {
     const busqueda = normalizar(texto);
 
 
-    const resultados = definiciones
+    // Si no hay texto de búsqueda, mostrar todas ordenadas alfabéticamente
+    if (busqueda === "") {
+        const resultados = definiciones
+            .sort((a, b) => {
+                const accionA = normalizar(a.accion);
+                const accionB = normalizar(b.accion);
+                return accionA.localeCompare(accionB);
+            });
+        
+        mostrarDefinicionesResultados(resultados);
+        return;
+    }
+
+
+    // Primero filtramos las definiciones que coinciden
+    const filtradas = definiciones
         .filter(definicion =>
             normalizar(definicion.accion).includes(busqueda) ||
             normalizar(definicion.definicion).includes(busqueda)
-        )
-        .map(definicion => ({
-
-            definicion,
-
-            prioridad: calcularPrioridadDefinicion(
-                definicion,
-                busqueda
-            )
-
-        }))
-        .sort((a, b) =>
-            b.prioridad - a.prioridad
         );
 
 
+    // Luego las ordenamos: primero las que empiezan por el texto, luego las que contienen
+    const resultados = filtradas
+        .sort((a, b) => {
+            const accionA = normalizar(a.accion);
+            const accionB = normalizar(b.accion);
+            
+            // Verificar si empiezan por el texto buscado
+            const empiezaA = accionA.startsWith(busqueda);
+            const empiezaB = accionB.startsWith(busqueda);
+            
+            // Si una empieza y la otra no, la que empieza va primero
+            if (empiezaA && !empiezaB) return -1;
+            if (!empiezaA && empiezaB) return 1;
+            
+            // Si ambas empiezan o ambas no empiezan, orden alfabético
+            return accionA.localeCompare(accionB);
+        });
+
+
     mostrarDefinicionesResultados(resultados);
-
-}
-
-
-/**
- * Calcula la prioridad de una definición.
- */
-function calcularPrioridadDefinicion(definicion, texto) {
-
-    const accion = normalizar(definicion.accion);
-    const descripcion = normalizar(definicion.definicion);
-
-
-    // La acción empieza exactamente por lo escrito
-    if (accion.startsWith(texto))
-        return 1000;
-
-
-    // Alguna palabra de la acción empieza por lo escrito
-    if (
-        accion
-            .split(/[\s-]+/)
-            .some(palabra => palabra.startsWith(texto))
-    )
-        return 900;
-
-
-    // La acción contiene el texto
-    if (accion.includes(texto))
-        return 800;
-
-
-    // La definición contiene el texto
-    if (descripcion.includes(texto))
-        return 500;
-
-
-    return 0;
 
 }
 
@@ -475,7 +472,7 @@ function mostrarDefinicionesResultados(resultados) {
     let html = "";
 
 
-    resultados.forEach(({ definicion }) => {
+    resultados.forEach((definicion) => {
 
         html += `
 
