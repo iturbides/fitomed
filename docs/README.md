@@ -1,129 +1,126 @@
 # FitoMed Database
 
-FitoMed es una aplicación web progresiva (PWA) que permite consultar una base de datos de plantas medicinales de forma rápida y eficiente, incluso sin conexión a internet.
+Base de datos fitoterapéutica ligera, de alta precisión y diseñada como Aplicación Web Progresiva (PWA) para su uso en dispositivos móviles y de escritorio, con funcionamiento offline completo.
 
-## Objetivos
+---
 
-La base de datos y la aplicación están diseñadas para cumplir los siguientes principios:
+## 🎯 Objetivos de la Aplicación
 
-- Proporcionar información fitoterapéutica científicamente contrastada cuando exista evidencia disponible.
-- Ofrecer una terminología uniforme y fácilmente comprensible.
-- Mantener una estructura sencilla que facilite el mantenimiento.
-- Priorizar la utilidad práctica frente a la acumulación indiscriminada de información.
-- Compatibilidad total con la PWA FitoMed y con FitoMed Admin.
+FitoMed tiene como objetivo principal construir una herramienta de consulta fitoterapéutica rigurosa, homogénea priorizando la utilidad y rapidez frente a la acumulación indiscriminada de datos.
 
-## Funciones principales
+La aplicación y su base de datos cumplen con los siguientes principios fundamentales:
 
-### Búsqueda de plantas
+* **Evidencia científica y tradición:** Información científicamente contrastada basada en farmacopeas oficiales y literatura científica, respetando el valor documental del uso tradicional.
+* **Terminología uniforme:** Estandarización estricta de términos, acciones y familias botánicas.
+* **Estructura sencilla y ligera:** Formato optimizado para cargas instantáneas y fácil mantenimiento.
+* **Uso offline prioritario:** Diseño enfocado en la disponibilidad continua sin necesidad de estar conectado a Internet.
 
-La búsqueda principal permite encontrar plantas medicinales por:
-- Nombre común
-- Nombre botánico
-- Acciones terapéuticas
-- Principios activos
-- Droga vegetal
-- Usos
-- Observaciones y notas
+---
 
-Los resultados se muestran ordenados por relevancia, priorizando las coincidencias exactas en el nombre común.
+## ⚡ Funciones y Comandos de Búsqueda
 
-### Búsqueda de acciones (`!`)
+FitoMed ofrece un sistema de búsqueda dinámico diseñado para facilitar tanto la consulta directa como la exploración rápida de la base de datos:
 
-El comando `!` permite buscar acciones terapéuticas de forma rápida:
+### 1. Búsqueda Principal de Plantas Medicinales (General)
+Es la función por defecto de la aplicación. Realiza un rastreo global sobre los campos clave de la base de datos: **nombre común, nombre botánico, principios activos, acciones y notas**.
 
-```text
-!              → Muestra todas las acciones ordenadas alfabéticamente
-! car          → Muestra acciones que empiezan por "car" (ej: CARMINATIVA, CARDIOTÓNICA).
+* **Listado de resultados:** Al introducir cualquier texto, la aplicación presenta un listado en tiempo real con las plantas que coinciden con el criterio ingresado.
+* **Ficha completa:** Al seleccionar una planta del listado, se abre su ficha detallada.
+* **Etiquetas interactivas:** Dentro de la ficha, los **principios activos** y las **acciones** se muestran en formato de etiquetas clicables. Al pulsar sobre cualquiera de ellas, se genera automáticamente un nuevo listado con todas las plantas que comparten esa misma acción o principio activo.
 
-Al seleccionar una acción, se listan todas las plantas que la poseen.
+### 2. Búsqueda Directa de Acciones Terapéuticas (`!`)
+Permite filtrar específicamente el catálogo por acciones o propiedades fitoterapéuticas.
 
-También es posible introducir directamente la acción completa:
+* **Búsqueda interactiva:** Al escribir `!` seguido de las primeras letras (ejemplo: `! car`), el sistema despliega sugerencias en tiempo real como `CARMINATIVA` o `CARDIOTÓNICA`.
+* **Selección directa:** Al seleccionar una opción o escribir el término completo (ejemplo: `! carminativa`), se accede de forma instantánea al listado de plantas vinculadas a esa acción.
 
-! carminativa
+### 3. Búsqueda de Definiciones (`!!`)
+Permite consultar la definición o explicación de un término, acción fitoterapéutica, principio activo o concepto médico registrado en la aplicación.
 
-En este caso se accederá directamente al listado de plantas con esa acción.
+* **Sintaxis:** Antepone un doble signo de exclamación `!!` seguido del término a consultar (ejemplos: `!! carminativa` o `!! mucílago`).
+* **Resultado:** Despliega una vista rápida con la definición editorial estandarizada del concepto, facilitando la comprensión técnica sin salir del flujo de trabajo.
 
-### Búsqueda de definiciones (!!)
+---
 
-El comando !! permite consultar el glosario de definiciones de acciones terapéuticas:
+## 📱 Cómo instalar FitoMed como PWA en tu móvil (Uso Offline)
 
-!!             → Muestra todas las definiciones ordenadas alfabéticamente
-!! anti        → Muestra definiciones que empiezan por "anti" (ej: ANTIINFLAMATORIA, ANTIOXIDANTE).
+FitoMed es una **Progressive Web App (PWA)**, lo que significa que no necesitas descargarla desde una tienda de aplicaciones (App Store o Google Play). Se puede instalar directamente desde el navegador y funciona **100% sin conexión a Internet**.
 
-Este sistema utiliza el archivo definiciones.json y proporciona una descripción clara de cada acción terapéutica.
+### En Android (Google Chrome / Samsung Internet)
+1. Abre el navegador y navega a la URL de **FitoMed**.
+2. Toca el menú de opciones (los tres puntos verticales en la esquina superior derecha).
+3. Selecciona **"Añadir a la pantalla de inicio"** (o **"Instalar aplicación"**).
+4. Confirma la instalación.
+5. El icono de FitoMed aparecerá en la pantalla de inicio de tu dispositivo móvil y funcionará como una app nativa, incluso en modo avión.
 
-### Fichas de plantas
-Cada planta dispone de una ficha completa que incluye:
+### En iOS / iPhone (Safari)
+1. Abre **Safari** y accede a la URL de **FitoMed**.
+2. Toca el botón **Compartir** (el icono de un cuadrado con una flecha apuntando hacia arriba en la barra inferior).
+3. Desplázate hacia abajo y selecciona **"Añadir a la pantalla de inicio"**.
+4. Pulsa en **"Añadir"** en la esquina superior derecha.
+5. Abre la aplicación desde el icono creado en tu pantalla de inicio.
 
--Nombre común
+---
 
--Nombre botánico
+## 📂 Registro y Estructura de Datos
 
--Acciones terapéuticas
+Cada registro de planta contenido en `plantas_medicinales.json` cuenta con la siguiente estructura estandarizada:
 
--Principios activos
+* `id`: Identificador único.
+* `nombreComun`: Denominación principal (siempre en mayúsculas).
+* `nombreBotanico`: Nombre científico aceptado.
+* `acciones`: Lista de propiedades fitoterapéuticas principales.
+* `principiosActivos`: Grupos químicos o marcadores característicos.
+* `drogaVegetal`: Parte de la planta utilizada.
+* `uso`: Formas de preparación e indicaciones principales.
+* `observacion`: Advertencias de seguridad críticas.
+* `notas`: Descripción botánica, distribución, historia y detalles complementarios.
 
--Droga vegetal
+---
 
--Usos recomendados
+## 📐 Criterios Editoriales
 
--Observaciones importantes
+Este apartado define las normas editoriales utilizadas en la elaboración y mantenimiento de la base de datos de **FitoMed**.
 
--Notas descriptivas
+### Fuentes de Referencia
+Las fuentes utilizadas se consultan siguiendo este estricto orden de prioridad:
 
-### Instalación como PWA en dispositivos móviles
-FitoMed funciona como una Progressive Web App, lo que permite instalarla en tu dispositivo móvil para usarla sin conexión a internet.
+1. Farmacopea Europea (Ph. Eur.)
+2. ESCOP (European Scientific Cooperative on Phytotherapy)
+3. EMA / HMPC (European Medicines Agency - Committee on Herbal Medicinal Products)
+4. Comisión E Alemana
+5. Literatura científica reciente revisada por pares.
 
-### En Android (Chrome)
-Abre la aplicación FitoMed en Chrome.
+*Nota:* Para determinadas plantas de uso tradicional que dispongan de menor documentación científica moderna (como las procedentes de tradiciones médicas ayurvédicas), se consideran fuentes farmacognósticas de reconocida relevancia, siempre diferenciando el uso tradicional de la evidencia clínica actual.
 
-Toca el icono de menú (tres puntos verticales) en la esquina superior derecha.
+### Normas por Campo de Registro
 
-Selecciona "Instalar aplicación" o "Añadir a la pantalla de inicio".
+* **Nombre común:** 
+  * Siempre en mayúsculas.
+  * Un único nombre principal por planta (*ej. `MANZANILLA DULCE`*).
+* **Nombre botánico:** 
+  * Se utiliza la denominación científica aceptada actualmente (*ej. `Matricaria chamomilla L.`*).
+* **Acciones:**
+  * Máximo recomendado: 10 acciones (lo habitual es entre 3 y 6).
+  * Siempre en **singular** (*ej. `Antiinflamatoria`, `Carminativa`, `Sedante`*).
+  * Ordenadas por importancia terapéutica.
+* **Principios activos:**
+  * Se incluyen únicamente los responsables de la actividad farmacológica o marcadores clave (*ej. `Flavonoides`, `Aceite esencial`, `Silimarina`*).
+* **Droga vegetal:**
+  * Terminología alineada con la Farmacopea Europea (*ej. `Raíz`, `Sumidad florida`, `Hojas`*).
+* **Uso:**
+  * Indica la forma o preparación empleada (*ej. `Infusión`, `Extracto`, `Uso externo`*).
+* **Observación:**
+  * Reservado exclusivamente para advertencias de seguridad destacadas visualmente (*ej. `Abortiva`, `Fotosensibilizante`, `Planta tóxica`*).
+* **Notas:**
+  * Apartado descriptivo más extenso (historia, cultivo, contexto botánico o tradicional).
 
-Confirma la instalación.
+### Incorporación de Nuevas Plantas
+Las nuevas especies a incorporar deben cumplir:
+* Interés fitoterapéutico reconocido.
+* Documentación suficiente sobre sus propiedades.
+* Respaldo en farmacopeas oficiales o amplio registro tradicional bien documentado.
+* Terminología strictly compatible con la base de datos.
 
-La aplicación aparecerá en tu pantalla de inicio con su propio icono.
-
-Una vez instalada, puedes abrirla directamente desde el icono y funcionará sin conexión.
-
-### En iOS (Safari)
-Abre la aplicación FitoMed en Safari.
-
-Toca el icono de compartir (cuadrado con flecha hacia arriba) en la parte inferior.
-
-Desplázate hacia abajo y selecciona "Añadir a la pantalla de inicio".
-
-Puedes editar el nombre si lo deseas y tocar "Añadir".
-
-La aplicación aparecerá en tu pantalla de inicio.
-
-Funcionará sin conexión una vez que hayas cargado los datos al menos una vez.
-
-### Ventajas de la instalación PWA
-Sin conexión: Una vez cargados los datos, puedes consultar la base de datos sin necesidad de internet.
-
-Carga rápida: La aplicación se abre casi instantáneamente.
-
-Experiencia similar a una app nativa: Pantalla completa, sin barra de navegación del navegador.
-
-Sin necesidad de descargas desde tiendas: Se instala directamente desde el navegador.
-
-### Fuentes de referencia
-Las fuentes utilizadas se consultan siguiendo el siguiente orden de prioridad:
-
-Farmacopea Europea (Ph. Eur.)
-
-ESCOP
-
-EMA (HMPC)
-
-Comisión E Alemana
-
-Literatura científica reciente revisada por pares.
-
-Cuando existen discrepancias entre diferentes fuentes, prevalecen la Farmacopea Europea, ESCOP y EMA.
-
-Para determinadas plantas de uso tradicional que disponen de menor documentación científica moderna, se consideran también fuentes tradicionales y farmacognósticas de reconocida relevancia, especialmente las tradiciones médicas ayurvédicas, diferenciando siempre el uso tradicional de la evidencia clínica actualmente disponible.
-
-
+### Filosofía del Proyecto
+FitoMed prioriza **la calidad sobre la cantidad**. Es preferible disponer de un catálogo de plantas cuidadosamente documentadas y estandarizadas que de miles de registros incompletos o inconsistentes.
