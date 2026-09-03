@@ -563,5 +563,16 @@
     "id": 113,
     "accion": "TÓNICO UTERINO",
     "definicion": "Favorece el tono y la actividad de la musculatura uterina."
+  },
+  {
+    "id": 114,
+    "accion": "AZOTÚRICA",
+    "definicion": "Plantas que crecen en suelos ricos en nitrógeno y tienen la capacidad de absorber, metabolizar y aprovechar compuestos nitrogenados de manera eficiente, a menudo utilizadas en agricultura como bioindicadoras de suelos fértiles o en alimentación por su alto contenido en proteínas y minerales."
+  },
+{
+    "id": 115,
+    "accion": "URICOSÚRICA",
+    "definicion": "Favorecen la eliminación de ácido úricco."
   }
+
 ]

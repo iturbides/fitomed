@@ -7,6 +7,7 @@
       "ANTIGOTOSA",
       "HIPOURICEMIANTE",
       "DEPURATIVA RENAL",
+      "AZOTÚRICA",
       "DIURÉTICA"
     ],
     "principiosActivos": [
@@ -1613,6 +1614,7 @@
     "nombreBotanico": "Fraxinus excelsior",
     "acciones": [
       "DEPURATIVA RENAL",
+      "ANTIINFLAMATORIA",
       "DIURÉTICA"
     ],
     "principiosActivos": [
@@ -1797,7 +1799,10 @@
     "nombreComun": "GRAMA DE LAS BOTICAS",
     "nombreBotanico": "Agropyrum repens",
     "acciones": [
-      "DIURÉTICA"
+      "DIURÉTICA",
+      "DEMULCENTE",
+      "ANTIINFLAMATORIA",
+      "ANTIINFECCIOSA"
     ],
     "principiosActivos": [
       "Flavonoides varios",
@@ -2421,6 +2426,7 @@
       "ANTIASMÁTICA",
       "ANTIINFECCIOSA",
       "BRONCODILATADORA",
+      "TÓNICO DIGESTIVO",
       "COLERÉTICA",
       "DEPURATIVA HEPÁTICA",
       "DEPURATIVA INTESTINAL",
@@ -2715,6 +2721,8 @@
       "NUTRITIVA",
       "HEMOSTÁTICA",
       "ANTIHEMORRÁGICA",
+      "AZOTÚRICA",
+      "URICOSÚRICA",
       "REMINERALIZANTE"
     ],
     "principiosActivos": [
@@ -2746,6 +2754,8 @@
     "acciones": [
       "DEPURATIVA HEPÁTICA",
       "DEPURATIVA RENAL",
+      "AZOTÚRICA",
+      "URICOSÚRICA",
       "DIURÉTICA"
     ],
     "principiosActivos": [
@@ -4085,6 +4095,7 @@
     "acciones": [
       "ANTISÉPTICA",
       "DIURÉTICA",
+      "ANTIINFLAMATORIA",
       "ANTIINFECCIOSA"
     ],
     "principiosActivos": [
@@ -4921,6 +4932,8 @@
     "acciones": [
       "DIGESTIVA",
       "SEDANTE",
+      "DEMULCENTE",
+      "ANTIINFLAMATORIA",
       "ANTIESPASMÓDICA"
     ],
     "principiosActivos": [
@@ -5180,10 +5193,12 @@
   },
   {
     "id": 193,
-    "nombreComun": "MAÍZ, ESTIGMAS",
+    "nombreComun": "MAÍZ",
     "nombreBotanico": "Zea mays",
     "acciones": [
       "DIURÉTICA",
+      "URICOSÚRICA",
+      "DEMULCENTE",
       "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
@@ -5232,6 +5247,8 @@
     "nombreBotanico": "Hieracium pilosella",
     "acciones": [
       "DIURÉTICA",
+      "AZOTÚRICA",
+      "DEMULCENTE",
       "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
