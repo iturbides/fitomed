@@ -211,6 +211,7 @@
       "COLERÉTICA",
       "DEPURATIVA HEPÁTICA",
       "HEPATOPROTECTORA",
+      "CLORÚRICA",
       "HIPOCOLESTEROLEMIANTE",
       "HIPOLIPEMIANTE"
     ],
@@ -642,6 +643,7 @@
       "ANTISÉPTICA",
       "COLAGOGA",
       "COLERÉTICA",
+      "CLORÚRICA",
       "HEPATOPROTECTORA",
       "LAXANTE SUAVE"
     ],
@@ -839,6 +841,7 @@
       "DIGESTIVA",
       "HEPATOPROTECTORA",
       "HIPOCOLESTEROLEMIANTE",
+      "CLORÚRICA",
       "DIURÉTICA"
     ],
     "principiosActivos": [
@@ -1088,6 +1091,7 @@
       "HIPOURICEMIANTE",
       "ANTILITIÁSICA",
       "DEPURATIVA RENAL",
+      "NATRIURÉTICA-SALURÉTICA",
       "DIURÉTICA",
       "NUTRITIVA",
       "HEMOSTÁTICA",
@@ -1279,6 +1283,7 @@
       "DEPURATIVA INTESTINAL",
       "DEPURATIVA RENAL",
       "DIURÉTICA",
+      "CLORÚRICA",
       "EUPÉPTICA",
       "REMINERALIZANTE",
       "TÓNICO DIGESTIVO"
@@ -2717,6 +2722,7 @@
       "DEPURATIVA RENAL",
       "DEPURATIVA GENERAL",
       "DIURÉTICA",
+      "NATRIURÉTICA-SALURÉTICA",
       "NUTRITIVA",
       "HEMOSTÁTICA",
       "ANTIHEMORRÁGICA",
@@ -4589,6 +4595,7 @@
     "acciones": [
       "DIURÉTICA",
       "ANTIINFLAMATORIA",
+      "NATRIURÉTICA-SALURÉTICA",
       "HIPOTENSORA"
     ],
     "principiosActivos": [

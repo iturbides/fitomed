@@ -567,12 +567,21 @@
   {
     "id": 114,
     "accion": "AZOTÚRICA",
-    "definicion": "Plantas que crecen en suelos ricos en nitrógeno y tienen la capacidad de absorber, metabolizar y aprovechar compuestos nitrogenados de manera eficiente, a menudo utilizadas en agricultura como bioindicadoras de suelos fértiles o en alimentación por su alto contenido en proteínas y minerales."
+    "definicion": "Plantas que crecen en suelos ricos en nitrógeno y tienen la capacidad de absorber, metabolizar y aprovechar compuestos nitrogenados de manera eficiente, a menudo utilizadas en agricultura como bioindicadoras de suelos fértiles o en alimentación por su alto contenido en proteínas y minerales. Las plantas azotúricas inducen diuresis por múltiples vías farmacológicas que actúan sobre la fisiología renal. Entre los mecanismos identificados se encuentran la inhibición de la anhidrasa carbónica, la modulación de prostaglandinas renales, la activación de la vía del óxido nítrico-cGMP y la estimulación de receptores muscarínicos."
   },
 {
     "id": 115,
     "accion": "URICOSÚRICA",
     "definicion": "Favorecen la eliminación de ácido úricco."
+  },
+{
+    "id": 116,
+    "accion": "NATRIURÉTICA-SALURÉTICA",
+    "definicion": "Que aumentan la excreción urinaria de sodio, a menudo junto con diuresis."
+  },
+{
+    "id": 117,
+    "accion": "CLORÚRICA",
+    "definicion": "Que favorecen la eliminación de cloruro en la orina; en fisiología vegetal, “plantas clorúricas” también puede usarse informalmente para especies que captan o acumulan mucho Cl."
   }
-
 ]
