@@ -8,6 +8,7 @@
       "HIPOURICEMIANTE",
       "DEPURATIVA RENAL",
       "AZOTÚRICA",
+      "ANTILITIÁSICA",
       "ANTILITIÁSICA RENAL",
       "DIURÉTICA"
     ],
@@ -3116,6 +3117,7 @@
       "DEPURATIVA HEPÁTICA",
       "DEPURATIVA RENAL",
       "DIURÉTICA",
+      "ANTILITIÁSICA",
       "ANTILITIÁSICA RENAL"
     ],
     "principiosActivos": [
@@ -3604,6 +3606,7 @@
     "nombreBotanico": "Solidago virgaurea",
     "acciones": [
       "DEPURATIVA RENAL",
+      "ANTILITIÁSICA",
       "ANTILITIÁSICA RENAL",
       "ANTIINFECCIOSA",
       "DIURÉTICA"
@@ -4152,6 +4155,7 @@
     "acciones": [
       "DIURÉTICA",
       "ANTIINFLAMATORIA",
+      "ANTILITIÁSICA",
       "ANTILITIÁSICA RENAL",
       "ANTIESPASMÓDICA"
     ],
@@ -5767,6 +5771,7 @@
     "nombreBotanico": "Citrus limon",
     "acciones": [
       "ANTISÉPTICA",
+      "ANTILITIÁSICA",
       "DIGESTIVA",
       "ANTIOXIDANTE"
     ],
@@ -7925,5 +7930,168 @@
   ],
   "observacion": "",
   "notas": "Las hojas del nogal son ricas en taninos y juglona, responsables de su acción astringente y antiséptica. Tradicionalmente se emplean tanto por vía interna en trastornos digestivos leves como en aplicaciones externas sobre la piel."
+},
+{
+  "id": 306,
+  "nombreComun": "LESPEDEZA",
+  "nombreBotanico": "Lespedeza capitata (Michx.) Bosc",
+  "acciones": [
+    "DIURÉTICA",
+    "AZOTÚRICA",
+    "HIPOAZOTEMIANTE",
+    "HIPOURICEMIANTE",
+    "HIPOCOLESTEROLEMIANTE",
+    "PROTECTORA CAPILAR"
+  ],
+  "principiosActivos": [
+    "Flavonoides (rutina)",
+    "Taninos catéquicos",
+    "Polisacáridos mucilaginosos"
+  ],
+  "drogaVegetal": [
+    "Partes aéreas floridas"
+  ],
+  "uso": [
+    "Infusión",
+    "Decocción"
+  ],
+  "observacion": "",
+  "notas": "Planta de la familia Fabaceae originaria de Norteamérica. Tradicionalmente empleada para favorecer la eliminación renal de sustancias nitrogenadas y como apoyo en casos de hiperuricemia, gota e hipercolesterolemia."
+},
+{
+  "id": 307,
+  "nombreComun": "ARENARIA ROJA, SABLINA ROJA",
+  "nombreBotanico": "Spergularia rubra (L.) J.Presl & C.Presl",
+  "acciones": [
+    "DIURÉTICA",
+    "ANTILITIÁSICA",
+    "ANTIINFECCIOSA",
+    "ANTIESPASMÓDICA"
+  ],
+  "principiosActivos": [
+    "Saponinas",
+    "Flavonoides",
+    "Sales minerales (carbonatos de sodio y potasio)"
+  ],
+  "drogaVegetal": [
+    "Planta entera florida"
+  ],
+  "uso": [
+    "Infusión",
+    "Decocción"
+  ],
+  "observacion": "",
+  "notas": "Pequeña planta herbácea de la familia Caryophyllaceae, común en suelos arenosos de Europa. Se usa tradicionalmente en afecciones de las vías urinarias, favoreciendo la eliminación de cálculos renales y aliviando espasmos de la vejiga."
+},
+{
+  "id": 308,
+  "nombreComun": "LIMONERO",
+  "nombreBotanico": "Citrus limonum Risso (Citrus limon (L.) Osbeck)",
+  "acciones": [
+    "ANTIESCORBÚTICA",
+    "ANTIOXIDANTE",
+    "VENOTÓNICA",
+    "ANTISÉPTICA"
+  ],
+  "principiosActivos": [
+    "Vitamina C (ácido ascórbico)",
+    "Ácido cítrico",
+    "Flavonoides (hesperidina, diosmina, naringina)",
+    "Aceite esencial (limoneno)"
+  ],
+  "drogaVegetal": [
+    "Fruto (zumo)",
+    "Pericarpio"
+  ],
+  "uso": [
+    "Zumo",
+    "Infusión",
+    "Uso externo"
+  ],
+  "observacion": "",
+  "notas": "Árbol de la familia Rutaceae originario de Asia. El zumo, rico en vitamina C y flavonoides, se emplea tradicionalmente para fortalecer las defensas, mejorar la circulación venosa y como antiséptico en aplicaciones externas."
+},
+{
+  "id": 309,
+  "nombreComun": "CEREZO",
+  "nombreBotanico": "Prunus avium L.",
+  "acciones": [
+    "DIURÉTICA",
+    "DEPURATIVA",
+    "ANTILITIÁSICA"
+  ],
+  "principiosActivos": [
+    "Flavonoides",
+    "Taninos",
+    "Sales de potasio",
+    "Mucílagos"
+  ],
+  "drogaVegetal": [
+    "Pedúnculos del fruto"
+  ],
+  "uso": [
+    "Infusión",
+    "Decocción"
+  ],
+  "observacion": "",
+  "notas": "Árbol de la familia Rosaceae. Los pedúnculos del fruto (rabillos de cereza) se emplean tradicionalmente en infusión para favorecer la diuresis y aliviar molestias leves de las vías urinarias, respaldados por la monografía europea de uso tradicional."
+},
+{
+  "id": 310,
+  "nombreComun": "PROPÓLEO",
+  "nombreBotanico": "Resina apícola recolectada por Apis mellifera",
+  "acciones": [
+    "ANTISÉPTICA",
+    "ANTIBACTERIANA",
+    "ANTIINFECCIOSA",
+    "ANTIVÍRICA",
+    "ANTIINFLAMATORIA",
+    "CICATRIZANTE",
+    "INMUNOESTIMULANTE"
+  ],
+  "principiosActivos": [
+    "Flavonoides (galangina, pinocembrina)",
+    "Ácidos fenólicos (ácido cafeico, CAPE)",
+    "Terpenos",
+    "Resinas y ceras"
+  ],
+  "drogaVegetal": [
+    "Própolis bruto"
+  ],
+  "uso": [
+    "Tintura",
+    "Extracto",
+    "Uso tópico/bucal"
+  ],
+  "observacion": "",
+  "notas": "Sustancia resinosa que las abejas recolectan de yemas y cortezas de árboles y transforman en la colmena. Tradicionalmente utilizado por sus propiedades antisépticas y cicatrizantes en afecciones de garganta, boca y piel, así como apoyo del sistema inmunitario."
+},
+{
+  "id": 311,
+  "nombreComun": "MIEL",
+  "nombreBotanico": "Néctar floral transformado por Apis mellifera",
+  "acciones": [
+    "ANTISÉPTICA",
+    "CICATRIZANTE",
+    "EMOLIENTE",
+    "ANTITUSÍVA",
+    "NUTRITIVA"
+  ],
+  "principiosActivos": [
+    "Azúcares (fructosa, glucosa)",
+    "Enzimas (glucosa oxidasa)",
+    "Ácidos fenólicos y flavonoides",
+    "Minerales"
+  ],
+  "drogaVegetal": [
+    "Miel"
+  ],
+  "uso": [
+    "Uso interno directo",
+    "Jarabe",
+    "Uso externo (cura de heridas)"
+  ],
+  "observacion": "",
+  "notas": "Producto elaborado por las abejas a partir del néctar de las flores. Tradicionalmente empleada como remedio suavizante de la garganta y la tos, y en uso externo para favorecer la cicatrización de heridas y quemaduras leves."
 }
 ]
