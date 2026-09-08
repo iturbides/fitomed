@@ -973,6 +973,375 @@
     "id": 195,
     "accion": "FISETINA",
     "definicion": "Flavonol presente en plantas como la fresa, la manzana o el cucurbitáceas. Tiene acción antioxidante, neuroprotectora y antiproliferativa."
+  },
+{
+    "id": 200,
+    "accion": "EMUNTORIO",
+    "definicion": "Órgano o sistema encargado de la eliminación de toxinas o desechos metabólicos del cuerpo. Los principales emuntorios son: piel (sudor), riñones (orina), hígado/vesícula biliar (bilis), pulmones (aire exhalado) e intestinos (heces). En fitoterapia, se usan plantas para estimular su función, como diuréticos (riñón) o colagogos (hígado)."
+  },
+  {
+    "id": 201,
+    "accion": "DEPURACIÓN HEPÁTICA",
+    "definicion": "Proceso de detoxificación del hígado, donde se metabolizan y eliminan sustancias tóxicas. Plantas como el cardo mariano o el rábano negro se usan para apoyarlo."
+  },
+  {
+    "id": 202,
+    "accion": "TEORÍA DE LOS HUMORES",
+    "definicion": "Sistema antiguo (Hipócrates/Galenismo) que explica la salud como el equilibrio de cuatro humores: sangre, flema, bilis amarilla y bilis negra. Las plantas se clasificaban según su capacidad para equilibrar estos humores (ej: plantas 'cálidas' como el jengibre o 'frías' como la menta)."
+  },
+  {
+    "id": 204,
+    "accion": "MERIDIANOS (MTC)",
+    "definicion": "Canales de energía (qi) en la Medicina Tradicional China por los que fluye la energía vital. Las plantas se eligen según el meridiano que necesitan equilibrar (ej: hígado, corazón, bazo)."
+  },
+  {
+    "id": 205,
+    "accion": "HOMEOSTASIS",
+    "definicion": "Equilibrio interno del organismo. Las plantas adaptógenas (como el ginseng o la ashwagandha) ayudan a mantenerlo."
+  },
+  {
+    "id": 206,
+    "accion": "METABOLISMO",
+    "definicion": "Conjunto de reacciones bioquímicas en el cuerpo. Algunas plantas lo estimulan (ej: jengibre, pimienta negra)."
+  },
+  {
+    "id": 207,
+    "accion": "INMUNOMODULACIÓN",
+    "definicion": "Regulación del sistema inmunitario. Plantas como la equinácea o el astragalus lo estimulan."
+  },
+  {
+    "id": 208,
+    "accion": "DRENAJE LINFÁTICO",
+    "definicion": "Estimulación del sistema linfático para eliminar toxinas. Plantas como la pimienta de cayena o el jengibre pueden favorecerlo."
+  },
+  {
+    "id": 209,
+    "accion": "TRANSPIRACIÓN",
+    "definicion": "Eliminación de toxinas a través del sudor. Plantas como la menta o el jengibre (en infusiones calientes) promueven la sudoración."
+  },
+  {
+    "id": 210,
+    "accion": "ÓRGANO DIANA",
+    "definicion": "Órgano o tejido sobre el que actúa preferentemente un principio activo o una planta medicinal. Ejemplo: el espino blanco actúa sobre el corazón."
+  },
+  {
+    "id": 211,
+    "accion": "CALOR/FRÍO (TEORÍA HUMORAL)",
+    "definicion": "Clasificación de plantas según su efecto en el cuerpo. Las plantas 'cálidas' (ej: jengibre, canela) estimulan o 'calientan', mientras que las 'frías' (ej: menta, aloe vera) refrescan o 'enfrían'."
+  },
+  {
+    "id": 212,
+    "accion": "HÚMEDO/SECO (TEORÍA HUMORAL)",
+    "definicion": "Clasificación de plantas según su efecto en la humedad corporal. Las plantas 'secas' (ej: salvia, romero) son astringentes y reducen humedad, mientras que las 'húmedas' (ej: malva, llantén) son emolientes e hidratan."
+  },
+  {
+    "id": 213,
+    "accion": "QI (ENERGÍA VITAL, MTC)",
+    "definicion": "Concepto de la Medicina Tradicional China que se refiere a la energía vital que fluye por los meridianos. Las plantas se usan para equilibrar o fortalecer el qi."
+  },
+  {
+    "id": 214,
+    "accion": "CINCO ELEMENTOS (MTC)",
+    "definicion": "Teoría de la MTC que clasifica los órganos y funciones del cuerpo en cinco elementos: madera, fuego, tierra, metal y agua. Cada planta se asocia a uno o más elementos según su acción."
+  },
+  {
+    "id": 215,
+    "accion": "SISTEMA NERVIOSO AUTÓNOMO",
+    "definicion": "Parte del sistema nervioso que regula funciones involuntarias como la digestión o la frecuencia cardíaca. Plantas como la valeriana actúan sobre él para relajar o estimular."
+  },
+  {
+    "id": 216,
+    "accion": "SISTEMA ENDOCRINO",
+    "definicion": "Conjunto de glándulas que producen hormonas. Plantas como el ginseng o el ashwagandha pueden modular su función."
+  },
+  {
+    "id": 217,
+    "accion": "MICROBIOTA INTESTINAL",
+    "definicion": "Conjunto de microorganismos que habitan en el intestino y son clave para la digestión y la inmunidad. Plantas como el ajo o la cúrcuma pueden influir en su equilibrio."
+  },
+  {
+    "id": 218,
+    "accion": "SISTEMA INMUNITARIO",
+    "definicion": "Sistema de defensa del cuerpo contra patógenos. Plantas como la equinácea o el astragalus lo fortalecen."
+  },
+  {
+    "id": 219,
+    "accion": "SISTEMA CIRCULATORIO",
+    "definicion": "Sistema encargado del transporte de sangre y nutrientes. Plantas como el ajo o el espino blanco actúan sobre él para mejorar la circulación."
+  },
+  {
+    "id": 220,
+    "accion": "SISTEMA RESPIRATORIO",
+    "definicion": "Sistema encargado del intercambio de gases (oxígeno y CO₂). Plantas como el eucalipto o el tomillo se usan para aliviar afecciones respiratorias."
+  },
+  {
+    "id": 221,
+    "accion": "SISTEMA DIGESTIVO",
+    "definicion": "Sistema encargado de la digestión y absorción de nutrientes. Plantas como el jengibre o la manzanilla actúan sobre él para aliviar molestias."
+  },
+  {
+    "id": 222,
+    "accion": "SISTEMA URINARIO",
+    "definicion": "Sistema encargado de la producción y eliminación de orina. Plantas como el diente de león o el ortosifón actúan como diuréticos para estimularlo."
+  },
+  {
+    "id": 223,
+    "accion": "PIEL (EMUNTORIO)",
+    "definicion": "Órgano emuntorio encargado de la eliminación de toxinas a través del sudor. Plantas como la saúco o la menta promueven la transpiración."
+  },
+  {
+    "id": 224,
+    "accion": "RIÑONES (EMUNTORIO)",
+    "definicion": "Órganos emuntorios encargados de filtrar la sangre y eliminar desechos a través de la orina. Plantas diuréticas como el diente de león actúan sobre ellos."
+  },
+  {
+    "id": 225,
+    "accion": "HÍGADO (EMUNTORIO)",
+    "definicion": "Órgano emuntorio encargado de la detoxificación y metabolismo de sustancias. Plantas colagogas como la alcachofa o el boldo actúan sobre él."
+  },
+  {
+    "id": 226,
+    "accion": "PULMONES (EMUNTORIO)",
+    "definicion": "Órganos emuntorios encargados del intercambio de gases y la eliminación de compuestos volátiles. Plantas expectorantes como el tomillo actúan sobre ellos."
+  },
+  {
+    "id": 227,
+    "accion": "INTESTINOS (EMUNTORIO)",
+    "definicion": "Parte del sistema digestivo encargada de la eliminación de desechos a través de las heces. Plantas laxantes como el sen actúan sobre ellos."
+  },
+{
+    "id": 228,
+    "accion": "BOCA (DIGESTIVO)",
+    "definicion": "Órgano inicial del sistema digestivo, donde se realiza la masticación y el inicio de la digestión de carbohidratos (gracias a la saliva). Plantas como la manzanilla o el regaliz se usan para aliviar irritaciones o inflamaciones."
+  },
+  {
+    "id": 229,
+    "accion": "ESÓFAGO (DIGESTIVO)",
+    "definicion": "Tubo muscular que conecta la boca con el estómago. Plantas como el malvavisco se usan para aliviar irritaciones o reflujo."
+  },
+  {
+    "id": 230,
+    "accion": "ESTÓMAGO (DIGESTIVO)",
+    "definicion": "Órgano donde se realiza la digestión de proteínas y grasas. Plantas como el jengibre o la menta se usan para aliviar náuseas, acidez o indigestión."
+  },
+  {
+    "id": 231,
+    "accion": "PÁNCREAS (DIGESTIVO)",
+    "definicion": "Glándula que produce enzimas digestivas (amilasa, lipasa, proteasa) y hormonas como la insulina. Plantas como el fenogreco pueden apoyar su función."
+  },
+  {
+    "id": 232,
+    "accion": "HÍGADO (DIGESTIVO)",
+    "definicion": "Órgano clave en el metabolismo, detoxificación y producción de bilis. Plantas como el cardo mariano o el boldo se usan para protegerlo o estimular su función."
+  },
+  {
+    "id": 233,
+    "accion": "VESÍCULA BILIAR (DIGESTIVO)",
+    "definicion": "Órgano que almacena y concentra la bilis producida por el hígado. Plantas colagogas como la alcachofa o el diente de león estimulan su vaciado."
+  },
+  {
+    "id": 234,
+    "accion": "INTESTINO DELGADO (DIGESTIVO)",
+    "definicion": "Parte del intestino donde se absorben la mayoría de los nutrientes. Plantas como el anís o el comino pueden aliviar molestias como gases o hinchazón."
+  },
+  {
+    "id": 235,
+    "accion": "INTESTINO GRUESO (DIGESTIVO)",
+    "definicion": "Parte final del sistema digestivo, donde se absorbe agua y se forman las heces. Plantas laxantes como el sen o el ruibarbo actúan sobre él."
+  },
+  {
+    "id": 236,
+    "accion": "RECTO (DIGESTIVO)",
+    "definicion": "Parte final del intestino grueso, donde se almacenan las heces antes de su eliminación. Plantas como el llantén pueden aliviar irritaciones."
+  },
+{
+    "id": 237,
+    "accion": "FOSES NASALES (RESPIRATORIO)",
+    "definicion": "Vías por donde entra el aire al sistema respiratorio. Plantas como el eucalipto o la menta se usan para descongestionar."
+  },
+  {
+    "id": 238,
+    "accion": "FARINGE (RESPIRATORIO)",
+    "definicion": "Conducto que conecta la nariz y la boca con la laringe. Plantas como el tomillo se usan para aliviar irritaciones o infecciones."
+  },
+  {
+    "id": 239,
+    "accion": "LARINGE (RESPIRATORIO)",
+    "definicion": "Órgano que contiene las cuerdas vocales y conecta la faringe con la tráquea. Plantas como el llantén se usan para aliviar la tos o la afonía."
+  },
+  {
+    "id": 240,
+    "accion": "TRÁQUEA (RESPIRATORIO)",
+    "definicion": "Tubo cartilaginoso que conecta la laringe con los bronquios. Plantas como el hinojo pueden aliviar irritaciones."
+  },
+  {
+    "id": 241,
+    "accion": "BRONQUIOS (RESPIRATORIO)",
+    "definicion": "Vías respiratorias que conectan la tráquea con los pulmones. Plantas expectorantes como el tomillo o el eucalipto actúan sobre ellos."
+  },
+  {
+    "id": 242,
+    "accion": "PULMONES (RESPIRATORIO)",
+    "definicion": "Órganos donde se realiza el intercambio de gases (oxígeno y CO₂). Plantas como el eucalipto o el pino se usan para aliviar afecciones respiratorias."
+  },
+  {
+    "id": 243,
+    "accion": "ALVÉOLOS PULMONARES (RESPIRATORIO)",
+    "definicion": "Estructuras microscópicas en los pulmones donde se realiza el intercambio de gases. Plantas como el eucalipto pueden ayudar a mantener su función."
+  },
+{
+    "id": 244,
+    "accion": "CORAZÓN (CIRCULATORIO)",
+    "definicion": "Órgano muscular que bombea sangre a todo el cuerpo. Plantas tonificantes cardíacas como el espino blanco o el ajo actúan sobre él."
+  },
+  {
+    "id": 245,
+    "accion": "ARTERIAS (CIRCULATORIO)",
+    "definicion": "Vasos sanguíneos que transportan sangre oxigenada desde el corazón al resto del cuerpo. Plantas como el ajo pueden mejorar su elasticidad."
+  },
+  {
+    "id": 246,
+    "accion": "VENAS (CIRCULATORIO)",
+    "definicion": "Vasos sanguíneos que transportan sangre desoxigenada de vuelta al corazón. Plantas como el ginkgo biloba pueden mejorar la circulación venosa."
+  },
+  {
+    "id": 247,
+    "accion": "CAPILARES (CIRCULATORIO)",
+    "definicion": "Vasos sanguíneos microscópicos donde se realiza el intercambio de nutrientes y desechos. Plantas como el castaño de indias pueden fortalecerlos."
+  },
+  {
+    "id": 248,
+    "accion": "SANGRE (CIRCULATORIO)",
+    "definicion": "Líquido que transporta nutrientes, oxígeno y desechos por el cuerpo. Plantas como la ortiga pueden influir en su composición (ej: aumentar la hemoglobina)."
+  },
+{
+    "id": 249,
+    "accion": "RIÑONES (URINARIO)",
+    "definicion": "Órganos que filtran la sangre para eliminar desechos y exceso de líquidos, produciendo orina. Plantas diuréticas como el diente de león o el ortosifón actúan sobre ellos."
+  },
+  {
+    "id": 250,
+    "accion": "URÉTERES (URINARIO)",
+    "definicion": "Tubos que transportan la orina desde los riñones a la vejiga. Plantas diuréticas pueden aumentar el flujo de orina a través de ellos."
+  },
+  {
+    "id": 251,
+    "accion": "VEJIGA URINARIA (URINARIO)",
+    "definicion": "Órgano que almacena la orina antes de su eliminación. Plantas como el arándano pueden prevenir infecciones en este órgano."
+  },
+  {
+    "id": 252,
+    "accion": "URETRA (URINARIO)",
+    "definicion": "Conducto por donde se elimina la orina desde la vejiga al exterior. Plantas como el arándano pueden ayudar a mantener su salud."
+  },
+{
+    "id": 253,
+    "accion": "CEREBRO (NERVIOSO)",
+    "definicion": "Órgano central del sistema nervioso, encargado de procesar información y regular funciones corporales. Plantas nootrópicas como el ginkgo biloba o el romero pueden mejorar su función cognitiva."
+  },
+  {
+    "id": 254,
+    "accion": "CEREBELO (NERVIOSO)",
+    "definicion": "Parte del cerebro encargada del equilibrio y la coordinación motora. Plantas como el ginkgo biloba pueden apoyar su función."
+  },
+  {
+    "id": 255,
+    "accion": "MÉDULA ESPINAL (NERVIOSO)",
+    "definicion": "Estructura que transmite señales nerviosas entre el cerebro y el resto del cuerpo. Plantas como la valeriana pueden actuar sobre el sistema nervioso central, que incluye la médula."
+  },
+  {
+    "id": 256,
+    "accion": "NERVIOS PERIFÉRICOS (NERVIOSO)",
+    "definicion": "Nervios que conectan el sistema nervioso central con los órganos y extremidades. Plantas como la cúrcuma pueden tener efectos antiinflamatorios en ellos."
+  },
+{
+    "id": 257,
+    "accion": "HIPÓFISIS (ENDOCRINO)",
+    "definicion": "Glándula maestra que regula otras glándulas endocrinas. Plantas adaptógenas como el ginseng pueden influir en su función."
+  },
+  {
+    "id": 258,
+    "accion": "TIROIDES (ENDOCRINO)",
+    "definicion": "Glándula que produce hormonas (T3, T4) que regulan el metabolismo. Plantas como el fucus pueden modular su actividad."
+  },
+  {
+    "id": 259,
+    "accion": "GLÁNDULAS SUPRARRENALES (ENDOCRINO)",
+    "definicion": "Glándulas que producen hormonas como el cortisol y la adrenalina, relacionadas con el estrés. Plantas adaptógenas como la ashwagandha o el rhodiola actúan sobre ellas."
+  },
+  {
+    "id": 260,
+    "accion": "PÁNCREAS (ENDOCRINO)",
+    "definicion": "Glándula que produce insulina y glucagón, hormonas que regulan el azúcar en sangre. Plantas como el fenogreco pueden apoyar su función."
+  },
+  {
+    "id": 261,
+    "accion": "OVARIOS (ENDOCRINO)",
+    "definicion": "Glándulas femeninas que producen hormonas como el estrógeno y la progesterona. Plantas como el dong quai o el trébol rojo pueden modular su función."
+  },
+  {
+    "id": 262,
+    "accion": "TESTÍCULOS (ENDOCRINO)",
+    "definicion": "Glándulas masculinas que producen testosterona. Plantas como el tribulus o el maca pueden influir en su función."
+  },
+{
+    "id": 263,
+    "accion": "GANGLIOS LINFÁTICOS (LINFÁTICO)",
+    "definicion": "Estructuras que filtran la linfa y ayudan a combatir infecciones. Plantas como el eucalipto o el jengibre pueden apoyar su función."
+  },
+  {
+    "id": 264,
+    "accion": "BAZO (LINFÁTICO)",
+    "definicion": "Órgano que filtra la sangre y forma parte del sistema inmunitario. Plantas como el astrágalo pueden fortalecer su función."
+  },
+  {
+    "id": 265,
+    "accion": "TIMO (LINFÁTICO)",
+    "definicion": "Glándula linfática que madura los linfocitos T (células inmunitarias). Plantas como el equinácea pueden apoyar el sistema inmunitario, del que forma parte."
+  },
+{
+    "id": 266,
+    "accion": "AMÍGDALAS (INMUNITARIO)",
+    "definicion": "Órganos linfáticos en la garganta que protegen contra infecciones. Plantas como el propóleo o el tomillo pueden fortalecer su función."
+  },
+  {
+    "id": 267,
+    "accion": "MÉDULA ÓSEA (INMUNITARIO)",
+    "definicion": "Teido donde se producen células inmunitarias como los linfocitos. Plantas como el astrágalo pueden apoyar la producción de células inmunitarias."
+  },
+  {
+    "id": 268,
+    "accion": "LINFOCITOS (INMUNITARIO)",
+    "definicion": "Células inmunitarias encargadas de defender el cuerpo contra patógenos. Plantas como la equinácea pueden estimular su actividad."
+  },
+{
+    "id": 269,
+    "accion": "ÚTERO (REPRODUCTOR)",
+    "definicion": "Órgano femenino donde se desarrolla el feto durante el embarazo. Plantas como el frambuesa o el dong quai pueden tonificarlo."
+  },
+  {
+    "id": 270,
+    "accion": "PRÓSTATA (REPRODUCTOR)",
+    "definicion": "Glándula masculina que produce parte del líquido seminal. Plantas como el saw palmetto pueden apoyar su salud."
+  },
+{
+    "id": 271,
+    "accion": "EPIDERMIS (TEGUMENTARIO)",
+    "definicion": "Capa externa de la piel que actúa como barrera protectora. Plantas como el aloe vera o la caléndula pueden repararla o calmarla."
+  },
+  {
+    "id": 272,
+    "accion": "DERMIS (TEGUMENTARIO)",
+    "definicion": "Capa intermedia de la piel que contiene vasos sanguíneos, nervios y glándulas. Plantas como el hamamelis pueden fortalecerla."
+  },
+  {
+    "id": 273,
+    "accion": "GLÁNDULAS SUDORÍPARAS (TEGUMENTARIO)",
+    "definicion": "Glándulas en la piel que producen sudor para regular la temperatura corporal. Plantas sudoríficas como la saúco o el jengibre estimulan su función."
+  },
+  {
+    "id": 274,
+    "accion": "GLÁNDULAS SEBÁCEAS (TEGUMENTARIO)",
+    "definicion": "Glándulas en la piel que producen sebo para lubricarla. Plantas como el romero pueden regular su actividad."
   }
-
 ]
