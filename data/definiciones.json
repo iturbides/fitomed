@@ -583,5 +583,396 @@
     "id": 117,
     "accion": "CLORÚRICA",
     "definicion": "Que favorecen la eliminación de cloruro en la orina; en fisiología vegetal, “plantas clorúricas” también puede usarse informalmente para especies que captan o acumulan mucho Cl."
+  },
+{
+    "id": 118,
+    "accion": "PRINCIPIO ACTIVO",
+    "definicion": "Sustancia o compuesto químico presente en una planta medicinal que es responsable de su acción terapéutica o farmacológica. Ejemplos: alcaloides, flavonoides, taninos, aceites esenciales."
+  },
+  {
+    "id": 119,
+    "accion": "DROGA VEGETAL",
+    "definicion": "Parte de la planta (hojas, raíces, flores, corteza, etc.) que contiene los principios activos y se utiliza con fines medicinales, ya sea fresca o seca."
+  },
+  {
+    "id": 120,
+    "accion": "TISANA",
+    "definicion": "Preparación líquida obtenida por infusión o decocción de una o varias drogas vegetales en agua, generalmente para uso interno. Se consume como bebida con fines terapéuticos o preventivos."
+  },
+  {
+    "id": 121,
+    "accion": "TINTURA",
+    "definicion": "Preparación líquida obtenida por maceración de una droga vegetal en alcohol (etanol) o una mezcla de alcohol y agua, que extrae y conserva los principios activos. Se usa en dosis de gotas."
+  },
+  {
+    "id": 122,
+    "accion": "OLEATO",
+    "definicion": "Preparación en la que los principios activos de una planta se extraen y disuelven en un aceite vegetal (como aceite de oliva o girasol), generalmente mediante maceración en caliente o frío."
+  },
+  {
+    "id": 123,
+    "accion": "JARABE",
+    "definicion": "Forma farmacéutica líquida y viscosa, generalmente azucarada, en la que se disuelven extractos vegetales o principios activos para facilitar su administración oral, especialmente en casos de tos o afecciones respiratorias."
+  },
+  {
+    "id": 124,
+    "accion": "EXTRACTO",
+    "definicion": "Concentrado de principios activos obtenido a partir de una droga vegetal mediante procesos como la maceración, percolación o evaporación del disolvente. Puede ser líquido, seco o en polvo."
+  },
+  {
+    "id": 125,
+    "accion": "PULPAS",
+    "definicion": "Preparación semisólida obtenida al triturar la parte carnosa de frutos o plantas, que conserva fibra y principios activos. Se usa tanto con fines alimenticios como medicinales."
+  },
+  {
+    "id": 126,
+    "accion": "DESTILACIÓN",
+    "definicion": "Proceso de separación de los componentes de una mezcla líquida (como plantas aromáticas) mediante evaporación y condensación selectiva, para obtener aceites esenciales o hidrolatos."
+  },
+  {
+    "id": 127,
+    "accion": "PIRÓLISIS",
+    "definicion": "Proceso de descomposición térmica de materia orgánica (como madera o plantas) en ausencia de oxígeno, que produce sustancias como carbón vegetal, alquitrán o gases, utilizados en algunos contextos tradicionales o industriales."
+  },
+  {
+    "id": 128,
+    "accion": "INFUSIÓN",
+    "definicion": "Método de preparación en el que se vierte agua hirviendo sobre la droga vegetal (generalmente hojas o flores) y se deja reposar para extraer sus principios activos. Ejemplo: té de manzanilla."
+  },
+  {
+    "id": 129,
+    "accion": "DECOCCIÓN",
+    "definicion": "Método de preparación en el que la droga vegetal (generalmente raíces, cortezas o tallos duros) se hierve en agua durante un tiempo determinado para extraer sus principios activos."
+  },
+  {
+    "id": 130,
+    "accion": "MACERACIÓN",
+    "definicion": "Proceso de extracción en frío en el que la droga vegetal se sumerge en un líquido (agua, alcohol, aceite) durante un período prolongado para disolver sus principios activos."
+  },
+  {
+    "id": 131,
+    "accion": "PERCOLACIÓN",
+    "definicion": "Técnica de extracción en la que un disolvente (como alcohol) pasa lentamente a través de una columna de droga vegetal, arrastrando los principios activos."
+  },
+  {
+    "id": 132,
+    "accion": "ACEITE ESENCIAL",
+    "definicion": "Líquido volátil y aromático obtenido por destilación o expresión de plantas aromáticas, que concentra los principios activos responsables del aroma y propiedades terapéuticas."
+  },
+  {
+    "id": 133,
+    "accion": "HIDROLATO",
+    "definicion": "Agua aromática obtenida como subproducto de la destilación de plantas para extraer aceites esenciales. Contiene trazas de principios activos y se usa en cosmética o terapias suaves."
+  },
+  {
+    "id": 134,
+    "accion": "CATAPLASMA",
+    "definicion": "Preparación semisólida de consistencia pastosa, aplicada externamente sobre la piel para aliviar inflamaciones, dolores o procesos locales. Se elabora con plantas trituradas y, a veces, arcilla o harina."
+  },
+  {
+    "id": 135,
+    "accion": "POMVADA",
+    "definicion": "Preparación semilíquida o pastosa para aplicación tópica, elaborada con plantas medicinales y excipientes como grasas o ceras, usada para aliviar afecciones cutáneas."
+  },
+  {
+    "id": 136,
+    "accion": "FITOTERAPIA",
+    "definicion": "Sistema de prevención y tratamiento de enfermedades que utiliza plantas medicinales o sus derivados, basándose en el conocimiento tradicional y científico de sus propiedades."
+  },
+  {
+    "id": 137,
+    "accion": "SINERGIA",
+    "definicion": "Efecto combinado de dos o más principios activos o plantas que potencia su acción terapéutica, siendo el resultado mayor que la suma de sus efectos individuales."
+  },
+  {
+    "id": 138,
+    "accion": "FARMACOPEA",
+    "definicion": "Conjunto de normas y estándares que regulan la preparación, uso y calidad de los medicamentos, incluyendo los de origen vegetal. Ejemplo: Farmacopea Europea."
+  },
+  {
+    "id": 139,
+    "accion": "GALÉNICA",
+    "definicion": "Rama de la farmacia que estudia las técnicas y procesos para preparar formas farmacéuticas (como tinturas, extractos o pomadas) a partir de principios activos, incluyendo los de origen vegetal."
+  },
+  {
+    "id": 140,
+    "accion": "DOSIS",
+    "definicion": "Cantidad específica de una droga vegetal o principio activo que se administra para obtener un efecto terapéutico seguro y eficaz, expresada en gramos, mililitros, gotas, etc."
+  },
+  {
+    "id": 141,
+    "accion": "TOXICIDAD",
+    "definicion": "Capacidad de una sustancia (incluyendo plantas medicinales) para causar efectos adversos o dañinos en el organismo, dependiendo de la dosis, la forma de uso o la sensibilidad individual."
+  },
+  {
+    "id": 142,
+    "accion": "CONTRAINDICACIÓN",
+    "definicion": "Situación o condición en la que el uso de una planta medicinal o principio activo está desaconsejado o prohibido por riesgo de efectos adversos graves. Ejemplo: embarazo, alergias, interacciones con medicamentos."
+  },
+  {
+    "id": 143,
+    "accion": "INTERACCIÓN",
+    "definicion": "Efecto que se produce cuando dos o más sustancias (plantas, medicamentos, alimentos) se administran simultáneamente, pudiendo potenciar, disminuir o alterar sus efectos terapéuticos o tóxicos."
+  },
+{
+    "id": 144,
+    "accion": "FLAVONOIDES",
+    "definicion": "Grupo de compuestos fenólicos presentes en plantas, con acción antioxidante, antiinflamatoria y vasoprotectora. Se clasifican en subgrupos como flavonas, flavonoles, flavanonas, isoflavonas, antocianinas y catequinas. Ejemplo: Quercetina (en cebolla), Rutina (en cítricos)."
+  },
+  {
+    "id": 145,
+    "accion": "COMPUESTOS FENÓLICOS",
+    "definicion": "Familia de metabolitos secundarios de las plantas caracterizados por poseer un anillo aromático con uno o más grupos hidroxilo. Incluyen ácidos fenólicos, flavonoides, taninos, lignanos y cumarinas. Tienen propiedades antioxidantes, antimicrobianas y antiinflamatorias."
+  },
+  {
+    "id": 146,
+    "accion": "TANINOS",
+    "definicion": "Compuestos fenólicos de alto peso molecular que se unen a proteínas, precipitándolas. Se dividen en taninos hidrolizables (como los galotaninos) y condensados (como las proantocianidinas). Tienen acción astringente, antiinflamatoria y antidiarreica. Ejemplo: Taninos en corteza de roble o té negro."
+  },
+  {
+    "id": 147,
+    "accion": "LIGNANOS",
+    "definicion": "Compuestos fenólicos formados por la unión de dos unidades de fenilpropano. Tienen propiedades antioxidantes, antitumorales y fitoestrogénicas. Ejemplo: Lignanos en lino (linaza) o en el sésamo."
+  },
+  {
+    "id": 148,
+    "accion": "CUMARINAS",
+    "definicion": "Compuestos aromáticos derivados del benzo-α-pirano, presentes en plantas como la meliloto o la angélica. Tienen propiedades anticoagulantes, antiinflamatorias y vasodilatadoras. Algunas, como la cumarina, son precursoras de anticoagulantes como la warfarina."
+  },
+  {
+    "id": 149,
+    "accion": "ALCALOIDES",
+    "definicion": "Compuestos nitrogenados de origen vegetal con actividad farmacológica intensa. Suelen tener acción analgésica, sedante, estimulante o tóxica. Ejemplo: Morfina (en amapola), cafeína (en café), atropina (en belladona)."
+  },
+  {
+    "id": 150,
+    "accion": "TERPENOS",
+    "definicion": "Compuestos formados por unidades de isopreno (C5H8). Se clasifican en monoterpenos (10 carbonos), sesquiterpenos (15 carbonos), diterpenos (20 carbonos), etc. Incluyen aceites esenciales, resinas y esteroles. Tienen propiedades antiinflamatorias, antisépticas y aromáticas. Ejemplo: Mentol (en menta), limoneno (en cítricos)."
+  },
+  {
+    "id": 151,
+    "accion": "SAPONINAS",
+    "definicion": "Glucósidos de esteroles o terpenos con propiedades tensioactivas (forman espuma en agua). Tienen acción expectorante, antiinflamatoria y hemolítica (en altas dosis). Ejemplo: Saponinas en regaliz o quillay."
+  },
+  {
+    "id": 152,
+    "accion": "GLUCÓSIDOS",
+    "definicion": "Compuestos formados por una molécula de azúcar (glucosa) unida a un aglicón (no azúcar). Se clasifican según el aglicón: glucósidos cardíacos (digitálicos), antraquinónicos (sen), cianogénicos (almendras amargas), etc. Su acción depende del aglicón liberado tras la hidrólisis."
+  },
+  {
+    "id": 153,
+    "accion": "ACEITES ESENCIALES",
+    "definicion": "Mezclas complejas de compuestos volátiles (terpenos, ésteres, aldehídos, etc.) obtenidos por destilación de plantas aromáticas. Tienen propiedades antimicrobianas, antiinflamatorias, relajantes o estimulantes. Ejemplo: Aceite esencial de lavanda (relajante), eucalipto (expectorante)."
+  },
+  {
+    "id": 154,
+    "accion": "RESINAS",
+    "definicion": "Mezclas de compuestos lipofílicos (terpenos, ésteres, ácidos resínicos) secretadas por algunas plantas. Tienen propiedades antiinflamatorias, antisépticas y cicatrizantes. Ejemplo: Resina de boswellia (incienso), mirra."
+  },
+  {
+    "id": 155,
+    "accion": "MUCÍLAGOS",
+    "definicion": "Polisacáridos hidrofílicos que forman geles al contacto con agua. Tienen acción emoliente (suavizante), laxante y protectora de mucosas. Ejemplo: Mucílagos en malva, lino o aloe vera."
+  },
+  {
+    "id": 156,
+    "accion": "ANTOCIANINAS",
+    "definicion": "Pigmentos hidrosolubles del grupo de los flavonoides, responsables de los colores rojos, morados y azules en flores y frutos. Tienen acción antioxidante y antiinflamatoria. Ejemplo: Antocianinas en arándanos, uvas o remolacha."
+  },
+  {
+    "id": 157,
+    "accion": "ISOFLAVONAS",
+    "definicion": "Subgrupo de flavonoides con estructura similar a los estrógenos, por lo que tienen acción fitoestrogénica. Se encuentran principalmente en legumbres como la soja. Ejemplo: Genisteína, daidzeína."
+  },
+  {
+    "id": 158,
+    "accion": "ÁCIDOS FENÓLICOS",
+    "definicion": "Compuestos fenólicos simples, como el ácido clorogénico o el ácido elágico, con propiedades antioxidantes y antiinflamatorias. Ejemplo: Ácido clorogénico en café, ácido elágico en granada."
+  },
+  {
+    "id": 159,
+    "accion": "FLAVONAS",
+    "definicion": "Subgrupo de flavonoides con estructura de 2-fenilcromen-4-ona. Tienen acción antioxidante y antiinflamatoria. Ejemplo: Apigenina (en manzanilla), luteolina (en apio)."
+  },
+  {
+    "id": 160,
+    "accion": "FLAVONOLES",
+    "definicion": "Subgrupo de flavonoides con un grupo hidroxilo en la posición 3 del anillo C. Son potentes antioxidantes. Ejemplo: Quercetina (en cebolla, manzana), kaempferol (en brócoli)."
+  },
+  {
+    "id": 161,
+    "accion": "FLAVANONAS",
+    "definicion": "Subgrupo de flavonoides sin doble enlace entre los carbonos 2 y 3 del anillo C. Tienen acción antioxidante y antiinflamatoria. Ejemplo: Naringenina (en pomelo), hesperidina (en naranja)."
+  },
+  {
+    "id": 162,
+    "accion": "PROANTOCIANIDINAS",
+    "definicion": "Polímeros de flavan-3-oles (como catequinas y epicatequinas) que forman parte de los taninos condensados. Tienen acción antioxidante, vasoprotectora y astringente. Ejemplo: Proantocianidinas en uvas, arándanos o corteza de pino."
+  },
+  {
+    "id": 163,
+    "accion": "CATEQUINAS",
+    "definicion": "Flavan-3-oles, un tipo de flavonoide con potente acción antioxidante. Se encuentran en alimentos como el té verde, el cacao o las uvas. Ejemplo: Epigalocatequina galato (EGCG) en té verde."
+  },
+  {
+    "id": 164,
+    "accion": "QUERCETINA",
+    "definicion": "Flavonol ampliamente distribuido en el reino vegetal, con propiedades antioxidantes, antiinflamatorias, antivirales y antihistamínicas. Ejemplo: Presente en cebolla, manzana, té, brócoli y uvas."
+  },
+  {
+    "id": 165,
+    "accion": "RUTINA",
+    "definicion": "Glucósido de quercetina (flavonol) con acción vasoprotectora, antioxidante y antiinflamatoria. Fortalece los capilares sanguíneos. Ejemplo: Presente en cítricos, trigo sarraceno y ruda."
+  },
+  {
+    "id": 166,
+    "accion": "ÁCIDO CLOROGÉNICO",
+    "definicion": "Éster del ácido caféico y el ácido quínico, presente en plantas como el café, la alcachofa o el eucomio. Tiene propiedades antioxidantes, hipoglucemiantes y hepatoprotectoras."
+  },
+  {
+    "id": 167,
+    "accion": "ÁCIDO ELÁGICO",
+    "definicion": "Compuesto fenólico presente en frutos como la granada, las fresas o las nueces. Tiene acción antioxidante, antiproliferativa y antiinflamatoria."
+  },
+  {
+    "id": 168,
+    "accion": "CURCUMINA",
+    "definicion": "Principio activo del cúrcuma (Curcuma longa), un polifenol con potentes propiedades antiinflamatorias, antioxidantes y anticancerígenas."
+  },
+  {
+    "id": 169,
+    "accion": "GINGEROL",
+    "definicion": "Compuesto fenólico responsable del sabor picante del jengibre. Tiene acción antiinflamatoria, analgésica y termogénica (aumenta la temperatura corporal)."
+  },
+  {
+    "id": 170,
+    "accion": "ALICINA",
+    "definicion": "Compuesto sulfurado presente en el ajo, con propiedades antibacterianas, antivirales, antifúngicas y cardiovasculares (reduce la presión arterial y el colesterol)."
+  },
+  {
+    "id": 171,
+    "accion": "HIPERICINA",
+    "definicion": "Compuesto presente en la hierba de San Juan (Hypericum perforatum), con propiedades antidepresivas, antivirales y antiinflamatorias. Actúa como inhibidor de la recaptación de serotonina."
+  },
+  {
+    "id": 172,
+    "accion": "SILIMARINA",
+    "definicion": "Mezcla de flavonoides (como silibina, silidianina y silicristina) presente en el cardo mariano (Silybum marianum). Tiene acción hepatoprotectora, antioxidante y regeneradora del hígado."
+  },
+  {
+    "id": 173,
+    "accion": "BERBERINA",
+    "definicion": "Alcaloide presente en plantas como la coptis, la hidrastis o el agracejo. Tiene propiedades antibacterianas, antiprotozoarias, hipoglucemiantes y cardioprotectoras."
+  },
+  {
+    "id": 174,
+    "accion": "DIGITOXINA",
+    "definicion": "Glucósido cardíaco presente en plantas del género Digitalis (como la dedalera). Tiene acción inotrópica positiva (aumenta la fuerza de contracción del corazón) y se usa en el tratamiento de la insuficiencia cardíaca."
+  },
+  {
+    "id": 175,
+    "accion": "ATROPINA",
+    "definicion": "Alcaloide tropano presente en plantas como la belladona (Atropa belladonna) o el estramonio. Tiene acción anticolinérgica (bloquea los receptores de acetilcolina), usada en medicina para dilatar la pupila o reducir secreciones."
+  },
+  {
+    "id": 176,
+    "accion": "MORFINA",
+    "definicion": "Alcaloide opioide presente en la amapola (Papaver somniferum). Es un potente analgésico narcótico, usado para aliviar el dolor intenso, pero con alto potencial de adicción."
+  },
+  {
+    "id": 177,
+    "accion": "CAFEÍNA",
+    "definicion": "Alcaloide del grupo de las xantinas, presente en el café, el té, el cacao y el guaraná. Tiene acción estimulante del sistema nervioso central, diurética y termogénica."
+  },
+  {
+    "id": 178,
+    "accion": "TEOBROMINA",
+    "definicion": "Alcaloide del grupo de las xantinas, presente en el cacao. Tiene acción estimulante suave, diurética y vasodilatadora."
+  },
+  {
+    "id": 179,
+    "accion": "ARTEMISININA",
+    "definicion": "Compuesto sesquiterpénico presente en la artemisa (Artemisia annua). Tiene acción antipalúdica (contra el parásito Plasmodium) y se usa en el tratamiento de la malaria."
+  },
+  {
+    "id": 180,
+    "accion": "PACLITAXEL",
+    "definicion": "Diterpeno presente en el tejo (Taxus brevifolia). Tiene acción antineoplásica (anticancerígena) y se usa en el tratamiento de cánceres como el de ovario, mama y pulmón."
+  },
+  {
+    "id": 181,
+    "accion": "VINCRISTINA",
+    "definicion": "Alcaloide dimérico presente en la vinca (Catharanthus roseus). Tiene acción antineoplásica y se usa en el tratamiento de leucemias y linfomas."
+  },
+  {
+    "id": 182,
+    "accion": "TAXOL",
+    "definicion": "Nombre comercial del paclitaxel, un diterpeno con acción antineoplásica. Se usa en quimioterapia para tratar diversos tipos de cáncer."
+  },
+  {
+    "id": 183,
+    "accion": "QUININA",
+    "definicion": "Alcaloide presente en la corteza del quinino (Cinchona officinalis). Tiene acción antipalúdica, antipirética (reduce la fiebre) y analgésica."
+  },
+  {
+    "id": 184,
+    "accion": "EMODINA",
+    "definicion": "Compuesto antraquinónico presente en plantas como el sen (Cassia angustifolia) o el ruibarbo. Tiene acción laxante y antiparasitaria."
+  },
+  {
+    "id": 185,
+    "accion": "SENNOSIDOS",
+    "definicion": "Glucósidos antraquinónicos presentes en el sen (Cassia angustifolia). Tienen acción laxante estimulante, usada para tratar el estreñimiento ocasional."
+  },
+  {
+    "id": 186,
+    "accion": "ALOÍNA",
+    "definicion": "Compuesto antraquinónico presente en el aloe (Aloe vera). Tiene acción laxante y purgante, aunque su uso prolongado puede ser perjudicial."
+  },
+  {
+    "id": 187,
+    "accion": "HESPERIDINA",
+    "definicion": "Flavanona glucósida presente en cítricos como la naranja. Tiene acción vasoprotectora, antioxidante y antiinflamatoria."
+  },
+  {
+    "id": 188,
+    "accion": "NARINGENINA",
+    "definicion": "Flavanona presente en el pomelo y otras frutas cítricas. Tiene acción antioxidante, antiinflamatoria y metabolizadora de grasas."
+  },
+  {
+    "id": 189,
+    "accion": "GENISTEÍNA",
+    "definicion": "Isoflavona presente en la soja y otros legumbres. Tiene acción fitoestrogénica, antioxidante y antiproliferativa."
+  },
+  {
+    "id": 190,
+    "accion": "DAIDZEÍNA",
+    "definicion": "Isoflavona presente en la soja. Tiene acción fitoestrogénica y se estudia por sus posibles beneficios en la menopausia y la salud ósea."
+  },
+  {
+    "id": 191,
+    "accion": "APIGENINA",
+    "definicion": "Flavona presente en plantas como la manzanilla, el perejil o el apio. Tiene acción antiinflamatoria, antioxidante y ansiolítica."
+  },
+  {
+    "id": 192,
+    "accion": "LUTEOLINA",
+    "definicion": "Flavona presente en plantas como el apio, la menta o el romero. Tiene acción antioxidante, antiinflamatoria y neuroprotectora."
+  },
+  {
+    "id": 193,
+    "accion": "KAEMPFEROL",
+    "definicion": "Flavonol presente en plantas como el brócoli, el té o las uvas. Tiene acción antioxidante, antiinflamatoria y cardioprotectora."
+  },
+  {
+    "id": 194,
+    "accion": "MIRICETINA",
+    "definicion": "Flavonol presente en plantas como el té, las bayas o las uvas. Tiene acción antioxidante, antiinflamatoria y antiproliferativa."
+  },
+  {
+    "id": 195,
+    "accion": "FISETINA",
+    "definicion": "Flavonol presente en plantas como la fresa, la manzana o el cucurbitáceas. Tiene acción antioxidante, neuroprotectora y antiproliferativa."
   }
+
 ]
