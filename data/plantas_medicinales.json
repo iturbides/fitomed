@@ -649,7 +649,7 @@
       "LAXANTE SUAVE"
     ],
     "principiosActivos": [
-      "Alcaloides varios",
+      "Alcaloides",
       "Aceite Esencial",
       "Flavonoides"
     ],
@@ -816,7 +816,7 @@
       "Ácidos grasos",
       "Taninos",
       "Esteroles",
-      "Alcaloides varios",
+      "Alcaloides",
       "Almidón"
     ],
     "drogaVegetal": [
@@ -959,7 +959,7 @@
     "principiosActivos": [
       "Polisacáridos",
       "Ergosterol",
-      "Proteínas varias",
+      "Proteínas",
       "Beta-glucanos"
     ],
     "drogaVegetal": [
@@ -987,7 +987,7 @@
       "Ácidos nucleicos",
       "Clorofila",
       "Minerales",
-      "Vitaminas varias"
+      "Vitaminas"
     ],
     "drogaVegetal": [
       "Alga"
@@ -1151,7 +1151,7 @@
     ],
     "principiosActivos": [
       "Cumarina simple",
-      "Alcaloides varios",
+      "Alcaloides",
       "Taninos"
     ],
     "drogaVegetal": [
@@ -1435,7 +1435,7 @@
       "Flavonoides",
       "Ácidos fenólicos",
       "Aceite Esencial",
-      "Alcaloides varios"
+      "Alcaloides"
     ],
     "drogaVegetal": [
       "Raíz",
@@ -1493,7 +1493,7 @@
       "Flavonoides",
       "Proantocianidinas",
       "Ácidos fenólicos",
-      "Triterpenos varios"
+      "Triterpenos"
     ],
     "drogaVegetal": [
       "Flor",
@@ -1522,7 +1522,7 @@
       "Lignanos",
       "Polisacáridos",
       "Ácidos orgánicos",
-      "Sesquiterpenos varios"
+      "Sesquiterpenos"
     ],
     "drogaVegetal": [
       "Baya",
@@ -1677,7 +1677,7 @@
     ],
     "principiosActivos": [
       "Iridoides",
-      "Alcaloides varios",
+      "Alcaloides",
       "Taninos",
       "Oligosacáridos",
       "Xantonas",
@@ -1732,7 +1732,7 @@
     "principiosActivos": [
       "Ginkgetina",
       "Flavonoides",
-      "Diterpenos varios"
+      "Diterpenos"
     ],
     "drogaVegetal": [
       "Hoja (seca, triturada)"
@@ -1954,7 +1954,7 @@
       "MUCOLÍTICA"
     ],
     "principiosActivos": [
-      "Alcaloides varios",
+      "Alcaloides",
       "Flavonoides",
       "Saponinas",
       "Saponinas triterpenoides"
@@ -2038,7 +2038,7 @@
       "ANTIVIRAL"
     ],
     "principiosActivos": [
-      "Diterpenos varios",
+      "Diterpenos",
       "Flavonoles",
       "Taninos"
     ],
@@ -2271,7 +2271,7 @@
     "principiosActivos": [
       "Polisacáridos",
       "Ergosterol",
-      "Proteínas varias",
+      "Proteínas",
       "Beta-glucanos"
     ],
     "drogaVegetal": [
@@ -2611,7 +2611,7 @@
     "principiosActivos": [
       "Aceite Esencial",
       "Flavonoides",
-      "Alcaloides varios"
+      "Alcaloides"
     ],
     "drogaVegetal": [
       "Azahar",
@@ -3060,7 +3060,7 @@
     ],
     "principiosActivos": [
       "Polisacáridos",
-      "Triterpenos varios",
+      "Triterpenos",
       "Ergosterol",
       "Beta-glucanos"
     ],
@@ -3202,7 +3202,7 @@
     ],
     "principiosActivos": [
       "Taninos",
-      "Alcaloides varios",
+      "Alcaloides",
       "Proantocianidinas",
       "Catequinas"
     ],
@@ -3425,7 +3425,7 @@
       "Taninos",
       "Flavonoides",
       "Esteroles",
-      "Alcaloides varios"
+      "Alcaloides"
     ],
     "drogaVegetal": [
       "Corteza"
@@ -3557,9 +3557,9 @@
       "INMUNOMODULADORA"
     ],
     "principiosActivos": [
-      "Diterpenos varios",
+      "Diterpenos",
       "Iridoides",
-      "Alcaloides varios",
+      "Alcaloides",
       "Polisacáridos"
     ],
     "drogaVegetal": [
@@ -3688,7 +3688,7 @@
       "FEBRÍFUGA"
     ],
     "principiosActivos": [
-      "Alcaloides varios",
+      "Alcaloides",
       "Flavonoides",
       "Aceite Esencial",
       "Mucílagos",
@@ -3718,7 +3718,7 @@
       "Mucílagos",
       "Polisacáridos",
       "Fibra soluble",
-      "Proteínas varias",
+      "Proteínas",
       "Ácidos grasos",
       "Iridoides"
     ],
@@ -3745,7 +3745,7 @@
       "Ácidos valerénicos",
       "Aceite Esencial",
       "Iridoides",
-      "Alcaloides varios"
+      "Alcaloides"
     ],
     "drogaVegetal": [
       "Raíz",
@@ -3772,7 +3772,7 @@
     ],
     "principiosActivos": [
       "Flavonoides",
-      "Alcaloides varios",
+      "Alcaloides",
       "Cumarina simple"
     ],
     "drogaVegetal": [
@@ -3853,7 +3853,7 @@
     "principiosActivos": [
       "Flavonoides",
       "Iridoides",
-      "Diterpenos varios"
+      "Diterpenos"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -4015,7 +4015,7 @@
     ],
     "principiosActivos": [
       "Furanocumarinas",
-      "Alcaloides varios",
+      "Alcaloides",
       "Aceite Esencial"
     ],
     "drogaVegetal": [
@@ -4282,7 +4282,7 @@
       "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
-      "Alcaloides varios",
+      "Alcaloides",
       "Saponinas",
       "Flavonoides"
     ],
@@ -4334,7 +4334,7 @@
     "principiosActivos": [
       "Saponinas",
       "Flavonoides",
-      "Alcaloides varios"
+      "Alcaloides"
     ],
     "drogaVegetal": [
       "Parte aérea"
@@ -4454,7 +4454,7 @@
       "HIPNÓTICA"
     ],
     "principiosActivos": [
-      "Alcaloides varios",
+      "Alcaloides",
       "Flavonoides",
       "Taninos"
     ],
@@ -4704,7 +4704,7 @@
     ],
     "principiosActivos": [
       "Berberina",
-      "Alcaloides varios",
+      "Alcaloides",
       "Taninos"
     ],
     "drogaVegetal": [
@@ -5340,7 +5340,7 @@
     ],
     "principiosActivos": [
       "5-HTP",
-      "Alcaloides varios",
+      "Alcaloides",
       "Taninos"
     ],
     "drogaVegetal": [
@@ -5389,7 +5389,7 @@
     ],
     "principiosActivos": [
       "Glucosinolatos",
-      "Alcaloides varios",
+      "Alcaloides",
       "Esteroles"
     ],
     "drogaVegetal": [
@@ -5557,7 +5557,7 @@
     "principiosActivos": [
       "Piperina",
       "Aceite Esencial",
-      "Alcaloides varios"
+      "Alcaloides"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -5702,7 +5702,7 @@
     "principiosActivos": [
       "Hierro (Fe)",
       "Clorofila",
-      "Vitaminas varias"
+      "Vitaminas"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -5850,7 +5850,7 @@
     "principiosActivos": [
       "Fibra soluble",
       "Potasio (K)",
-      "Vitaminas varias"
+      "Vitaminas"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -5946,8 +5946,8 @@
       "REMINERALIZANTE"
     ],
     "principiosActivos": [
-      "Proteínas varias",
-      "Vitaminas varias",
+      "Proteínas",
+      "Vitaminas",
       "Hierro (Fe)",
       "Magnesio (Mg)"
     ],
@@ -6217,7 +6217,7 @@
       "HIPOGLUCEMIANTE"
     ],
     "principiosActivos": [
-      "Alcaloides varios",
+      "Alcaloides",
       "Polisacáridos",
       "Taninos"
     ],
@@ -6507,7 +6507,7 @@
     "principiosActivos": [
       "Omega 3",
       "Ácidos grasos",
-      "Proteínas varias"
+      "Proteínas"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -6575,7 +6575,7 @@
       "HIPOLIPEMIANTE"
     ],
     "principiosActivos": [
-      "Triterpenos varios",
+      "Triterpenos",
       "Polisacáridos",
       "Aceite Esencial"
     ],
@@ -6907,7 +6907,7 @@
     "principiosActivos": [
       "Polisacáridos",
       "Melanina",
-      "Triterpenos varios"
+      "Triterpenos"
     ],
     "drogaVegetal": [
       "Cuerpo fructífero"
@@ -6978,7 +6978,7 @@
     ],
     "principiosActivos": [
       "Polisacáridos",
-      "Triterpenos varios",
+      "Triterpenos",
       "Ergosterol"
     ],
     "drogaVegetal": [
@@ -7052,7 +7052,7 @@
     ],
     "principiosActivos": [
       "Isoflavonas",
-      "Proteínas varias",
+      "Proteínas",
       "Lecitina"
     ],
     "drogaVegetal": [
@@ -7243,7 +7243,7 @@
     ],
     "principiosActivos": [
       "Aceite Esencial",
-      "Alcaloides varios",
+      "Alcaloides",
       "Taninos"
     ],
     "drogaVegetal": [
@@ -7268,7 +7268,7 @@
     ],
     "principiosActivos": [
       "Taninos",
-      "Alcaloides varios",
+      "Alcaloides",
       "Flavonoides"
     ],
     "drogaVegetal": [
@@ -7293,7 +7293,7 @@
     "principiosActivos": [
       "Saponinas",
       "Flavonoides",
-      "Alcaloides varios"
+      "Alcaloides"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -7366,7 +7366,7 @@
     "principiosActivos": [
       "Piperina",
       "Aceite Esencial",
-      "Alcaloides varios"
+      "Alcaloides"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -7557,7 +7557,7 @@
     ],
     "principiosActivos": [
       "Ácidos fenólicos",
-      "Diterpenos varios",
+      "Diterpenos",
       "Flavonoides"
     ],
     "drogaVegetal": [
@@ -7673,7 +7673,7 @@
     ],
     "principiosActivos": [
       "Berberina",
-      "Alcaloides varios",
+      "Alcaloides",
       "Taninos"
     ],
     "drogaVegetal": [
