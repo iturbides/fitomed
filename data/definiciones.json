@@ -1343,5 +1343,10 @@
     "id": 274,
     "accion": "GLÁNDULAS SEBÁCEAS (TEGUMENTARIO)",
     "definicion": "Glándulas en la piel que producen sebo para lubricarla. Plantas como el romero pueden regular su actividad."
+  },
+  {
+    "id": 275,
+    "accion": "ANTIPRURIGINOSAS",
+    "definicion": "Que ayudan a aliviar o reducir la picazón (puritos) en la piel o en las mucosas."
   }
 ]

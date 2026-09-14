@@ -2236,6 +2236,7 @@
       "ANTITUSIVA-BÉQUICA",
       "CICATRIZANTE",
       "DEMULCENTE",
+      "ANTIPRURIGINOSA",
       "DEPURATIVA PULMONAR",
       "EXPECTORANTE",
       "FLUIDIFICANTE",
@@ -2291,6 +2292,7 @@
     "acciones": [
       "ANTIINFLAMATORIA",
       "PROTECTORA DE LA MUCOSA",
+      "ANTIPRURIGINOSA",
       "LAXANTE SUAVE",
       "DEMULCENTE"
     ],
@@ -2319,6 +2321,7 @@
       "ANTITUSIVA-BÉQUICA",
       "DEMULCENTE",
       "EXPECTORANTE",
+      "ANTIPRURIGINOSA",
       "LAXANTE SUAVE",
       "HIPOGLUCEMIANTE"
     ],
@@ -2373,6 +2376,7 @@
       "ANSIOLÍTICA",
       "ANTIDIARREICA",
       "ANTIESPASMÓDICA",
+      "ANTIPRURIGINOSA",
       "ESPASMOLÍTICA",
       "ANTIINFLAMATORIA",
       "ANTIULCEROSA",
@@ -5968,6 +5972,7 @@
     "acciones": [
       "NUTRITIVA",
       "HIPOCOLESTEROLEMIANTE",
+      "ANTIPRURIGINOSA",
       "SEDANTE"
     ],
     "principiosActivos": [
@@ -7819,6 +7824,7 @@
     "acciones": [
       "LAXANTE MECÁNICO",
       "PROTECTORA DE LA MUCOSA",
+      "ANTIPRURIGINOSA",
       "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
