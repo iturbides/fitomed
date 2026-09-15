@@ -8319,6 +8319,89 @@
     ],
     "observacion": "Contiene alcaloides indólicos farmacológicamente activos. No debe confundirse con Catharanthus roseus, especie de la que proceden los alcaloides antineoplásicos vincristina y vinblastina.",
     "notas": "Pequeña planta perenne europea cuyas hojas contienen vincamina y otros alcaloides. Tradicionalmente se ha relacionado con la circulación cerebral y la función cognitiva."
-  }
-
+  },
+{
+  "id": 320,
+  "nombreComun": "GUANÁBANA",
+  "nombreBotanico": "Annona muricata L.",
+  "acciones": [
+    "ANTIOXIDANTE",
+    "ANTIDIARREICA",
+    "ANTICANCERÍGENA",
+    "HEPATOPROTECTORA",
+    "ANTIHIPERTENSIVA",
+    "ANTIINFLAMATORIA",
+    "ANTIMICROBIANA",
+    "HIPOGLUCEMIANTE"
+  ],
+  "principiosActivos": [
+    "Acetogeninas anonáceas",
+    "Flavonoides",
+    "Taninos",
+    "Alcaloides"
+  ],
+  "drogaVegetal": [
+    "Hoja"
+  ],
+  "uso": [
+    "Infusión",
+    "Decocción"
+  ],
+  "observacion": "La hoja contiene anonacina, una acetogenina con potencial efecto neurotóxico en uso prolongado o dosis elevadas; no recomendable en personas con antecedentes de trastornos del movimiento tipo parkinsoniano. Puede potenciar fármacos antihipertensivos, antidiabéticos y quimioterápicos.",
+  "notas": "Árbol tropical originario de América Central y del Sur, cuya hoja es empleada tradicionalmente en la medicina popular amazónica y caribeña por sus propiedades antioxidantes y digestivas."
+},
+{
+  "id": 321,
+  "nombreComun": "PENSAMIENTO",
+  "nombreBotanico": "Viola tricolor L.",
+  "acciones": [
+    "DEPURATIVA CUTÁNEA",
+    "ANTIINFLAMATORIA",
+    "EXPECTORANTE",
+    "ANTIOXIDANTE",
+    "ANTIPRURIGINOSA"
+  ],
+  "principiosActivos": [
+    "Flavonoides (rutina, violantina)",
+    "Saponinas",
+    "Mucílagos",
+    "Salicilato de metilo",
+    "Taninos"
+  ],
+  "drogaVegetal": [
+    "Partes aéreas floridas"
+  ],
+  "uso": [
+    "Infusión",
+    "Uso tópico"
+  ],
+  "observacion": "Se ha descrito un caso de hemólisis en un lactante con déficit de G6PD tras la ingesta de un extracto hervido de la planta, atribuido al éster metílico del ácido salicílico.",
+  "notas": "Planta herbácea europea de flores tricolores, tradicionalmente empleada por su acción depurativa en afecciones cutáneas como el eccema, el acné y la seborrea, así como expectorante en trastornos respiratorios."
+},
+{
+  "id": 322,
+  "nombreComun": "JOJOBA",
+  "nombreBotanico": "Simmondsia chinensis (Link) C.K.Schneid.",
+  "acciones": [
+    "EMOLIENTE",
+    "ANTIOXIDANTE",
+    "PROTECTORA CAPILAR"
+  ],
+  "principiosActivos": [
+    "Ceras líquidas (ésteres de ácidos grasos)",
+    "Ácido gadoleico",
+    "Ácido erúcico",
+    "Vitamina E (tocoferol)",
+    "Provitamina A"
+  ],
+  "drogaVegetal": [
+    "Semilla"
+  ],
+  "uso": [
+    "Aceite",
+    "Uso tópico"
+  ],
+  "observacion": "Uso exclusivamente externo/cosmético; no se recomienda su ingesta. No presenta propiedades fitoterapéuticas internas relevantes documentadas.",
+  "notas": "Arbusto originario de las zonas desérticas de Norteamérica (Sonora y Baja California), cuya semilla produce una cera líquida tradicionalmente usada por pueblos indígenas y ampliamente empleada hoy en cosmética por su capacidad emoliente e hidratante de piel y cabello."
+}
 ]
