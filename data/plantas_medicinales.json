@@ -147,6 +147,7 @@
       "ANTIBACTERIANA",
       "ANTIHELMÍNTICA-VERMÍFUGA",
       "ANTIINFECCIOSA",
+      "ANTIADENOMATOSA",
       "DIGESTIVA",
       "ANTIOXIDANTE",
       "ANTIVIRAL",
@@ -1194,12 +1195,13 @@
   },
   {
     "id": 44,
-    "nombreComun": "CURCUMA",
+    "nombreComun": "CÚRCUMA",
     "nombreBotanico": "Curcuma longa",
     "acciones": [
       "ANALGÉSICA",
       "ANTIAGREGANTE PLAQUETARIA",
       "ANTICANCERÍGENA",
+      "ANTIADENOMATOSA",
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
       "ANTIINFECCIOSA",
@@ -3396,6 +3398,7 @@
       "ANTIAGREGANTE PLAQUETARIA",
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
+      "ANTIADENOMATOSA",
       "BRONCODILATADORA",
       "ANTITUMORAL",
       "HIPOCOLESTEROLEMIANTE",
@@ -3636,6 +3639,7 @@
     "nombreBotanico": "Vitis vinifera",
     "acciones": [
       "ANTICANCERÍGENA",
+      "ANTIADENOMATOSA",
       "VENOTÓNICA",
       "VASOPROTECTORA"
     ],
