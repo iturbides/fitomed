@@ -1348,5 +1348,10 @@
     "id": 275,
     "accion": "ANTIPRURIGINOSAS",
     "definicion": "Que ayudan a aliviar o reducir la picazón (puritos) en la piel o en las mucosas."
+  },
+{
+    "id": 276,
+    "accion": "ANTIADENOMATOSA",
+    "definicion": "Que previene la aparición o progresión de adenomas (lesiones precursoras benignas que pueden evolucionar a cáncer)."
   }
 ]
