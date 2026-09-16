@@ -502,7 +502,7 @@ body.dark {
 
     transition: color .2s ease,
                 transform .2s ease;
-    position: fixed;
+    position: fixed; 
 
     bottom: 0;
     left: 0;
@@ -524,3 +524,5 @@ body.dark {
     transform: scale(1.15);
 
 }
+
+

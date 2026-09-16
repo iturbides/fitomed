@@ -106,6 +106,11 @@ Las nuevas especies a incorporar deben cumplir:
 FitoMed prioriza **la calidad sobre la cantidad**. Es preferible disponer de un catálogo de plantas cuidadosamente documentadas y estandarizadas que de miles de registros incompletos o inconsistentes.
 
 
+### Datos
+Plantas: 322
+Definiciones: 497
+
+
 ## 📱 Cómo instalar FitoMed como PWA en tu móvil (Uso Offline)
 
 FitoMed es una **Progressive Web App (PWA)**, lo que significa que no necesitas descargarla desde una tienda de aplicaciones (App Store o Google Play). Se puede instalar directamente desde el navegador y funciona **100% sin conexión a Internet**.
