@@ -1353,5 +1353,755 @@
     "id": 276,
     "accion": "ANTIADENOMATOSA",
     "definicion": "Que previene la aparición o progresión de adenomas (lesiones precursoras benignas que pueden evolucionar a cáncer)."
+  },
+{
+    "id": 277,
+    "accion": "GALACTAGOGA",
+    "definicion": "Favorece o estimula la producción y secreción de leche materna."
+  },
+  {
+    "id": 278,
+    "accion": "GALACTOFUGA",
+    "definicion": "Ayuda a disminuir o inhibir la producción de leche materna."
+  },
+  {
+    "id": 279,
+    "accion": "OXITÓCICA",
+    "definicion": "Estimula las contracciones del músculo uterino, favoreciendo el proceso del parto."
+  },
+  {
+    "id": 280,
+    "accion": "TOCOLÍTICA",
+    "definicion": "Inhibe o retrasa las contracciones uterinas, ayudando a frenar el parto prematuro."
+  },
+  {
+    "id": 281,
+    "accion": "NEUROPROTECTORA",
+    "definicion": "Ayuda a proteger las células nerviosas frente al daño oxidativo o degenerativo."
+  },
+  {
+    "id": 282,
+    "accion": "CARDIOPROTECTORA",
+    "definicion": "Ayuda a proteger el músculo cardíaco frente a procesos que puedan dañarlo."
+  },
+  {
+    "id": 283,
+    "accion": "NEFROPROTECTORA",
+    "definicion": "Ayuda a proteger la función y las estructuras renales frente a agentes lesivos."
+  },
+  {
+    "id": 284,
+    "accion": "OSTEOPROTECTORA",
+    "definicion": "Contribuye a mantener la densidad y la salud del tejido óseo."
+  },
+  {
+    "id": 285,
+    "accion": "CONDROPROTECTORA",
+    "definicion": "Ayuda a proteger y mantener la integridad del cartílago articular."
+  },
+  {
+    "id": 286,
+    "accion": "RADIOPROTECTORA",
+    "definicion": "Ayuda a proteger las células frente al daño producido por radiaciones ionizantes."
+  },
+  {
+    "id": 287,
+    "accion": "QUIMIOPREVENTIVA",
+    "definicion": "Ayuda a prevenir o retrasar el desarrollo de procesos cancerígenos."
+  },
+  {
+    "id": 288,
+    "accion": "ANTIPROLIFERATIVA",
+    "definicion": "Inhibe o disminuye la multiplicación excesiva de determinadas células."
+  },
+  {
+    "id": 289,
+    "accion": "ANTIANGIOGÉNICA",
+    "definicion": "Dificulta la formación de nuevos vasos sanguíneos, especialmente en tejidos tumorales."
+  },
+  {
+    "id": 290,
+    "accion": "PROAPOPTÓTICA",
+    "definicion": "Favorece la muerte celular programada de células dañadas o anómalas."
+  },
+  {
+    "id": 291,
+    "accion": "INSECTICIDA",
+    "definicion": "Actúa eliminando insectos o dificultando su desarrollo."
+  },
+  {
+    "id": 292,
+    "accion": "LARVICIDA",
+    "definicion": "Actúa eliminando larvas de insectos u otros organismos."
+  },
+  {
+    "id": 293,
+    "accion": "REPELENTE",
+    "definicion": "Ahuyenta o dificulta la aproximación de insectos u otros parásitos."
+  },
+  {
+    "id": 294,
+    "accion": "ANTIPARASITARIA",
+    "definicion": "Actúa frente a parásitos externos o internos, dificultando su desarrollo."
+  },
+  {
+    "id": 295,
+    "accion": "FOTOSENSIBILIZANTE",
+    "definicion": "Aumenta la sensibilidad de la piel frente a la exposición solar."
+  },
+  {
+    "id": 296,
+    "accion": "FOTOPROTECTORA",
+    "definicion": "Ayuda a proteger la piel frente a los efectos nocivos de la radiación solar."
+  },
+  {
+    "id": 297,
+    "accion": "QUERATOLÍTICA",
+    "definicion": "Favorece el desprendimiento de las células muertas de la capa córnea de la piel."
+  },
+  {
+    "id": 298,
+    "accion": "QUERATOPLÁSTICA",
+    "definicion": "Favorece la formación normal y ordenada de la capa córnea de la piel."
+  },
+  {
+    "id": 299,
+    "accion": "ANTISEBORREICA",
+    "definicion": "Ayuda a regular el exceso de secreción sebácea."
+  },
+  {
+    "id": 300,
+    "accion": "ANTIACNÉICA",
+    "definicion": "Ayuda a prevenir o mejorar las manifestaciones del acné."
+  },
+  {
+    "id": 301,
+    "accion": "DESPIGMENTANTE",
+    "definicion": "Ayuda a reducir o aclarar manchas y zonas de hiperpigmentación cutánea."
+  },
+  {
+    "id": 302,
+    "accion": "TRICÓGENA",
+    "definicion": "Favorece o estimula el crecimiento del cabello."
+  },
+  {
+    "id": 303,
+    "accion": "ANTIALOPÉCICA",
+    "definicion": "Ayuda a prevenir o frenar la caída del cabello."
+  },
+  {
+    "id": 304,
+    "accion": "ANTIVARICOSA",
+    "definicion": "Ayuda a mejorar el tono venoso y a prevenir o aliviar las varices."
+  },
+  {
+    "id": 305,
+    "accion": "LINFOTÓNICA",
+    "definicion": "Favorece la circulación y el drenaje de la linfa."
+  },
+  {
+    "id": 306,
+    "accion": "HEMATOPOYÉTICA",
+    "definicion": "Favorece la formación de células sanguíneas en la médula ósea."
+  },
+  {
+    "id": 307,
+    "accion": "ANTIANÉMICA",
+    "definicion": "Ayuda a prevenir o mejorar los estados de anemia."
+  },
+  {
+    "id": 308,
+    "accion": "TERMOGÉNICA",
+    "definicion": "Favorece la producción de calor corporal y el aumento del gasto energético."
+  },
+  {
+    "id": 309,
+    "accion": "SACIANTE",
+    "definicion": "Produce sensación de saciedad, ayudando a reducir la ingesta de alimentos."
+  },
+  {
+    "id": 310,
+    "accion": "PREBIÓTICA",
+    "definicion": "Favorece el desarrollo y la actividad de la microbiota intestinal beneficiosa."
+  },
+  {
+    "id": 311,
+    "accion": "EUBIÓTICA",
+    "definicion": "Ayuda a mantener o restablecer el equilibrio de la flora microbiana del organismo."
+  },
+  {
+    "id": 312,
+    "accion": "ANTIODONTÁLGICA",
+    "definicion": "Ayuda a aliviar el dolor de origen dental."
+  },
+  {
+    "id": 313,
+    "accion": "ANTIGINGIVAL",
+    "definicion": "Ayuda a prevenir o aliviar la inflamación e irritación de las encías."
+  },
+  {
+    "id": 314,
+    "accion": "ANTIHALITÓSICA",
+    "definicion": "Ayuda a reducir el mal olor del aliento."
+  },
+  {
+    "id": 315,
+    "accion": "ANTIGLAUCOMATOSA",
+    "definicion": "Ayuda a reducir la presión intraocular elevada."
+  },
+  {
+    "id": 316,
+    "accion": "MIÓTICA",
+    "definicion": "Provoca la contracción de la pupila (miosis)."
+  },
+  {
+    "id": 317,
+    "accion": "MIDRIÁTICA",
+    "definicion": "Provoca la dilatación de la pupila (midriasis)."
+  },
+  {
+    "id": 318,
+    "accion": "FITOCOMPLEJO",
+    "definicion": "Conjunto de principios activos presentes de forma natural en una planta, cuya accion conjunta puede diferir de la de sus componentes aislados."
+  },
+  {
+    "id": 319,
+    "accion": "ESTANDARIZACIÓN",
+    "definicion": "Proceso mediante el cual se ajusta un extracto vegetal a un contenido determinado de uno o varios de sus componentes activos."
+  },
+  {
+    "id": 320,
+    "accion": "FARMACOGNOSIA",
+    "definicion": "Disciplina científica que estudia las drogas vegetales y sus principios activos de origen natural."
+  },
+  {
+    "id": 321,
+    "accion": "ETNOBOTÁNICA",
+    "definicion": "Disciplina que estudia el uso tradicional de las plantas por parte de distintas culturas y comunidades."
+  },
+  {
+    "id": 322,
+    "accion": "LINIMENTO",
+    "definicion": "Preparado líquido u oleoso, generalmente para fricción, empleado por vía externa con fines analgésicos o antiinflamatorios."
+  },
+  {
+    "id": 323,
+    "accion": "UNGÜENTO",
+    "definicion": "Preparado semisólido de accion externa, elaborado con grasas o ceras, utilizado para aplicar sobre la piel."
+  },
+  {
+    "id": 324,
+    "accion": "ELIXIR",
+    "definicion": "Preparado líquido, generalmente hidroalcohólico y azucarado, utilizado para administrar por vía oral principios activos vegetales."
+  },
+  {
+    "id": 325,
+    "accion": "GARGARISMO",
+    "definicion": "Preparado líquido destinado a hacer gárgaras, empleado para tratar afecciones de la garganta."
+  },
+  {
+    "id": 326,
+    "accion": "VAHOS/INHALACIÓN",
+    "definicion": "Método de aplicación en el que se inhalan los vapores de una planta, generalmente para afecciones respiratorias."
+  },
+  {
+    "id": 327,
+    "accion": "BRONQUITIS",
+    "definicion": "Inflamación de los bronquios, generalmente de origen infeccioso, que cursa con tos, expectoración y molestias respiratorias."
+  },
+  {
+    "id": 328,
+    "accion": "ASMA",
+    "definicion": "Enfermedad respiratoria crónica caracterizada por inflamación y estrechamiento de las vías aéreas, con episodios de dificultad respiratoria y sibilancias."
+  },
+  {
+    "id": 329,
+    "accion": "RESFRIADO COMÚN",
+    "definicion": "Infección vírica leve de las vías respiratorias altas que cursa con congestión nasal, estornudos y malestar general."
+  },
+  {
+    "id": 330,
+    "accion": "GRIPE",
+    "definicion": "Infección vírica aguda de las vías respiratorias que cursa con fiebre, dolor muscular, congestión y malestar general."
+  },
+  {
+    "id": 331,
+    "accion": "SINUSITIS",
+    "definicion": "Inflamación de la mucosa de los senos paranasales, de origen infeccioso o alérgico, que provoca congestión y dolor facial."
+  },
+  {
+    "id": 332,
+    "accion": "RINITIS ALÉRGICA",
+    "definicion": "Inflamación de la mucosa nasal provocada por una reacción alérgica, con estornudos, picor y congestión nasal."
+  },
+  {
+    "id": 333,
+    "accion": "FARINGITIS",
+    "definicion": "Inflamación de la faringe que provoca dolor e irritación al tragar, generalmente de origen infeccioso."
+  },
+  {
+    "id": 334,
+    "accion": "LARINGITIS",
+    "definicion": "Inflamación de la laringe que provoca ronquera, afonía y molestias al hablar."
+  },
+  {
+    "id": 335,
+    "accion": "TOS",
+    "definicion": "Reflejo defensivo del aparato respiratorio destinado a expulsar secreciones o cuerpos extraños de las vías aéreas."
+  },
+  {
+    "id": 336,
+    "accion": "OTITIS",
+    "definicion": "Inflamación del oído, generalmente de origen infeccioso, que puede afectar al oído externo o medio."
+  },
+  {
+    "id": 337,
+    "accion": "AMIGDALITIS",
+    "definicion": "Inflamación de las amígdalas, habitualmente de origen infeccioso, que cursa con dolor de garganta y dificultad para tragar."
+  },
+  {
+    "id": 338,
+    "accion": "EPOC (ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA)",
+    "definicion": "Enfermedad respiratoria crónica caracterizada por una obstrucción progresiva y poco reversible del flujo de aire."
+  },
+  {
+    "id": 339,
+    "accion": "GASTRITIS",
+    "definicion": "Inflamación de la mucosa gástrica que puede provocar dolor, ardor y molestias digestivas."
+  },
+  {
+    "id": 340,
+    "accion": "ÚLCERA PÉPTICA",
+    "definicion": "Lesión que afecta a la mucosa del estómago o del duodeno, provocando dolor y molestias digestivas."
+  },
+  {
+    "id": 341,
+    "accion": "REFLUJO GASTROESOFÁGICO",
+    "definicion": "Ascenso del contenido gástrico hacia el esófago, que provoca ardor y molestias retroesternales."
+  },
+  {
+    "id": 342,
+    "accion": "DISPEPSIA",
+    "definicion": "Conjunto de molestias digestivas como pesadez, hinchazón o dolor abdominal tras las comidas."
+  },
+  {
+    "id": 343,
+    "accion": "ESTREÑIMIENTO",
+    "definicion": "Dificultad o disminución en la frecuencia de las evacuaciones intestinales."
+  },
+  {
+    "id": 344,
+    "accion": "DIARREA",
+    "definicion": "Aumento de la frecuencia y fluidez de las deposiciones intestinales."
+  },
+  {
+    "id": 345,
+    "accion": "SÍNDROME DEL INTESTINO IRRITABLE",
+    "definicion": "Trastorno funcional digestivo crónico que cursa con dolor abdominal y alteraciones del ritmo intestinal."
+  },
+  {
+    "id": 346,
+    "accion": "COLITIS",
+    "definicion": "Inflamación del colon que puede provocar dolor abdominal y alteraciones en las deposiciones."
+  },
+  {
+    "id": 347,
+    "accion": "HEMORROIDES",
+    "definicion": "Dilatación de las venas de la región anal o rectal, que puede provocar dolor, picor o sangrado."
+  },
+  {
+    "id": 348,
+    "accion": "FLATULENCIA",
+    "definicion": "Acumulación excesiva de gases en el tubo digestivo, con distensión y molestias abdominales."
+  },
+  {
+    "id": 349,
+    "accion": "HALITOSIS",
+    "definicion": "Mal olor persistente del aliento, habitualmente de origen bucal o digestivo."
+  },
+  {
+    "id": 350,
+    "accion": "CÁLCULOS BILIARES",
+    "definicion": "Formación de concreciones sólidas en la vesícula biliar o en las vías biliares."
+  },
+  {
+    "id": 351,
+    "accion": "HEPATITIS",
+    "definicion": "Inflamación del hígado, de origen infeccioso, tóxico u otras causas, que puede alterar su función."
+  },
+  {
+    "id": 352,
+    "accion": "CIRROSIS HEPÁTICA",
+    "definicion": "Enfermedad crónica del hígado caracterizada por la sustitución progresiva del tejido sano por tejido fibroso."
+  },
+  {
+    "id": 353,
+    "accion": "PARASITOSIS INTESTINAL",
+    "definicion": "Infestación del intestino por parásitos, que puede provocar molestias digestivas y otros síntomas."
+  },
+  {
+    "id": 354,
+    "accion": "GASTROENTERITIS",
+    "definicion": "Inflamación del estómago y del intestino, habitualmente de origen infeccioso, que cursa con diarrea y vómitos."
+  },
+  {
+    "id": 355,
+    "accion": "ACIDEZ ESTOMACAL",
+    "definicion": "Sensación de ardor en la zona del estómago o el esófago, relacionada con el exceso de ácido gástrico."
+  },
+  {
+    "id": 356,
+    "accion": "CISTITIS",
+    "definicion": "Inflamación de la vejiga urinaria, habitualmente de origen infeccioso, que provoca escozor y aumento de la frecuencia miccional."
+  },
+  {
+    "id": 357,
+    "accion": "PIELONEFRITIS",
+    "definicion": "Infección que afecta al riñón y a las vías urinarias altas, con fiebre y dolor lumbar."
+  },
+  {
+    "id": 358,
+    "accion": "CÁLCULOS RENALES",
+    "definicion": "Formación de concreciones sólidas en el riñón o en las vías urinarias, que pueden provocar dolor intenso."
+  },
+  {
+    "id": 359,
+    "accion": "INCONTINENCIA URINARIA",
+    "definicion": "Pérdida involuntaria de orina."
+  },
+  {
+    "id": 360,
+    "accion": "INFECCIÓN URINARIA",
+    "definicion": "Infección que afecta a cualquier parte del aparato urinario, habitualmente de origen bacteriano."
+  },
+  {
+    "id": 361,
+    "accion": "PROSTATITIS",
+    "definicion": "Inflamación de la próstata, de origen infeccioso o no, que puede provocar molestias urinarias y pélvicas."
+  },
+  {
+    "id": 362,
+    "accion": "HIPERPLASIA BENIGNA DE PRÓSTATA",
+    "definicion": "Aumento no canceroso del tamaño de la próstata, frecuente en varones de edad avanzada, que puede dificultar la micción."
+  },
+  {
+    "id": 363,
+    "accion": "DISMENORREA",
+    "definicion": "Dolor menstrual, habitualmente en la zona pélvica o lumbar, asociado a la menstruación."
+  },
+  {
+    "id": 364,
+    "accion": "SÍNDROME PREMENSTRUAL",
+    "definicion": "Conjunto de síntomas físicos y emocionales que aparecen antes de la menstruación."
+  },
+  {
+    "id": 365,
+    "accion": "MENOPAUSIA",
+    "definicion": "Etapa de la vida de la mujer marcada por el cese permanente de la menstruación y de la función ovárica."
+  },
+  {
+    "id": 366,
+    "accion": "VAGINITIS",
+    "definicion": "Inflamación de la mucosa vaginal, de origen infeccioso u otras causas, que puede cursar con picor y flujo anormal."
+  },
+  {
+    "id": 367,
+    "accion": "CANDIDIASIS VAGINAL",
+    "definicion": "Infección de la vagina causada por hongos del género Candida, con picor, irritación y flujo blanquecino."
+  },
+  {
+    "id": 368,
+    "accion": "AMENORREA",
+    "definicion": "Ausencia de menstruación."
+  },
+  {
+    "id": 369,
+    "accion": "MASTALGIA",
+    "definicion": "Dolor o molestia en la mama."
+  },
+  {
+    "id": 370,
+    "accion": "LEUCORREA",
+    "definicion": "Flujo vaginal blanquecino, que puede ser fisiológico o estar asociado a determinadas alteraciones."
+  },
+  {
+    "id": 371,
+    "accion": "HIPERTENSIÓN ARTERIAL",
+    "definicion": "Elevación mantenida de la presión de la sangre en las arterias por encima de los valores normales."
+  },
+  {
+    "id": 372,
+    "accion": "VARICES",
+    "definicion": "Dilatación y tortuosidad de las venas, especialmente en las piernas, debidas a un mal funcionamiento de las válvulas venosas."
+  },
+  {
+    "id": 373,
+    "accion": "INSUFICIENCIA VENOSA",
+    "definicion": "Alteración de la circulación venosa que dificulta el retorno de la sangre hacia el corazón."
+  },
+  {
+    "id": 374,
+    "accion": "ARTERIOSCLEROSIS",
+    "definicion": "Endurecimiento y pérdida de elasticidad de las paredes arteriales."
+  },
+  {
+    "id": 375,
+    "accion": "HIPERCOLESTEROLEMIA",
+    "definicion": "Elevación de los niveles de colesterol en sangre por encima de los valores considerados normales."
+  },
+  {
+    "id": 376,
+    "accion": "ARRITMIA CARDÍACA",
+    "definicion": "Alteración del ritmo normal de los latidos del corazón."
+  },
+  {
+    "id": 377,
+    "accion": "INSOMNIO",
+    "definicion": "Dificultad para conciliar o mantener el sueño de forma adecuada."
+  },
+  {
+    "id": 378,
+    "accion": "ANSIEDAD",
+    "definicion": "Estado de inquietud, nerviosismo o preocupación excesiva ante determinadas situaciones."
+  },
+  {
+    "id": 379,
+    "accion": "DEPRESIÓN",
+    "definicion": "Trastorno del estado de ánimo caracterizado por tristeza persistente, desmotivación o pérdida de interés."
+  },
+  {
+    "id": 380,
+    "accion": "MIGRAÑA",
+    "definicion": "Tipo de dolor de cabeza recurrente, a menudo intenso y pulsátil, que puede acompañarse de náuseas o sensibilidad a la luz."
+  },
+  {
+    "id": 381,
+    "accion": "CEFALEA TENSIONAL",
+    "definicion": "Dolor de cabeza de intensidad leve o moderada, asociado a tensión muscular, habitualmente en la nuca y las sienes."
+  },
+  {
+    "id": 382,
+    "accion": "ESTRÉS",
+    "definicion": "Respuesta del organismo ante situaciones de exigencia física o emocional, que puede afectar al bienestar general."
+  },
+  {
+    "id": 383,
+    "accion": "FATIGA CRÓNICA",
+    "definicion": "Sensación de cansancio intenso y persistente que no mejora con el descanso."
+  },
+  {
+    "id": 384,
+    "accion": "NEURALGIA",
+    "definicion": "Dolor intenso a lo largo del trayecto de un nervio."
+  },
+  {
+    "id": 385,
+    "accion": "VÉRTIGO",
+    "definicion": "Sensación de movimiento o giro del entorno, relacionada habitualmente con alteraciones del sistema del equilibrio."
+  },
+  {
+    "id": 386,
+    "accion": "ARTRITIS",
+    "definicion": "Inflamación de una o varias articulaciones, que provoca dolor, hinchazón y rigidez."
+  },
+  {
+    "id": 387,
+    "accion": "ARTROSIS",
+    "definicion": "Enfermedad degenerativa de las articulaciones caracterizada por el desgaste del cartílago articular."
+  },
+  {
+    "id": 388,
+    "accion": "ARTRITIS REUMATOIDE",
+    "definicion": "Enfermedad autoinmune crónica que provoca inflamación y dolor en las articulaciones."
+  },
+  {
+    "id": 389,
+    "accion": "LUMBALGIA",
+    "definicion": "Dolor localizado en la zona baja de la espalda."
+  },
+  {
+    "id": 390,
+    "accion": "CIÁTICA",
+    "definicion": "Dolor que se irradia a lo largo del trayecto del nervio ciático, generalmente desde la zona lumbar hasta la pierna."
+  },
+  {
+    "id": 391,
+    "accion": "TENDINITIS",
+    "definicion": "Inflamación de un tendón, habitualmente por sobrecarga o uso excesivo."
+  },
+  {
+    "id": 392,
+    "accion": "ESGUINCE",
+    "definicion": "Lesión de los ligamentos de una articulación producida por un movimiento brusco o forzado."
+  },
+  {
+    "id": 393,
+    "accion": "CONTRACTURA MUSCULAR",
+    "definicion": "Contracción involuntaria y sostenida de un músculo, que provoca dolor y limitación del movimiento."
+  },
+  {
+    "id": 394,
+    "accion": "GOTA",
+    "definicion": "Enfermedad metabólica caracterizada por el depósito de cristales de ácido úrico en las articulaciones, provocando dolor e inflamación."
+  },
+  {
+    "id": 395,
+    "accion": "OSTEOPOROSIS",
+    "definicion": "Enfermedad que provoca la pérdida de densidad ósea, aumentando el riesgo de fracturas."
+  },
+  {
+    "id": 396,
+    "accion": "FIBROMIALGIA",
+    "definicion": "Trastorno crónico caracterizado por dolor musculoesquelético generalizado y fatiga."
+  },
+  {
+    "id": 397,
+    "accion": "DIABETES MELLITUS TIPO 2",
+    "definicion": "Enfermedad metabólica crónica caracterizada por niveles elevados de glucosa en sangre debido a resistencia a la insulina."
+  },
+  {
+    "id": 398,
+    "accion": "OBESIDAD",
+    "definicion": "Exceso de grasa corporal que puede afectar negativamente a la salud."
+  },
+  {
+    "id": 399,
+    "accion": "HIPOTIROIDISMO",
+    "definicion": "Disminución de la actividad de la glándula tiroides, que provoca una reducción del metabolismo."
+  },
+  {
+    "id": 400,
+    "accion": "HIPERTIROIDISMO",
+    "definicion": "Aumento de la actividad de la glándula tiroides, que provoca una aceleración del metabolismo."
+  },
+  {
+    "id": 401,
+    "accion": "SÍNDROME METABÓLICO",
+    "definicion": "Conjunto de factores de riesgo (obesidad abdominal, hipertensión, alteraciones del azúcar y los lípidos) que aumentan el riesgo cardiovascular."
+  },
+  {
+    "id": 402,
+    "accion": "DISLIPIDEMIA",
+    "definicion": "Alteración de los niveles normales de lípidos (colesterol o triglicéridos) en sangre."
+  },
+  {
+    "id": 403,
+    "accion": "DERMATITIS",
+    "definicion": "Inflamación de la piel que puede cursar con enrojecimiento, picor y descamación."
+  },
+  {
+    "id": 404,
+    "accion": "ECCEMA",
+    "definicion": "Afección inflamatoria de la piel que provoca enrojecimiento, picor y, en ocasiones, formación de vesículas."
+  },
+  {
+    "id": 405,
+    "accion": "PSORIASIS",
+    "definicion": "Enfermedad crónica de la piel caracterizada por placas rojizas cubiertas de escamas blanquecinas."
+  },
+  {
+    "id": 406,
+    "accion": "ACNÉ",
+    "definicion": "Afección cutánea caracterizada por la obstrucción e inflamación de los folículos pilosebáceos, con aparición de granos y espinillas."
+  },
+  {
+    "id": 407,
+    "accion": "HERPES SIMPLE",
+    "definicion": "Infección vírica recurrente que provoca la aparición de pequeñas vesículas dolorosas, habitualmente en labios o zona genital."
+  },
+  {
+    "id": 408,
+    "accion": "HERPES ZÓSTER",
+    "definicion": "Infección vírica que provoca erupción cutánea dolorosa siguiendo el trayecto de un nervio, causada por la reactivación del virus de la varicela."
+  },
+  {
+    "id": 409,
+    "accion": "URTICARIA",
+    "definicion": "Reacción cutánea caracterizada por la aparición de ronchas rojizas y picor intenso."
+  },
+  {
+    "id": 410,
+    "accion": "MICOSIS CUTÁNEA",
+    "definicion": "Infección de la piel causada por hongos."
+  },
+  {
+    "id": 411,
+    "accion": "VERRUGAS",
+    "definicion": "Lesiones cutáneas benignas provocadas por la infección del virus del papiloma humano."
+  },
+  {
+    "id": 412,
+    "accion": "QUEMADURAS",
+    "definicion": "Lesión de la piel producida por el contacto con calor, sustancias químicas u otros agentes."
+  },
+  {
+    "id": 413,
+    "accion": "HERIDAS",
+    "definicion": "Lesión que provoca la rotura de la piel u otros tejidos."
+  },
+  {
+    "id": 414,
+    "accion": "PIE DE ATLETA",
+    "definicion": "Infección fúngica de la piel de los pies, habitualmente entre los dedos, favorecida por la humedad."
+  },
+  {
+    "id": 415,
+    "accion": "CASPA",
+    "definicion": "Descamación excesiva del cuero cabelludo."
+  },
+  {
+    "id": 416,
+    "accion": "ALOPECIA",
+    "definicion": "Pérdida total o parcial del cabello."
+  },
+  {
+    "id": 417,
+    "accion": "CANDIDIASIS ORAL",
+    "definicion": "Infección de la mucosa bucal causada por hongos del género Candida."
+  },
+  {
+    "id": 418,
+    "accion": "MONONUCLEOSIS",
+    "definicion": "Enfermedad infecciosa vírica que cursa con fiebre, cansancio intenso e inflamación de los ganglios linfáticos."
+  },
+  {
+    "id": 419,
+    "accion": "GINGIVITIS",
+    "definicion": "Inflamación de las encías, habitualmente relacionada con la acumulación de placa bacteriana."
+  },
+  {
+    "id": 420,
+    "accion": "AFTAS BUCALES",
+    "definicion": "Pequeñas úlceras dolorosas que aparecen en la mucosa de la boca."
+  },
+  {
+    "id": 421,
+    "accion": "CONJUNTIVITIS",
+    "definicion": "Inflamación de la conjuntiva ocular, de origen infeccioso, alérgico o irritativo."
+  },
+  {
+    "id": 422,
+    "accion": "BLEFARITIS",
+    "definicion": "Inflamación del borde de los párpados."
+  },
+  {
+    "id": 423,
+    "accion": "SÍNDROME DE OJO SECO",
+    "definicion": "Alteración de la lubricación ocular que provoca sequedad, picor e irritación en los ojos."
+  },
+  {
+    "id": 424,
+    "accion": "ANEMIA",
+    "definicion": "Disminución de los niveles de hemoglobina o de glóbulos rojos en sangre."
+  },
+  {
+    "id": 425,
+    "accion": "RETENCIÓN DE LÍQUIDOS",
+    "definicion": "Acumulación excesiva de líquido en los tejidos del organismo."
+  },
+  {
+    "id": 426,
+    "accion": "CELULITIS (PANICULOPATÍA EDEMATOFIBROESCLERÓTICA)",
+    "definicion": "Alteración estética de la piel provocada por cambios en el tejido adiposo subcutáneo, con aspecto de piel de naranja."
   }
 ]
