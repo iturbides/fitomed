@@ -2103,5 +2103,360 @@
     "id": 426,
     "accion": "CELULITIS (PANICULOPATÍA EDEMATOFIBROESCLERÓTICA)",
     "definicion": "Alteración estética de la piel provocada por cambios en el tejido adiposo subcutáneo, con aspecto de piel de naranja."
+  },
+  {
+    "id": 427,
+    "accion": "ENDOMETRIOSIS",
+    "definicion": "Presencia de tejido similar al endometrio fuera del útero, que puede provocar dolor pélvico y alteraciones menstruales."
+  },
+  {
+    "id": 428,
+    "accion": "SÍNDROME DE OVARIO POLIQUÍSTICO",
+    "definicion": "Trastorno hormonal frecuente en mujeres en edad fértil, caracterizado por alteraciones del ciclo menstrual y presencia de múltiples folículos ováricos."
+  },
+  {
+    "id": 429,
+    "accion": "INFERTILIDAD FEMENINA",
+    "definicion": "Dificultad de la mujer para concebir tras un periodo prolongado de búsqueda de embarazo."
+  },
+  {
+    "id": 430,
+    "accion": "GRIETAS EN EL PEZÓN",
+    "definicion": "Pequeñas lesiones en la piel del pezón, frecuentes durante la lactancia, que pueden provocar dolor."
+  },
+  {
+    "id": 431,
+    "accion": "SEQUEDAD VAGINAL",
+    "definicion": "Disminución de la lubricación natural de la mucosa vaginal, que puede causar molestias e irritación."
+  },
+  {
+    "id": 432,
+    "accion": "SOFOCOS",
+    "definicion": "Sensación repentina de calor, habitualmente en la cara y el tronco, frecuente durante la menopausia."
+  },
+  {
+    "id": 433,
+    "accion": "DISFUNCIÓN ERÉCTIL",
+    "definicion": "Dificultad para conseguir o mantener una erección adecuada para la actividad sexual."
+  },
+  {
+    "id": 434,
+    "accion": "INFERTILIDAD MASCULINA",
+    "definicion": "Dificultad del varón para lograr la fecundación, habitualmente relacionada con alteraciones en la calidad o cantidad de los espermatozoides."
+  },
+  {
+    "id": 435,
+    "accion": "ANDROPAUSIA",
+    "definicion": "Conjunto de cambios hormonales relacionados con la disminución progresiva de testosterona en el varón de edad avanzada."
+  },
+  {
+    "id": 436,
+    "accion": "CÓLICO DEL LACTANTE",
+    "definicion": "Episodios de llanto intenso y prolongado en bebés, relacionados con molestias digestivas o gases."
+  },
+  {
+    "id": 437,
+    "accion": "DERMATITIS DEL PAÑAL",
+    "definicion": "Irritación de la piel en la zona cubierta por el pañal, favorecida por la humedad y el contacto prolongado con orina o heces."
+  },
+  {
+    "id": 438,
+    "accion": "DENTICIÓN",
+    "definicion": "Proceso de erupción de los primeros dientes en bebés, que puede acompañarse de molestias en las encías e irritabilidad."
+  },
+  {
+    "id": 439,
+    "accion": "OXIUROS (ENTEROBIASIS)",
+    "definicion": "Infestación intestinal por un pequeño parásito, frecuente en la infancia, que provoca picor anal, especialmente nocturno."
+  },
+  {
+    "id": 440,
+    "accion": "ENURESIS NOCTURNA",
+    "definicion": "Emisión involuntaria de orina durante el sueño, frecuente en la infancia."
+  },
+  {
+    "id": 441,
+    "accion": "ESTREÑIMIENTO INFANTIL",
+    "definicion": "Dificultad o disminución de la frecuencia de las evacuaciones intestinales en niños."
+  },
+  {
+    "id": 442,
+    "accion": "TERRORES NOCTURNOS",
+    "definicion": "Episodios de despertar brusco durante el sueño, acompañados de miedo intenso, frecuentes en la infancia."
+  },
+  {
+    "id": 443,
+    "accion": "SABAÑONES",
+    "definicion": "Lesiones inflamatorias de la piel provocadas por la exposición al frío, habitualmente en manos y pies."
+  },
+  {
+    "id": 444,
+    "accion": "FLEBITIS",
+    "definicion": "Inflamación de una vena, que puede acompañarse de dolor, enrojecimiento e hinchazón."
+  },
+  {
+    "id": 445,
+    "accion": "EDEMA DE PIERNAS",
+    "definicion": "Acumulación de líquido en los tejidos de las piernas, que provoca hinchazón."
+  },
+  {
+    "id": 446,
+    "accion": "ROSÁCEA",
+    "definicion": "Enfermedad crónica de la piel que provoca enrojecimiento facial persistente y, en ocasiones, pequeñas lesiones similares al acné."
+  },
+  {
+    "id": 447,
+    "accion": "DERMATITIS SEBORREICA",
+    "definicion": "Inflamación de la piel en zonas con gran actividad de las glándulas sebáceas, con descamación y enrojecimiento."
+  },
+  {
+    "id": 448,
+    "accion": "ONICOMICOSIS",
+    "definicion": "Infección de las uñas causada por hongos, que provoca engrosamiento, decoloración o fragilidad."
+  },
+  {
+    "id": 449,
+    "accion": "HIPERHIDROSIS",
+    "definicion": "Sudoración excesiva más allá de la necesaria para regular la temperatura corporal."
+  },
+  {
+    "id": 450,
+    "accion": "VITÍLIGO",
+    "definicion": "Trastorno de la piel caracterizado por la aparición de manchas blancas debidas a la pérdida de pigmentación."
+  },
+  {
+    "id": 451,
+    "accion": "HERNIA DE HIATO",
+    "definicion": "Desplazamiento de parte del estómago hacia la cavidad torácica a través del diafragma, que puede favorecer el reflujo."
+  },
+  {
+    "id": 452,
+    "accion": "INTOLERANCIA A LA LACTOSA",
+    "definicion": "Dificultad para digerir la lactosa, el azúcar presente en la leche, por déficit de la enzima lactasa."
+  },
+  {
+    "id": 453,
+    "accion": "SOBRECRECIMIENTO BACTERIANO INTESTINAL (SIBO)",
+    "definicion": "Aumento excesivo de bacterias en el intestino delgado, que puede provocar hinchazón y molestias digestivas."
+  },
+  {
+    "id": 454,
+    "accion": "DISBIOSIS INTESTINAL",
+    "definicion": "Desequilibrio en la composición de la microbiota intestinal."
+  },
+  {
+    "id": 455,
+    "accion": "PERMEABILIDAD INTESTINAL AUMENTADA",
+    "definicion": "Alteración de la barrera intestinal que puede favorecer el paso de sustancias no deseadas al organismo."
+  },
+  {
+    "id": 456,
+    "accion": "NÁUSEAS DEL EMBARAZO",
+    "definicion": "Sensación de malestar y ganas de vomitar, frecuente durante los primeros meses de gestación."
+  },
+  {
+    "id": 457,
+    "accion": "MAREO/CINETOSIS",
+    "definicion": "Sensación de malestar, náuseas o vértigo provocada por el movimiento, como en viajes en coche, barco o avión."
+  },
+  {
+    "id": 458,
+    "accion": "NEUMONÍA",
+    "definicion": "Infección que provoca inflamación del tejido pulmonar, con fiebre, tos y dificultad respiratoria."
+  },
+  {
+    "id": 459,
+    "accion": "TOS FERINA",
+    "definicion": "Infección bacteriana de las vías respiratorias que provoca accesos de tos intensa y prolongada."
+  },
+  {
+    "id": 460,
+    "accion": "APNEA DEL SUEÑO",
+    "definicion": "Trastorno caracterizado por pausas repetidas en la respiración durante el sueño."
+  },
+  {
+    "id": 461,
+    "accion": "RONQUIDOS",
+    "definicion": "Ruido producido durante el sueño por la vibración de los tejidos de las vías respiratorias altas."
+  },
+  {
+    "id": 462,
+    "accion": "HIPERURICEMIA",
+    "definicion": "Elevación de los niveles de ácido úrico en sangre por encima de los valores normales."
+  },
+  {
+    "id": 463,
+    "accion": "ALERGIA ALIMENTARIA",
+    "definicion": "Reacción del sistema inmunitario frente a determinados alimentos, que puede provocar diversos síntomas."
+  },
+  {
+    "id": 464,
+    "accion": "INTOLERANCIA ALIMENTARIA",
+    "definicion": "Dificultad para digerir o procesar determinados alimentos, sin que intervenga el sistema inmunitario."
+  },
+  {
+    "id": 465,
+    "accion": "ENFERMEDAD AUTOINMUNE",
+    "definicion": "Trastorno en el que el sistema inmunitario ataca por error a los propios tejidos del organismo."
+  },
+  {
+    "id": 466,
+    "accion": "DETERIORO COGNITIVO LEVE",
+    "definicion": "Disminución de determinadas capacidades cognitivas, como la memoria, superior a la esperada por la edad pero sin llegar a la demencia."
+  },
+  {
+    "id": 467,
+    "accion": "PÉRDIDA DE MEMORIA ASOCIADA A LA EDAD",
+    "definicion": "Disminución leve de la capacidad de memoria relacionada con el envejecimiento normal."
+  },
+  {
+    "id": 468,
+    "accion": "NEUROPATÍA PERIFÉRICA",
+    "definicion": "Alteración de los nervios periféricos que puede provocar hormigueo, entumecimiento o dolor."
+  },
+  {
+    "id": 469,
+    "accion": "ENFERMEDAD DE PARKINSON",
+    "definicion": "Enfermedad neurodegenerativa que afecta al control del movimiento, provocando temblor y rigidez."
+  },
+  {
+    "id": 470,
+    "accion": "ENFERMEDAD DE ALZHEIMER",
+    "definicion": "Enfermedad neurodegenerativa que provoca deterioro progresivo de la memoria y otras funciones cognitivas."
+  },
+  {
+    "id": 471,
+    "accion": "TABAQUISMO",
+    "definicion": "Dependencia física y psicológica del consumo de tabaco."
+  },
+  {
+    "id": 472,
+    "accion": "DEPENDENCIA DEL ALCOHOL",
+    "definicion": "Consumo habitual y compulsivo de alcohol, con dificultad para controlar o abandonar su ingesta."
+  },
+  {
+    "id": 473,
+    "accion": "RESACA",
+    "definicion": "Conjunto de síntomas (dolor de cabeza, malestar, náuseas) que aparecen tras el consumo excesivo de alcohol."
+  },
+  {
+    "id": 474,
+    "accion": "JET LAG",
+    "definicion": "Alteración transitoria del ritmo biológico provocada por el desplazamiento rápido entre husos horarios."
+  },
+  {
+    "id": 475,
+    "accion": "PICADURAS DE INSECTOS",
+    "definicion": "Lesiones cutáneas provocadas por la picadura de insectos, que pueden causar picor, enrojecimiento e hinchazón."
+  },
+  {
+    "id": 476,
+    "accion": "QUEMADURAS SOLARES",
+    "definicion": "Lesión de la piel provocada por una exposición excesiva a la radiación solar."
+  },
+  {
+    "id": 477,
+    "accion": "MAL DE ALTURA",
+    "definicion": "Conjunto de síntomas (dolor de cabeza, náuseas, fatiga) provocados por la exposición a altitudes elevadas."
+  },
+  {
+    "id": 478,
+    "accion": "BRUXISMO",
+    "definicion": "Hábito involuntario de apretar o rechinar los dientes, especialmente durante el sueño."
+  },
+  {
+    "id": 479,
+    "accion": "SÍNDROME DE PIERNAS INQUIETAS",
+    "definicion": "Trastorno que provoca una necesidad urgente de mover las piernas, habitualmente por la noche, asociada a sensaciones molestas."
+  },
+  {
+    "id": 480,
+    "accion": "CALAMBRES MUSCULARES",
+    "definicion": "Contracciones involuntarias y dolorosas de uno o varios músculos."
+  },
+  {
+    "id": 481,
+    "accion": "DOLORES DE CRECIMIENTO",
+    "definicion": "Molestias musculares, habitualmente en las piernas, que aparecen en la infancia sin causa aparente."
+  },
+  {
+    "id": 482,
+    "accion": "ESTOMATITIS",
+    "definicion": "Inflamación de la mucosa de la boca."
+  },
+  {
+    "id": 483,
+    "accion": "QUEILITIS",
+    "definicion": "Inflamación de los labios, que puede cursar con sequedad, grietas o descamación."
+  },
+  {
+    "id": 484,
+    "accion": "SÍNDROME DE FATIGA POSTVIRAL",
+    "definicion": "Cansancio persistente que aparece tras haber padecido una infección vírica."
+  },
+  {
+    "id": 485,
+    "accion": "HIPOTENSIÓN ARTERIAL",
+    "definicion": "Disminución de la presión de la sangre en las arterias por debajo de los valores normales."
+  },
+  {
+    "id": 486,
+    "accion": "TAQUICARDIA",
+    "definicion": "Aumento de la frecuencia cardíaca por encima de los valores considerados normales."
+  },
+  {
+    "id": 487,
+    "accion": "PALPITACIONES",
+    "definicion": "Percepción consciente y molesta de los latidos del corazón."
+  },
+  {
+    "id": 488,
+    "accion": "VAGINOSIS BACTERIANA",
+    "definicion": "Alteración del equilibrio de la flora vaginal por un crecimiento excesivo de determinadas bacterias."
+  },
+  {
+    "id": 489,
+    "accion": "CISTITIS INTERSTICIAL",
+    "definicion": "Inflamación crónica de la vejiga urinaria que provoca dolor pélvico y molestias urinarias persistentes."
+  },
+  {
+    "id": 490,
+    "accion": "SÍNDROME DEL TÚNEL CARPIANO",
+    "definicion": "Compresión del nervio mediano a su paso por la muñeca, que provoca hormigueo y dolor en la mano."
+  },
+  {
+    "id": 491,
+    "accion": "EPICONDILITIS",
+    "definicion": "Inflamación de los tendones del codo, habitualmente por sobrecarga o movimientos repetitivos."
+  },
+  {
+    "id": 492,
+    "accion": "BURSITIS",
+    "definicion": "Inflamación de una bolsa serosa articular, que provoca dolor e hinchazón."
+  },
+  {
+    "id": 493,
+    "accion": "ESPOLÓN CALCÁNEO",
+    "definicion": "Formación ósea en el talón asociada a la inflamación de la fascia plantar, que provoca dolor al caminar."
+  },
+  {
+    "id": 494,
+    "accion": "RESISTENCIA A LA INSULINA",
+    "definicion": "Disminución de la sensibilidad de las células a la acción de la insulina."
+  },
+  {
+    "id": 495,
+    "accion": "HÍGADO GRASO (ESTEATOSIS HEPÁTICA)",
+    "definicion": "Acumulación excesiva de grasa en las células del hígado."
+  },
+  {
+    "id": 496,
+    "accion": "CRISIS DE PÁNICO",
+    "definicion": "Episodio brusco de miedo o malestar intenso, acompañado de síntomas físicos como taquicardia o dificultad para respirar."
+  },
+  {
+    "id": 497,
+    "accion": "SÍNDROME DE BURNOUT",
+    "definicion": "Estado de agotamiento físico y emocional relacionado con el estrés prolongado, especialmente laboral."
   }
 ]
