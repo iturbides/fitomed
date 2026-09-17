@@ -1131,12 +1131,12 @@
   },
   {
     "id": 234,
-    "accion": "INTESTINO DELGADO (DIGESTIVO)",
+    "accion": "INTESTINO DELGADO (DIGESTIVO - EMUNTORIO)",
     "definicion": "Parte del intestino donde se absorben la mayoría de los nutrientes. Plantas como el anís o el comino pueden aliviar molestias como gases o hinchazón."
   },
   {
     "id": 235,
-    "accion": "INTESTINO GRUESO (DIGESTIVO)",
+    "accion": "INTESTINO GRUESO (DIGESTIVO - EMUNTORIO)",
     "definicion": "Parte final del sistema digestivo, donde se absorbe agua y se forman las heces. Plantas laxantes como el sen o el ruibarbo actúan sobre él."
   },
   {
