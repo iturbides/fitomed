@@ -91,7 +91,7 @@
     "acciones": [
       "ANTIBACTERIANA",
       "ANTIDIARREICA",
-      "ANTIVIRAL",
+      "ANTIVÍRICA",
       "CICATRIZANTE",
       "HEMOSTÁTICA",
       "ANTIHEMORRÁGICA",
@@ -150,7 +150,7 @@
       "ANTIADENOMATOSA",
       "DIGESTIVA",
       "ANTIOXIDANTE",
-      "ANTIVIRAL",
+      "ANTIVÍRICA",
       "CARDIOTÓNICA",
       "HIPOGLUCEMIANTE",
       "HIPOLIPEMIANTE",
@@ -555,7 +555,7 @@
     "acciones": [
       "ADAPTÓGENA",
       "ANTIOXIDANTE",
-      "ANTIVIRAL",
+      "ANTIVÍRICA",
       "HEPATOPROTECTORA",
       "INMUNOESTIMULANTE",
       "ANTIINFLAMATORIA"
@@ -1375,7 +1375,7 @@
       "ANTIOXIDANTE",
       "HIPOGLUCEMIANTE",
       "INMUNOMODULADORA",
-      "ANTIVIRAL"
+      "ANTIVÍRICA"
     ],
     "principiosActivos": [
       "Eleuterósidos",
@@ -1428,7 +1428,7 @@
     "nombreBotanico": "Echinacea purpurea",
     "acciones": [
       "ANTIINFLAMATORIA",
-      "ANTIVIRAL",
+      "ANTIVÍRICA",
       "INMUNOMODULADORA"
     ],
     "principiosActivos": [
@@ -1752,7 +1752,7 @@
     "nombreBotanico": "Panax ginseng",
     "acciones": [
       "ANTIOXIDANTE",
-      "ANTIVIRAL",
+      "ANTIVÍRICA",
       "HIPOLIPEMIANTE",
       "INMUNOMODULADORA",
       "VASODILATADORA"
@@ -1778,7 +1778,7 @@
     "nombreBotanico": "Verbascum thapsus, V. densiflorum, V. phlomoides",
     "acciones": [
       "ANTIINFLAMATORIA",
-      "ANTIVIRAL",
+      "ANTIVÍRICA",
       "ANTITUSIVA-BÉQUICA",
       "DEMULCENTE",
       "EXPECTORANTE"
@@ -2037,7 +2037,7 @@
       "ANTIINFLAMATORIA",
       "ANTIMICROBIANA",
       "ANTIOXIDANTE",
-      "ANTIVIRAL"
+      "ANTIVÍRICA"
     ],
     "principiosActivos": [
       "Diterpenos",
@@ -2497,7 +2497,7 @@
     "nombreBotanico": "Melissa officinalis",
     "acciones": [
       "ANSIOLÍTICA",
-      "ANTIVIRAL",
+      "ANTIVÍRICA",
       "DIGESTIVA",
       "ESPASMOLÍTICA",
       "HIPNÓTICA",
@@ -2866,7 +2866,7 @@
     "nombreBotanico": "Pelargonium sidoides",
     "acciones": [
       "ANTIBACTERIANA",
-      "ANTIVIRAL",
+      "ANTIVÍRICA",
       "INMUNOMODULADORA"
     ],
     "principiosActivos": [
@@ -3059,7 +3059,7 @@
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
       "ANTIOXIDANTE",
-      "ANTIVIRAL",
+      "ANTIVÍRICA",
       "HIPOLIPEMIANTE",
       "INMUNOESTIMULANTE",
       "ANTIINFLAMATORIA"
@@ -3257,7 +3257,7 @@
       "DIAFORÉTICA",
       "FEBRÍFUGA",
       "SUDORÍFICA",
-      "ANTIVIRAL"
+      "ANTIVÍRICA"
     ],
     "principiosActivos": [
       "Aceite Esencial",
@@ -3304,7 +3304,7 @@
     "acciones": [
       "ANTIBACTERIANA",
       "ANTIHELMÍNTICA-VERMÍFUGA",
-      "ANTIVIRAL",
+      "ANTIVÍRICA",
       "INMUNOMODULADORA"
     ],
     "principiosActivos": [
@@ -3560,7 +3560,7 @@
     "nombreBotanico": "Uncaria tomentosa",
     "acciones": [
       "ANTIINFLAMATORIA",
-      "ANTIVIRAL",
+      "ANTIVÍRICA",
       "INMUNOMODULADORA"
     ],
     "principiosActivos": [
@@ -4532,6 +4532,9 @@
     "nombreBotanico": "Vaccinium macrocarpon",
     "acciones": [
       "ANTIINFECCIOSA",
+      "ANTIINFLAMATORIA",
+      "ANTICANCERÍGENA",
+      "ANTIMICROBIANA",
       "ANTIOXIDANTE"
     ],
     "principiosActivos": [
