@@ -2433,5 +2433,245 @@
     "id": 497,
     "accion": "SÍNDROME DE BURNOUT",
     "definicion": "Estado de agotamiento físico y emocional relacionado con el estrés prolongado, especialmente laboral."
+  },
+  {
+    "id": 498,
+    "accion": "RAÍZ",
+    "definicion": "Órgano subterráneo de la planta encargado de la fijación al sustrato y de la absorción de agua y nutrientes minerales."
+  },
+  {
+    "id": 499,
+    "accion": "RIZOMA",
+    "definicion": "Tallo subterráneo, generalmente horizontal, que almacena reservas nutritivas y del que brotan raíces y tallos aéreos."
+  },
+  {
+    "id": 500,
+    "accion": "BULBO",
+    "definicion": "Órgano subterráneo formado por un tallo muy corto rodeado de hojas modificadas y carnosas que acumulan sustancias de reserva."
+  },
+  {
+    "id": 501,
+    "accion": "TUBÉRCULO",
+    "definicion": "Porción engrosada de un tallo subterráneo que acumula sustancias de reserva, generalmente almidón."
+  },
+  {
+    "id": 502,
+    "accion": "TALLO",
+    "definicion": "Eje aéreo (o subterráneo, en algunos casos) de la planta que sostiene hojas, flores y frutos y conduce savia entre raíz y copa."
+  },
+  {
+    "id": 503,
+    "accion": "HOJA",
+    "definicion": "Órgano generalmente laminar y verde de la planta, principal responsable de la fotosíntesis y del intercambio gaseoso."
+  },
+  {
+    "id": 504,
+    "accion": "FLOR",
+    "definicion": "Estructura reproductora de las plantas con semillas, formada por el conjunto de piezas fértiles y protectoras dispuestas sobre un eje floral."
+  },
+  {
+    "id": 505,
+    "accion": "FRUTO",
+    "definicion": "Estructura que se desarrolla a partir del ovario fecundado de la flor y que contiene y protege a las semillas."
+  },
+  {
+    "id": 506,
+    "accion": "SEMILLA",
+    "definicion": "Óvulo fecundado y maduro que contiene el embrión de una nueva planta junto con sus reservas nutritivas."
+  },
+  {
+    "id": 507,
+    "accion": "CORTEZA",
+    "definicion": "Conjunto de tejidos que recubren externamente el tallo o la raíz leñosa, protegiendo los tejidos internos."
+  },
+  {
+    "id": 508,
+    "accion": "LÁTEX",
+    "definicion": "Líquido, a menudo blanquecino, que circula por vasos especializados de ciertas plantas y que fluye al herir el tejido."
+  },
+  {
+    "id": 509,
+    "accion": "SAVIA",
+    "definicion": "Fluido que circula por los tejidos conductores de la planta, transportando agua, minerales y sustancias elaboradas."
+  },
+  {
+    "id": 510,
+    "accion": "INFLORESCENCIA",
+    "definicion": "Disposición y conjunto de flores agrupadas sobre un mismo eje o ramificación."
+  },
+  {
+    "id": 511,
+    "accion": "PECÍOLO",
+    "definicion": "Estructura alargada que une el limbo de la hoja al tallo."
+  },
+  {
+    "id": 512,
+    "accion": "NERVADURA",
+    "definicion": "Conjunto de haces conductores visibles en la hoja que la recorren y sostienen."
+  },
+  {
+    "id": 513,
+    "accion": "ESTAMBRE",
+    "definicion": "Órgano reproductor masculino de la flor, formado por filamento y antera, donde se produce el polen."
+  },
+  {
+    "id": 514,
+    "accion": "PISTILO",
+    "definicion": "Órgano reproductor femenino de la flor, compuesto por ovario, estilo y estigma."
+  },
+  {
+    "id": 515,
+    "accion": "CÁLIZ",
+    "definicion": "Conjunto de sépalos de la flor, que la protege generalmente en estado de yema."
+  },
+  {
+    "id": 516,
+    "accion": "COROLA",
+    "definicion": "Conjunto de pétalos de la flor, habitualmente la parte más vistosa y coloreada."
+  },
+  {
+    "id": 517,
+    "accion": "SÉPALO",
+    "definicion": "Cada una de las piezas, generalmente verdes, que forman el cáliz de la flor."
+  },
+  {
+    "id": 518,
+    "accion": "PÉTALO",
+    "definicion": "Cada una de las piezas, generalmente coloreadas, que forman la corola de la flor."
+  },
+  {
+    "id": 519,
+    "accion": "POLEN",
+    "definicion": "Conjunto de granos microscópicos producidos por las anteras que contienen los gametos masculinos de la planta."
+  },
+  {
+    "id": 520,
+    "accion": "NÉCTAR",
+    "definicion": "Líquido azucarado segregado por nectarios florales que atrae polinizadores."
+  },
+  {
+    "id": 521,
+    "accion": "FOTOSÍNTESIS",
+    "definicion": "Proceso mediante el cual las plantas transforman la energía lumínica en energía química, sintetizando compuestos orgánicos a partir de agua y dióxido de carbono."
+  },
+  {
+    "id": 522,
+    "accion": "CLOROFILA",
+    "definicion": "Pigmento verde de las plantas responsable de captar la luz solar para la fotosíntesis."
+  },
+  {
+    "id": 523,
+    "accion": "FAMILIA BOTÁNICA",
+    "definicion": "Categoría taxonómica que agrupa géneros de plantas emparentados por características morfológicas y evolutivas comunes."
+  },
+  {
+    "id": 524,
+    "accion": "GÉNERO (BOTÁNICA)",
+    "definicion": "Categoría taxonómica que agrupa especies vegetales estrechamente relacionadas entre sí."
+  },
+  {
+    "id": 525,
+    "accion": "ESPECIE (BOTÁNICA)",
+    "definicion": "Unidad taxonómica básica que agrupa individuos vegetales con características comunes capaces de reproducirse entre sí."
+  },
+  {
+    "id": 526,
+    "accion": "NOMENCLATURA BINOMIAL",
+    "definicion": "Sistema de denominación científica de las especies mediante dos nombres latinizados: el género y el epíteto específico."
+  },
+  {
+    "id": 527,
+    "accion": "PLANTA HERBÁCEA",
+    "definicion": "Planta de tallo blando y no leñoso, generalmente de ciclo de vida corto."
+  },
+  {
+    "id": 528,
+    "accion": "ARBUSTO",
+    "definicion": "Planta leñosa de porte bajo, ramificada desde la base, sin un tronco principal claramente diferenciado."
+  },
+  {
+    "id": 529,
+    "accion": "ÁRBOL",
+    "definicion": "Planta leñosa de gran porte, con un tronco principal diferenciado del que parten las ramas."
+  },
+  {
+    "id": 530,
+    "accion": "PLANTA ANUAL",
+    "definicion": "Planta que completa su ciclo vital, desde la germinación hasta la producción de semillas, en el transcurso de un año."
+  },
+  {
+    "id": 531,
+    "accion": "PLANTA BIANUAL",
+    "definicion": "Planta que completa su ciclo vital a lo largo de dos años, floreciendo y fructificando en el segundo."
+  },
+  {
+    "id": 532,
+    "accion": "PLANTA PERENNE",
+    "definicion": "Planta que vive más de dos años, pudiendo florecer y fructificar repetidamente a lo largo de su vida."
+  },
+  {
+    "id": 533,
+    "accion": "HÁBITAT",
+    "definicion": "Conjunto de condiciones ambientales y geográficas en las que una especie vegetal se desarrolla de forma natural."
+  },
+  {
+    "id": 534,
+    "accion": "ENDEMISMO",
+    "definicion": "Condición de una especie vegetal que crece de forma exclusiva en una región geográfica delimitada."
+  },
+  {
+    "id": 535,
+    "accion": "PLANTA SILVESTRE",
+    "definicion": "Planta que crece de forma espontánea en la naturaleza, sin intervención del cultivo humano."
+  },
+  {
+    "id": 536,
+    "accion": "PLANTA CULTIVADA",
+    "definicion": "Planta cuyo crecimiento y desarrollo son gestionados intencionalmente por el ser humano con fines determinados."
+  },
+  {
+    "id": 537,
+    "accion": "RECOLECCIÓN",
+    "definicion": "Proceso de recogida de las partes útiles de la planta en el momento y forma adecuados para preservar su calidad y principios activos."
+  },
+  {
+    "id": 538,
+    "accion": "DESECACIÓN",
+    "definicion": "Proceso de eliminación controlada de la humedad de la droga vegetal para su conservación."
+  },
+  {
+    "id": 539,
+    "accion": "PARTE AÉREA",
+    "definicion": "Conjunto de órganos de la planta situados por encima del suelo, como tallo, hojas, flores y frutos."
+  },
+  {
+    "id": 540,
+    "accion": "ÓRGANO SUBTERRÁNEO",
+    "definicion": "Estructura vegetal que se desarrolla bajo el suelo, como raíz, rizoma, bulbo o tubérculo."
+  },
+  {
+    "id": 541,
+    "accion": "XILEMA",
+    "definicion": "Tejido conductor vegetal encargado del transporte de agua y minerales desde la raíz hacia el resto de la planta."
+  },
+  {
+    "id": 542,
+    "accion": "FLOEMA",
+    "definicion": "Tejido conductor vegetal que transporta los productos elaborados de la fotosíntesis desde las hojas al resto de la planta."
+  },
+  {
+    "id": 543,
+    "accion": "ESTOMA",
+    "definicion": "Pequeña abertura en la epidermis de la hoja que regula el intercambio de gases y la transpiración de la planta."
+  },
+  {
+    "id": 544,
+    "accion": "TRICOMA",
+    "definicion": "Excrecencia epidérmica de la planta, a modo de pelo o glándula, que puede cumplir funciones protectoras o secretoras."
+  },
+  {
+    "id": 545,
+    "accion": "GLÁNDULA SECRETORA VEGETAL",
+    "definicion": "Estructura especializada de la planta encargada de producir y almacenar sustancias como aceites esenciales, resinas o mucílagos."
   }
 ]
