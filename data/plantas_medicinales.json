@@ -348,6 +348,7 @@
       "ANTIINFLAMATORIA",
       "PROTECTORA DE LA MUCOSA",
       "DEMULCENTE",
+      "EMOLIENTE",
       "CICATRIZANTE"
     ],
     "principiosActivos": [
@@ -2663,6 +2664,7 @@
     "acciones": [
       "HIPOCOLESTEROLEMIANTE",
       "HIPOGLUCEMIANTE",
+      "EMOLIENTE",
       "VASODILATADORA",
       "VASODILATADORA CORONARIA",
       "HIPOTENSORA",
@@ -2840,6 +2842,7 @@
     "nombreBotanico": "Tabebuia avellanedae",
     "acciones": [
       "ANTICANCERÍGENA",
+      "ANTIINFECCIOSA",
       "ANTIFÚNGICA",
       "ANTIHELMÍNTICA-VERMÍFUGA",
       "ANTIINFECCIOSA",
@@ -5153,11 +5156,13 @@
     "acciones": [
       "ANTIOXIDANTE",
       "VASODILATADORA",
+      "EMOLIENTE",
       "NOOTRÓPICA"
     ],
     "principiosActivos": [
       "Flavonoides",
       "Teobromina",
+      "Lípidos",
       "Magnesio (Mg)"
     ],
     "drogaVegetal": [
@@ -5168,7 +5173,7 @@
       "Cápsula"
     ],
     "observacion": "",
-    "notas": "Árbol originario de América tropical cuya semilla, rica en flavonoides, se usa por su efecto antioxidante y sobre el ánimo."
+    "notas": "Árbol originario de América tropical cuya semilla, rica en flavonoides, se usa por su efecto antioxidante y sobre el ánimo.La manteca de Cacao es rica en lípidos y un excelente emoliente."
   },
   {
     "id": 191,
@@ -6395,6 +6400,7 @@
     "nombreBotanico": "Cocos nucifera",
     "acciones": [
       "ANTIBACTERIANA",
+      "EMOLIENTE",
       "NUTRITIVA"
     ],
     "principiosActivos": [
@@ -6414,11 +6420,12 @@
   },
   {
     "id": 242,
-    "nombreComun": "ALMENDRA",
+    "nombreComun": "ALMENDRO",
     "nombreBotanico": "Prunus dulcis",
     "acciones": [
       "NUTRITIVA",
       "DEMULCENTE",
+      "EMOLIENTE",
       "HIPOCOLESTEROLEMIANTE"
     ],
     "principiosActivos": [
@@ -6439,7 +6446,7 @@
   },
   {
     "id": 243,
-    "nombreComun": "NUEZ",
+    "nombreComun": "NUEZ (fruto del NOGAL)",
     "nombreBotanico": "Juglans regia",
     "acciones": [
       "NUTRITIVA",
@@ -6461,7 +6468,7 @@
       "Decocción"
     ],
     "observacion": "",
-    "notas": "Árbol europeo cuyo fruto es rico en omega 3, y cuya hoja se usa tradicionalmente como astringente y para regular el azúcar en sangre."
+    "notas": "Árbol europeo cuyo fruto es rico en omega 3, y cuya hoja se usa tradicionalmente como astringente y para regular el azúcar en sangre. Ver NOGAL para propiedades de la planta."
   },
   {
     "id": 244,
@@ -7944,7 +7951,7 @@
     "Uso externo"
   ],
   "observacion": "",
-  "notas": "Las hojas del nogal son ricas en taninos y juglona, responsables de su acción astringente y antiséptica. Tradicionalmente se emplean tanto por vía interna en trastornos digestivos leves como en aplicaciones externas sobre la piel."
+  "notas": "Las hojas del nogal son ricas en taninos y juglona, responsables de su acción astringente y antiséptica. Tradicionalmente se emplean tanto por vía interna en trastornos digestivos leves como en aplicaciones externas sobre la piel. Ver NUEZ para las propiedades de la semilla del NOGAL."
 },
 {
   "id": 306,
