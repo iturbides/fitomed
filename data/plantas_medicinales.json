@@ -698,6 +698,7 @@
     "nombreBotanico": "Polypodium leucotomos",
     "acciones": [
       "ANTIINFLAMATORIA",
+      "ANTIALÉRGICA",
       "ANTIOXIDANTE",
       "INMUNOMODULADORA"
     ],
@@ -6519,15 +6520,18 @@
   },
   {
     "id": 246,
-    "nombreComun": "CÁÑAMO, SEMILLA",
+    "nombreComun": "CÁÑAMO, CBD",
     "nombreBotanico": "Cannabis sativa",
     "acciones": [
       "NUTRITIVA",
+      "ANALGÉSICA",
+      "ANSIOLÍTICA",
       "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
       "Omega 3",
       "Ácidos grasos",
+      "cannabidiol",
       "Proteínas"
     ],
     "drogaVegetal": [
@@ -6539,7 +6543,7 @@
       "Comer fresco"
     ],
     "observacion": "La semilla no contiene cantidades significativas de compuestos psicoactivos y es un alimento de venta legal en toda la Unión Europea.",
-    "notas": "Semilla de cáñamo muy valorada como alimento por su equilibrado perfil de ácidos grasos omega 3 y 6."
+    "notas": "Semilla de cáñamo muy valorada como alimento por su equilibrado perfil de ácidos grasos omega 3 y 6. El Cannabis sativa es una planta con acción nutritiva (sus semillas son ricas en omega-3, omega-6 y proteínas). Del Cannabis sativa —especialmente de su variedad cáñamo— se extrae el CBD (cannabidiol), un compuesto con acción antiinflamatoria, analgésica y ansiolítica. El CBD no es la planta en sí, sino uno de sus principios activos."
   },
   {
     "id": 247,
