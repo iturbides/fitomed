@@ -2736,6 +2736,7 @@
       "NUTRITIVA",
       "HEMOSTÁTICA",
       "ANTIHEMORRÁGICA",
+      "ABORTIVA",
       "AZOTÚRICA",
       "URICOSÚRICA",
       "REMINERALIZANTE"
@@ -2897,6 +2898,7 @@
       "DEPURATIVA RENAL",
       "DEPURATIVA GENERAL",
       "DIURÉTICA",
+      "ABORTIVA",
       "REMINERALIZANTE"
     ],
     "principiosActivos": [
@@ -4023,6 +4025,7 @@
     "acciones": [
       "EMENAGOGA",
       "ANTIESPASMÓDICA",
+      "ABORTIVA",
       "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
@@ -5965,6 +5968,7 @@
     "principiosActivos": [
       "Proteínas",
       "Vitaminas",
+      "Saponinas",
       "Hierro (Fe)",
       "Magnesio (Mg)"
     ],
@@ -5976,7 +5980,7 @@
       "Polvo"
     ],
     "observacion": "",
-    "notas": "Semilla andina de alto valor nutricional, con todos los aminoácidos esenciales, cada vez más presente en la dieta europea."
+    "notas": "Semilla andina de alto valor nutricional, con todos los aminoácidos esenciales, cada vez más presente en la dieta europea. Ojo, la cáscara contiene saponinas, por lo que mejor lavar para evitar irritación estomacal."
   },
   {
     "id": 224,
