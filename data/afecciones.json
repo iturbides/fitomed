@@ -538,5 +538,141 @@
       "DIFICULTAD PARA RESPIRAR"
     ],
     "recomendaciones": "Plantas antihistamínicas y antialérgicas como la Ortiga Verde, el Ginkgo o la Cúrcuma pueden ayudar a modular la respuesta ante síntomas leves, pero la base del manejo es identificar y evitar el alimento implicado. Ante signos de reacción grave (dificultad para respirar, hinchazón importante), es una urgencia médica."
-  }
+  },
+{
+  "id": 44,
+  "afeccion": "SINUSITIS",
+  "definicion": "Inflamación de la mucosa que recubre los senos paranasales, que provoca congestión, dolor facial y producción de moco espeso.",
+  "sintomas": [
+    "CONGESTIÓN NASAL",
+    "PRESIÓN FACIAL",
+    "DOLOR DE CABEZA",
+    "SECRECIÓN NASAL"
+  ],
+  "recomendaciones": "Plantas expectorantes y mucolíticas como el Eucalipto, la Hiedra o el Llantén Mayor, junto con antiinflamatorias como la Cúrcuma. Los vahos con Eucalipto o Pino y los lavados nasales con suero salino ayudan a despejar la congestión."
+},
+{
+  "id": 45,
+  "afeccion": "RINITIS",
+  "definicion": "Inflamación de la mucosa nasal, de origen alérgico o infeccioso, que provoca congestión, estornudos y secreción nasal.",
+  "sintomas": [
+    "CONGESTIÓN NASAL",
+    "ESTORNUDOS",
+    "SECRECIÓN NASAL",
+    "PICOR NASAL"
+  ],
+  "recomendaciones": "En la rinitis alérgica, plantas antihistamínicas como la Cúrcuma, el Ginkgo o la Ortiga Verde pueden ayudar a modular la respuesta; en la de origen infeccioso, expectorantes como el Eucalipto o el Llantén Mayor. Identificar y evitar el alérgeno cuando sea posible."
+},
+{
+  "id": 46,
+  "afeccion": "FARINGITIS",
+  "definicion": "Inflamación de la faringe, generalmente de origen vírico, que provoca dolor de garganta y molestias al tragar.",
+  "sintomas": [
+    "DOLOR DE GARGANTA",
+    "DIFICULTAD PARA TRAGAR",
+    "ENROJECIMIENTO DE LA GARGANTA",
+    "FIEBRE LEVE"
+  ],
+  "recomendaciones": "Plantas antisépticas y antiinflamatorias como la Salvia, el Tomillo o el Regaliz, en forma de gárgaras o infusión, junto con el Própoleo por su acción antibacteriana. Mantener una buena hidratación y evitar el tabaco y los irritantes."
+},
+{
+  "id": 47,
+  "afeccion": "AMIGDALITIS",
+  "definicion": "Inflamación de las amígdalas, de origen vírico o bacteriano, que puede cursar con placas blanquecinas y fiebre.",
+  "sintomas": [
+    "DOLOR DE GARGANTA",
+    "DIFICULTAD PARA TRAGAR",
+    "INFLAMACIÓN DE LAS AMÍGDALAS",
+    "FIEBRE",
+    "PLACAS BLANQUECINAS EN LA GARGANTA"
+  ],
+  "recomendaciones": "Plantas antisépticas como la Salvia o el Tomillo, en gárgaras, junto con el Própoleo o la Equinácea como apoyo inmunitario. Si aparecen placas, fiebre alta o el dolor de garganta es muy intenso, conviene descartar un origen bacteriano con un profesional médico."
+},
+{
+  "id": 48,
+  "afeccion": "LARINGITIS",
+  "definicion": "Inflamación de la laringe que afecta a las cuerdas vocales, provocando ronquera o pérdida temporal de la voz.",
+  "sintomas": [
+    "RONQUERA",
+    "DOLOR DE GARGANTA",
+    "TOS SECA",
+    "DIFICULTAD PARA HABLAR"
+  ],
+  "recomendaciones": "Plantas emolientes y antiinflamatorias como el Regaliz o el Malvavisco (Altea), junto con el Tomillo por su acción expectorante si hay mucosidad asociada. Descansar la voz, evitar el tabaco y mantener una buena hidratación."
+},
+{
+  "id": 49,
+  "afeccion": "GRIPE",
+  "definicion": "Infección vírica respiratoria de inicio brusco, que cursa con fiebre alta, dolores musculares y malestar general.",
+  "sintomas": [
+    "FIEBRE ALTA",
+    "DOLOR MUSCULAR",
+    "MALESTAR GENERAL",
+    "DOLOR DE CABEZA",
+    "TOS"
+  ],
+  "recomendaciones": "Plantas antivíricas e inmunoestimulantes como el Saúco, la Equinácea, el Astrágalo o el Própoleo, junto con el Sauce o la Ulmaria para el malestar y la fiebre. Reposo, buena hidratación y aislamiento en los primeros días para evitar el contagio."
+},
+{
+  "id": 50,
+  "afeccion": "RESFRIADO",
+  "definicion": "Infección vírica leve de las vías respiratorias altas, que provoca congestión nasal, estornudos y dolor de garganta, sin apenas fiebre.",
+  "sintomas": [
+    "CONGESTIÓN NASAL",
+    "ESTORNUDOS",
+    "DOLOR DE GARGANTA",
+    "TOS",
+    "FIEBRE LEVE"
+  ],
+  "recomendaciones": "Plantas expectorantes y antivíricas como el Saúco, el Eucalipto o el Tomillo, junto con el Própoleo como apoyo inmunitario. Descanso, buena hidratación y vahos con Eucalipto para aliviar la congestión."
+},
+{
+  "id": 51,
+  "afeccion": "OTITIS",
+  "definicion": "Inflamación o infección del oído, generalmente del oído medio o externo, que provoca dolor y en ocasiones fiebre.",
+  "sintomas": [
+    "DOLOR DE OÍDO",
+    "SENSACIÓN DE OÍDO TAPONADO",
+    "PÉRDIDA DE AUDICIÓN TEMPORAL",
+    "FIEBRE"
+  ],
+  "recomendaciones": "El Ajo y el Própoleo, por su acción antiinfecciosa, se han usado tradicionalmente como apoyo, aunque el dolor de oído en niños o la fiebre asociada requieren siempre valoración médica antes de aplicar cualquier remedio en el oído."
+},
+{
+  "id": 52,
+  "afeccion": "ASMA",
+  "definicion": "Enfermedad inflamatoria crónica de las vías respiratorias que provoca episodios de dificultad para respirar, sibilancias y tos.",
+  "sintomas": [
+    "SIBILANCIAS",
+    "DIFICULTAD PARA RESPIRAR",
+    "OPRESIÓN EN EL PECHO",
+    "TOS"
+  ],
+  "recomendaciones": "Plantas broncodilatadoras y antiasmáticas como la Boswelia, el Marrubio o el Romero pueden usarse como apoyo, nunca en sustitución de la medicación broncodilatadora pautada. Evitar los desencadenantes conocidos (alérgenos, humo, frío) y mantener un seguimiento médico regular."
+},
+{
+  "id": 53,
+  "afeccion": "BRONQUITIS",
+  "definicion": "Inflamación de los bronquios, de origen vírico o bacteriano, que provoca tos con flemas y dificultad respiratoria.",
+  "sintomas": [
+    "TOS CON FLEMA",
+    "DIFICULTAD PARA RESPIRAR",
+    "SIBILANCIAS",
+    "FATIGA"
+  ],
+  "recomendaciones": "Plantas expectorantes y broncodilatadoras como el Tomillo, el Marrubio, la Hiedra o el Grindelia, junto con antiinflamatorias como el Eucalipto. Mantener una buena hidratación para fluidificar las secreciones y evitar el humo del tabaco."
+},
+{
+  "id": 54,
+  "afeccion": "NEUMONÍA",
+  "definicion": "Infección del tejido pulmonar, de origen bacteriano o vírico, que provoca fiebre alta, tos con flemas y dificultad respiratoria.",
+  "sintomas": [
+    "FIEBRE ALTA",
+    "TOS CON FLEMA",
+    "DIFICULTAD PARA RESPIRAR",
+    "DOLOR TORÁCICO",
+    "FATIGA"
+  ],
+  "recomendaciones": "Es una infección que requiere siempre diagnóstico y tratamiento médico, habitualmente con antibióticos; plantas expectorantes como el Tomillo o inmunoestimulantes como el Própoleo pueden usarse únicamente como apoyo durante la recuperación, nunca como tratamiento principal."
+}
 ]
