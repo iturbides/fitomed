@@ -5,11 +5,13 @@
 
 import {
     obtenerPlantas,
-    obtenerDefiniciones
+    obtenerDefiniciones,
+    obtenerAfecciones
 } from "./datos.js";
 
 import { mostrarFicha } from "./ficha.js";
 import { mostrarListado } from "./listado.js";
+import { mostrarFichaAfeccion } from "./afecciones.js";
 
 
 export function inicializarBuscador() {
@@ -69,6 +71,23 @@ function gestionarClick(evento) {
     const definicion = evento.target.closest(".resultado-definicion");
 
     if (definicion) {
+
+        return;
+
+    }
+
+
+    // ==========================================
+    // Resultado de búsqueda de afección
+    // ==========================================
+
+    const afeccion = evento.target.closest(".resultado-afeccion");
+
+    if (afeccion) {
+
+        mostrarFichaAfeccion(
+            Number(afeccion.dataset.id)
+        );
 
         return;
 
@@ -159,6 +178,31 @@ function buscar() {
         const texto = textoOriginal.slice(3).trim();
 
         buscarDefinicion(texto);
+
+        return;
+
+    }
+
+
+    // ==========================================
+    // Comando ?
+    // ==========================================
+
+    if (comando === "?") {
+
+        mostrarAfecciones("");
+
+        return;
+
+    }
+
+
+    if (comando.startsWith("? ")) {
+
+        // Extraer el texto después de "? "
+        const texto = textoOriginal.slice(2).trim();
+
+        mostrarAfecciones(texto);
 
         return;
 
@@ -484,6 +528,106 @@ function mostrarDefinicionesResultados(resultados) {
                 <div class="definicion">
                     ${definicion.definicion}
                 </div>
+
+            </article>
+
+        `;
+
+    });
+
+
+    app.innerHTML = html;
+
+}
+
+
+/**
+ * Muestra las afecciones que coinciden con el texto buscado.
+ */
+function mostrarAfecciones(texto) {
+
+    const afecciones = obtenerAfecciones();
+
+    const busqueda = normalizar(texto);
+
+
+    // Si no hay texto de búsqueda, mostrar todas ordenadas alfabéticamente
+    if (busqueda === "") {
+
+        const resultados = afecciones
+            .slice()
+            .sort((a, b) =>
+                normalizar(a.afeccion).localeCompare(normalizar(b.afeccion))
+            );
+
+        mostrarAfeccionesResultados(resultados);
+        return;
+
+    }
+
+
+    // Filtrar por nombre, definición o síntomas
+    const filtradas = afecciones.filter(afeccion =>
+        normalizar(afeccion.afeccion).includes(busqueda) ||
+        normalizar(afeccion.definicion).includes(busqueda) ||
+        afeccion.sintomas.some(sintoma =>
+            normalizar(sintoma).includes(busqueda)
+        )
+    );
+
+
+    // Ordenar: primero las que empiezan por el texto, luego las que contienen
+    const resultados = filtradas
+        .sort((a, b) => {
+            const nombreA = normalizar(a.afeccion);
+            const nombreB = normalizar(b.afeccion);
+
+            const empiezaA = nombreA.startsWith(busqueda);
+            const empiezaB = nombreB.startsWith(busqueda);
+
+            if (empiezaA && !empiezaB) return -1;
+            if (!empiezaA && empiezaB) return 1;
+
+            return nombreA.localeCompare(nombreB);
+        });
+
+
+    mostrarAfeccionesResultados(resultados);
+
+}
+
+
+/**
+ * Genera los resultados de las afecciones (clicables → ficha de afección).
+ */
+function mostrarAfeccionesResultados(resultados) {
+
+    const app = document.getElementById("app");
+
+
+    if (resultados.length === 0) {
+
+        app.innerHTML = `
+            <p>No se han encontrado afecciones.</p>
+        `;
+
+        return;
+
+    }
+
+
+    let html = "";
+
+
+    resultados.forEach((afeccion) => {
+
+        html += `
+
+            <article
+                class="resultado resultado-afeccion"
+                data-id="${afeccion.id}">
+
+                <h2>${afeccion.afeccion}</h2>
 
             </article>
 

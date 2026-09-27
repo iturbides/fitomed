@@ -6,17 +6,19 @@
 
 let plantas = [];
 let definiciones = [];
+let afecciones = [];
 
 /**
- * Carga los archivos JSON de plantas y definiciones.
+ * Carga los archivos JSON de plantas, definiciones y afecciones.
  */
 export async function cargarDatos() {
 
     try {
 
-        const [respuestaPlantas, respuestaDefiniciones] = await Promise.all([
+        const [respuestaPlantas, respuestaDefiniciones, respuestaAfecciones] = await Promise.all([
             fetch("data/plantas_medicinales.json"),
-            fetch("data/definiciones.json")
+            fetch("data/definiciones.json"),
+            fetch("data/afecciones.json")
         ]);
 
         if (!respuestaPlantas.ok) {
@@ -31,11 +33,19 @@ export async function cargarDatos() {
             );
         }
 
+        if (!respuestaAfecciones.ok) {
+            throw new Error(
+                `Error ${respuestaAfecciones.status}: no se pudo cargar la base de datos de afecciones.`
+            );
+        }
+
         plantas = await respuestaPlantas.json();
         definiciones = await respuestaDefiniciones.json();
+        afecciones = await respuestaAfecciones.json();
 
         console.log(`✔ ${plantas.length} plantas cargadas.`);
         console.log(`✔ ${definiciones.length} definiciones cargadas.`);
+        console.log(`✔ ${afecciones.length} afecciones cargadas.`);
 
         return plantas;
 
@@ -73,6 +83,24 @@ export function obtenerDefiniciones() {
 export function obtenerPlantaPorId(id) {
 
     return plantas.find(planta => planta.id === id);
+
+}
+
+/**
+ * Devuelve todas las afecciones.
+ */
+export function obtenerAfecciones() {
+
+    return afecciones;
+
+}
+
+/**
+ * Busca una afección por su ID.
+ */
+export function obtenerAfeccionPorId(id) {
+
+    return afecciones.find(afeccion => afeccion.id === id);
 
 }
 

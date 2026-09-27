@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "afeccion": "DISPEPSIA",
+    "definicion": "Malestar o dolor localizado en la parte alta del abdomen, relacionado con la digestión, que puede incluir sensación de plenitud, ardor o hinchazón tras las comidas.",
+    "sintomas": [
+      "DOLOR ABDOMINAL",
+      "HINCHAZÓN",
+      "ARDOR",
+      "SACIEDAD PRECOZ",
+      "NAUSEAS"
+    ],
+    "recomendaciones": "Plantas carminativas y digestivas como el Hinojo, el Anís Verde, la Manzanilla Romana o el Jengibre, junto con eupépticas como la Achicoria o el Diente de León que estimulan la digestión. Comer despacio, evitar comidas copiosas y reducir el consumo de grasas y alimentos ultraprocesados."
+  },
+  {
+    "id": 2,
+    "afeccion": "DISMENORREA",
+    "definicion": "Dolor pélvico o abdominal de tipo cólico que aparece antes o durante la menstruación, debido a contracciones uterinas excesivas.",
+    "sintomas": [
+      "DOLOR ABDOMINAL",
+      "DOLOR PÉLVICO",
+      "DOLOR LUMBAR",
+      "NAUSEAS",
+      "FATIGA",
+      "DOLOR DE CABEZA"
+    ],
+    "recomendaciones": "Plantas antiespasmódicas y antiinflamatorias como la Manzanilla Dulce, la Ulmaria o el Jengibre, junto con la Alquimila (Pie de León), de acción emenagoga, y la hoja de Frambuesa, tradicionalmente empleada como tónico uterino. Aplicación de calor local en la zona abdominal, ejercicio suave regular y reducción del consumo de cafeína, sal y alimentos ultraprocesados."
+  },
+  {
+    "id": 3,
+    "afeccion": "SINDROME PREMENSTRUAL (SPM)",
+    "definicion": "Conjunto de síntomas físicos y emocionales que aparecen en los días previos a la menstruación, relacionados con las fluctuaciones hormonales del ciclo.",
+    "sintomas": [
+      "IRRITABILIDAD",
+      "HINCHAZÓN ABDOMINAL",
+      "DOLOR DE CABEZA",
+      "TENSIÓN MAMARIA",
+      "CAMBIOS DE HUMOR",
+      "FATIGA",
+      "ANSIEDAD"
+    ],
+    "recomendaciones": "Plantas con acción reguladora hormonal como el Agnocasto, junto con sedantes suaves y ansiolíticas como la Melisa, la Manzanilla Dulce o la Valeriana, y diuréticas como el Diente de León para aliviar la retención de líquidos. Reducir el consumo de sal, cafeína y azúcar, mantener actividad física regular y cuidar la calidad del sueño."
+  },
+  {
+    "id": 4,
+    "afeccion": "SINDROME DEL OVARIO POLIQUÍSTICO (SOP)",
+    "definicion": "Trastorno hormonal frecuente caracterizado por ciclos menstruales irregulares, exceso de andrógenos y presencia de múltiples folículos en los ovarios.",
+    "sintomas": [
+      "CICLOS IRREGULARES",
+      "ACNÉ",
+      "HIRSUTISMO",
+      "AUMENTO DE PESO",
+      "CAÍDA DEL CABELLO",
+      "RESISTENCIA A LA INSULINA"
+    ],
+    "recomendaciones": "Plantas reguladoras hormonales como el Agnocasto, hipoglucemiantes como la Canela o el Nopal, y antiinflamatorias con efecto adaptógeno como la Cúrcuma o el Ashwagandha. Dieta de bajo índice glucémico, ejercicio regular y control del peso corporal como base del manejo."
+  },
+  {
+    "id": 5,
+    "afeccion": "ENDOMETRIOSIS",
+    "definicion": "Presencia de tejido similar al endometrio fuera del útero, que provoca inflamación crónica, dolor y puede afectar a la fertilidad.",
+    "sintomas": [
+      "DOLOR PÉLVICO CRÓNICO",
+      "DOLOR DURANTE LAS RELACIONES",
+      "DOLOR MENSTRUAL INTENSO",
+      "SANGRADO ABUNDANTE",
+      "FATIGA",
+      "INFERTILIDAD"
+    ],
+    "recomendaciones": "Plantas antiinflamatorias y analgésicas como la Cúrcuma, el Jengibre o la Ulmaria, junto con antiespasmódicas como la Manzanilla Dulce o la Milenrama, y el Agnocasto como apoyo al equilibrio hormonal. Dieta antiinflamatoria rica en omega-3, reducción de alimentos ultraprocesados y de exposición a disruptores hormonales."
+  },
+  {
+    "id": 6,
+    "afeccion": "CANDIDIASIS",
+    "definicion": "Infección producida por el crecimiento excesivo del hongo Candida, que afecta con mayor frecuencia a las mucosas genitales.",
+    "sintomas": [
+      "PICOR",
+      "FLUJO VAGINAL ANORMAL",
+      "ARDOR",
+      "ENROJECIMIENTO",
+      "MOLESTIAS AL ORINAR"
+    ],
+    "recomendaciones": "Plantas antifúngicas y antisépticas como el Árbol del Té, el Orégano o el Pau D'Arco (Lapacho), junto con el Tomillo por su acción antiinfecciosa. Reducir el consumo de azúcares y levaduras, mantener una higiene adecuada y usar ropa interior de fibras transpirables."
+  },
+  {
+    "id": 7,
+    "afeccion": "PAPILOMA (VPH)",
+    "definicion": "Infección causada por el virus del papiloma humano, que puede provocar lesiones cutáneas o mucosas y en algunos casos aumentar el riesgo de otras afecciones ginecológicas.",
+    "sintomas": [
+      "VERRUGAS GENITALES",
+      "LESIONES CUTÁNEAS",
+      "PICOR",
+      "SANGRADO OCASIONAL"
+    ],
+    "recomendaciones": "Plantas inmunoestimulantes e inmunomoduladoras como la Equinácea, el Astrágalo, el Própoleo o el Reishi, con aporte antioxidante que apoye la respuesta natural del organismo. Es imprescindible el seguimiento ginecológico periódico para el control de las lesiones."
+  },
+  {
+    "id": 8,
+    "afeccion": "RETENCIÓN HÍDRICA (EDEMAS)",
+    "definicion": "Acumulación anómala de líquido en los tejidos, que provoca hinchazón, generalmente en piernas, tobillos o abdomen.",
+    "sintomas": [
+      "HINCHAZÓN DE PIERNAS",
+      "HINCHAZÓN DE TOBILLOS",
+      "PESADEZ DE PIERNAS",
+      "AUMENTO DE PESO",
+      "HINCHAZÓN ABDOMINAL"
+    ],
+    "recomendaciones": "Plantas diuréticas como el Diente de León, el Abedul o la Cola de Caballo, junto con venotónicas y antiedematosas como el Rusco, el Meliloto o la Centella Asiática, que favorecen el retorno venoso. Reducir el consumo de sal, mantener las piernas en alto y practicar actividad física regular."
+  },
+  {
+    "id": 9,
+    "afeccion": "CISTITIS",
+    "definicion": "Inflamación de la vejiga urinaria, generalmente de origen bacteriano, que provoca molestias al orinar y aumento de la frecuencia urinaria.",
+    "sintomas": [
+      "ARDOR AL ORINAR",
+      "GANAS FRECUENTES DE ORINAR",
+      "DOLOR PÉLVICO",
+      "ORINA TURBIA",
+      "FIEBRE LEVE"
+    ],
+    "recomendaciones": "Plantas antisépticas urinarias y diuréticas como la Gayuba, el Arándano Rojo Americano o la Gatuña, junto con antiinflamatorias como la Cúrcuma. Aumentar la ingesta de agua, orinar con frecuencia y evitar retener la orina."
+  },
+  {
+    "id": 10,
+    "afeccion": "PIELONEFRITIS",
+    "definicion": "Infección bacteriana que afecta a uno o ambos riñones, generalmente originada por una infección urinaria no tratada que asciende por las vías urinarias.",
+    "sintomas": [
+      "FIEBRE ALTA",
+      "DOLOR LUMBAR",
+      "ESCALOFRÍOS",
+      "NAUSEAS",
+      "MALESTAR GENERAL"
+    ],
+    "recomendaciones": "Plantas antiinfecciosas y diuréticas como la Gayuba, el Enebro o la Vara de Oro pueden servir de apoyo, aunque esta afección requiere siempre valoración y tratamiento médico dado el riesgo de complicación. Mantener una hidratación abundante y reposo."
+  },
+  {
+    "id": 11,
+    "afeccion": "CÁLCULOS RENALES",
+    "definicion": "Formación de depósitos sólidos de sales minerales en los riñones o las vías urinarias, que pueden causar dolor intenso al desplazarse.",
+    "sintomas": [
+      "DOLOR LUMBAR",
+      "DOLOR AL ORINAR",
+      "SANGRE EN LA ORINA",
+      "NAUSEAS",
+      "DOLOR CÓLICO"
+    ],
+    "recomendaciones": "Plantas antilitiásicas como el Rompepiedras, la Vara de Oro, el Abedul o la Herniaria, junto con diuréticas como la Cola de Caballo o el Diente de León para favorecer la eliminación. Aumentar la ingesta de agua y moderar el consumo de sal y proteína animal."
+  },
+  {
+    "id": 12,
+    "afeccion": "PROSTATITIS",
+    "definicion": "Inflamación de la próstata, de origen bacteriano o no bacteriano, que provoca dolor pélvico y molestias urinarias.",
+    "sintomas": [
+      "DOLOR PÉLVICO",
+      "DIFICULTAD PARA ORINAR",
+      "DOLOR AL EYACULAR",
+      "FIEBRE",
+      "MOLESTIAS EN LOS GENITALES"
+    ],
+    "recomendaciones": "Plantas antiinflamatorias con afinidad prostática como el Sabal (Palmito Enano), la Calabaza (semillas) o la raíz de Ortiga Verde, junto con antiinfecciosas si el origen es bacteriano. Es importante el diagnóstico médico para descartar causa infecciosa."
+  },
+  {
+    "id": 13,
+    "afeccion": "HIPERPLASIA BENIGNA DE PRÓSTATA (HBP)",
+    "definicion": "Crecimiento no canceroso de la próstata, frecuente con la edad, que comprime la uretra y dificulta el vaciado de la vejiga.",
+    "sintomas": [
+      "DIFICULTAD PARA ORINAR",
+      "MICCIÓN FRECUENTE NOCTURNA",
+      "CHORRO URINARIO DÉBIL",
+      "SENSACIÓN DE VACIADO INCOMPLETO"
+    ],
+    "recomendaciones": "Plantas de acción antiadenomatosa y antiinflamatoria sobre la próstata como el Sabal (Palmito Enano), el Palmito de Sierra, la Calabaza (semillas) o la raíz de Ortiga Verde. Reducir el consumo de cafeína y alcohol por la noche, y realizar seguimiento urológico periódico."
+  },
+  {
+    "id": 14,
+    "afeccion": "SALUD DE LOS ESPERMATOZOIDES",
+    "definicion": "Conjunto de factores relacionados con la calidad, cantidad y movilidad de los espermatozoides, determinantes para la fertilidad masculina.",
+    "sintomas": [
+      "BAJA MOVILIDAD ESPERMÁTICA",
+      "BAJO RECUENTO ESPERMÁTICO",
+      "FATIGA",
+      "BAJA LIBIDO"
+    ],
+    "recomendaciones": "Plantas adaptógenas y antioxidantes como la Maca, el Ginseng o el Astrágalo, que apoyan el equilibrio hormonal y protegen frente al estrés oxidativo. Evitar el tabaco, el alcohol y el calor excesivo en la zona genital, y mantener una dieta rica en antioxidantes."
+  },
+  {
+    "id": 15,
+    "afeccion": "DISFUNCIÓN ERÉCTIL",
+    "definicion": "Incapacidad persistente para lograr o mantener una erección suficiente para una relación sexual satisfactoria.",
+    "sintomas": [
+      "DIFICULTAD PARA LOGRAR LA ERECCIÓN",
+      "DIFICULTAD PARA MANTENER LA ERECCIÓN",
+      "BAJA LIBIDO",
+      "ANSIEDAD DE RENDIMIENTO"
+    ],
+    "recomendaciones": "Plantas vasodilatadoras y circulatorias como el Ginkgo, junto con adaptógenas y afrodisíacas como la Maca, el Ginseng, la Damiana o la Muira Puama. Cuidar la salud cardiovascular, reducir el estrés y evitar el tabaco."
+  },
+  {
+    "id": 16,
+    "afeccion": "ESTRÉS",
+    "definicion": "Respuesta del organismo ante una demanda o presión percibida, que de forma mantenida en el tiempo puede afectar al bienestar físico y emocional.",
+    "sintomas": [
+      "TENSIÓN MUSCULAR",
+      "IRRITABILIDAD",
+      "FATIGA",
+      "DIFICULTAD DE CONCENTRACIÓN",
+      "INSOMNIO"
+    ],
+    "recomendaciones": "Plantas adaptógenas como el Ashwagandha, la Rodiola o el Eleuterococo, junto con sedantes suaves como la Melisa, la Manzanilla Dulce o la Pasiflora. Practicar técnicas de relajación, ejercicio regular y cuidar la calidad del sueño."
+  },
+  {
+    "id": 17,
+    "afeccion": "ANSIEDAD",
+    "definicion": "Estado de alerta y preocupación excesiva ante situaciones percibidas como amenazantes, que puede acompañarse de síntomas físicos y emocionales.",
+    "sintomas": [
+      "INQUIETUD",
+      "TAQUICARDIA",
+      "TENSIÓN MUSCULAR",
+      "PREOCUPACIÓN EXCESIVA",
+      "DIFICULTAD PARA RESPIRAR"
+    ],
+    "recomendaciones": "Plantas ansiolíticas como la Valeriana, la Pasiflora, la Manzanilla Dulce, la Lavanda o la Escutelaria. Practicar respiración consciente, actividad física regular y reducir el consumo de estimulantes como la cafeína."
+  },
+  {
+    "id": 18,
+    "afeccion": "ASTENIA",
+    "definicion": "Sensación de cansancio o debilidad generalizada, física y/o mental, que no mejora con el descanso habitual.",
+    "sintomas": [
+      "CANSANCIO GENERALIZADO",
+      "FALTA DE ENERGÍA",
+      "DEBILIDAD MUSCULAR",
+      "SOMNOLENCIA DIURNA"
+    ],
+    "recomendaciones": "Plantas adaptógenas y tonificantes como el Ginseng, la Rodiola, el Eleuterococo o el Astrágalo, junto con nutritivas como la Espirulina o la Chlorella. Cuidar la calidad del sueño y la alimentación, y descartar causas médicas subyacentes si persiste."
+  },
+  {
+    "id": 19,
+    "afeccion": "NERVIOSISMO",
+    "definicion": "Estado de alteración emocional caracterizado por inquietud, irritabilidad y dificultad para mantener la calma.",
+    "sintomas": [
+      "IRRITABILIDAD",
+      "INQUIETUD",
+      "DIFICULTAD PARA RELAJARSE",
+      "TENSIÓN MUSCULAR"
+    ],
+    "recomendaciones": "Plantas sedantes suaves y ansiolíticas como la Melisa, el Tilo, la Manzanilla Dulce o el Naranjo Amargo. Reducir el consumo de cafeína y estimulantes, y practicar rutinas de relajación."
+  },
+  {
+    "id": 20,
+    "afeccion": "INSOMNIO",
+    "definicion": "Dificultad persistente para conciliar o mantener el sueño, o para lograr un descanso reparador.",
+    "sintomas": [
+      "DIFICULTAD PARA CONCILIAR EL SUEÑO",
+      "DESPERTARES NOCTURNOS",
+      "SUEÑO NO REPARADOR",
+      "SOMNOLENCIA DIURNA"
+    ],
+    "recomendaciones": "Plantas hipnóticas y sedantes como la Valeriana, la Pasiflora, el Lúpulo, la Amapola de California o la Melisa. Mantener horarios de sueño regulares, evitar pantallas antes de dormir y reducir el consumo de cafeína por la tarde."
+  },
+  {
+    "id": 21,
+    "afeccion": "HERIDAS",
+    "definicion": "Lesión que afecta a la integridad de la piel o los tejidos, causada por un traumatismo, corte o rozadura.",
+    "sintomas": [
+      "DOLOR LOCAL",
+      "ENROJECIMIENTO",
+      "SANGRADO",
+      "INFLAMACIÓN DE LA ZONA"
+    ],
+    "recomendaciones": "Plantas cicatrizantes y vulnerarias como la Caléndula, el Llantén Mayor, el Hipérico o la Centella Asiática, junto con el Aloe Vera por su acción emoliente y regeneradora. Limpiar bien la zona y mantenerla protegida durante la cicatrización."
+  },
+  {
+    "id": 22,
+    "afeccion": "QUEMADURAS",
+    "definicion": "Lesión de la piel producida por exposición al calor, el sol, sustancias químicas o electricidad, que daña el tejido en distinto grado.",
+    "sintomas": [
+      "DOLOR",
+      "ENROJECIMIENTO",
+      "HINCHAZÓN LOCAL",
+      "FORMACIÓN DE AMPOLLAS"
+    ],
+    "recomendaciones": "Plantas emolientes y cicatrizantes como el Aloe Vera, la Caléndula o el Hipérico, que calman y favorecen la regeneración de la piel. En quemaduras extensas o profundas, acudir siempre a un centro médico."
+  },
+  {
+    "id": 23,
+    "afeccion": "ACNÉ",
+    "definicion": "Afección cutánea inflamatoria caracterizada por la obstrucción de los folículos pilosebáceos, que provoca la aparición de granos y puntos negros.",
+    "sintomas": [
+      "GRANOS",
+      "PUNTOS NEGROS",
+      "PIEL GRASA",
+      "INFLAMACIÓN CUTÁNEA"
+    ],
+    "recomendaciones": "Plantas depurativas cutáneas como la Bardana o la Zarzaparrilla, junto con antiinflamatorias y antisépticas como el Árbol del Té o la Caléndula. Mantener una buena higiene facial y reducir el consumo de azúcares y lácteos."
+  },
+  {
+    "id": 24,
+    "afeccion": "DERMATITIS",
+    "definicion": "Inflamación de la piel que puede tener origen alérgico, irritativo o atópico, y que cursa con picor, enrojecimiento y sequedad.",
+    "sintomas": [
+      "PICOR",
+      "ENROJECIMIENTO",
+      "SEQUEDAD DE LA PIEL",
+      "DESCAMACIÓN"
+    ],
+    "recomendaciones": "Plantas antiinflamatorias y antihistamínicas como la Caléndula, la Manzanilla Dulce o el Ginkgo, junto con emolientes como el Aloe Vera o la Avena para calmar la piel. Identificar y evitar el agente irritante o alérgeno cuando sea posible."
+  },
+  {
+    "id": 25,
+    "afeccion": "URTICARIA",
+    "definicion": "Reacción cutánea caracterizada por la aparición de ronchas rojas y picor intenso, generalmente de origen alérgico.",
+    "sintomas": [
+      "RONCHAS",
+      "PICOR",
+      "ENROJECIMIENTO",
+      "HINCHAZÓN LOCAL"
+    ],
+    "recomendaciones": "Plantas antihistamínicas y antialérgicas como la Ortiga Verde, el Ginkgo o la Manzanilla Dulce, junto con antipruriginosas como la Avena. Identificar el desencadenante y evitar rascar la zona afectada."
+  },
+  {
+    "id": 26,
+    "afeccion": "PICADURAS",
+    "definicion": "Reacción local de la piel provocada por la mordedura o picadura de un insecto u otro animal.",
+    "sintomas": [
+      "PICOR",
+      "HINCHAZÓN LOCAL",
+      "ENROJECIMIENTO",
+      "DOLOR"
+    ],
+    "recomendaciones": "Plantas antiinflamatorias y antihistamínicas como la Caléndula, el Llantén Menor o la Manzanilla Dulce, junto con el Aloe Vera para calmar el picor. Evitar rascar la zona y vigilar signos de una reacción alérgica más intensa."
+  },
+  {
+    "id": 27,
+    "afeccion": "CONJUNTIVITIS",
+    "definicion": "Inflamación de la conjuntiva, la membrana que recubre el ojo y el interior de los párpados, de origen infeccioso, alérgico o irritativo.",
+    "sintomas": [
+      "ENROJECIMIENTO OCULAR",
+      "PICOR EN LOS OJOS",
+      "LAGRIMEO",
+      "SECRECIÓN OCULAR"
+    ],
+    "recomendaciones": "La Eufrasia es la planta de referencia en fitoterapia ocular por su acción antiinflamatoria y antiséptica, tradicionalmente usada en compresas o lavados oculares. Extremar la higiene y evitar tocarse los ojos."
+  },
+  {
+    "id": 28,
+    "afeccion": "BLEFARITIS",
+    "definicion": "Inflamación del borde de los párpados, generalmente crónica, que provoca picor, enrojecimiento y descamación.",
+    "sintomas": [
+      "PICOR EN LOS PÁRPADOS",
+      "ENROJECIMIENTO DEL PÁRPADO",
+      "DESCAMACIÓN",
+      "SENSACIÓN DE ARENILLA"
+    ],
+    "recomendaciones": "La Eufrasia, por su acción antiinflamatoria y antiséptica, se emplea tradicionalmente en compresas para el cuidado de los párpados. Mantener una buena higiene palpebral y evitar el maquillaje durante los brotes."
+  },
+  {
+    "id": 29,
+    "afeccion": "COLESTASIS",
+    "definicion": "Alteración del flujo normal de la bilis desde el hígado al intestino, que provoca acumulación de sustancias biliares en sangre.",
+    "sintomas": [
+      "PICOR EN LA PIEL",
+      "COLORACIÓN AMARILLENTA DE LA PIEL",
+      "ORINA OSCURA",
+      "HECES CLARAS",
+      "FATIGA"
+    ],
+    "recomendaciones": "Plantas coleréticas y colagogas como el Boldo, el Desmodio, la Alcachofera o el Cardo Mariano, que favorecen la producción y el flujo de bilis, junto con hepatoprotectoras como la Cúrcuma. Requiere siempre valoración médica para identificar la causa."
+  },
+  {
+    "id": 30,
+    "afeccion": "LITIASIS BILIAR",
+    "definicion": "Formación de cálculos en la vesícula biliar o las vías biliares, a partir de la cristalización de componentes de la bilis como el colesterol.",
+    "sintomas": [
+      "DOLOR EN EL HIPOCONDRIO DERECHO",
+      "NAUSEAS",
+      "DIGESTIONES PESADAS",
+      "INTOLERANCIA A LAS GRASAS"
+    ],
+    "recomendaciones": "Plantas colagogas y antilitiásicas biliares como el Crisantelo o el Rábano Negro, junto con coleréticas como la Alcachofera o el Boldo que favorecen el vaciado de la vesícula. Moderar el consumo de grasas saturadas y mantener un peso saludable."
+  },
+  {
+    "id": 31,
+    "afeccion": "HÍGADO GRASO",
+    "definicion": "Acumulación excesiva de grasa en las células del hígado, generalmente asociada a sobrepeso, resistencia a la insulina o consumo elevado de alcohol.",
+    "sintomas": [
+      "FATIGA",
+      "DOLOR EN EL HIPOCONDRIO DERECHO",
+      "DIGESTIONES PESADAS",
+      "AUMENTO DE PESO"
+    ],
+    "recomendaciones": "Plantas hepatoprotectoras como el Cardo Mariano, el Desmodio o la Cúrcuma, junto con depurativas hepáticas como la Alcachofera o el Diente de León. Reducir el consumo de azúcares refinados, alcohol y grasas saturadas, y mantener actividad física regular."
+  },
+  {
+    "id": 32,
+    "afeccion": "AFTAS BUCALES",
+    "definicion": "Pequeñas úlceras dolorosas que aparecen en la mucosa de la boca, de causa multifactorial y generalmente benignas.",
+    "sintomas": [
+      "DOLOR EN LA MUCOSA ORAL",
+      "LLAGAS BLANQUECINAS",
+      "DIFICULTAD PARA COMER O HABLAR",
+      "ENROJECIMIENTO"
+    ],
+    "recomendaciones": "Plantas cicatrizantes y protectoras de la mucosa como el Regaliz o la Caléndula, en forma de enjuagues, junto con antiinflamatorias como la Manzanilla Dulce. Evitar alimentos ácidos o irritantes mientras persistan las lesiones."
+  },
+  {
+    "id": 33,
+    "afeccion": "HERNIA DE HIATO",
+    "definicion": "Desplazamiento de parte del estómago hacia la cavidad torácica a través del diafragma, que favorece el reflujo del contenido gástrico hacia el esófago.",
+    "sintomas": [
+      "ARDOR DE ESTÓMAGO",
+      "REGURGITACIÓN",
+      "DOLOR TORÁCICO",
+      "SENSACIÓN DE NUDO EN LA GARGANTA"
+    ],
+    "recomendaciones": "Plantas demulcentes y protectoras de la mucosa como el Regaliz o el Olmo Americano, que ayudan a calmar la irritación esofágica. Evitar comidas copiosas, no acostarse justo después de comer, y reducir el peso corporal si existe sobrepeso."
+  },
+  {
+    "id": 34,
+    "afeccion": "GASTRITIS",
+    "definicion": "Inflamación de la mucosa del estómago, aguda o crónica, a menudo relacionada con la infección por Helicobacter pylori, el estrés o el uso de ciertos medicamentos.",
+    "sintomas": [
+      "ARDOR DE ESTÓMAGO",
+      "DOLOR EPIGÁSTRICO",
+      "NAUSEAS",
+      "SENSACIÓN DE PLENITUD",
+      "PÉRDIDA DE APETITO"
+    ],
+    "recomendaciones": "Plantas gastroprotectoras y antiulcerosas como el Regaliz o la Manzanilla Dulce, junto con acción frente a Helicobacter pylori como el propio Regaliz o el Urucum. Evitar el picante, el alcohol, el café y las comidas muy copiosas."
+  },
+  {
+    "id": 35,
+    "afeccion": "ÚLCERA GÁSTRICA O DUODENAL",
+    "definicion": "Lesión abierta en la mucosa del estómago o del duodeno, causada habitualmente por la infección por Helicobacter pylori o por el uso prolongado de antiinflamatorios.",
+    "sintomas": [
+      "DOLOR EPIGÁSTRICO",
+      "ARDOR",
+      "NAUSEAS",
+      "SENSACIÓN DE ACIDEZ",
+      "PÉRDIDA DE APETITO"
+    ],
+    "recomendaciones": "Plantas antiulcerosas y protectoras de la mucosa como el Regaliz, la Col-Brócoli o la Manzanilla Dulce, junto con acción antibacteriana frente a Helicobacter pylori. Requiere siempre diagnóstico y seguimiento médico para descartar complicaciones."
+  },
+  {
+    "id": 36,
+    "afeccion": "DIARREA",
+    "definicion": "Aumento de la frecuencia y fluidez de las deposiciones, generalmente de causa infecciosa, alimentaria o por intolerancia digestiva.",
+    "sintomas": [
+      "DEPOSICIONES LÍQUIDAS FRECUENTES",
+      "DOLOR ABDOMINAL",
+      "DESHIDRATACIÓN",
+      "NAUSEAS"
+    ],
+    "recomendaciones": "Plantas antidiarreicas y astringentes como la Tormentilla, la Agrimonia, el Algarrobo o la Manzanilla Dulce. Mantener una hidratación adecuada con sales de rehidratación y evitar lácteos y grasas mientras persistan los síntomas."
+  },
+  {
+    "id": 37,
+    "afeccion": "ESTREÑIMIENTO",
+    "definicion": "Disminución de la frecuencia de las deposiciones o dificultad para evacuar, con heces duras o secas.",
+    "sintomas": [
+      "DIFICULTAD PARA DEFECAR",
+      "HECES DURAS",
+      "SENSACIÓN DE EVACUACIÓN INCOMPLETA",
+      "HINCHAZÓN ABDOMINAL"
+    ],
+    "recomendaciones": "Plantas laxantes mecánicas como la Zaragatona o el Lino (Linaza), de acción suave y segura a largo plazo, o laxantes estimulantes como la Frángula o la Cáscara Sagrada para un uso puntual. Aumentar la ingesta de agua y fibra, y mantener actividad física regular."
+  },
+  {
+    "id": 38,
+    "afeccion": "COLITIS ULCEROSA",
+    "definicion": "Enfermedad inflamatoria intestinal crónica que afecta a la mucosa del colon y el recto, cursando con brotes de inflamación y remisión.",
+    "sintomas": [
+      "DIARREA CON SANGRE",
+      "DOLOR ABDOMINAL",
+      "URGENCIA PARA DEFECAR",
+      "FATIGA",
+      "PÉRDIDA DE PESO"
+    ],
+    "recomendaciones": "Plantas antiinflamatorias y protectoras de la mucosa como la Cúrcuma, el Regaliz o el Llantén Menor pueden usarse como apoyo, nunca en sustitución del tratamiento médico especializado. El seguimiento por digestivo es imprescindible para el control de los brotes."
+  },
+  {
+    "id": 39,
+    "afeccion": "ENFERMEDAD DE CROHN",
+    "definicion": "Enfermedad inflamatoria intestinal crónica que puede afectar a cualquier tramo del tubo digestivo, cursando con brotes de inflamación transmural.",
+    "sintomas": [
+      "DOLOR ABDOMINAL",
+      "DIARREA",
+      "FATIGA",
+      "PÉRDIDA DE PESO",
+      "FIEBRE"
+    ],
+    "recomendaciones": "Plantas antiinflamatorias como la Cúrcuma, junto con demulcentes y protectoras de la mucosa como el Regaliz o el Olmo Americano, siempre como complemento del tratamiento médico. El seguimiento por digestivo y una dieta individualizada son fundamentales."
+  },
+  {
+    "id": 40,
+    "afeccion": "SINDROME DEL INTESTINO IRRITABLE (SII)",
+    "definicion": "Trastorno funcional digestivo crónico que cursa con dolor abdominal y alteraciones del ritmo intestinal, sin una lesión orgánica identificable.",
+    "sintomas": [
+      "DOLOR ABDOMINAL",
+      "HINCHAZÓN",
+      "ALTERNANCIA DE DIARREA Y ESTREÑIMIENTO",
+      "GASES"
+    ],
+    "recomendaciones": "Plantas carminativas y antiespasmódicas como la Menta, el Hinojo, la Manzanilla Romana o el Comino, que ayudan a reducir el dolor y los gases. Identificar y evitar los alimentos desencadenantes, y gestionar el estrés, que suele agravar los síntomas."
+  },
+  {
+    "id": 41,
+    "afeccion": "DIVERTICULITIS",
+    "definicion": "Inflamación o infección de uno o varios divertículos (pequeñas bolsas en la pared del colon), que puede provocar dolor abdominal agudo y fiebre.",
+    "sintomas": [
+      "DOLOR ABDOMINAL",
+      "FIEBRE",
+      "NAUSEAS",
+      "CAMBIOS EN EL RITMO INTESTINAL"
+    ],
+    "recomendaciones": "En el brote agudo el manejo es médico y puede requerir dieta específica o antibióticos; entre brotes, plantas antiinflamatorias como la Cúrcuma y una dieta rica en fibra pueden ayudar a prevenir nuevos episodios. Ante dolor intenso o fiebre, acudir a valoración médica."
+  },
+  {
+    "id": 42,
+    "afeccion": "DIVERTICULOSIS",
+    "definicion": "Presencia de divertículos (pequeñas bolsas) en la pared del colon, generalmente asintomática, que puede complicarse si se inflaman (diverticulitis).",
+    "sintomas": [
+      "HINCHAZÓN ABDOMINAL",
+      "GASES",
+      "CAMBIOS EN EL RITMO INTESTINAL",
+      "MOLESTIAS LEVES"
+    ],
+    "recomendaciones": "Una dieta rica en fibra junto con plantas laxantes mecánicas como la Zaragatona o el Lino (Linaza) ayudan a mantener un tránsito intestinal regular y reducir la presión en el colon. Mantener una buena hidratación y actividad física regular."
+  },
+  {
+    "id": 43,
+    "afeccion": "ALERGIAS ALIMENTARIAS",
+    "definicion": "Reacción del sistema inmunitario ante una proteína de un alimento, que puede provocar síntomas cutáneos, digestivos o respiratorios, en ocasiones graves.",
+    "sintomas": [
+      "PICOR",
+      "HINCHAZÓN DE LABIOS O CARA",
+      "URTICARIA",
+      "MOLESTIAS DIGESTIVAS",
+      "DIFICULTAD PARA RESPIRAR"
+    ],
+    "recomendaciones": "Plantas antihistamínicas y antialérgicas como la Ortiga Verde, el Ginkgo o la Cúrcuma pueden ayudar a modular la respuesta ante síntomas leves, pero la base del manejo es identificar y evitar el alimento implicado. Ante signos de reacción grave (dificultad para respirar, hinchazón importante), es una urgencia médica."
+  }
+]
