@@ -2,6 +2,12 @@
 
 Base de datos fitoterapéutica ligera, de alta precisión y diseñada como Aplicación Web Progresiva (PWA) para su uso en dispositivos móviles y de escritorio, con funcionamiento offline completo.
 
+## ⚠️ IMPORTANTE — Finalidad educativa y de consulta
+
+FitoMed está concebida como una guía y herramienta de apoyo para estudiantes, investigadores y personas interesadas en el estudio de las plantas medicinales y la fitoterapia. Su contenido tiene una **finalidad exclusivamente educativa y de consulta**, y en ningún caso pretende sustituir el criterio, diagnóstico, tratamiento o recomendaciones de los profesionales de la salud, ya sea desde la medicina convencional u occidental, la naturopatía, la medicina tradicional china, la medicina ayurvédica u otras disciplinas sanitarias.
+
+La información incluida en FitoMed debe utilizarse como material de estudio y consulta y no como una recomendación médica personalizada.
+
 ---
 
 ## 🎯 Objetivos de la Aplicación
@@ -14,6 +20,7 @@ La aplicación y su base de datos cumplen con los siguientes principios fundamen
 * **Terminología uniforme:** Estandarización estricta de términos, acciones y familias botánicas.
 * **Estructura sencilla y ligera:** Formato optimizado para cargas instantáneas y fácil mantenimiento.
 * **Uso offline prioritario:** Diseño enfocado en la disponibilidad continua sin necesidad de estar conectado a Internet.
+* **Uso responsable de la información:** La información proporcionada debe interpretarse como material de consulta y estudio y no como una recomendación médica personalizada.
 
 ---
 
