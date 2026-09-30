@@ -2673,5 +2673,10 @@
     "id": 545,
     "accion": "GLÁNDULA SECRETORA VEGETAL",
     "definicion": "Estructura especializada de la planta encargada de producir y almacenar sustancias como aceites esenciales, resinas o mucílagos."
+  },
+{
+    "id": 546,
+    "accion": "PRINCIPIO AMARGO",
+    "definicion": "Conjunto de compuestos químicos de origen vegetal (como lactonas sesquiterpénicas, gencianósidos, alcaloides o glucósidos) que se caracterizan por su sabor intensamente amargo y que, en dosis pequeñas, estimulan el reflejo amargo: activan los receptores gustativos de la lengua y provocan un aumento de las secreciones digestivas (saliva, jugos gástricos, bilis y enzimas pancreáticas). Son la base de la acción digestiva, aperitiva y tónica de muchas plantas medicinales."
   }
 ]
