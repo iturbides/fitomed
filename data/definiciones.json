@@ -2678,5 +2678,45 @@
     "id": 546,
     "accion": "PRINCIPIO AMARGO",
     "definicion": "Conjunto de compuestos químicos de origen vegetal (como lactonas sesquiterpénicas, gencianósidos, alcaloides o glucósidos) que se caracterizan por su sabor intensamente amargo y que, en dosis pequeñas, estimulan el reflejo amargo: activan los receptores gustativos de la lengua y provocan un aumento de las secreciones digestivas (saliva, jugos gástricos, bilis y enzimas pancreáticas). Son la base de la acción digestiva, aperitiva y tónica de muchas plantas medicinales."
-  }
+  },
+{
+  "id": 547,
+  "accion": "PRINCIPIO ASTRINGENTE",
+  "definicion": "Compuestos químicos de origen vegetal, principalmente taninos (taninos catóquicos e hidrolizables), capaces de precipitar proteínas superficiales de las mucosas y la piel, produciendo un efecto vasoconstrictor y secante. Modulan las secreciones, forman una capa protectora sobre los tejidos irritados y reducen la permeabilidad capilar. Son la base de la acción astringente, antidiarreica, cicatrizante, antihemorrágica y antiinflamatoria de muchas plantas medicinales (roble, arándano, salvia, tormentila)."
+},
+{
+  "id": 548,
+  "accion": "PRINCIPIO MUCILAGINOSO",
+  "definicion": "Polisacáridos de alto peso molecular (mucílagos) que, al contacto con el agua, forman soluciones viscosas o geles. Actúan por vía física y mecánica, sin absorción sistémica: recubren y protegen las mucosas irritadas, calman la inflamación superficial y retienen agua en el tracto digestivo. Son la base de la acción emoliente, demulcente, protectora de mucosas, antitusiva y laxante suave de plantas como el malvavisco, la malva, el llantén y la linaza."
+},
+{
+  "id": 549,
+  "accion": "PRINCIPIO AROMATICO",
+  "definicion": "Mezcla de compuestos volátiles (monoterpenos, sesquiterpenos, fenilpropanos) que constituyen los aceites esenciales de las plantas aromáticas. Ejercen acción local sobre las mucosas digestivas y respiratorias, con efectos carminativos, antiespasmódicos, digestivos, antimicrobianos y expectorantes. Se absorben rápidamente y parte se elimina por vía respiratoria con acción balsámica. Son la base de la acción de plantas como la menta, el anís, el hinojo, la manzanilla y el romero."
+},
+{
+  "id": 550,
+  "accion": "PRINCIPIO SAPONINICO",
+  "definicion": "Glucósidos de estructura esteroídica o triterpénica (saponinas) que forman espuma en solución acuosa. Actúan modificando la permeabilidad de las membranas celulares y estimulando la secreción mucosa. Dependiendo de la planta y la dosis, presentan acción expectorante, antiinflamatoria, adaptógena, venotónica, diurética o inmunoestimulante. Son la base de la acción de plantas como el ginseng, el regaliz, el quillay y la potentilla (Potentilla erecta)."
+},
+{
+  "id": 551,
+  "accion": "PRINCIPIO ALCALOIDICO",
+  "definicion": "Compuestos nitrogenados de carácter básico (alcaloides) con estructuras muy diversas, generalmente de acción potente y selectiva sobre el sistema nervioso, cardiovascular o digestivo. Actúan por vía farmacológica directa, con márgenes terapéuticos estrechos y alta toxicidad potencial en dosis excesivas. Son la base de la acción estimulante (cafeína, teobromina), antipalúdica (quinina), analgésica (morfina), antiespasmódica (atropina) y de muchas plantas medicinales de uso restringido o controlado."
+},
+{
+  "id": 552,
+  "accion": "PRINCIPIO FLAVONOIDICO",
+  "definicion": "Compuestos fenólicos de estructura benzo-y-pirona (flavonoides: flavonas, flavonoles, flavanonas, antocianósidos) con capacidad antioxidante de capturar radicales libres y quelar iones metálicos. Estabilizan el colágeno y la matriz extracelular de los vasos sanguíneos, inhiben enzimas proinflamatorias y presentan actividad diurética suave y venotónica. Son la base de la acción antioxidante, vasoprotectora, antiinflamatoria y diurética de plantas como el ginkgo, el espino blanco, la vid roja y los cítricos."
+},
+{
+  "id": 553,
+  "accion": "PRINCIPIO ANTRAQUINONICO",
+  "definicion": "Glucósidos derivados de la antracena (antraquinonas, antranoles y diantronas) que actúan sobre el intestino grueso estimulando los plexos nerviosos de la mucosa y aumentando la peristalsis, además de inhibir la reabsorción de agua y electrolitos. Su efecto laxante se produce entre 6 y 12 horas tras la ingesta. Son la base de la acción purgante y laxante estimulante de plantas como el sen, el ruibarbo, la cáscara sagrada y el aloe, de uso limitado en el tiempo por riesgo de dependencia."
+},
+{
+  "id": 554,
+  "accion": "PRINCIPIO CUMARINICO",
+  "definicion": "Lactonas derivadas del ácido o-cinámico (cumarinas y furanocumarinas) con acción anticoagulante, vasoprotectora, antiespasmódica y antiagregante plaquetaria. Algunas, como la dicumarol formada por fermentación del meliloto, inhiben la vitamina K y la síntesis de factores de coagulación. Otras presentan fotosensibilización (furanocumarinas del apio o la ammi). Son la base de la acción de plantas como el meliloto, el trébol de olor y el castaño de indias."
+}
 ]

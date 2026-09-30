@@ -674,5 +674,77 @@
     "FATIGA"
   ],
   "recomendaciones": "Es una infección que requiere siempre diagnóstico y tratamiento médico, habitualmente con antibióticos; plantas expectorantes como el Tomillo o inmunoestimulantes como el Própoleo pueden usarse únicamente como apoyo durante la recuperación, nunca como tratamiento principal."
+},
+{
+  "id": 55,
+  "afeccion": "ARTROSIS",
+  "definicion": "Enfermedad degenerativa de las articulaciones por desgaste del cartílago, que provoca dolor, rigidez y limitación del movimiento, especialmente con la edad o el uso repetido.",
+  "sintomas": [
+    "DOLOR ARTICULAR",
+    "RIGIDEZ ARTICULAR",
+    "LIMITACIÓN DE MOVIMIENTO",
+    "INFLAMACIÓN DE LA ARTICULACIÓN"
+  ],
+  "recomendaciones": "Plantas antirreumáticas y antiinflamatorias como el Harpagofito, el Sauce, la Cúrcuma o el Jengibre, junto con analgésicas como la Ulmaria. Mantener un peso saludable y ejercicio de bajo impacto para proteger la articulación."
+},
+{
+  "id": 56,
+  "afeccion": "CEFALEAS",
+  "definicion": "Dolor de cabeza de intensidad y origen variable, que puede ser ocasional o recurrente, y en algunos casos de tipo migrañoso.",
+  "sintomas": [
+    "DOLOR DE CABEZA",
+    "NAUSEAS",
+    "SENSIBILIDAD A LA LUZ",
+    "TENSIÓN MUSCULAR"
+  ],
+  "recomendaciones": "El Tanaceto (Matricaria) es la planta de referencia para la prevención de la migraña, usado de forma preventiva y continuada. En las cefaleas tensionales, plantas analgésicas y antiespasmódicas como el Sauce o la Manzanilla Dulce, junto con relajantes como la Lavanda, pueden ayudar a aliviar el dolor."
+},
+{
+  "id": 57,
+  "afeccion": "FRAGILIDAD CAPILAR",
+  "definicion": "Debilidad de la pared de los capilares sanguíneos, que favorece la aparición de hematomas con facilidad, arañas vasculares o pequeñas hemorragias bajo la piel.",
+  "sintomas": [
+    "HEMATOMAS CON FACILIDAD",
+    "ARAÑAS VASCULARES",
+    "PESADEZ DE PIERNAS",
+    "PEQUEÑAS HEMORRAGIAS CUTÁNEAS"
+  ],
+  "recomendaciones": "Plantas vasoprotectoras y venotónicas como la Vid Roja, el Castaño de Indias, el Hamamelis, el Rusco o la Centella Asiática, que fortalecen la pared de los capilares. Un aporte adecuado de vitamina C y bioflavonoides a través de la dieta también contribuye a la salud vascular."
+},
+{
+  "id": 58,
+  "afeccion": "INAPETENCIA",
+  "definicion": "Disminución o pérdida del deseo de comer, que puede ser pasajera o mantenida en el tiempo y afectar al estado nutricional.",
+  "sintomas": [
+    "PÉRDIDA DE APETITO",
+    "PÉRDIDA DE PESO",
+    "FATIGA",
+    "SACIEDAD PRECOZ"
+  ],
+  "recomendaciones": "Plantas amargas y aperitivas como la Genciana, la Achicoria, el Diente de León, el Ajenjo o la Centaura Menor, que estimulan el apetito y la secreción digestiva antes de las comidas. Si la inapetencia es prolongada o se acompaña de pérdida de peso importante, conviene descartar una causa subyacente con un profesional médico."
+},
+{
+  "id": 59,
+  "afeccion": "DISCINESIA BILIAR",
+  "definicion": "Alteración funcional de la motilidad de la vesícula biliar o del esfínter de Oddi, que dificulta el vaciado normal de la bilis sin que exista un cálculo.",
+  "sintomas": [
+    "DOLOR EN EL HIPOCONDRIO DERECHO",
+    "DIGESTIONES PESADAS",
+    "INTOLERANCIA A LAS GRASAS",
+    "HINCHAZÓN ABDOMINAL"
+  ],
+  "recomendaciones": "Plantas colagogas y coleréticas como la Alcachofera, el Boldo, el Desmodio o el Rábano Negro, que favorecen un vaciado biliar más regular. Comidas menos copiosas y reducir el consumo de grasas saturadas suele aliviar los síntomas."
+},
+{
+  "id": 60,
+  "afeccion": "PSORIASIS",
+  "definicion": "Enfermedad inflamatoria crónica de la piel, de base autoinmune, que provoca placas rojizas cubiertas de escamas blanquecinas.",
+  "sintomas": [
+    "PLACAS ROJIZAS CON ESCAMAS",
+    "PICOR",
+    "DESCAMACIÓN",
+    "SEQUEDAD DE LA PIEL"
+  ],
+  "recomendaciones": "Plantas depurativas cutáneas y antiinflamatorias como la Zarzaparrilla, la Bardana o el Trébol Rojo, junto con inmunomoduladoras como la Cúrcuma o la Uña de Gato. Es una enfermedad crónica que requiere seguimiento dermatológico, y las plantas solo pueden actuar como apoyo complementario."
 }
 ]
