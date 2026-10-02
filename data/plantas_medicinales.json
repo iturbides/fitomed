@@ -3866,7 +3866,7 @@
   },
   {
     "id": 138,
-    "nombreComun": "AGNOCASTO",
+    "nombreComun": "AGNOCASTO, SAUZGATILLO",
     "nombreBotanico": "Vitex agnus-castus",
     "acciones": [
       "ESTROGÉNICA",
@@ -8431,5 +8431,32 @@
   ],
   "observacion": "Uso exclusivamente externo/cosmético; no se recomienda su ingesta. No presenta propiedades fitoterapéuticas internas relevantes documentadas.",
   "notas": "Arbusto originario de las zonas desérticas de Norteamérica (Sonora y Baja California), cuya semilla produce una cera líquida tradicionalmente usada por pueblos indígenas y ampliamente empleada hoy en cosmética por su capacidad emoliente e hidratante de piel y cabello."
+},
+{
+  "id": 323,
+  "nombreComun": "ONAGRA",
+  "nombreBotanico": "Oenothera biennis L.",
+  "acciones": [
+    "ESTROGÉNICA",
+    "ANTIINFLAMATORIA",
+    "EMOLIENTE",
+    "NUTRITIVA"
+  ],
+  "principiosActivos": [
+    "Ácido gamma-linolénico (GLA)",
+    "Ácido linoleico",
+    "Flavonoides",
+    "Taninos"
+  ],
+  "drogaVegetal": [
+    "Semilla"
+  ],
+  "uso": [
+    "Aceite",
+    "Cápsulas",
+    "Uso tópico"
+  ],
+  "observacion": "Puede interactuar con anticoagulantes y aumentar el riesgo de sangrado; se recomienda precaución en personas con trastornos convulsivos. No se recomienda su uso durante el embarazo sin supervisión profesional. Es importante suplementar también co Vitamina E y Omega 3.",
+  "notas": "Planta originaria de Norteamérica, naturalizada en Europa. Su aceite de semillas es rico en ácido gamma-linolénico (GLA), un ácido graso omega-6 poco frecuente en el reino vegetal, por el que se emplea tradicionalmente en el síndrome premenstrual, la dermatitis atópica y los síntomas de la menopausia."
 }
 ]
