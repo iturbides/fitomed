@@ -76,9 +76,7 @@ title="Buscar imágenes en Ecosia"
 
             <h3>Uso</h3>
 
-            <div class="etiquetas">
-                ${crearEtiquetas(planta.uso, "uso")}
-            </div>
+            ${crearTextoUso(planta.uso)}
 
         </section>
 
@@ -142,5 +140,22 @@ function crearEtiquetas(lista, tipo) {
         </button>
 
     `).join("");
+
+}
+
+
+// El uso ya no son etiquetas clicables: es texto simple
+// (una línea por indicación de uso).
+function crearTextoUso(lista) {
+
+    if (!lista || lista.length === 0) {
+        return "<p>-</p>";
+    }
+
+    return `
+        <ul class="uso-lista">
+            ${lista.map(item => `<li>${item}</li>`).join("")}
+        </ul>
+    `;
 
 }

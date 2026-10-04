@@ -44,7 +44,7 @@
       "Hierro (Fe)",
       "Magnesio (Mg)",
       "Potasio (K)",
-      "Vitamina A (retinol)",
+      "Beta-caroteno",
       "Vitamina B2 (riboflavina)",
       "Vitamina C (ácido ascórbico)"
     ],
@@ -60,7 +60,7 @@
   {
     "id": 3,
     "nombreComun": "ACHICORIA",
-    "nombreBotanico": "Chicorium intybus",
+    "nombreBotanico": "Cichorium intybus",
     "acciones": [
       "APERITIVA",
       "COLAGOGA",
@@ -88,7 +88,7 @@
   {
     "id": 4,
     "nombreComun": "AGRIMONIA",
-    "nombreBotanico": "Agrimonia eupatoris",
+    "nombreBotanico": "Agrimonia eupatoria",
     "acciones": [
       "ANTIBACTERIANA",
       "ANTIDIARREICA",
@@ -126,9 +126,11 @@
       "CARMINATIVA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
-      "Taninos"
+      "Taninos",
+      "Timol",
+      "Carvacrol"
     ],
     "drogaVegetal": [
       "Sumidad florida"
@@ -162,11 +164,14 @@
       "Hierro (Fe)",
       "Sales minerales",
       "Silicio (Si)",
-      "Vitamina A (retinol)",
       "Vitamina B1 (tiamina)",
       "Vitamina B2 (riboflavina)",
       "Vitamina C (ácido ascórbico)",
-      "Yodo (I)"
+      "Yodo (I)",
+      "Alicina",
+      "Aliína",
+      "Ajoeno",
+      "Compuestos azufrados"
     ],
     "drogaVegetal": [
       "Bulbo"
@@ -190,9 +195,11 @@
       "DIGESTIVA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Ácido rosmarínico",
-      "Flavonoides"
+      "Flavonoides",
+      "Estragol",
+      "Linalol"
     ],
     "drogaVegetal": [
       "Hoja",
@@ -222,7 +229,8 @@
       "Ácido clorogénico",
       "Flavonoides",
       "Principio amargo",
-      "Lactonas sesquiterpénicas"
+      "Lactonas sesquiterpénicas",
+      "Cinarina"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -245,7 +253,7 @@
       "EUPÉPTICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
       "Taninos"
     ],
@@ -306,11 +314,11 @@
       "Polifenoles"
     ],
     "drogaVegetal": [
-      "Harina de la vaina"
+      "Vaina"
     ],
     "uso": [
-      "Disuelto en licuado",
-      "Harina cocinada en agua"
+      "Disuelto en licuado (harina de la vaina)",
+      "Harina cocinada en agua (harina de la vaina)"
     ],
     "observacion": "",
     "notas": "Árbol mediterráneo cuya harina de vaina, rica en fibra, se usa tradicionalmente para cortar la diarrea, especialmente en lactantes."
@@ -330,7 +338,11 @@
       "Flavonoides",
       "Mucílagos",
       "Saponinas",
-      "Alcaloides esteroideos"
+      "Alcaloides esteroideos",
+      "Diosgenina",
+      "Trigonelina",
+      "4-Hidroxiisoleucina",
+      "Galactomananos"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -357,13 +369,15 @@
       "Polisacáridos",
       "Mucílagos",
       "Vitamina E (tocoferol)",
-      "Aloína"
+      "Aloína",
+      "Acemanano",
+      "Aloesina"
     ],
     "drogaVegetal": [
-      "Pulpa de las hojas (zumo sin acíbar)"
+      "Hoja"
     ],
     "uso": [
-      "Zumo sin acíbar"
+      "Zumo sin acíbar (pulpa de la hoja)"
     ],
     "observacion": "",
     "notas": "Planta suculenta de origen africano cuyo gel se usa tradicionalmente para cuidar la piel y calmar mucosas irritadas."
@@ -395,7 +409,7 @@
   },
   {
     "id": 15,
-    "nombreComun": "ANGELICA",
+    "nombreComun": "ANGÉLICA",
     "nombreBotanico": "Angelica archangelica",
     "acciones": [
       "ANTIBACTERIANA",
@@ -409,7 +423,7 @@
     ],
     "principiosActivos": [
       "Furanocumarinas",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Cumarina simple"
     ],
     "drogaVegetal": [
@@ -434,7 +448,7 @@
       "EXPECTORANTE"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Anetol",
       "Flavonoides"
     ],
@@ -465,7 +479,9 @@
       "Antocianinas",
       "Flavonoides",
       "Taninos",
-      "Vitamina C (ácido ascórbico)", "Proantocianidinas" ],
+      "Vitamina C (ácido ascórbico)",
+      "Proantocianidinas"
+    ],
     "drogaVegetal": [
       "Fruto"
     ],
@@ -539,14 +555,14 @@
     "principiosActivos": [
       "Artemisinina",
       "Lactonas sesquiterpénicas",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides"
     ],
     "drogaVegetal": [
-      "Toda la planta (seca)"
+      "Toda la planta"
     ],
     "uso": [
-      "Infusión",
+      "Infusión (planta seca)",
       "Cápsula"
     ],
     "observacion": "",
@@ -568,7 +584,8 @@
       "Goma de tragacanto",
       "Polisacáridos",
       "Saponinas triterpenoides",
-      "Flavonoides"
+      "Flavonoides",
+      "Astragalósidos"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -583,7 +600,7 @@
   {
     "id": 22,
     "nombreComun": "BARDANA",
-    "nombreBotanico": "Arctium lapps",
+    "nombreBotanico": "Arctium lappa",
     "acciones": [
       "ANTIINFECCIOSA",
       "ANTIINFLAMATORIA",
@@ -639,7 +656,7 @@
   {
     "id": 24,
     "nombreComun": "BOLDO",
-    "nombreBotanico": "Pneumus boldus",
+    "nombreBotanico": "Peumus boldus",
     "acciones": [
       "ABORTIVA",
       "ANTIESPASMÓDICA",
@@ -656,8 +673,9 @@
     "principiosActivos": [
       "Alcaloides",
       "Principio amargo",
-      "Aceite Esencial",
-      "Flavonoides"
+      "Aceite esencial",
+      "Flavonoides",
+      "Boldina"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -684,7 +702,7 @@
     ],
     "principiosActivos": [
       "Ácidos boswélicos",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Resinas"
     ],
     "drogaVegetal": [
@@ -765,14 +783,15 @@
     ],
     "principiosActivos": [
       "Cumarina simple",
-      "Aceite Esencial",
-      "Proantocianidinas"
+      "Aceite esencial",
+      "Proantocianidinas",
+      "Cinamaldehído"
     ],
     "drogaVegetal": [
-      "Corteza de rama tierna"
+      "Corteza"
     ],
     "uso": [
-      "Decocción"
+      "Decocción (corteza de rama tierna)"
     ],
     "observacion": "",
     "notas": "Corteza aromática de origen asiático, muy usada en cocina y como digestivo e hipoglucemiante suave."
@@ -790,7 +809,7 @@
       "Flavonoides",
       "Glucosinolatos",
       "Vitamina C (ácido ascórbico)",
-      "Aceite Esencial"
+      "Aceite esencial"
     ],
     "drogaVegetal": [
       "Sumidad florida"
@@ -817,7 +836,7 @@
       "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
       "Ácidos fenólicos",
       "Ácidos grasos",
@@ -860,7 +879,9 @@
       "Quercetina",
       "Silimarina",
       "Vitamina E (tocoferol)",
-      "Esteroles"
+      "Esteroles",
+      "Silibina",
+      "Flavonolignanos"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -887,7 +908,9 @@
     "principiosActivos": [
       "Saponinas triterpenoides",
       "Flavonoides",
-      "Taninos"
+      "Taninos",
+      "Escina",
+      "Cumarina simple"
     ],
     "drogaVegetal": [
       "Corteza",
@@ -917,7 +940,8 @@
     "principiosActivos": [
       "Flavonoides",
       "Compuestos azufrados",
-      "Vitamina C (ácido ascórbico)"
+      "Vitamina C (ácido ascórbico)",
+      "Quercetina"
     ],
     "drogaVegetal": [
       "Bulbo"
@@ -939,7 +963,7 @@
       "TÓNICO DIGESTIVO"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Principio amargo",
       "Flavonoides",
       "Iridoides"
@@ -968,7 +992,8 @@
       "Polisacáridos",
       "Ergosterol",
       "Proteínas",
-      "Beta-glucanos"
+      "Beta-glucanos",
+      "Vitamina D (calciferol)"
     ],
     "drogaVegetal": [
       "Cuerpo fructífero"
@@ -994,8 +1019,11 @@
       "Ácidos grasos",
       "Ácidos nucleicos",
       "Clorofila",
-      "Minerales",
-      "Vitaminas"
+      "Beta-glucanos",
+      "Luteína",
+      "Zinc (Zn)",
+      "Hierro (Fe)",
+      "Vitamina B2 (riboflavina)"
     ],
     "drogaVegetal": [
       "Alga"
@@ -1018,7 +1046,7 @@
       "DIGESTIVA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Ácidos grasos",
       "Flavonoides"
     ],
@@ -1036,14 +1064,14 @@
   {
     "id": 38,
     "nombreComun": "CIPRÉS",
-    "nombreBotanico": "Cupressus semprevivum",
+    "nombreBotanico": "Cupressus sempervirens",
     "acciones": [
       "ANTIHEMORROIDAL",
       "ASTRINGENTE",
       "VENOTÓNICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Taninos",
       "Flavonoides"
     ],
@@ -1076,16 +1104,19 @@
     "principiosActivos": [
       "Indol-3-carbinol",
       "Glucosinolatos",
-      "Vitamina C (ácido ascórbico)"
+      "Vitamina C (ácido ascórbico)",
+      "Sulforafano",
+      "Glucorafanina",
+      "Vitamina B9 (ácido fólico)"
     ],
     "drogaVegetal": [
       "Cabeza floral",
-      "Hoja (fresca)",
+      "Hoja",
       "Tallo"
     ],
     "uso": [
       "Extracto fluido",
-      "Licuado de hoja"
+      "Licuado de hoja (fresca)"
     ],
     "observacion": "",
     "notas": "Familia de hortalizas crucíferas ricas en compuestos azufrados, estudiadas por su potencial protector frente al daño celular."
@@ -1113,12 +1144,12 @@
       "Silicio (Si)"
     ],
     "drogaVegetal": [
-      "Parte aérea (pulverizada)"
+      "Parte aérea"
     ],
     "uso": [
-      "Infusión",
+      "Infusión (parte aérea pulverizada)",
       "Decocción",
-      "Cápsula"
+      "Cápsula (parte aérea pulverizada)"
     ],
     "observacion": "",
     "notas": "Planta de tallos articulados y rizoma rastrero, muy extendida en el hemisferio norte, célebre por su alto contenido en sílice y su uso diurético."
@@ -1135,7 +1166,7 @@
       "EUPÉPTICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
       "Ácidos fenólicos"
     ],
@@ -1175,7 +1206,7 @@
   {
     "id": 43,
     "nombreComun": "CRISANTELO",
-    "nombreBotanico": "Chrysantellum americanum",
+    "nombreBotanico": "Chrysanthellum americanum",
     "acciones": [
       "ANTIINFLAMATORIA",
       "ANTILITIÁSICA BILIAR",
@@ -1192,7 +1223,7 @@
       "Ácidos fenólicos"
     ],
     "drogaVegetal": [
-      "Sumidad aérea"
+      "Sumidad florida"
     ],
     "uso": [
       "Infusión"
@@ -1230,7 +1261,8 @@
     "principiosActivos": [
       "Curcumina",
       "Polisacáridos",
-      "Aceite Esencial"
+      "Aceite esencial",
+      "Curcuminoides"
     ],
     "drogaVegetal": [
       "Rizoma"
@@ -1358,8 +1390,9 @@
     "principiosActivos": [
       "Inulina",
       "Lactonas sesquiterpénicas",
-      "Aceite Esencial",
-      "Resinas"
+      "Aceite esencial",
+      "Resinas",
+      "Alantolactona"
     ],
     "drogaVegetal": [
       "Raíz",
@@ -1417,7 +1450,7 @@
     ],
     "principiosActivos": [
       "Ácidos fenólicos",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
       "Ácido clorogénico"
     ],
@@ -1444,7 +1477,7 @@
       "Alquilamidas",
       "Flavonoides",
       "Ácidos fenólicos",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Alcaloides"
     ],
     "drogaVegetal": [
@@ -1474,7 +1507,7 @@
       "Glucosinolatos",
       "Flavonoides",
       "Vitamina C (ácido ascórbico)",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Mucílagos"
     ],
     "drogaVegetal": [
@@ -1490,7 +1523,7 @@
   {
     "id": 53,
     "nombreComun": "ESPINO ALBAR",
-    "nombreBotanico": "Crataegus monogyna, Crataegus oxyachanta",
+    "nombreBotanico": "Crataegus monogyna, Crataegus oxyacantha",
     "acciones": [
       "CARDIOTÓNICA",
       "HIPOTENSORA",
@@ -1503,7 +1536,9 @@
       "Flavonoides",
       "Proantocianidinas",
       "Ácidos fenólicos",
-      "Triterpenos"
+      "Triterpenos",
+      "Vitexina",
+      "Hiperósido"
     ],
     "drogaVegetal": [
       "Flor",
@@ -1550,7 +1585,7 @@
   {
     "id": 55,
     "nombreComun": "ESTEVIA",
-    "nombreBotanico": "Stevia reabudiana",
+    "nombreBotanico": "Stevia rebaudiana",
     "acciones": [
       "HIPOGLUCEMIANTE"
     ],
@@ -1580,9 +1615,11 @@
       "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
-      "Cumarina simple"
+      "Cumarina simple",
+      "Estragol",
+      "Linalol"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -1606,11 +1643,12 @@
       "MUCOLÍTICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Taninos",
       "Flavonoides",
       "Ácidos fenólicos",
-      "Resinas"
+      "Resinas",
+      "Cineol"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -1692,7 +1730,9 @@
       "Taninos",
       "Oligosacáridos",
       "Xantonas",
-      "Esteroles"
+      "Esteroles",
+      "Gentiopicrósido",
+      "Amarogentina"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -1743,13 +1783,16 @@
     "principiosActivos": [
       "Ginkgetina",
       "Flavonoides",
-      "Diterpenos"
+      "Diterpenos",
+      "Ginkgólidos",
+      "Bilobálido",
+      "Biflavonoides"
     ],
     "drogaVegetal": [
-      "Hoja (seca, triturada)"
+      "Hoja"
     ],
     "uso": [
-      "Extracto seco",
+      "Extracto seco (hoja seca, triturada)",
       "Cápsula"
     ],
     "observacion": "No con anticoagulantes",
@@ -1769,7 +1812,8 @@
     "principiosActivos": [
       "Polisacáridos",
       "Saponinas triterpenoides",
-      "Flavonoides"
+      "Flavonoides",
+      "Ginsenósidos"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -1813,7 +1857,7 @@
   {
     "id": 65,
     "nombreComun": "GRAMA DE LAS BOTICAS",
-    "nombreBotanico": "Agropyrum repens",
+    "nombreBotanico": "Agropyron repens",
     "acciones": [
       "DIURÉTICA",
       "DEMULCENTE",
@@ -1823,7 +1867,10 @@
     "principiosActivos": [
       "Flavonoides",
       "Mucílagos",
-      "Polisacáridos"
+      "Polisacáridos",
+      "Triticina",
+      "Silicio (Si)",
+      "Saponinas"
     ],
     "drogaVegetal": [
       "Rizoma"
@@ -1905,7 +1952,7 @@
     "principiosActivos": [
       "Taninos",
       "Flavonoides",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Proantocianidinas",
       "Ácido gálico"
     ],
@@ -1923,7 +1970,7 @@
   {
     "id": 69,
     "nombreComun": "HELICRISO - SOL DE ORO - PERPETUA - SIEMPRE VIVA",
-    "nombreBotanico": "Helicrysum arenarium, H. italicum, H. stoechas",
+    "nombreBotanico": "Helichrysum arenarium, H. italicum, H. stoechas",
     "acciones": [
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
@@ -1936,7 +1983,7 @@
       "EXPECTORANTE"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
       "Lactonas amargas",
       "Lactonas sesquiterpénicas",
@@ -1967,8 +2014,8 @@
     "principiosActivos": [
       "Alcaloides",
       "Flavonoides",
-      "Saponinas",
-      "Saponinas triterpenoides"
+      "Saponinas triterpenoides",
+      "Hederacósido C"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -1984,7 +2031,7 @@
   {
     "id": 71,
     "nombreComun": "HIERBALUISA - MARIA LUISA",
-    "nombreBotanico": "Lippia triphylla, Lippia citrodora, Aloysia triphylia",
+    "nombreBotanico": "Lippia triphylla, Lippia citrodora, Aloysia triphylla",
     "acciones": [
       "ANTIALÉRGICA",
       "DIGESTIVA",
@@ -1992,17 +2039,19 @@
       "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
       "Iridoides",
-      "Furanocumarinas"
+      "Furanocumarinas",
+      "Citral",
+      "Verbascósido"
     ],
     "drogaVegetal": [
-      "Flor (fresca)",
-      "Hoja (fresca)"
+      "Flor",
+      "Hoja"
     ],
     "uso": [
-      "Infusión"
+      "Infusión (flor y hoja frescas)"
     ],
     "observacion": "",
     "notas": "Arbusto de origen sudamericano, muy cultivado en el Mediterráneo por su hoja de intenso aroma a limón, usada como digestivo."
@@ -2022,11 +2071,13 @@
       "EUPÉPTICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
       "Cumarina simple",
       "Furanocumarinas",
-      "Esteroles"
+      "Esteroles",
+      "Fenchona",
+      "Estragol"
     ],
     "drogaVegetal": [
       "Fruto",
@@ -2053,7 +2104,10 @@
       "Flavonoles",
       "Taninos"
     ],
-    "drogaVegetal": [],
+    "drogaVegetal": [
+      "Hoja",
+      "Sumidad florida"
+    ],
     "uso": [
       "Extracto fluido",
       "Extracto seco",
@@ -2066,7 +2120,7 @@
   {
     "id": 74,
     "nombreComun": "JENGIBRE",
-    "nombreBotanico": "Zyngiber officinale",
+    "nombreBotanico": "Zingiber officinale",
     "acciones": [
       "ADELGAZANTE",
       "ANALGÉSICA",
@@ -2080,7 +2134,7 @@
       "ANTIEMÉTICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Gingeroles",
       "Shogaoles",
       "Almidón",
@@ -2159,7 +2213,9 @@
     "principiosActivos": [
       "Ácido linoleico",
       "Celulosa",
-      "Mucílagos de lino"
+      "Mucílagos",
+      "Omega 3",
+      "Lignanos"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -2189,7 +2245,7 @@
       "Ácidos liquénicos"
     ],
     "drogaVegetal": [
-      "Talo (conjunto de la raíz, el tallo y las hojas)"
+      "Talo"
     ],
     "uso": [
       "Decocción",
@@ -2200,7 +2256,7 @@
   },
   {
     "id": 79,
-    "nombreComun": "LLANTÉN MAJOR",
+    "nombreComun": "LLANTÉN MAYOR",
     "nombreBotanico": "Plantago major",
     "acciones": [
       "ANTIALÉRGICA",
@@ -2220,7 +2276,9 @@
     "principiosActivos": [
       "Iridoides",
       "Mucílagos",
-      "Flavonoides"
+      "Flavonoides",
+      "Taninos",
+      "Verbascósido"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -2257,14 +2315,14 @@
     "principiosActivos": [
       "Iridoides",
       "Mucílagos",
-      "Taninos gálicos"
+      "Taninos"
     ],
     "drogaVegetal": [
-      "Hoja (fresca, seca, triturada)"
+      "Hoja"
     ],
     "uso": [
-      "Decocción",
-      "Infusión",
+      "Decocción (hoja fresca o seca, triturada)",
+      "Infusión (hoja fresca o seca, triturada)",
       "Pomada"
     ],
     "observacion": "",
@@ -2273,7 +2331,7 @@
   {
     "id": 81,
     "nombreComun": "MAITAKE",
-    "nombreBotanico": "Gritola frondosa",
+    "nombreBotanico": "Grifola frondosa",
     "acciones": [
       "INMUNOESTIMULANTE",
       "ANTICANCERÍGENA",
@@ -2284,7 +2342,8 @@
       "Polisacáridos",
       "Ergosterol",
       "Proteínas",
-      "Beta-glucanos"
+      "Beta-glucanos",
+      "Vitamina D (calciferol)"
     ],
     "drogaVegetal": [
       "Cuerpo fructífero"
@@ -2337,7 +2396,7 @@
       "HIPOGLUCEMIANTE"
     ],
     "principiosActivos": [
-      "Mucílagos de malva",
+      "Mucílagos",
       "Flavonoides",
       "Almidón"
     ],
@@ -2368,7 +2427,8 @@
       "Ácidos fenólicos",
       "Flavonoides",
       "Taninos",
-      "Umbeliferona"
+      "Umbeliferona",
+      "Aceite esencial"
     ],
     "drogaVegetal": [
       "Flor"
@@ -2400,9 +2460,12 @@
     ],
     "principiosActivos": [
       "Mucílagos",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
-      "Cumarina simple"
+      "Cumarina simple",
+      "Bisabolol",
+      "Camazuleno",
+      "Apigenina"
     ],
     "drogaVegetal": [
       "Flor"
@@ -2424,10 +2487,11 @@
       "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Ácidos fenólicos",
-      "Alantolactona",
-      "Flavonoides"
+      "Nobilina",
+      "Flavonoides",
+      "Lactonas sesquiterpénicas"
     ],
     "drogaVegetal": [
       "Flor"
@@ -2457,10 +2521,11 @@
       "PANCREÁTICA EXÓGENA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
       "Principio amargo",
-      "Lactonas amargas"
+      "Lactonas amargas",
+      "Marrubiína"
     ],
     "drogaVegetal": [
       "Sumidad florida"
@@ -2514,9 +2579,11 @@
       "SEDANTE SUAVE"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Ácido rosmarínico",
-      "Flavonoides"
+      "Flavonoides",
+      "Citral",
+      "Citronelal"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -2540,9 +2607,11 @@
       "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
-      "Taninos"
+      "Taninos",
+      "Mentol",
+      "Mentona"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -2570,7 +2639,7 @@
       "TÓNICO DIGESTIVO"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Lactonas sesquiterpénicas",
       "Flavonoides",
       "Taninos"
@@ -2602,7 +2671,9 @@
       "Flavonoides",
       "Glucosinolatos",
       "Vitamina C (ácido ascórbico)",
-      "Polifenoles"
+      "Polifenoles",
+      "Calcio (Ca)",
+      "Hierro (Fe)"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -2625,9 +2696,11 @@
       "SEDANTE SUAVE"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
-      "Alcaloides"
+      "Alcaloides",
+      "Sinefrina",
+      "Hesperidina"
     ],
     "drogaVegetal": [
       "Azahar",
@@ -2654,7 +2727,9 @@
       "Calcio (Ca)",
       "Hierro (Fe)",
       "Potasio (K)",
-      "Fibra soluble"
+      "Fibra soluble",
+      "Betalaínas",
+      "Pectina"
     ],
     "drogaVegetal": [
       "Penca",
@@ -2669,7 +2744,7 @@
   {
     "id": 95,
     "nombreComun": "OLIVO",
-    "nombreBotanico": "Olea europea",
+    "nombreBotanico": "Olea europaea",
     "acciones": [
       "HIPOCOLESTEROLEMIANTE",
       "HIPOGLUCEMIANTE",
@@ -2684,7 +2759,9 @@
     "principiosActivos": [
       "Oleuropeína",
       "Flavonoides",
-      "Ácidos grasos"
+      "Ácidos grasos",
+      "Hidroxitirosol",
+      "Ácido oleanólico"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -2698,7 +2775,7 @@
   {
     "id": 96,
     "nombreComun": "OREGANO",
-    "nombreBotanico": "Oreganum vulgare",
+    "nombreBotanico": "Origanum vulgare",
     "acciones": [
       "ANTIBACTERIANA",
       "ANTIFÚNGICA",
@@ -2708,12 +2785,14 @@
       "CARMINATIVA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
       "Ácidos fenólicos",
       "Ácido rosmarínico",
       "Ácido clorogénico",
-      "Taninos"
+      "Taninos",
+      "Timol",
+      "Carvacrol"
     ],
     "drogaVegetal": [
       "Flor",
@@ -2758,7 +2837,9 @@
       "Hierro (Fe)",
       "Magnesio (Mg)",
       "Potasio (K)",
-      "Quercetina"
+      "Quercetina",
+      "Vitamina K (filoquinona)",
+      "Vitamina C (ácido ascórbico)"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -2774,7 +2855,7 @@
   {
     "id": 98,
     "nombreComun": "ORTOSIFÓN",
-    "nombreBotanico": "Ortosiphon stamineus",
+    "nombreBotanico": "Orthosiphon stamineus",
     "acciones": [
       "DEPURATIVA HEPÁTICA",
       "DEPURATIVA RENAL",
@@ -2785,7 +2866,8 @@
     "principiosActivos": [
       "Flavonoides",
       "Ácidos fenólicos",
-      "Potasio (K)"
+      "Potasio (K)",
+      "Ácido rosmarínico"
     ],
     "drogaVegetal": [
       "Hoja",
@@ -2812,7 +2894,9 @@
       "Flavonoides",
       "Vitamina C (ácido ascórbico)"
     ],
-    "drogaVegetal": [],
+    "drogaVegetal": [
+      "Fruto"
+    ],
     "uso": [
       "Comer fresco"
     ],
@@ -2835,13 +2919,14 @@
       "Vitamina C (ácido ascórbico)",
       "Potasio (K)",
       "Sales minerales",
-      "Taninos"
+      "Taninos",
+      "Glicoalcaloides"
     ],
     "drogaVegetal": [
-      "Jugo del tubérculo fresco sin brotes ni partes verdes"
+      "Tubérculo"
     ],
     "uso": [
-      "Zumo"
+      "Zumo (tubérculo fresco, sin brotes ni partes verdes)"
     ],
     "observacion": "",
     "notas": "Tubérculo de consumo universal, cuyo jugo fresco se usa tradicionalmente para calmar el ardor de estómago."
@@ -2862,7 +2947,9 @@
     "principiosActivos": [
       "Naftoquinonas",
       "Taninos",
-      "Flavonoides"
+      "Flavonoides",
+      "Lapachol",
+      "Beta-lapachona"
     ],
     "drogaVegetal": [
       "Corteza"
@@ -2886,7 +2973,8 @@
       "Ácido gálico",
       "Cumarina simple",
       "Flavonoides",
-      "Taninos gálicos"
+      "Taninos",
+      "Umckalina"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -2910,13 +2998,15 @@
       "REMINERALIZANTE"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Calcio (Ca)",
       "Flavonoides",
       "Furanocumarinas",
       "Hierro (Fe)",
       "Magnesio (Mg)",
-      "Zinc (Zn)"
+      "Zinc (Zn)",
+      "Apiol",
+      "Apiína"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -2944,10 +3034,10 @@
       "Flavonoides"
     ],
     "drogaVegetal": [
-      "Tallo de la fruta"
+      "Tallo"
     ],
     "uso": [
-      "Extracto seco",
+      "Extracto seco (tallo de la fruta)",
       "Cápsula"
     ],
     "observacion": "",
@@ -2964,7 +3054,7 @@
       "EXPECTORANTE"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Resinas",
       "Taninos"
     ],
@@ -2982,7 +3072,7 @@
   {
     "id": 106,
     "nombreComun": "PINO MARÍTIMO",
-    "nombreBotanico": "Pinus maritima Mll.",
+    "nombreBotanico": "Pinus pinaster",
     "acciones": [
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
@@ -3016,7 +3106,7 @@
     ],
     "principiosActivos": [
       "Glucosinolatos",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Vitamina C (ácido ascórbico)"
     ],
     "drogaVegetal": [
@@ -3032,7 +3122,7 @@
   {
     "id": 108,
     "nombreComun": "REGALIZ",
-    "nombreBotanico": "Glycyrrhiza Glabra",
+    "nombreBotanico": "Glycyrrhiza glabra",
     "acciones": [
       "ABORTIVA",
       "ANTIÁCIDA",
@@ -3051,7 +3141,9 @@
       "Glicirricina",
       "Flavonoides",
       "Cumarina simple",
-      "Isoflavonas"
+      "Isoflavonas",
+      "Liquiritina",
+      "Saponinas triterpenoides"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -3082,7 +3174,8 @@
       "Polisacáridos",
       "Triterpenos",
       "Ergosterol",
-      "Beta-glucanos"
+      "Beta-glucanos",
+      "Ácidos ganodéricos"
     ],
     "drogaVegetal": [
       "Cuerpo fructífero"
@@ -3115,9 +3208,12 @@
       "NOOTRÓPICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Ácido rosmarínico",
-      "Flavonoides"
+      "Flavonoides",
+      "Ácido carnósico",
+      "Carnosol",
+      "Cineol"
     ],
     "drogaVegetal": [
       "Hoja",
@@ -3168,7 +3264,10 @@
     "principiosActivos": [
       "Catequinas",
       "Quercetina",
-      "Vitamina C (ácido ascórbico)"
+      "Vitamina C (ácido ascórbico)",
+      "Flavonoides",
+      "Carotenoides",
+      "Pectina"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -3192,10 +3291,11 @@
     "principiosActivos": [
       "Saponinas",
       "Flavonoides",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Taninos",
       "Esteroles",
-      "Ácidos grasos"
+      "Ácidos grasos",
+      "Ruscogeninas"
     ],
     "drogaVegetal": [
       "Raíz",
@@ -3249,13 +3349,14 @@
       "Ácido salicílico",
       "Ácidos fenólicos",
       "Flavonoides",
-      "Taninos"
+      "Taninos",
+      "Salicina"
     ],
     "drogaVegetal": [
-      "Corteza de rama tierna"
+      "Corteza"
     ],
     "uso": [
-      "Extracto fluido",
+      "Extracto fluido (corteza de rama tierna)",
       "Tintura"
     ],
     "observacion": "",
@@ -3274,9 +3375,12 @@
       "ANTIVÍRICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
-      "Antocianinas"
+      "Antocianinas",
+      "Vitamina C (ácido ascórbico)",
+      "Ácidos fenólicos",
+      "Triterpenos"
     ],
     "drogaVegetal": [
       "Flor",
@@ -3299,14 +3403,15 @@
       "Glucósidos antraquinónicos",
       "Mucílagos",
       "Flavonoides",
-      "Resinas"
+      "Resinas",
+      "Senósidos"
     ],
     "drogaVegetal": [
-      "Fruto sin semillas",
+      "Fruto",
       "Hoja"
     ],
     "uso": [
-      "Infusión"
+      "Infusión (fruto sin semillas y hoja)"
     ],
     "observacion": "Uso moderado",
     "notas": "Planta de origen africano y asiático, uno de los laxantes vegetales más usados y estudiados del mundo."
@@ -3325,7 +3430,9 @@
       "Polisacáridos",
       "Ergosterol",
       "Eritadenina",
-      "Beta-glucanos"
+      "Beta-glucanos",
+      "Lentinano",
+      "Vitamina D (calciferol)"
     ],
     "drogaVegetal": [
       "Cuerpo fructífero",
@@ -3355,8 +3462,10 @@
       "Hierro (Fe)",
       "Vitamina B1 (tiamina)",
       "Vitamina B2 (riboflavina)",
-      "Aceite Esencial",
-      "Ácido rosmarínico"
+      "Aceite esencial",
+      "Ácido rosmarínico",
+      "Perilaldehído",
+      "Luteolina"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -3386,12 +3495,16 @@
       "Magnesio (Mg)",
       "Potasio (K)",
       "Sodio (Na)",
-      "Vitamina A (retinol)",
+      "Beta-caroteno",
       "Vitamina B1 (tiamina)",
       "Vitamina B2 (riboflavina)",
       "Vitamina B3 (niacina o vitamina PP)",
       "Vitamina B6 (piridoxina)",
-      "Zinc (Zn)"
+      "Zinc (Zn)",
+      "Ficocianina",
+      "Clorofila",
+      "Ácido gamma-linolénico (GLA)",
+      "Proteínas"
     ],
     "drogaVegetal": [
       "Alga"
@@ -3422,7 +3535,9 @@
       "Catequinas",
       "Flavonoides",
       "Cafeína",
-      "Polifenoles"
+      "Polifenoles",
+      "EGCG",
+      "L-Teanina"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -3469,7 +3584,7 @@
       "TRANQUILIZANTE"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
       "Mucílagos"
     ],
@@ -3495,11 +3610,13 @@
       "INMUNOESTIMULANTE"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
       "Ácidos fenólicos",
       "Ácido rosmarínico",
-      "Taninos"
+      "Taninos",
+      "Timol",
+      "Carvacrol"
     ],
     "drogaVegetal": [
       "Flor",
@@ -3529,7 +3646,7 @@
       "Flavonoides",
       "Ácido gálico",
       "Proantocianidinas",
-      "Aceite Esencial"
+      "Aceite esencial"
     ],
     "drogaVegetal": [
       "Rizoma"
@@ -3555,8 +3672,9 @@
       "Flavonoides",
       "Taninos",
       "Ácidos fenólicos",
-      "Aceite Esencial",
-      "Cumarina simple"
+      "Aceite esencial",
+      "Cumarina simple",
+      "Salicilato de metilo"
     ],
     "drogaVegetal": [
       "Sumidad florida"
@@ -3581,7 +3699,8 @@
       "Diterpenos",
       "Iridoides",
       "Alcaloides",
-      "Polisacáridos"
+      "Polisacáridos",
+      "Alcaloides oxindólicos"
     ],
     "drogaVegetal": [
       "Corteza"
@@ -3596,7 +3715,7 @@
   {
     "id": 128,
     "nombreComun": "URUCUM, ONOTO, ACHIOTE",
-    "nombreBotanico": "Bixa Orellana",
+    "nombreBotanico": "Bixa orellana",
     "acciones": [
       "ANTIINFLAMATORIA",
       "PROTECTORA DE LA MUCOSA",
@@ -3608,7 +3727,8 @@
     "principiosActivos": [
       "Carotenoides",
       "Flavonoides",
-      "Taninos"
+      "Taninos",
+      "Bixina"
     ],
     "drogaVegetal": [
       "Hoja",
@@ -3635,7 +3755,7 @@
     "principiosActivos": [
       "Flavonoides",
       "Saponinas triterpenoides",
-      "Aceite Esencial"
+      "Aceite esencial"
     ],
     "drogaVegetal": [
       "Parte aérea"
@@ -3712,7 +3832,7 @@
     "principiosActivos": [
       "Alcaloides",
       "Flavonoides",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Mucílagos",
       "Ácido salicílico"
     ],
@@ -3765,9 +3885,11 @@
     ],
     "principiosActivos": [
       "Ácidos valerénicos",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Iridoides",
-      "Alcaloides"
+      "Alcaloides",
+      "Valepotriatos",
+      "GABA"
     ],
     "drogaVegetal": [
       "Raíz",
@@ -3795,7 +3917,8 @@
     "principiosActivos": [
       "Flavonoides",
       "Alcaloides",
-      "Cumarina simple"
+      "Cumarina simple",
+      "Vitexina"
     ],
     "drogaVegetal": [
       "Parte aérea"
@@ -3823,7 +3946,10 @@
       "Hipericina",
       "Hiperforina",
       "Flavonoides",
-      "Taninos"
+      "Taninos",
+      "Hiperósido",
+      "Rutina",
+      "Biapigenina"
     ],
     "drogaVegetal": [
       "Sumidad florida"
@@ -3850,7 +3976,8 @@
     "principiosActivos": [
       "Iridoides",
       "Flavonoides",
-      "Taninos"
+      "Taninos",
+      "Harpagósido"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -3875,7 +4002,10 @@
     "principiosActivos": [
       "Flavonoides",
       "Iridoides",
-      "Diterpenos"
+      "Diterpenos",
+      "Casticina",
+      "Agnósido",
+      "Aucubina"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -3901,9 +4031,11 @@
       "CARMINATIVA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Taninos",
-      "Flavonoides"
+      "Flavonoides",
+      "Linalol",
+      "Acetato de linalilo"
     ],
     "drogaVegetal": [
       "Flor"
@@ -3929,10 +4061,13 @@
       "SUDORÍFICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Ácido rosmarínico",
       "Flavonoides",
-      "Taninos"
+      "Taninos",
+      "Tujona",
+      "Cineol",
+      "Ácido carnósico"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -3959,7 +4094,10 @@
     "principiosActivos": [
       "Saponinas triterpenoides",
       "Flavonoides",
-      "Ácidos Fenólicos"
+      "Ácidos fenólicos",
+      "Asiaticósido",
+      "Madecasósido",
+      "Ácido asiático"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -3984,9 +4122,10 @@
       "EXPECTORANTE"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Anetol",
-      "Flavonoides"
+      "Flavonoides",
+      "Ácido shikímico"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -4039,7 +4178,7 @@
     "principiosActivos": [
       "Furanocumarinas",
       "Alcaloides",
-      "Aceite Esencial"
+      "Aceite esencial"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -4061,7 +4200,8 @@
     "principiosActivos": [
       "Glucósidos antraquinónicos",
       "Taninos",
-      "Flavonoides"
+      "Flavonoides",
+      "Frangulósidos"
     ],
     "drogaVegetal": [
       "Corteza"
@@ -4084,7 +4224,8 @@
     "principiosActivos": [
       "Glucósidos antraquinónicos",
       "Taninos",
-      "Flavonoides"
+      "Flavonoides",
+      "Cascarósidos"
     ],
     "drogaVegetal": [
       "Corteza"
@@ -4135,7 +4276,10 @@
     "principiosActivos": [
       "Arbutina",
       "Taninos",
-      "Flavonoides"
+      "Flavonoides",
+      "Hidroquinona",
+      "Ácido gálico",
+      "Ácido ursólico"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -4159,7 +4303,9 @@
     "principiosActivos": [
       "Isoflavonas",
       "Taninos",
-      "Aceite Esencial"
+      "Aceite esencial",
+      "Onocerina",
+      "Ononina"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -4209,7 +4355,9 @@
     "principiosActivos": [
       "Alcaloides isoquinolínicos",
       "Flavonoides",
-      "Taninos"
+      "Taninos",
+      "Quelidonina",
+      "Sanguinarina"
     ],
     "drogaVegetal": [
       "Parte aérea"
@@ -4258,7 +4406,9 @@
     "principiosActivos": [
       "Cafeína",
       "Taninos",
-      "Saponinas"
+      "Saponinas",
+      "Teobromina",
+      "Catequinas"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -4282,7 +4432,9 @@
     "principiosActivos": [
       "Cafeína",
       "Taninos",
-      "Flavonoides"
+      "Flavonoides",
+      "Teobromina",
+      "Catequinas"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -4307,7 +4459,9 @@
     "principiosActivos": [
       "Alcaloides",
       "Saponinas",
-      "Flavonoides"
+      "Flavonoides",
+      "Withanólidos",
+      "Withaferina A"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -4332,7 +4486,8 @@
     "principiosActivos": [
       "Rosavinas",
       "Salidrósido",
-      "Flavonoides"
+      "Flavonoides",
+      "Tirosol"
     ],
     "drogaVegetal": [
       "Raíz",
@@ -4357,7 +4512,8 @@
     "principiosActivos": [
       "Saponinas",
       "Flavonoides",
-      "Alcaloides"
+      "Alcaloides",
+      "Bacósidos"
     ],
     "drogaVegetal": [
       "Parte aérea"
@@ -4382,7 +4538,9 @@
     "principiosActivos": [
       "Saponinas triterpenoides",
       "Taninos",
-      "Flavonoides"
+      "Flavonoides",
+      "Cimicifugósidos",
+      "Acteína"
     ],
     "drogaVegetal": [
       "Raíz",
@@ -4406,7 +4564,9 @@
     "principiosActivos": [
       "Ácidos grasos",
       "Esteroles",
-      "Flavonoides"
+      "Flavonoides",
+      "Beta-sitosterol",
+      "Ácido láurico"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -4429,7 +4589,8 @@
     "principiosActivos": [
       "Esteroles",
       "Ácidos grasos",
-      "Taninos"
+      "Taninos",
+      "Beta-sitosterol"
     ],
     "drogaVegetal": [
       "Corteza"
@@ -4451,9 +4612,11 @@
       "ESTROGÉNICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
-      "Ácidos amargos"
+      "Ácidos amargos",
+      "Xantohumol",
+      "8-Prenilnaringenina"
     ],
     "drogaVegetal": [
       "Flor"
@@ -4502,9 +4665,10 @@
       "ANTIBACTERIANA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Terpinen-4-ol",
-      "Cineol"
+      "Cineol",
+      "Gamma-terpineno"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -4528,7 +4692,8 @@
     "principiosActivos": [
       "Alantoína",
       "Mucílagos",
-      "Taninos"
+      "Taninos",
+      "Alcaloides pirrolizidínicos"
     ],
     "drogaVegetal": [
       "Hoja",
@@ -4578,7 +4743,7 @@
       "DIGESTIVA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
       "Taninos"
     ],
@@ -4603,9 +4768,10 @@
       "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Cumarina simple",
-      "Flavonoides"
+      "Flavonoides",
+      "Ftálidos"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -4629,9 +4795,10 @@
       "HIPOTENSORA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Cumarina simple",
-      "Flavonoides"
+      "Flavonoides",
+      "Ftálidos"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -4656,7 +4823,9 @@
     "principiosActivos": [
       "Resinas",
       "Flavonoides",
-      "Saponinas"
+      "Saponinas",
+      "Diterpenos",
+      "Taninos"
     ],
     "drogaVegetal": [
       "Sumidad florida"
@@ -4782,7 +4951,8 @@
     "principiosActivos": [
       "Taninos",
       "Flavonoides",
-      "Ácidos fenólicos"
+      "Ácidos fenólicos",
+      "Elagitaninos"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -4806,7 +4976,8 @@
     "principiosActivos": [
       "Flavonoides",
       "Taninos",
-      "Mucílagos"
+      "Mucílagos",
+      "Iridoides"
     ],
     "drogaVegetal": [
       "Flor"
@@ -4830,7 +5001,9 @@
     "principiosActivos": [
       "Salicilatos",
       "Flavonoides",
-      "Resinas"
+      "Resinas",
+      "Ácidos fenólicos",
+      "Aceite esencial"
     ],
     "drogaVegetal": [
       "Yema"
@@ -4856,7 +5029,8 @@
     "principiosActivos": [
       "Mucílagos",
       "Flavonoides",
-      "Taninos"
+      "Taninos",
+      "Alcaloides pirrolizidínicos"
     ],
     "drogaVegetal": [
       "Hoja",
@@ -4930,9 +5104,11 @@
     ],
     "principiosActivos": [
       "Lactonas amargas",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Principio amargo",
-      "Flavonoides"
+      "Flavonoides",
+      "Tujona",
+      "Absintina"
     ],
     "drogaVegetal": [
       "Sumidad florida"
@@ -4982,7 +5158,8 @@
     "principiosActivos": [
       "Iridoides",
       "Flavonoides",
-      "Taninos"
+      "Taninos",
+      "Verbascósido"
     ],
     "drogaVegetal": [
       "Parte aérea"
@@ -5029,7 +5206,8 @@
     "principiosActivos": [
       "Saponinas",
       "Esteroles",
-      "Flavonoides"
+      "Flavonoides",
+      "Saponinas esteroidales"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -5078,7 +5256,10 @@
     "principiosActivos": [
       "Vitamina C (ácido ascórbico)",
       "Carotenoides",
-      "Ácidos grasos"
+      "Ácidos grasos",
+      "Vitamina E (tocoferol)",
+      "Omega 7",
+      "Esteroles"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -5125,9 +5306,10 @@
       "EMENAGOGA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
-      "Taninos"
+      "Taninos",
+      "Pulegona"
     ],
     "drogaVegetal": [
       "Sumidad florida"
@@ -5150,7 +5332,10 @@
     "principiosActivos": [
       "Cafeína",
       "Ácidos fenólicos",
-      "Taninos"
+      "Taninos",
+      "Ácido clorogénico",
+      "Trigonelina",
+      "Diterpenos"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -5177,7 +5362,10 @@
       "Flavonoides",
       "Teobromina",
       "Lípidos",
-      "Magnesio (Mg)"
+      "Magnesio (Mg)",
+      "Catequinas",
+      "Proantocianidinas",
+      "Cafeína"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -5200,7 +5388,9 @@
     "principiosActivos": [
       "Antocianinas",
       "Taninos",
-      "Vitamina C (ácido ascórbico)"
+      "Vitamina C (ácido ascórbico)",
+      "Ácido elágico",
+      "Punicalaginas"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -5223,7 +5413,8 @@
     "principiosActivos": [
       "Saponinas",
       "Flavonoides",
-      "Potasio (K)"
+      "Potasio (K)",
+      "Vitamina B9 (ácido fólico)"
     ],
     "drogaVegetal": [
       "Raíz",
@@ -5249,7 +5440,9 @@
     "principiosActivos": [
       "Flavonoides",
       "Saponinas",
-      "Potasio (K)"
+      "Potasio (K)",
+      "Esteroles",
+      "Vitamina K (filoquinona)"
     ],
     "drogaVegetal": [
       "Estigma"
@@ -5323,7 +5516,8 @@
     "principiosActivos": [
       "Flavonoides",
       "Iridoides",
-      "Taninos"
+      "Taninos",
+      "Baicalina"
     ],
     "drogaVegetal": [
       "Parte aérea"
@@ -5345,9 +5539,11 @@
       "TÓNICO DIGESTIVO"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
-      "Taninos"
+      "Taninos",
+      "Cafeína",
+      "Arbutina"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -5394,8 +5590,9 @@
     ],
     "principiosActivos": [
       "Furanocumarinas",
-      "Aceite Esencial",
-      "Flavonoides"
+      "Aceite esencial",
+      "Flavonoides",
+      "Ftálidos"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -5420,7 +5617,10 @@
     "principiosActivos": [
       "Glucosinolatos",
       "Alcaloides",
-      "Esteroles"
+      "Esteroles",
+      "Calcio (Ca)",
+      "Hierro (Fe)",
+      "Macamidas"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -5443,9 +5643,10 @@
       "CARMINATIVA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Taninos",
-      "Flavonoides"
+      "Flavonoides",
+      "Eugenol"
     ],
     "drogaVegetal": [
       "Flor"
@@ -5468,9 +5669,10 @@
       "SEDANTE"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Miristicina",
-      "Ácidos grasos"
+      "Ácidos grasos",
+      "Safrol"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -5492,9 +5694,11 @@
       "ANTISÉPTICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Taninos",
-      "Flavonoides"
+      "Flavonoides",
+      "Cineol",
+      "Lactonas sesquiterpénicas"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -5517,7 +5721,8 @@
     "principiosActivos": [
       "Glucosinolatos",
       "Ácidos grasos",
-      "Mucílagos"
+      "Mucílagos",
+      "Sinalbina"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -5541,7 +5746,8 @@
     "principiosActivos": [
       "Glucosinolatos",
       "Vitamina C (ácido ascórbico)",
-      "Aceite Esencial"
+      "Aceite esencial",
+      "Sinigrina"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -5564,7 +5770,10 @@
     "principiosActivos": [
       "Glucosinolatos",
       "Vitamina C (ácido ascórbico)",
-      "Hierro (Fe)"
+      "Hierro (Fe)",
+      "Vitamina K (filoquinona)",
+      "Calcio (Ca)",
+      "Yodo (I)"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -5586,7 +5795,7 @@
     ],
     "principiosActivos": [
       "Piperina",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Alcaloides"
     ],
     "drogaVegetal": [
@@ -5635,7 +5844,8 @@
     "principiosActivos": [
       "Lactonas sesquiterpénicas",
       "Flavonoides",
-      "Taninos"
+      "Taninos",
+      "Partenólido"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -5683,7 +5893,10 @@
     "principiosActivos": [
       "Yodo (I)",
       "Polisacáridos",
-      "Minerales"
+      "Alginatos",
+      "Fucoidano",
+      "Fucoxantina",
+      "Florotaninos"
     ],
     "drogaVegetal": [
       "Alga"
@@ -5706,8 +5919,11 @@
     ],
     "principiosActivos": [
       "Carotenoides",
-      "Aceite Esencial",
-      "Vitamina A (retinol)"
+      "Aceite esencial",
+      "Beta-caroteno",
+      "Potasio (K)",
+      "Falcarinol",
+      "Pectina"
     ],
     "drogaVegetal": [
       "Raíz",
@@ -5732,7 +5948,10 @@
     "principiosActivos": [
       "Hierro (Fe)",
       "Clorofila",
-      "Vitaminas"
+      "Vitamina B9 (ácido fólico)",
+      "Magnesio (Mg)",
+      "Vitamina K (filoquinona)",
+      "Luteína"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -5756,8 +5975,9 @@
     ],
     "principiosActivos": [
       "Nitratos",
-      "Antocianinas",
-      "Potasio (K)"
+      "Betalaínas",
+      "Potasio (K)",
+      "Vitamina B9 (ácido fólico)"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -5782,7 +6002,10 @@
     "principiosActivos": [
       "Pectina",
       "Flavonoides",
-      "Vitamina C (ácido ascórbico)"
+      "Vitamina C (ácido ascórbico)",
+      "Proantocianidinas",
+      "Floridzina",
+      "Ácido clorogénico"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -5808,7 +6031,7 @@
     "principiosActivos": [
       "Vitamina C (ácido ascórbico)",
       "Flavonoides",
-      "Aceite Esencial"
+      "Aceite esencial"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -5832,7 +6055,8 @@
     "principiosActivos": [
       "Taninos",
       "Mucílagos",
-      "Pectina"
+      "Pectina",
+      "Vitamina C (ácido ascórbico)"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -5855,7 +6079,9 @@
     "principiosActivos": [
       "Fibra soluble",
       "Flavonoides",
-      "Mucílagos"
+      "Mucílagos",
+      "Ficina",
+      "Furanocumarinas"
     ],
     "drogaVegetal": [
       "Fruto",
@@ -5880,7 +6106,8 @@
     "principiosActivos": [
       "Fibra soluble",
       "Potasio (K)",
-      "Vitaminas"
+      "Magnesio (Mg)",
+      "Vitamina B6 (piridoxina)"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -5904,7 +6131,12 @@
     "principiosActivos": [
       "Ácidos grasos",
       "Vitamina E (tocoferol)",
-      "Esteroles"
+      "Esteroles",
+      "Vitamina B9 (ácido fólico)",
+      "Vitamina K (filoquinona)",
+      "Potasio (K)",
+      "Omega 9",
+      "Carotenoides"
     ],
     "drogaVegetal": [
       "Fruto",
@@ -5929,7 +6161,9 @@
     "principiosActivos": [
       "Lignanos",
       "Ácidos grasos",
-      "Calcio (Ca)"
+      "Calcio (Ca)",
+      "Vitamina E (tocoferol)",
+      "Ácido linoleico"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -5954,7 +6188,9 @@
     "principiosActivos": [
       "Mucílagos",
       "Omega 3",
-      "Fibra soluble"
+      "Fibra soluble",
+      "Calcio (Ca)",
+      "Hierro (Fe)"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -5977,10 +6213,13 @@
     ],
     "principiosActivos": [
       "Proteínas",
-      "Vitaminas",
       "Saponinas",
       "Hierro (Fe)",
-      "Magnesio (Mg)"
+      "Magnesio (Mg)",
+      "Vitamina B9 (ácido fólico)",
+      "Zinc (Zn)",
+      "Vitamina E (tocoferol)",
+      "Calcio (Ca)"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -6005,7 +6244,12 @@
     "principiosActivos": [
       "Polisacáridos",
       "Avenina",
-      "Vitamina B1 (tiamina)"
+      "Vitamina B1 (tiamina)",
+      "Beta-glucanos",
+      "Avenantramidas",
+      "Magnesio (Mg)",
+      "Zinc (Zn)",
+      "Saponinas esteroidales"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -6029,7 +6273,9 @@
     "principiosActivos": [
       "Polisacáridos",
       "Fibra soluble",
-      "Sales minerales"
+      "Sales minerales",
+      "Beta-glucanos",
+      "Magnesio (Mg)"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -6054,7 +6300,8 @@
     "principiosActivos": [
       "Taninos",
       "Antocianinas",
-      "Vitamina C (ácido ascórbico)"
+      "Vitamina C (ácido ascórbico)",
+      "Ácido elágico"
     ],
     "drogaVegetal": [
       "Hoja",
@@ -6079,7 +6326,8 @@
     "principiosActivos": [
       "Taninos",
       "Antocianinas",
-      "Vitamina C (ácido ascórbico)"
+      "Vitamina C (ácido ascórbico)",
+      "Ácido elágico"
     ],
     "drogaVegetal": [
       "Hoja",
@@ -6104,7 +6352,8 @@
     "principiosActivos": [
       "Taninos",
       "Vitamina C (ácido ascórbico)",
-      "Flavonoides"
+      "Flavonoides",
+      "Ácido elágico"
     ],
     "drogaVegetal": [
       "Hoja",
@@ -6128,7 +6377,8 @@
     "principiosActivos": [
       "Flavonoides",
       "Taninos",
-      "Mucílagos"
+      "Mucílagos",
+      "Vitamina C (ácido ascórbico)"
     ],
     "drogaVegetal": [
       "Flor",
@@ -6152,7 +6402,8 @@
     "principiosActivos": [
       "Ácidos orgánicos",
       "Fibra soluble",
-      "Taninos"
+      "Taninos",
+      "Ácido tartárico"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -6201,7 +6452,8 @@
     "principiosActivos": [
       "Saponinas triterpenoides",
       "Polisacáridos",
-      "Flavonoides"
+      "Flavonoides",
+      "Ginsenósidos"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -6226,7 +6478,9 @@
     "principiosActivos": [
       "Saponinas",
       "Mucílagos",
-      "Esteroles"
+      "Esteroles",
+      "Saponinas esteroidales",
+      "Isoflavonas"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -6251,7 +6505,9 @@
     "principiosActivos": [
       "Alcaloides",
       "Polisacáridos",
-      "Taninos"
+      "Taninos",
+      "Berberina",
+      "Diterpenos"
     ],
     "drogaVegetal": [
       "Tallo"
@@ -6276,7 +6532,9 @@
     "principiosActivos": [
       "Nimbina",
       "Taninos",
-      "Flavonoides"
+      "Flavonoides",
+      "Azadiractina",
+      "Limonoides"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -6304,7 +6562,9 @@
     "principiosActivos": [
       "Ácidos grasos",
       "Esteroles",
-      "Zinc (Zn)"
+      "Zinc (Zn)",
+      "Magnesio (Mg)",
+      "Cucurbitina"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -6327,9 +6587,11 @@
       "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
-      "Taninos"
+      "Taninos",
+      "Timol",
+      "Carvacrol"
     ],
     "drogaVegetal": [
       "Sumidad florida"
@@ -6350,7 +6612,7 @@
       "DIURÉTICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
       "Vitamina C (ácido ascórbico)"
     ],
@@ -6374,8 +6636,7 @@
     ],
     "principiosActivos": [
       "Flavonoides",
-      "Ácidos fenólicos",
-      "Minerales"
+      "Ácidos fenólicos"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -6396,7 +6657,7 @@
     ],
     "principiosActivos": [
       "Saponinas",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides"
     ],
     "drogaVegetal": [
@@ -6421,7 +6682,8 @@
     "principiosActivos": [
       "Ácidos grasos",
       "Ácido láurico",
-      "Vitamina E (tocoferol)"
+      "Vitamina E (tocoferol)",
+      "Triglicéridos de cadena media (MCT)"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -6446,7 +6708,10 @@
     "principiosActivos": [
       "Ácidos grasos",
       "Vitamina E (tocoferol)",
-      "Calcio (Ca)"
+      "Calcio (Ca)",
+      "Magnesio (Mg)",
+      "Omega 9",
+      "Proteínas"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -6471,7 +6736,9 @@
     "principiosActivos": [
       "Ácidos grasos",
       "Taninos",
-      "Omega 3"
+      "Omega 3",
+      "Magnesio (Mg)",
+      "Vitamina E (tocoferol)"
     ],
     "drogaVegetal": [
       "Semilla",
@@ -6496,7 +6763,9 @@
     "principiosActivos": [
       "Ácidos grasos",
       "Flavonoides",
-      "Vitamina E (tocoferol)"
+      "Vitamina E (tocoferol)",
+      "Omega 9",
+      "Proteínas"
     ],
     "drogaVegetal": [
       "Semilla",
@@ -6520,7 +6789,9 @@
     "principiosActivos": [
       "Vitamina E (tocoferol)",
       "Ácidos grasos",
-      "Selenio (Se)"
+      "Selenio (Se)",
+      "Magnesio (Mg)",
+      "Zinc (Zn)"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -6545,8 +6816,10 @@
     "principiosActivos": [
       "Omega 3",
       "Ácidos grasos",
-      "cannabidiol",
-      "Proteínas"
+      "Cannabidiol",
+      "Proteínas",
+      "Ácido gamma-linolénico (GLA)",
+      "Ácido linoleico"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -6569,7 +6842,9 @@
     "principiosActivos": [
       "Ácidos grasos",
       "Vitamina E (tocoferol)",
-      "Magnesio (Mg)"
+      "Magnesio (Mg)",
+      "Vitamina K (filoquinona)",
+      "Zinc (Zn)"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -6616,7 +6891,7 @@
     "principiosActivos": [
       "Triterpenos",
       "Polisacáridos",
-      "Aceite Esencial"
+      "Aceite esencial"
     ],
     "drogaVegetal": [
       "Rizoma"
@@ -6685,7 +6960,8 @@
     "principiosActivos": [
       "Fibra soluble",
       "Sorbitol",
-      "Vitamina K (filoquinona)"
+      "Vitamina K (filoquinona)",
+      "Potasio (K)"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -6707,8 +6983,9 @@
     ],
     "principiosActivos": [
       "Carotenoides",
-      "Vitamina A (retinol)",
-      "Potasio (K)"
+      "Beta-caroteno",
+      "Potasio (K)",
+      "Vitamina C (ácido ascórbico)"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -6731,7 +7008,8 @@
     "principiosActivos": [
       "Flavonoides",
       "Taninos",
-      "Vitamina C (ácido ascórbico)"
+      "Vitamina C (ácido ascórbico)",
+      "Glucósidos cianogénicos"
     ],
     "drogaVegetal": [
       "Hoja",
@@ -6755,7 +7033,10 @@
     "principiosActivos": [
       "Vitamina C (ácido ascórbico)",
       "Fibra soluble",
-      "Actinidina"
+      "Actinidina",
+      "Vitamina B9 (ácido fólico)",
+      "Vitamina K (filoquinona)",
+      "Potasio (K)"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -6777,7 +7058,9 @@
     "principiosActivos": [
       "Vitamina C (ácido ascórbico)",
       "Flavonoides",
-      "Aceite Esencial"
+      "Aceite esencial",
+      "Hesperidina",
+      "Pectina"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -6801,7 +7084,8 @@
     "principiosActivos": [
       "Naringenina",
       "Vitamina C (ácido ascórbico)",
-      "Flavonoides"
+      "Flavonoides",
+      "Furanocumarinas"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -6847,7 +7131,8 @@
     "principiosActivos": [
       "Carotenoides",
       "Vitamina C (ácido ascórbico)",
-      "Flavonoides"
+      "Flavonoides",
+      "Mangiferina"
     ],
     "drogaVegetal": [
       "Fruto",
@@ -6872,7 +7157,8 @@
     "principiosActivos": [
       "Taninos",
       "Vitamina C (ácido ascórbico)",
-      "Flavonoides"
+      "Flavonoides",
+      "Potasio (K)"
     ],
     "drogaVegetal": [
       "Hoja",
@@ -6922,7 +7208,8 @@
     "principiosActivos": [
       "Cordicepina",
       "Polisacáridos",
-      "Ergosterol"
+      "Ergosterol",
+      "Beta-glucanos"
     ],
     "drogaVegetal": [
       "Cuerpo fructífero"
@@ -6946,7 +7233,8 @@
     "principiosActivos": [
       "Polisacáridos",
       "Melanina",
-      "Triterpenos"
+      "Triterpenos",
+      "Beta-glucanos"
     ],
     "drogaVegetal": [
       "Cuerpo fructífero"
@@ -6970,7 +7258,9 @@
     "principiosActivos": [
       "Polisacáridos",
       "Beta-glucanos",
-      "Ergosterol"
+      "Ergosterol",
+      "Polisacárido-K (PSK)",
+      "PSP"
     ],
     "drogaVegetal": [
       "Cuerpo fructífero"
@@ -6994,7 +7284,8 @@
     "principiosActivos": [
       "Polisacáridos",
       "Hericenonas",
-      "Ergosterol"
+      "Ergosterol",
+      "Beta-glucanos"
     ],
     "drogaVegetal": [
       "Cuerpo fructífero"
@@ -7018,7 +7309,8 @@
     "principiosActivos": [
       "Polisacáridos",
       "Triterpenos",
-      "Ergosterol"
+      "Ergosterol",
+      "Beta-glucanos"
     ],
     "drogaVegetal": [
       "Cuerpo fructífero"
@@ -7281,7 +7573,7 @@
       "TÓNICO DIGESTIVO"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Alcaloides",
       "Taninos"
     ],
@@ -7355,7 +7647,7 @@
       "DIGESTIVA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Timoquinona",
       "Ácidos grasos"
     ],
@@ -7380,7 +7672,7 @@
       "SEDANTE"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
       "Ácidos fenólicos"
     ],
@@ -7404,7 +7696,7 @@
     ],
     "principiosActivos": [
       "Piperina",
-      "Aceite Esencial",
+      "Aceite esencial",
       "Alcaloides"
     ],
     "drogaVegetal": [
@@ -7427,9 +7719,10 @@
       "CARMINATIVA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Cumarina simple",
-      "Proantocianidinas"
+      "Proantocianidinas",
+      "Cinamaldehído"
     ],
     "drogaVegetal": [
       "Corteza"
@@ -7454,7 +7747,8 @@
     "principiosActivos": [
       "Compuestos azufrados",
       "Flavonoides",
-      "Vitamina C (ácido ascórbico)"
+      "Vitamina C (ácido ascórbico)",
+      "Aliína"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -7477,7 +7771,8 @@
     "principiosActivos": [
       "Glucosinolatos",
       "Ácidos grasos",
-      "Mucílagos"
+      "Mucílagos",
+      "Sinigrina"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -7500,7 +7795,7 @@
     "principiosActivos": [
       "Vitamina C (ácido ascórbico)",
       "Glucosinolatos",
-      "Aceite Esencial"
+      "Aceite esencial"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -7573,7 +7868,10 @@
     "principiosActivos": [
       "Polisacáridos",
       "Iridoides",
-      "Flavonoides"
+      "Flavonoides",
+      "Glicósidos feniletanoides",
+      "Acteósido",
+      "Equinacósido"
     ],
     "drogaVegetal": [
       "Tallo"
@@ -7597,7 +7895,9 @@
     "principiosActivos": [
       "Ácidos fenólicos",
       "Diterpenos",
-      "Flavonoides"
+      "Flavonoides",
+      "Tanshinonas",
+      "Ácido salvianólico B"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -7644,7 +7944,8 @@
     "principiosActivos": [
       "Carotenoides",
       "Vitamina C (ácido ascórbico)",
-      "Flavonoides"
+      "Flavonoides",
+      "Fisalinas"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -7667,7 +7968,8 @@
     "principiosActivos": [
       "Vitamina C (ácido ascórbico)",
       "Fibra soluble",
-      "Sales minerales"
+      "Sales minerales",
+      "Potasio (K)"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -7690,7 +7992,8 @@
     "principiosActivos": [
       "Vitamina C (ácido ascórbico)",
       "Flavonoides",
-      "Fibra soluble"
+      "Fibra soluble",
+      "Betalaínas"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -7713,7 +8016,8 @@
     "principiosActivos": [
       "Berberina",
       "Alcaloides",
-      "Taninos"
+      "Taninos",
+      "Palmatina"
     ],
     "drogaVegetal": [
       "Raíz",
@@ -7737,7 +8041,7 @@
       "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Curcumina",
       "Almidón"
     ],
@@ -7762,9 +8066,11 @@
       "ANTIEMÉTICA"
     ],
     "principiosActivos": [
-      "Aceite Esencial",
+      "Aceite esencial",
       "Flavonoides",
-      "Resinas"
+      "Resinas",
+      "Galangina",
+      "Cineol"
     ],
     "drogaVegetal": [
       "Rizoma"
@@ -7789,7 +8095,8 @@
     "principiosActivos": [
       "Saponinas triterpenoides",
       "Flavonoides",
-      "Polisacáridos"
+      "Polisacáridos",
+      "Notoginsenósidos"
     ],
     "drogaVegetal": [
       "Raíz"
@@ -7838,7 +8145,9 @@
     "principiosActivos": [
       "Taninos",
       "Ácido gálico",
-      "Flavonoides"
+      "Flavonoides",
+      "Ácido elágico",
+      "Ácido chebulínico"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -7909,7 +8218,13 @@
     "principiosActivos": [
       "Fibra soluble",
       "Polisacáridos",
-      "Sales minerales"
+      "Sales minerales",
+      "Celulosa",
+      "Ácido fítico",
+      "Ácido ferúlico",
+      "Magnesio (Mg)",
+      "Hierro (Fe)",
+      "Zinc (Zn)"
     ],
     "drogaVegetal": [
       "Semilla"
@@ -7931,7 +8246,8 @@
     "principiosActivos": [
       "Polisacáridos",
       "Fibra soluble",
-      "Mucílagos"
+      "Mucílagos",
+      "Agarosa"
     ],
     "drogaVegetal": [
       "Alga"
@@ -7943,198 +8259,214 @@
     "observacion": "",
     "notas": "Alga roja de la que se extrae una fibra gelificante muy usada en Asia como espesante y laxante mecánico tradicional."
   },
-{
-  "id": 305,
-  "nombreComun": "NOGAL",
-  "nombreBotanico": "Juglans regia L.",
-  "acciones": [
-    "ASTRINGENTE",
-    "ANTIHELMÍNTICA-VERMÍFUGA",
-    "ANTIDIARREICA",
-    "ANTISÉPTICA"
-  ],
-  "principiosActivos": [
-    "Taninos",
-    "Naftoquinonas",
-    "Flavonoides",
-    "Ácidos fenólicos"
-  ],
-  "drogaVegetal": [
-    "Hojas",
-    "Cáscara verde del fruto"
-  ],
-  "uso": [
-    "Infusión",
-    "Decocción",
-    "Uso externo"
-  ],
-  "observacion": "",
-  "notas": "Las hojas del nogal son ricas en taninos y juglona, responsables de su acción astringente y antiséptica. Tradicionalmente se emplean tanto por vía interna en trastornos digestivos leves como en aplicaciones externas sobre la piel. Ver NUEZ para las propiedades de la semilla del NOGAL."
-},
-{
-  "id": 306,
-  "nombreComun": "LESPEDEZA",
-  "nombreBotanico": "Lespedeza capitata (Michx.) Bosc",
-  "acciones": [
-    "DIURÉTICA",
-    "AZOTÚRICA",
-    "HIPOAZOTEMIANTE",
-    "HIPOURICEMIANTE",
-    "HIPOCOLESTEROLEMIANTE",
-    "PROTECTORA CAPILAR"
-  ],
-  "principiosActivos": [
-    "Flavonoides (rutina)",
-    "Taninos catéquicos",
-    "Polisacáridos mucilaginosos"
-  ],
-  "drogaVegetal": [
-    "Partes aéreas floridas"
-  ],
-  "uso": [
-    "Infusión",
-    "Decocción"
-  ],
-  "observacion": "",
-  "notas": "Planta de la familia Fabaceae originaria de Norteamérica. Tradicionalmente empleada para favorecer la eliminación renal de sustancias nitrogenadas y como apoyo en casos de hiperuricemia, gota e hipercolesterolemia."
-},
-{
-  "id": 307,
-  "nombreComun": "ARENARIA ROJA, SABLINA ROJA",
-  "nombreBotanico": "Spergularia rubra (L.) J.Presl & C.Presl",
-  "acciones": [
-    "DIURÉTICA",
-    "ANTILITIÁSICA",
-    "ANTIINFECCIOSA",
-    "ANTIESPASMÓDICA"
-  ],
-  "principiosActivos": [
-    "Saponinas",
-    "Flavonoides",
-    "Sales minerales (carbonatos de sodio y potasio)"
-  ],
-  "drogaVegetal": [
-    "Planta entera florida"
-  ],
-  "uso": [
-    "Infusión",
-    "Decocción"
-  ],
-  "observacion": "",
-  "notas": "Pequeña planta herbácea de la familia Caryophyllaceae, común en suelos arenosos de Europa. Se usa tradicionalmente en afecciones de las vías urinarias, favoreciendo la eliminación de cálculos renales y aliviando espasmos de la vejiga."
-},
-{
-  "id": 308,
-  "nombreComun": "LIMONERO",
-  "nombreBotanico": "Citrus limonum Risso (Citrus limon (L.) Osbeck)",
-  "acciones": [
-    "ANTIESCORBÚTICA",
-    "ANTIOXIDANTE",
-    "VENOTÓNICA",
-    "ANTISÉPTICA"
-  ],
-  "principiosActivos": [
-    "Vitamina C (ácido ascórbico)",
-    "Ácido cítrico",
-    "Flavonoides (hesperidina, diosmina, naringina)",
-    "Aceite esencial (limoneno)"
-  ],
-  "drogaVegetal": [
-    "Fruto (zumo)",
-    "Pericarpio"
-  ],
-  "uso": [
-    "Zumo",
-    "Infusión",
-    "Uso externo"
-  ],
-  "observacion": "",
-  "notas": "Árbol de la familia Rutaceae originario de Asia. El zumo, rico en vitamina C y flavonoides, se emplea tradicionalmente para fortalecer las defensas, mejorar la circulación venosa y como antiséptico en aplicaciones externas."
-},
-{
-  "id": 309,
-  "nombreComun": "CEREZO",
-  "nombreBotanico": "Prunus avium L.",
-  "acciones": [
-    "DIURÉTICA",
-    "DEPURATIVA",
-    "ANTILITIÁSICA"
-  ],
-  "principiosActivos": [
-    "Flavonoides",
-    "Taninos",
-    "Sales de potasio",
-    "Mucílagos"
-  ],
-  "drogaVegetal": [
-    "Pedúnculos del fruto"
-  ],
-  "uso": [
-    "Infusión",
-    "Decocción"
-  ],
-  "observacion": "",
-  "notas": "Árbol de la familia Rosaceae. Los pedúnculos del fruto (rabillos de cereza) se emplean tradicionalmente en infusión para favorecer la diuresis y aliviar molestias leves de las vías urinarias, respaldados por la monografía europea de uso tradicional."
-},
-{
-  "id": 310,
-  "nombreComun": "PROPÓLEO",
-  "nombreBotanico": "Resina apícola recolectada por Apis mellifera",
-  "acciones": [
-    "ANTISÉPTICA",
-    "ANTIBACTERIANA",
-    "ANTIINFECCIOSA",
-    "ANTIVÍRICA",
-    "ANTIINFLAMATORIA",
-    "CICATRIZANTE",
-    "INMUNOESTIMULANTE"
-  ],
-  "principiosActivos": [
-    "Flavonoides (galangina, pinocembrina)",
-    "Ácidos fenólicos (ácido cafeico, CAPE)",
-    "Terpenos",
-    "Resinas y ceras"
-  ],
-  "drogaVegetal": [
-    "Própolis bruto"
-  ],
-  "uso": [
-    "Tintura",
-    "Extracto",
-    "Uso tópico/bucal"
-  ],
-  "observacion": "",
-  "notas": "Sustancia resinosa que las abejas recolectan de yemas y cortezas de árboles y transforman en la colmena. Tradicionalmente utilizado por sus propiedades antisépticas y cicatrizantes en afecciones de garganta, boca y piel, así como apoyo del sistema inmunitario."
-},
-{
-  "id": 311,
-  "nombreComun": "MIEL",
-  "nombreBotanico": "Néctar floral transformado por Apis mellifera",
-  "acciones": [
-    "ANTISÉPTICA",
-    "CICATRIZANTE",
-    "EMOLIENTE",
-    "ANTITUSÍVA",
-    "NUTRITIVA"
-  ],
-  "principiosActivos": [
-    "Azúcares (fructosa, glucosa)",
-    "Enzimas (glucosa oxidasa)",
-    "Ácidos fenólicos y flavonoides",
-    "Minerales"
-  ],
-  "drogaVegetal": [
-    "Miel"
-  ],
-  "uso": [
-    "Uso interno directo",
-    "Jarabe",
-    "Uso externo (cura de heridas)"
-  ],
-  "observacion": "",
-  "notas": "Producto elaborado por las abejas a partir del néctar de las flores. Tradicionalmente empleada como remedio suavizante de la garganta y la tos, y en uso externo para favorecer la cicatrización de heridas y quemaduras leves."
-},
-{
+  {
+    "id": 305,
+    "nombreComun": "NOGAL",
+    "nombreBotanico": "Juglans regia L.",
+    "acciones": [
+      "ASTRINGENTE",
+      "ANTIHELMÍNTICA-VERMÍFUGA",
+      "ANTIDIARREICA",
+      "ANTISÉPTICA"
+    ],
+    "principiosActivos": [
+      "Taninos",
+      "Naftoquinonas",
+      "Flavonoides",
+      "Ácidos fenólicos"
+    ],
+    "drogaVegetal": [
+      "Hoja",
+      "Fruto"
+    ],
+    "uso": [
+      "Infusión (hoja)",
+      "Decocción (hoja)",
+      "Uso externo (cáscara verde del fruto)"
+    ],
+    "observacion": "",
+    "notas": "Las hojas del nogal son ricas en taninos y juglona, responsables de su acción astringente y antiséptica. Tradicionalmente se emplean tanto por vía interna en trastornos digestivos leves como en aplicaciones externas sobre la piel. Ver NUEZ para las propiedades de la semilla del NOGAL."
+  },
+  {
+    "id": 306,
+    "nombreComun": "LESPEDEZA",
+    "nombreBotanico": "Lespedeza capitata (Michx.) Bosc",
+    "acciones": [
+      "DIURÉTICA",
+      "AZOTÚRICA",
+      "HIPOAZOTEMIANTE",
+      "HIPOURICEMIANTE",
+      "HIPOCOLESTEROLEMIANTE",
+      "PROTECTORA CAPILAR"
+    ],
+    "principiosActivos": [
+      "Flavonoides",
+      "Rutina",
+      "Taninos",
+      "Mucílagos"
+    ],
+    "drogaVegetal": [
+      "Sumidad florida"
+    ],
+    "uso": [
+      "Infusión",
+      "Decocción"
+    ],
+    "observacion": "",
+    "notas": "Planta de la familia Fabaceae originaria de Norteamérica. Tradicionalmente empleada para favorecer la eliminación renal de sustancias nitrogenadas y como apoyo en casos de hiperuricemia, gota e hipercolesterolemia."
+  },
+  {
+    "id": 307,
+    "nombreComun": "ARENARIA ROJA, SABLINA ROJA",
+    "nombreBotanico": "Spergularia rubra (L.) J.Presl & C.Presl",
+    "acciones": [
+      "DIURÉTICA",
+      "ANTILITIÁSICA",
+      "ANTIINFECCIOSA",
+      "ANTIESPASMÓDICA"
+    ],
+    "principiosActivos": [
+      "Saponinas",
+      "Flavonoides",
+      "Sales minerales",
+      "Sodio (Na)",
+      "Potasio (K)"
+    ],
+    "drogaVegetal": [
+      "Planta entera florida"
+    ],
+    "uso": [
+      "Infusión",
+      "Decocción"
+    ],
+    "observacion": "",
+    "notas": "Pequeña planta herbácea de la familia Caryophyllaceae, común en suelos arenosos de Europa. Se usa tradicionalmente en afecciones de las vías urinarias, favoreciendo la eliminación de cálculos renales y aliviando espasmos de la vejiga."
+  },
+  {
+    "id": 308,
+    "nombreComun": "LIMONERO",
+    "nombreBotanico": "Citrus limonum Risso (Citrus limon (L.) Osbeck)",
+    "acciones": [
+      "ANTIESCORBÚTICA",
+      "ANTIOXIDANTE",
+      "VENOTÓNICA",
+      "ANTISÉPTICA"
+    ],
+    "principiosActivos": [
+      "Vitamina C (ácido ascórbico)",
+      "Ácido cítrico",
+      "Flavonoides",
+      "Hesperidina",
+      "Diosmina",
+      "Naringina",
+      "Aceite esencial",
+      "Limoneno"
+    ],
+    "drogaVegetal": [
+      "Fruto",
+      "Pericarpio"
+    ],
+    "uso": [
+      "Zumo",
+      "Infusión",
+      "Uso externo"
+    ],
+    "observacion": "",
+    "notas": "Árbol de la familia Rutaceae originario de Asia. El zumo, rico en vitamina C y flavonoides, se emplea tradicionalmente para fortalecer las defensas, mejorar la circulación venosa y como antiséptico en aplicaciones externas."
+  },
+  {
+    "id": 309,
+    "nombreComun": "CEREZO",
+    "nombreBotanico": "Prunus avium L.",
+    "acciones": [
+      "DIURÉTICA",
+      "DEPURATIVA",
+      "ANTILITIÁSICA"
+    ],
+    "principiosActivos": [
+      "Flavonoides",
+      "Taninos",
+      "Potasio (K)",
+      "Mucílagos"
+    ],
+    "drogaVegetal": [
+      "Pedúnculo"
+    ],
+    "uso": [
+      "Infusión",
+      "Decocción"
+    ],
+    "observacion": "",
+    "notas": "Árbol de la familia Rosaceae. Los pedúnculos del fruto (rabillos de cereza) se emplean tradicionalmente en infusión para favorecer la diuresis y aliviar molestias leves de las vías urinarias, respaldados por la monografía europea de uso tradicional."
+  },
+  {
+    "id": 310,
+    "nombreComun": "PROPÓLEO",
+    "nombreBotanico": "Resina apícola recolectada por Apis mellifera",
+    "acciones": [
+      "ANTISÉPTICA",
+      "ANTIBACTERIANA",
+      "ANTIINFECCIOSA",
+      "ANTIVÍRICA",
+      "ANTIINFLAMATORIA",
+      "CICATRIZANTE",
+      "INMUNOESTIMULANTE"
+    ],
+    "principiosActivos": [
+      "Flavonoides",
+      "Galangina",
+      "Pinocembrina",
+      "Ácidos fenólicos",
+      "Ácido cafeico",
+      "CAPE",
+      "Terpenos",
+      "Resinas",
+      "Ceras"
+    ],
+    "drogaVegetal": [
+      "Própolis"
+    ],
+    "uso": [
+      "Tintura",
+      "Extracto",
+      "Uso tópico/bucal"
+    ],
+    "observacion": "",
+    "notas": "Sustancia resinosa que las abejas recolectan de yemas y cortezas de árboles y transforman en la colmena. Tradicionalmente utilizado por sus propiedades antisépticas y cicatrizantes en afecciones de garganta, boca y piel, así como apoyo del sistema inmunitario."
+  },
+  {
+    "id": 311,
+    "nombreComun": "MIEL",
+    "nombreBotanico": "Néctar floral transformado por Apis mellifera",
+    "acciones": [
+      "ANTISÉPTICA",
+      "CICATRIZANTE",
+      "EMOLIENTE",
+      "ANTITUSÍVA",
+      "NUTRITIVA"
+    ],
+    "principiosActivos": [
+      "Azúcares",
+      "Fructosa",
+      "Glucosa",
+      "Enzimas",
+      "Glucosa oxidasa",
+      "Ácidos fenólicos",
+      "Flavonoides",
+      "Ácidos orgánicos"
+    ],
+    "drogaVegetal": [
+      "Miel"
+    ],
+    "uso": [
+      "Uso interno directo",
+      "Jarabe",
+      "Uso externo (cura de heridas)"
+    ],
+    "observacion": "",
+    "notas": "Producto elaborado por las abejas a partir del néctar de las flores. Tradicionalmente empleada como remedio suavizante de la garganta y la tos, y en uso externo para favorecer la cicatrización de heridas y quemaduras leves."
+  },
+  {
     "id": 312,
     "nombreComun": "EPILOBIO",
     "nombreBotanico": "Epilobium sp.",
@@ -8148,7 +8480,9 @@
       "Flavonoides",
       "Taninos",
       "Ácidos fenólicos",
-      "Esteroles"
+      "Esteroles",
+      "Oenoteína B",
+      "Ácido elágico"
     ],
     "drogaVegetal": [
       "Parte aérea"
@@ -8174,7 +8508,9 @@
       "Ácidos grasos",
       "Esteroles",
       "Flavonoides",
-      "Polisacáridos"
+      "Polisacáridos",
+      "Beta-sitosterol",
+      "Ácido láurico"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -8253,7 +8589,7 @@
     "principiosActivos": [
       "Saponinas esteroidales",
       "Diosgenina",
-      "Fitosteroles",
+      "Esteroles",
       "Almidón"
     ],
     "drogaVegetal": [
@@ -8307,7 +8643,7 @@
     ],
     "principiosActivos": [
       "Cafeína",
-      "Ácidos clorogénicos",
+      "Ácido clorogénico",
       "Polifenoles",
       "Trigonelina"
     ],
@@ -8348,115 +8684,117 @@
     "observacion": "Contiene alcaloides indólicos farmacológicamente activos. No debe confundirse con Catharanthus roseus, especie de la que proceden los alcaloides antineoplásicos vincristina y vinblastina.",
     "notas": "Pequeña planta perenne europea cuyas hojas contienen vincamina y otros alcaloides. Tradicionalmente se ha relacionado con la circulación cerebral y la función cognitiva."
   },
-{
-  "id": 320,
-  "nombreComun": "GUANÁBANA",
-  "nombreBotanico": "Annona muricata L.",
-  "acciones": [
-    "ANTIOXIDANTE",
-    "ANTIDIARREICA",
-    "ANTICANCERÍGENA",
-    "HEPATOPROTECTORA",
-    "ANTIHIPERTENSIVA",
-    "ANTIINFLAMATORIA",
-    "ANTIMICROBIANA",
-    "HIPOGLUCEMIANTE"
-  ],
-  "principiosActivos": [
-    "Acetogeninas anonáceas",
-    "Flavonoides",
-    "Taninos",
-    "Alcaloides"
-  ],
-  "drogaVegetal": [
-    "Hoja"
-  ],
-  "uso": [
-    "Infusión",
-    "Decocción"
-  ],
-  "observacion": "La hoja contiene anonacina, una acetogenina con potencial efecto neurotóxico en uso prolongado o dosis elevadas; no recomendable en personas con antecedentes de trastornos del movimiento tipo parkinsoniano. Puede potenciar fármacos antihipertensivos, antidiabéticos y quimioterápicos.",
-  "notas": "Árbol tropical originario de América Central y del Sur, cuya hoja es empleada tradicionalmente en la medicina popular amazónica y caribeña por sus propiedades antioxidantes y digestivas."
-},
-{
-  "id": 321,
-  "nombreComun": "PENSAMIENTO",
-  "nombreBotanico": "Viola tricolor L.",
-  "acciones": [
-    "DEPURATIVA CUTÁNEA",
-    "ANTIINFLAMATORIA",
-    "EXPECTORANTE",
-    "ANTIOXIDANTE",
-    "ANTIPRURIGINOSA"
-  ],
-  "principiosActivos": [
-    "Flavonoides (rutina, violantina)",
-    "Saponinas",
-    "Mucílagos",
-    "Salicilato de metilo",
-    "Taninos"
-  ],
-  "drogaVegetal": [
-    "Partes aéreas floridas"
-  ],
-  "uso": [
-    "Infusión",
-    "Uso tópico"
-  ],
-  "observacion": "Se ha descrito un caso de hemólisis en un lactante con déficit de G6PD tras la ingesta de un extracto hervido de la planta, atribuido al éster metílico del ácido salicílico.",
-  "notas": "Planta herbácea europea de flores tricolores, tradicionalmente empleada por su acción depurativa en afecciones cutáneas como el eccema, el acné y la seborrea, así como expectorante en trastornos respiratorios."
-},
-{
-  "id": 322,
-  "nombreComun": "JOJOBA",
-  "nombreBotanico": "Simmondsia chinensis (Link) C.K.Schneid.",
-  "acciones": [
-    "EMOLIENTE",
-    "ANTIOXIDANTE",
-    "PROTECTORA CAPILAR"
-  ],
-  "principiosActivos": [
-    "Ceras líquidas (ésteres de ácidos grasos)",
-    "Ácido gadoleico",
-    "Ácido erúcico",
-    "Vitamina E (tocoferol)",
-    "Provitamina A"
-  ],
-  "drogaVegetal": [
-    "Semilla"
-  ],
-  "uso": [
-    "Aceite",
-    "Uso tópico"
-  ],
-  "observacion": "Uso exclusivamente externo/cosmético; no se recomienda su ingesta. No presenta propiedades fitoterapéuticas internas relevantes documentadas.",
-  "notas": "Arbusto originario de las zonas desérticas de Norteamérica (Sonora y Baja California), cuya semilla produce una cera líquida tradicionalmente usada por pueblos indígenas y ampliamente empleada hoy en cosmética por su capacidad emoliente e hidratante de piel y cabello."
-},
-{
-  "id": 323,
-  "nombreComun": "ONAGRA",
-  "nombreBotanico": "Oenothera biennis L.",
-  "acciones": [
-    "ESTROGÉNICA",
-    "ANTIINFLAMATORIA",
-    "EMOLIENTE",
-    "NUTRITIVA"
-  ],
-  "principiosActivos": [
-    "Ácido gamma-linolénico (GLA)",
-    "Ácido linoleico",
-    "Flavonoides",
-    "Taninos"
-  ],
-  "drogaVegetal": [
-    "Semilla"
-  ],
-  "uso": [
-    "Aceite",
-    "Cápsulas",
-    "Uso tópico"
-  ],
-  "observacion": "Puede interactuar con anticoagulantes y aumentar el riesgo de sangrado; se recomienda precaución en personas con trastornos convulsivos. No se recomienda su uso durante el embarazo sin supervisión profesional. Es importante suplementar también co Vitamina E y Omega 3.",
-  "notas": "Planta originaria de Norteamérica, naturalizada en Europa. Su aceite de semillas es rico en ácido gamma-linolénico (GLA), un ácido graso omega-6 poco frecuente en el reino vegetal, por el que se emplea tradicionalmente en el síndrome premenstrual, la dermatitis atópica y los síntomas de la menopausia."
-}
+  {
+    "id": 320,
+    "nombreComun": "GUANÁBANA",
+    "nombreBotanico": "Annona muricata L.",
+    "acciones": [
+      "ANTIOXIDANTE",
+      "ANTIDIARREICA",
+      "ANTICANCERÍGENA",
+      "HEPATOPROTECTORA",
+      "ANTIHIPERTENSIVA",
+      "ANTIINFLAMATORIA",
+      "ANTIMICROBIANA",
+      "HIPOGLUCEMIANTE"
+    ],
+    "principiosActivos": [
+      "Acetogeninas anonáceas",
+      "Flavonoides",
+      "Taninos",
+      "Alcaloides"
+    ],
+    "drogaVegetal": [
+      "Hoja"
+    ],
+    "uso": [
+      "Infusión",
+      "Decocción"
+    ],
+    "observacion": "La hoja contiene anonacina, una acetogenina con potencial efecto neurotóxico en uso prolongado o dosis elevadas; no recomendable en personas con antecedentes de trastornos del movimiento tipo parkinsoniano. Puede potenciar fármacos antihipertensivos, antidiabéticos y quimioterápicos.",
+    "notas": "Árbol tropical originario de América Central y del Sur, cuya hoja es empleada tradicionalmente en la medicina popular amazónica y caribeña por sus propiedades antioxidantes y digestivas."
+  },
+  {
+    "id": 321,
+    "nombreComun": "PENSAMIENTO",
+    "nombreBotanico": "Viola tricolor L.",
+    "acciones": [
+      "DEPURATIVA CUTÁNEA",
+      "ANTIINFLAMATORIA",
+      "EXPECTORANTE",
+      "ANTIOXIDANTE",
+      "ANTIPRURIGINOSA"
+    ],
+    "principiosActivos": [
+      "Flavonoides",
+      "Rutina",
+      "Violantina",
+      "Saponinas",
+      "Mucílagos",
+      "Salicilato de metilo",
+      "Taninos"
+    ],
+    "drogaVegetal": [
+      "Sumidad florida"
+    ],
+    "uso": [
+      "Infusión",
+      "Uso tópico"
+    ],
+    "observacion": "Se ha descrito un caso de hemólisis en un lactante con déficit de G6PD tras la ingesta de un extracto hervido de la planta, atribuido al éster metílico del ácido salicílico.",
+    "notas": "Planta herbácea europea de flores tricolores, tradicionalmente empleada por su acción depurativa en afecciones cutáneas como el eccema, el acné y la seborrea, así como expectorante en trastornos respiratorios."
+  },
+  {
+    "id": 322,
+    "nombreComun": "JOJOBA",
+    "nombreBotanico": "Simmondsia chinensis (Link) C.K.Schneid.",
+    "acciones": [
+      "EMOLIENTE",
+      "ANTIOXIDANTE",
+      "PROTECTORA CAPILAR"
+    ],
+    "principiosActivos": [
+      "Ceras líquidas",
+      "Ácido gadoleico",
+      "Ácido erúcico",
+      "Vitamina E (tocoferol)",
+      "Beta-caroteno"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Aceite",
+      "Uso tópico"
+    ],
+    "observacion": "Uso exclusivamente externo/cosmético; no se recomienda su ingesta. No presenta propiedades fitoterapéuticas internas relevantes documentadas.",
+    "notas": "Arbusto originario de las zonas desérticas de Norteamérica (Sonora y Baja California), cuya semilla produce una cera líquida tradicionalmente usada por pueblos indígenas y ampliamente empleada hoy en cosmética por su capacidad emoliente e hidratante de piel y cabello."
+  },
+  {
+    "id": 323,
+    "nombreComun": "ONAGRA",
+    "nombreBotanico": "Oenothera biennis L.",
+    "acciones": [
+      "ESTROGÉNICA",
+      "ANTIINFLAMATORIA",
+      "EMOLIENTE",
+      "NUTRITIVA"
+    ],
+    "principiosActivos": [
+      "Ácido gamma-linolénico (GLA)",
+      "Ácido linoleico",
+      "Flavonoides",
+      "Taninos"
+    ],
+    "drogaVegetal": [
+      "Semilla"
+    ],
+    "uso": [
+      "Aceite",
+      "Cápsulas",
+      "Uso tópico"
+    ],
+    "observacion": "Puede interactuar con anticoagulantes y aumentar el riesgo de sangrado; se recomienda precaución en personas con trastornos convulsivos. No se recomienda su uso durante el embarazo sin supervisión profesional. Es importante suplementar también co Vitamina E y Omega 3.",
+    "notas": "Planta originaria de Norteamérica, naturalizada en Europa. Su aceite de semillas es rico en ácido gamma-linolénico (GLA), un ácido graso omega-6 poco frecuente en el reino vegetal, por el que se emplea tradicionalmente en el síndrome premenstrual, la dermatitis atópica y los síntomas de la menopausia."
+  }
 ]

@@ -25,9 +25,6 @@ export function mostrarListado(tipo, valor) {
             case "droga":
                 return planta.drogaVegetal.includes(valor);
 
-            case "uso":
-                return planta.uso.includes(valor);
-
             default:
                 return false;
 

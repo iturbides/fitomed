@@ -460,6 +460,22 @@ body.dark {
 
 }
 
+/* Lista de usos: sangrado para que los topos queden alineados
+   con el borde izquierdo del resto de secciones */
+.ficha .uso-lista {
+
+    padding-left: 1.2rem;
+
+    margin-top: .3rem;
+
+}
+
+.ficha .uso-lista li {
+
+    line-height: 1.6;
+
+}
+
 
 
 
