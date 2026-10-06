@@ -167,6 +167,6 @@ FitoMed es una **Progressive Web App (PWA)**, lo que significa que no necesitas 
 * Acciones distintas: **125**
 * Valores de droga vegetal: **39**
 * Definiciones: **497**
-* Afecciones **60**
+* Afecciones **81**
 
 ---
