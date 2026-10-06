@@ -114,7 +114,7 @@
 
 ## AJO [6]
 
-*Allium sativum L.*
+*Allium sativum*
 
 - **Acciones:** ANTIAGREGANTE PLAQUETARIA, ANTIBACTERIANA, ANTIHELMÍNTICA-VERMÍFUGA, ANTIINFECCIOSA, ANTIADENOMATOSA, DIGESTIVA, ANTIOXIDANTE, ANTIVÍRICA, CARDIOTÓNICA, HIPOGLUCEMIANTE, HIPOLIPEMIANTE, HIPOTENSORA
 - **Principios activos:** Azufre (S), Hierro (Fe), Sales minerales, Silicio (Si), Vitamina B1 (tiamina), Vitamina B2 (riboflavina), Vitamina C (ácido ascórbico), Yodo (I), Alicina, Aliína, Ajoeno, Compuestos azufrados
@@ -194,7 +194,7 @@
 
 ## ALFALFA, MIELGA [10]
 
-*Medicago sativa L.*
+*Medicago sativa*
 
 - **Acciones:** ALCALINIZANTE, ESTROGÉNICA, NUTRITIVA, REMINERALIZANTE, HIPOCOLESTEROLEMIANTE
 - **Principios activos:** Calcio (Ca), Flavonas, Hierro (Fe), Isoflavonas, Magnesio (Mg), Potasio (K), Quercetina, Saponinas
@@ -212,7 +212,7 @@
 - **Observación:** -
 - **Notas:** Árbol mediterráneo cuya harina de vaina, rica en fibra, se usa tradicionalmente para cortar la diarrea, especialmente en lactantes.
 
-## ALHOLVA-FENOGRECO [12]
+## ALHOLVA, FENOGRECO [12]
 
 *Trigonella foenum-graecum*
 
@@ -374,7 +374,7 @@
 
 ## ARENARIA ROJA, SABLINA ROJA [307]
 
-*Spergularia rubra (L.) J.Presl & C.Presl*
+*Spergularia rubra*
 
 - **Acciones:** DIURÉTICA, ANTILITIÁSICA, ANTIINFECCIOSA, ANTIESPASMÓDICA
 - **Principios activos:** Saponinas, Flavonoides, Sales minerales, Sodio (Na), Potasio (K)
@@ -502,7 +502,7 @@
 - **Observación:** -
 - **Notas:** Planta acuática europea de sabor picante, rica en vitamina C y hierro, usada tradicionalmente como depurativo de primavera.
 
-## BIBHITAKI - BAHEDA [23]
+## BIBHITAKI, BAHEDA [23]
 
 *Terminalia bellirica*
 
@@ -524,7 +524,7 @@
 
 ## BOLSA DE PASTOR [314]
 
-*Capsella bursa-pastoris (L.) Medik.*
+*Capsella bursa-pastoris*
 
 - **Acciones:** HEMOSTÁTICA, ASTRINGENTE, DIURÉTICA
 - **Principios activos:** Flavonoides, Aminas biogénicas, Taninos, Ácidos fenólicos
@@ -582,7 +582,7 @@
 - **Observación:** El contenido en cafeína puede variar según la especie, variedad y método de preparación. Un consumo elevado puede provocar nerviosismo, insomnio o palpitaciones.
 - **Notas:** Las semillas tostadas de distintas especies de Coffea se utilizan para preparar una de las bebidas estimulantes más consumidas del mundo. La cafeína favorece el estado de alerta y la actividad mental, mientras que los ácidos clorogénicos contribuyen a su actividad antioxidante.
 
-## CALABAZA, Semilla [236]
+## CALABAZA (SEMILLA) [236]
 
 *Cucurbita pepo*
 
@@ -804,7 +804,7 @@
 
 ## CEREZO [309]
 
-*Prunus avium L.*
+*Prunus avium*
 
 - **Acciones:** DIURÉTICA, DEPURATIVA, ANTILITIÁSICA
 - **Principios activos:** Flavonoides, Taninos, Potasio (K), Mucílagos
@@ -824,7 +824,7 @@
 
 ## CHAMPIÑON DEL SOL [35]
 
-*Agaricus subrufescens / blazei*
+*Agaricus subrufescens, A. blazei*
 
 - **Acciones:** ANTICANCERÍGENA, INMUNOMODULADORA, ANTIINFECCIOSA, HEPATOPROTECTORA
 - **Principios activos:** Polisacáridos, Ergosterol, Proteínas, Beta-glucanos, Vitamina D (calciferol)
@@ -952,7 +952,7 @@
 - **Observación:** -
 - **Notas:** Raíz de la medicina china, usada como alternativa más suave al ginseng para el cansancio y las defensas.
 
-## COL - BRÓCOLI [39]
+## COL, BRÓCOLI [39]
 
 *Brassica sp*
 
@@ -964,7 +964,7 @@
 
 ## COLA DE CABALLO [40]
 
-*Equisetum arvense L*
+*Equisetum arvense*
 
 - **Acciones:** ANTIEDEMATOSA, ANTIGOTOSA, HIPOURICEMIANTE, ANTILITIÁSICA, DEPURATIVA RENAL, NATRIURÉTICA-SALURÉTICA, DIURÉTICA, NUTRITIVA, HEMOSTÁTICA, ANTIHEMORRÁGICA, REMINERALIZANTE
 - **Principios activos:** Flavonoides, Sales minerales, Silicio (Si)
@@ -1104,7 +1104,7 @@
 
 ## DIENTE DE LEÓN [46]
 
-*Taraxacum officinale F.H.*
+*Taraxacum officinale*
 
 - **Acciones:** ADELGAZANTE, ANTIGOTOSA, HIPOURICEMIANTE, ANTILITIÁSICA, APERITIVA, COLAGOGA, COLERÉTICA, DEPURATIVA HEPÁTICA, DEPURATIVA INTESTINAL, DEPURATIVA RENAL, DIURÉTICA, CLORÚRICA, EUPÉPTICA, REMINERALIZANTE, TÓNICO DIGESTIVO
 - **Principios activos:** Flavonoles, Lactonas sesquiterpénicas, Potasio (K), Principio amargo, Sales minerales
@@ -1474,7 +1474,7 @@
 
 ## GRAMA DE LAS BOTICAS [65]
 
-*Agropyron repens*
+*Elymus repens*
 
 - **Acciones:** DIURÉTICA, DEMULCENTE, ANTIINFLAMATORIA, ANTIINFECCIOSA
 - **Principios activos:** Flavonoides, Mucílagos, Polisacáridos, Triticina, Silicio (Si), Saponinas
@@ -1534,7 +1534,7 @@
 
 ## GUANÁBANA [320]
 
-*Annona muricata L.*
+*Annona muricata*
 
 - **Acciones:** ANTIOXIDANTE, ANTIDIARREICA, ANTICANCERÍGENA, HEPATOPROTECTORA, ANTIHIPERTENSIVA, ANTIINFLAMATORIA, ANTIMICROBIANA, HIPOGLUCEMIANTE
 - **Principios activos:** Acetogeninas anonáceas, Flavonoides, Taninos, Alcaloides
@@ -1612,7 +1612,7 @@
 - **Observación:** -
 - **Notas:** Planta originaria del desierto del Kalahari (Namibia); su raíz tuberosa es uno de los antiinflamatorios vegetales más usados en Europa para molestias articulares.
 
-## HELICRISO - SOL DE ORO - PERPETUA - SIEMPRE VIVA [69]
+## HELICRISO, SOL DE ORO, PERPETUA, SIEMPRE VIVA [69]
 
 *Helichrysum arenarium, H. italicum, H. stoechas*
 
@@ -1652,7 +1652,7 @@
 - **Observación:** -
 - **Notas:** Planta trepadora europea cuya hoja se usa tradicionalmente para facilitar la expectoración en catarros.
 
-## HIERBALUISA - MARIA LUISA [71]
+## HIERBALUISA, MARÍA LUISA [71]
 
 *Lippia triphylla, Lippia citrodora, Aloysia triphylla*
 
@@ -1724,7 +1724,7 @@
 
 ## JOJOBA [322]
 
-*Simmondsia chinensis (Link) C.K.Schneid.*
+*Simmondsia chinensis*
 
 - **Acciones:** EMOLIENTE, ANTIOXIDANTE, PROTECTORA CAPILAR
 - **Principios activos:** Ceras líquidas, Ácido gadoleico, Ácido erúcico, Vitamina E (tocoferol), Beta-caroteno
@@ -1784,7 +1784,7 @@
 
 ## LESPEDEZA [306]
 
-*Lespedeza capitata (Michx.) Bosc*
+*Lespedeza capitata*
 
 - **Acciones:** DIURÉTICA, AZOTÚRICA, HIPOAZOTEMIANTE, HIPOURICEMIANTE, HIPOCOLESTEROLEMIANTE, PROTECTORA CAPILAR
 - **Principios activos:** Flavonoides, Rutina, Taninos, Mucílagos
@@ -1834,7 +1834,7 @@
 
 ## LIMONERO [308]
 
-*Citrus limonum Risso (Citrus limon (L.) Osbeck)*
+*Citrus limonum, Citrus limon*
 
 - **Acciones:** ANTIESCORBÚTICA, ANTIOXIDANTE, VENOTÓNICA, ANTISÉPTICA
 - **Principios activos:** Vitamina C (ácido ascórbico), Ácido cítrico, Flavonoides, Hesperidina, Diosmina, Naringina, Aceite esencial, Limoneno
@@ -1842,7 +1842,7 @@
 - **Observación:** -
 - **Notas:** Árbol de la familia Rutaceae originario de Asia. El zumo, rico en vitamina C y flavonoides, se emplea tradicionalmente para fortalecer las defensas, mejorar la circulación venosa y como antiséptico en aplicaciones externas.
 
-## LINAZA - LINO [77]
+## LINAZA, LINO [77]
 
 *Linum usitatissimum*
 
@@ -1932,7 +1932,7 @@
 - **Observación:** -
 - **Notas:** Planta herbácea muy abundante en los caminos de Europa, usada tradicionalmente como suavizante de las mucosas digestivas y respiratorias.
 
-## MALVAVISCO - ALTEA [83]
+## MALVAVISCO, ALTEA [83]
 
 *Althaea officinalis*
 
@@ -1984,7 +1984,7 @@
 
 ## MANZANILLA DULCE [85]
 
-*Matricaria recutita - Matricaria chamomilla*
+*Matricaria recutita, Matricaria chamomilla*
 
 - **Acciones:** ANSIOLÍTICA, ANTIDIARREICA, ANTIESPASMÓDICA, ANTIPRURIGINOSA, ESPASMOLÍTICA, ANTIINFLAMATORIA, ANTIULCEROSA, CICATRIZANTE, GASTROPROTECTORA, DEMULCENTE, SEDANTE, TRANQUILIZANTE, VULNERARIA
 - **Principios activos:** Mucílagos, Aceite esencial, Flavonoides, Cumarina simple, Bisabolol, Camazuleno, Apigenina
@@ -2184,7 +2184,7 @@
 
 ## ÑAME SILVESTRE [316]
 
-*Dioscorea villosa L.*
+*Dioscorea villosa*
 
 - **Acciones:** ANTIESPASMÓDICA, ANTIINFLAMATORIA, ANALGÉSICA, EMENAGOGA
 - **Principios activos:** Saponinas esteroidales, Diosgenina, Esteroles, Almidón
@@ -2224,7 +2224,7 @@
 
 ## NOGAL [305]
 
-*Juglans regia L.*
+*Juglans regia*
 
 - **Acciones:** ASTRINGENTE, ANTIHELMÍNTICA-VERMÍFUGA, ANTIDIARREICA, ANTISÉPTICA
 - **Principios activos:** Taninos, Naftoquinonas, Flavonoides, Ácidos fenólicos
@@ -2304,7 +2304,7 @@
 
 ## ONAGRA [323]
 
-*Oenothera biennis L.*
+*Oenothera biennis*
 
 - **Acciones:** ESTROGÉNICA, ANTIINFLAMATORIA, EMOLIENTE, NUTRITIVA
 - **Principios activos:** Ácido gamma-linolénico (GLA), Ácido linoleico, Flavonoides, Taninos
@@ -2334,7 +2334,7 @@
 
 ## ORTIGA VERDE [97]
 
-*Urtica dioica L*
+*Urtica dioica*
 
 - **Acciones:** ANTIGOTOSA, HIPOURICEMIANTE, ANTIHISTAMÍNICA, ANTIALÉRGICA, ANTILITIÁSICA, DEPURATIVA HEPÁTICA, DEPURATIVA RENAL, DEPURATIVA GENERAL, DIURÉTICA, NATRIURÉTICA-SALURÉTICA, NUTRITIVA, HEMOSTÁTICA, ANTIHEMORRÁGICA, ABORTIVA, AZOTÚRICA, URICOSÚRICA, REMINERALIZANTE
 - **Principios activos:** Azufre (S), Calcio (Ca), Carotenoides, Clorofila, Flavonoides, Hierro (Fe), Magnesio (Mg), Potasio (K), Quercetina, Vitamina K (filoquinona), Vitamina C (ácido ascórbico)
@@ -2392,7 +2392,7 @@
 - **Observación:** -
 - **Notas:** Tubérculo de consumo universal, cuyo jugo fresco se usa tradicionalmente para calmar el ardor de estómago.
 
-## PAU D'ARCO - LAPACHO [101]
+## PAU D'ARCO, LAPACHO [101]
 
 *Tabebuia avellanedae*
 
@@ -2414,7 +2414,7 @@
 
 ## PENSAMIENTO [321]
 
-*Viola tricolor L.*
+*Viola tricolor*
 
 - **Acciones:** DEPURATIVA CUTÁNEA, ANTIINFLAMATORIA, EXPECTORANTE, ANTIOXIDANTE, ANTIPRURIGINOSA
 - **Principios activos:** Flavonoides, Rutina, Violantina, Saponinas, Mucílagos, Salicilato de metilo, Taninos
@@ -2684,7 +2684,7 @@
 
 ## ROMERO [110]
 
-*Rosmarinus officinalis / Salvia rosmarinus*
+*Rosmarinus officinalis, Salvia rosmarinus*
 
 - **Acciones:** ANALGÉSICA, ANTIASMÁTICA, ANTIESPASMÓDICA, ESPASMOLÍTICA, ANTIINFECCIOSA, ANTIMICROBIANA, ANTIOXIDANTE, ANTISÉPTICA, BRONCODILATADORA, COLAGOGA, COLERÉTICA, HEPATOPROTECTORA, HIPERTENSORA, NOOTRÓPICA
 - **Principios activos:** Aceite esencial, Ácido rosmarínico, Flavonoides, Ácido carnósico, Carnosol, Cineol
@@ -2714,7 +2714,7 @@
 
 ## ROSAL SILVESTRE, ESCARAMUJO [112]
 
-*Rosa canina L.*
+*Rosa canina*
 
 - **Acciones:** ASTRINGENTE, ANTIINFECCIOSA, NUTRITIVA, ANTIINFLAMATORIA
 - **Principios activos:** Catequinas, Quercetina, Vitamina C (ácido ascórbico), Flavonoides, Carotenoides, Pectina
@@ -2754,7 +2754,7 @@
 
 ## SABAL, PALMITO ENANO [313]
 
-*Sabal serrulata / Sabal repens*
+*Sabal serrulata, Sabal repens*
 
 - **Acciones:** ANTIINFLAMATORIA, ANTIEDEMATOSA, DIURÉTICA
 - **Principios activos:** Ácidos grasos, Esteroles, Flavonoides, Polisacáridos, Beta-sitosterol, Ácido láurico
@@ -2904,7 +2904,7 @@
 
 ## SUMA, GINSENG BRASILEÑO [317]
 
-*Pfaffia paniculata (Mart.) Kuntze*
+*Pfaffia paniculata*
 
 - **Acciones:** ADAPTÓGENA, ANTIINFLAMATORIA, INMUNOESTIMULANTE, ANALGÉSICA
 - **Principios activos:** Ecdisteroides, Saponinas, Esteroles, Polisacáridos
@@ -3084,7 +3084,7 @@
 
 ## UXI [315]
 
-*Endopleura uchi (Huber) Cuatrec.*
+*Endopleura uchi*
 
 - **Acciones:** ANTIINFLAMATORIA, ANTIOXIDANTE, ANTIBACTERIANA, HIPOGLUCEMIANTE, HIPOLIPEMIANTE
 - **Principios activos:** Bergenina, Taninos, Flavonoides, Triterpenos
@@ -3164,7 +3164,7 @@
 
 ## VINCAPERVINCA [319]
 
-*Vinca minor L.*
+*Vinca minor*
 
 - **Acciones:** VASODILATADORA, ANTIOXIDANTE, NOOTRÓPICA, ASTRINGENTE
 - **Principios activos:** Vincamina, Alcaloides indólicos, Flavonoides, Taninos

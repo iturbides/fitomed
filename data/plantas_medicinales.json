@@ -144,7 +144,7 @@
   {
     "id": 6,
     "nombreComun": "AJO",
-    "nombreBotanico": "Allium sativum L.",
+    "nombreBotanico": "Allium sativum",
     "acciones": [
       "ANTIAGREGANTE PLAQUETARIA",
       "ANTIBACTERIANA",
@@ -269,7 +269,7 @@
   {
     "id": 10,
     "nombreComun": "ALFALFA, MIELGA",
-    "nombreBotanico": "Medicago sativa L.",
+    "nombreBotanico": "Medicago sativa",
     "acciones": [
       "ALCALINIZANTE",
       "ESTROGÉNICA",
@@ -325,7 +325,7 @@
   },
   {
     "id": 12,
-    "nombreComun": "ALHOLVA-FENOGRECO",
+    "nombreComun": "ALHOLVA, FENOGRECO",
     "nombreBotanico": "Trigonella foenum-graecum",
     "acciones": [
       "APERITIVA",
@@ -628,7 +628,7 @@
   },
   {
     "id": 23,
-    "nombreComun": "BIBHITAKI - BAHEDA",
+    "nombreComun": "BIBHITAKI, BAHEDA",
     "nombreBotanico": "Terminalia bellirica",
     "acciones": [
       "ANTICANCERÍGENA",
@@ -981,7 +981,7 @@
   {
     "id": 35,
     "nombreComun": "CHAMPIÑON DEL SOL",
-    "nombreBotanico": "Agaricus subrufescens / blazei",
+    "nombreBotanico": "Agaricus subrufescens, A. blazei",
     "acciones": [
       "ANTICANCERÍGENA",
       "INMUNOMODULADORA",
@@ -1090,7 +1090,7 @@
   },
   {
     "id": 39,
-    "nombreComun": "COL - BRÓCOLI",
+    "nombreComun": "COL, BRÓCOLI",
     "nombreBotanico": "Brassica sp",
     "acciones": [
       "ANTICANCERÍGENA",
@@ -1124,7 +1124,7 @@
   {
     "id": 40,
     "nombreComun": "COLA DE CABALLO",
-    "nombreBotanico": "Equisetum arvense L",
+    "nombreBotanico": "Equisetum arvense",
     "acciones": [
       "ANTIEDEMATOSA",
       "ANTIGOTOSA",
@@ -1312,7 +1312,7 @@
   {
     "id": 46,
     "nombreComun": "DIENTE DE LEÓN",
-    "nombreBotanico": "Taraxacum officinale F.H.",
+    "nombreBotanico": "Taraxacum officinale",
     "acciones": [
       "ADELGAZANTE",
       "ANTIGOTOSA",
@@ -1857,7 +1857,7 @@
   {
     "id": 65,
     "nombreComun": "GRAMA DE LAS BOTICAS",
-    "nombreBotanico": "Agropyron repens",
+    "nombreBotanico": "Elymus repens",
     "acciones": [
       "DIURÉTICA",
       "DEMULCENTE",
@@ -1969,7 +1969,7 @@
   },
   {
     "id": 69,
-    "nombreComun": "HELICRISO - SOL DE ORO - PERPETUA - SIEMPRE VIVA",
+    "nombreComun": "HELICRISO, SOL DE ORO, PERPETUA, SIEMPRE VIVA",
     "nombreBotanico": "Helichrysum arenarium, H. italicum, H. stoechas",
     "acciones": [
       "ANTIHISTAMÍNICA",
@@ -2030,7 +2030,7 @@
   },
   {
     "id": 71,
-    "nombreComun": "HIERBALUISA - MARIA LUISA",
+    "nombreComun": "HIERBALUISA, MARÍA LUISA",
     "nombreBotanico": "Lippia triphylla, Lippia citrodora, Aloysia triphylla",
     "acciones": [
       "ANTIALÉRGICA",
@@ -2201,7 +2201,7 @@
   },
   {
     "id": 77,
-    "nombreComun": "LINAZA - LINO",
+    "nombreComun": "LINAZA, LINO",
     "nombreBotanico": "Linum usitatissimum",
     "acciones": [
       "DEPURATIVA INTESTINAL",
@@ -2384,7 +2384,7 @@
   },
   {
     "id": 83,
-    "nombreComun": "MALVAVISCO - ALTEA",
+    "nombreComun": "MALVAVISCO, ALTEA",
     "nombreBotanico": "Althaea officinalis",
     "acciones": [
       "ANTIINFLAMATORIA",
@@ -2442,7 +2442,7 @@
   {
     "id": 85,
     "nombreComun": "MANZANILLA DULCE",
-    "nombreBotanico": "Matricaria recutita - Matricaria chamomilla",
+    "nombreBotanico": "Matricaria recutita, Matricaria chamomilla",
     "acciones": [
       "ANSIOLÍTICA",
       "ANTIDIARREICA",
@@ -2808,7 +2808,7 @@
   {
     "id": 97,
     "nombreComun": "ORTIGA VERDE",
-    "nombreBotanico": "Urtica dioica L",
+    "nombreBotanico": "Urtica dioica",
     "acciones": [
       "ANTIGOTOSA",
       "HIPOURICEMIANTE",
@@ -2933,7 +2933,7 @@
   },
   {
     "id": 101,
-    "nombreComun": "PAU D'ARCO - LAPACHO",
+    "nombreComun": "PAU D'ARCO, LAPACHO",
     "nombreBotanico": "Tabebuia avellanedae",
     "acciones": [
       "ANTICANCERÍGENA",
@@ -3190,7 +3190,7 @@
   {
     "id": 110,
     "nombreComun": "ROMERO",
-    "nombreBotanico": "Rosmarinus officinalis / Salvia rosmarinus",
+    "nombreBotanico": "Rosmarinus officinalis, Salvia rosmarinus",
     "acciones": [
       "ANALGÉSICA",
       "ANTIASMÁTICA",
@@ -3254,7 +3254,7 @@
   {
     "id": 112,
     "nombreComun": "ROSAL SILVESTRE, ESCARAMUJO",
-    "nombreBotanico": "Rosa canina L.",
+    "nombreBotanico": "Rosa canina",
     "acciones": [
       "ASTRINGENTE",
       "ANTIINFECCIOSA",
@@ -6548,7 +6548,7 @@
   },
   {
     "id": 236,
-    "nombreComun": "CALABAZA, Semilla",
+    "nombreComun": "CALABAZA (SEMILLA)",
     "nombreBotanico": "Cucurbita pepo",
     "acciones": [
       "ANTIINFLAMATORIA",
@@ -8262,7 +8262,7 @@
   {
     "id": 305,
     "nombreComun": "NOGAL",
-    "nombreBotanico": "Juglans regia L.",
+    "nombreBotanico": "Juglans regia",
     "acciones": [
       "ASTRINGENTE",
       "ANTIHELMÍNTICA-VERMÍFUGA",
@@ -8290,7 +8290,7 @@
   {
     "id": 306,
     "nombreComun": "LESPEDEZA",
-    "nombreBotanico": "Lespedeza capitata (Michx.) Bosc",
+    "nombreBotanico": "Lespedeza capitata",
     "acciones": [
       "DIURÉTICA",
       "AZOTÚRICA",
@@ -8318,7 +8318,7 @@
   {
     "id": 307,
     "nombreComun": "ARENARIA ROJA, SABLINA ROJA",
-    "nombreBotanico": "Spergularia rubra (L.) J.Presl & C.Presl",
+    "nombreBotanico": "Spergularia rubra",
     "acciones": [
       "DIURÉTICA",
       "ANTILITIÁSICA",
@@ -8345,7 +8345,7 @@
   {
     "id": 308,
     "nombreComun": "LIMONERO",
-    "nombreBotanico": "Citrus limonum Risso (Citrus limon (L.) Osbeck)",
+    "nombreBotanico": "Citrus limonum, Citrus limon",
     "acciones": [
       "ANTIESCORBÚTICA",
       "ANTIOXIDANTE",
@@ -8377,7 +8377,7 @@
   {
     "id": 309,
     "nombreComun": "CEREZO",
-    "nombreBotanico": "Prunus avium L.",
+    "nombreBotanico": "Prunus avium",
     "acciones": [
       "DIURÉTICA",
       "DEPURATIVA",
@@ -8498,7 +8498,7 @@
   {
     "id": 313,
     "nombreComun": "SABAL, PALMITO ENANO",
-    "nombreBotanico": "Sabal serrulata / Sabal repens",
+    "nombreBotanico": "Sabal serrulata, Sabal repens",
     "acciones": [
       "ANTIINFLAMATORIA",
       "ANTIEDEMATOSA",
@@ -8525,7 +8525,7 @@
   {
     "id": 314,
     "nombreComun": "BOLSA DE PASTOR",
-    "nombreBotanico": "Capsella bursa-pastoris (L.) Medik.",
+    "nombreBotanico": "Capsella bursa-pastoris",
     "acciones": [
       "HEMOSTÁTICA",
       "ASTRINGENTE",
@@ -8551,7 +8551,7 @@
   {
     "id": 315,
     "nombreComun": "UXI",
-    "nombreBotanico": "Endopleura uchi (Huber) Cuatrec.",
+    "nombreBotanico": "Endopleura uchi",
     "acciones": [
       "ANTIINFLAMATORIA",
       "ANTIOXIDANTE",
@@ -8579,7 +8579,7 @@
   {
     "id": 316,
     "nombreComun": "ÑAME SILVESTRE",
-    "nombreBotanico": "Dioscorea villosa L.",
+    "nombreBotanico": "Dioscorea villosa",
     "acciones": [
       "ANTIESPASMÓDICA",
       "ANTIINFLAMATORIA",
@@ -8607,7 +8607,7 @@
   {
     "id": 317,
     "nombreComun": "SUMA, GINSENG BRASILEÑO",
-    "nombreBotanico": "Pfaffia paniculata (Mart.) Kuntze",
+    "nombreBotanico": "Pfaffia paniculata",
     "acciones": [
       "ADAPTÓGENA",
       "ANTIINFLAMATORIA",
@@ -8660,7 +8660,7 @@
   {
     "id": 319,
     "nombreComun": "VINCAPERVINCA",
-    "nombreBotanico": "Vinca minor L.",
+    "nombreBotanico": "Vinca minor",
     "acciones": [
       "VASODILATADORA",
       "ANTIOXIDANTE",
@@ -8687,7 +8687,7 @@
   {
     "id": 320,
     "nombreComun": "GUANÁBANA",
-    "nombreBotanico": "Annona muricata L.",
+    "nombreBotanico": "Annona muricata",
     "acciones": [
       "ANTIOXIDANTE",
       "ANTIDIARREICA",
@@ -8717,7 +8717,7 @@
   {
     "id": 321,
     "nombreComun": "PENSAMIENTO",
-    "nombreBotanico": "Viola tricolor L.",
+    "nombreBotanico": "Viola tricolor",
     "acciones": [
       "DEPURATIVA CUTÁNEA",
       "ANTIINFLAMATORIA",
@@ -8747,7 +8747,7 @@
   {
     "id": 322,
     "nombreComun": "JOJOBA",
-    "nombreBotanico": "Simmondsia chinensis (Link) C.K.Schneid.",
+    "nombreBotanico": "Simmondsia chinensis",
     "acciones": [
       "EMOLIENTE",
       "ANTIOXIDANTE",
@@ -8773,7 +8773,7 @@
   {
     "id": 323,
     "nombreComun": "ONAGRA",
-    "nombreBotanico": "Oenothera biennis L.",
+    "nombreBotanico": "Oenothera biennis",
     "acciones": [
       "ESTROGÉNICA",
       "ANTIINFLAMATORIA",

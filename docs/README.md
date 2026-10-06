@@ -12,12 +12,12 @@ La información incluida en FitoMed debe utilizarse como material de estudio y c
 
 ## 🎯 Objetivos de la Aplicación
 
-FitoMed tiene como objetivo principal construir una herramienta de consulta fitoterapéutica rigurosa, homogénea priorizando la utilidad y rapidez frente a la acumulación indiscriminada de datos.
+FitoMed tiene como objetivo principal construir una herramienta de consulta fitoterapéutica rigurosa y homogénea, que prioriza la utilidad y la rapidez frente a la acumulación indiscriminada de datos.
 
 La aplicación y su base de datos cumplen con los siguientes principios fundamentales:
 
 * **Evidencia científica y tradición:** Información científicamente contrastada basada en farmacopeas oficiales y literatura científica, respetando el valor documental del uso tradicional.
-* **Terminología uniforme:** Estandarización estricta de términos, acciones y familias botánicas.
+* **Terminología uniforme:** Estandarización estricta de términos, acciones, principios activos y droga vegetal.
 * **Estructura sencilla y ligera:** Formato optimizado para cargas instantáneas y fácil mantenimiento.
 * **Uso offline prioritario:** Diseño enfocado en la disponibilidad continua sin necesidad de estar conectado a Internet.
 * **Uso responsable de la información:** La información proporcionada debe interpretarse como material de consulta y estudio y no como una recomendación médica personalizada.
@@ -29,11 +29,11 @@ La aplicación y su base de datos cumplen con los siguientes principios fundamen
 FitoMed ofrece un sistema de búsqueda dinámico diseñado para facilitar tanto la consulta directa como la exploración rápida de la base de datos:
 
 ### 1. Búsqueda Principal de Plantas Medicinales (General)
-Es la función por defecto de la aplicación. Realiza un rastreo global sobre los campos clave de la base de datos: **nombre común, nombre botánico, principios activos, acciones y notas**.
+Es la función por defecto de la aplicación. Realiza un rastreo global sobre los campos clave de la base de datos: **nombre común, nombre botánico, acciones, principios activos, droga vegetal, uso y notas**.
 
 * **Listado de resultados:** Al introducir cualquier texto, la aplicación presenta un listado en tiempo real con las plantas que coinciden con el criterio ingresado.
 * **Ficha completa:** Al seleccionar una planta del listado, se abre su ficha detallada.
-* **Etiquetas interactivas:** Dentro de la ficha, los **principios activos** y las **acciones** se muestran en formato de etiquetas clicables. Al pulsar sobre cualquiera de ellas, se genera automáticamente un nuevo listado con todas las plantas que comparten esa misma acción o principio activo. Los campos **droga vegetal** y **uso** también aparecen como etiquetas.
+* **Etiquetas interactivas:** Dentro de la ficha, las **acciones**, los **principios activos** y la **droga vegetal** se muestran en formato de etiquetas clicables. Al pulsar sobre cualquiera de ellas, se genera automáticamente un nuevo listado con todas las plantas que comparten esa misma acción, principio activo o parte de la planta. El campo **uso**, en cambio, se muestra como una lista de texto y no genera listados.
 
 ### 2. Búsqueda Directa de Acciones Terapéuticas (`!`)
 Permite filtrar específicamente el catálogo por acciones o propiedades fitoterapéuticas.
@@ -47,6 +47,13 @@ Permite consultar la definición o explicación de un término, acción fitotera
 * **Sintaxis:** Antepone un doble signo de exclamación `!!` seguido del término a consultar (ejemplos: `!! carminativa` o `!! mucílago`).
 * **Resultado:** Despliega una vista rápida con la definición editorial estandarizada del concepto, facilitando la comprensión técnica sin salir del flujo de trabajo.
 
+### 4. Búsqueda de Afecciones y Patologías (`?`)
+Permite consultar las afecciones o patologías registradas en la aplicación.
+
+* **Listado completo:** Al escribir solo `?`, se muestran todas las afecciones ordenadas alfabéticamente.
+* **Búsqueda:** Al escribir `?` seguido de un texto (ejemplos: `? gastritis` o `? tos`), se filtran las afecciones cuyo **nombre, definición o síntomas** contienen ese texto. La búsqueda no distingue mayúsculas ni tildes, y las afecciones cuyo nombre empieza por lo escrito aparecen en primer lugar.
+* **Ficha de la afección:** Al seleccionar una afección del listado, se abre su ficha detallada.
+
 ---
 
 ## 📂 Registro y Estructura de Datos
@@ -54,12 +61,12 @@ Permite consultar la definición o explicación de un término, acción fitotera
 Cada registro de planta contenido en `plantas_medicinales.json` cuenta con la siguiente estructura estandarizada:
 
 * `id`: Identificador único.
-* `nombreComun`: Denominación principal (siempre en mayúsculas).
-* `nombreBotanico`: Nombre científico aceptado.
-* `acciones`: Lista de propiedades fitoterapéuticas principales.
-* `principiosActivos`: Grupos químicos o marcadores característicos.
-* `drogaVegetal`: Parte de la planta utilizada.
-* `uso`: Formas de preparación e indicaciones principales.
+* `nombreComun`: Denominación principal (siempre en mayúsculas), seguida si procede de sus sinónimos populares separados por comas.
+* `nombreBotanico`: Nombre científico aceptado, sin autor.
+* `acciones`: Lista de propiedades fitoterapéuticas principales (etiquetas).
+* `principiosActivos`: Grupos químicos o marcadores característicos (etiquetas).
+* `drogaVegetal`: Parte de la planta utilizada (etiquetas).
+* `uso`: Formas de preparación con una breve aclaración opcional (texto libre, no etiquetas).
 * `observacion`: Advertencias de seguridad críticas.
 * `notas`: Descripción botánica, distribución, historia y detalles complementarios.
 
@@ -84,21 +91,29 @@ Las fuentes utilizadas se consultan siguiendo este estricto orden de prioridad:
 
 * **Nombre común:** 
   * Siempre en mayúsculas.
-  * Un único nombre principal por planta (*ej. `MANZANILLA DULCE`*).
+  * El nombre principal va en primer lugar (*ej. `MANZANILLA DULCE`*). Si la planta tiene sinónimos populares, se añaden a continuación separados por comas (*ej. `HIPÉRICO, HIERBA DE SAN JUAN`*).
+  * No se usan guiones ni barras como separador. El paréntesis se reserva para aclarar, no para añadir sinónimos (*ej. `CALABAZA (SEMILLA)`*).
 * **Nombre botánico:** 
-  * Se utiliza la denominación científica aceptada actualmente (*ej. `Matricaria chamomilla L.`*).
+  * Se utiliza la denominación científica aceptada actualmente, sin autor (*ej. `Matricaria chamomilla`*).
+  * Si se recogen varias especies o sinónimos, se separan por comas (*ej. `Rosmarinus officinalis, Salvia rosmarinus`*).
 * **Acciones:**
-  * Máximo recomendado: 10 acciones (lo habitual es entre 3 y 6).
-  * Siempre en **singular** (*ej. `Antiinflamatoria`, `Carminativa`, `Sedante`*).
+  * Las que sean necesarias, priorizando las más importantes de cada planta.
+  * Siempre en **singular** y en mayúsculas, como en el JSON (*ej. `ANTIINFLAMATORIA`, `CARMINATIVA`, `SEDANTE`*).
   * Ordenadas por importancia terapéutica.
 * **Principios activos:**
   * Se incluyen únicamente los responsables de la actividad farmacológica o marcadores clave (*ej. `Flavonoides`, `Aceite esencial`, `Silimarina`*).
+  * Funcionan como etiquetas, por lo que el nombre debe coincidir exactamente entre plantas: solo la inicial en mayúscula (*ej. `Aceite esencial`*), sin plurales ni variantes duplicadas.
+  * Cada etiqueta contiene un único compuesto o grupo, sin listas entre paréntesis. Los minerales llevan su símbolo (*ej. `Potasio (K)`*) y las vitaminas su nombre entre paréntesis (*ej. `Vitamina C (ácido ascórbico)`*).
+  * No se usan términos genéricos como `Vitaminas` o `Minerales`.
 * **Droga vegetal:**
-  * Terminología alineada con la Farmacopea Europea (*ej. `Raíz`, `Sumidad florida`, `Hojas`*).
+  * Terminología alineada con la Farmacopea Europea (*ej. `Raíz`, `Sumidad florida`, `Hoja`*).
+  * Siempre en singular y solo la parte de la planta, sin paréntesis. El estado (fresca, seca, triturada...) y otros detalles se indican en `uso`.
 * **Uso:**
-  * Indica la forma o preparación empleada (*ej. `Infusión`, `Extracto`, `Uso externo`*).
+  * Indica la forma o preparación empleada, con una breve aclaración opcional entre paréntesis (*ej. `Infusión (hoja fresca)`, `Decocción (una vez al día)`, `Uso externo`*).
+  * Es texto libre: no funciona como etiqueta ni requiere una lista cerrada, ya que la misma indicación puede variar de una planta a otra.
 * **Observación:**
   * Reservado exclusivamente para advertencias de seguridad destacadas visualmente (*ej. `Abortiva`, `Fotosensibilizante`, `Planta tóxica`*).
+  * Las indicaciones concretas sobre cómo emplear la planta (por ejemplo, partes que no deben usarse) se incluyen en `uso`.
 * **Notas:**
   * Apartado descriptivo más extenso (historia, cultivo, contexto botánico o tradicional).
 
@@ -107,15 +122,30 @@ Las nuevas especies a incorporar deben cumplir:
 * Interés fitoterapéutico reconocido.
 * Documentación suficiente sobre sus propiedades.
 * Respaldo en farmacopeas oficiales o amplio registro tradicional bien documentado.
-* Terminología strictly compatible con la base de datos.
+* Terminología estrictamente compatible con la base de datos.
 
 ### Filosofía del Proyecto
 FitoMed prioriza **la calidad sobre la cantidad**. Es preferible disponer de un catálogo de plantas cuidadosamente documentadas y estandarizadas que de miles de registros incompletos o inconsistentes.
 
 
 ### Datos
-Plantas: 322
+Plantas: 323
+Principios activos distintos: 331
+Acciones distintas: 125
+Valores de droga vegetal: 39
 Definiciones: 497
+
+---
+
+## 🗂️ Documentación y control de calidad
+
+El repositorio incluye archivos de apoyo para revisar y mantener la coherencia de la base de datos. No forman parte de la aplicación y no se descargan al instalar la PWA.
+
+* `principios_activos_referencia.md`: lista de las etiquetas válidas de `principiosActivos`, con el número de plantas que usa cada una.
+* `droga_vegetal_referencia.md`: lista de los valores válidos de `drogaVegetal`.
+* `listado_plantas.md`: listado completo de plantas en texto, pensado para revisión e impresión.
+
+Estos archivos se generan a partir de `plantas_medicinales.json`, por lo que conviene regenerarlos cada vez que se modifiquen los datos.
 
 
 ## 📱 Cómo instalar FitoMed como PWA en tu móvil (Uso Offline)
