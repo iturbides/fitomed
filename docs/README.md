@@ -127,14 +127,6 @@ Las nuevas especies a incorporar deben cumplir:
 ### Filosofía del Proyecto
 FitoMed prioriza **la calidad sobre la cantidad**. Es preferible disponer de un catálogo de plantas cuidadosamente documentadas y estandarizadas que de miles de registros incompletos o inconsistentes.
 
-
-### Datos
-Plantas: 323
-Principios activos distintos: 331
-Acciones distintas: 125
-Valores de droga vegetal: 39
-Definiciones: 497
-
 ---
 
 ## 🗂️ Documentación y control de calidad
@@ -169,3 +161,12 @@ FitoMed es una **Progressive Web App (PWA)**, lo que significa que no necesitas 
 ---
 
 
+### Datos
+* Plantas: **323**
+* Principios activos distintos: **331**
+* Acciones distintas: **125**
+* Valores de droga vegetal: **39**
+* Definiciones: **497**
+* Afecciones **60**
+
+---
