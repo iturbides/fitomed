@@ -246,7 +246,6 @@
     "nombreComun": "ALCARAVEA",
     "nombreBotanico": "Carum carvi",
     "acciones": [
-      "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "ANTISÉPTICA",
       "CARMINATIVA",
@@ -387,7 +386,6 @@
     "nombreComun": "AMAPOLA",
     "nombreBotanico": "Papaver rhoeas",
     "acciones": [
-      "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "ANTITUSIVA-BÉQUICA",
       "DEMULCENTE",
@@ -413,7 +411,6 @@
     "nombreBotanico": "Angelica archangelica",
     "acciones": [
       "ANTIBACTERIANA",
-      "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "APERITIVA",
       "CARMINATIVA",
@@ -440,7 +437,6 @@
     "nombreComun": "ANÍS VERDE",
     "nombreBotanico": "Pimpinella anisum",
     "acciones": [
-      "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "CARMINATIVA",
       "DIGESTIVA",
@@ -659,7 +655,6 @@
     "nombreBotanico": "Peumus boldus",
     "acciones": [
       "ABORTIVA",
-      "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "ANTIINFLAMATORIA",
       "ANTIOXIDANTE",
@@ -801,9 +796,9 @@
     "nombreComun": "CAPUCHINA",
     "nombreBotanico": "Tropaeolum majus",
     "acciones": [
-      "ANTIMICÓTICA",
+      "ANTIFÚNGICA",
       "BACTERIOSTÁTICA",
-      "VIRUSTÁTICA"
+      "ANTIVÍRICA"
     ],
     "principiosActivos": [
       "Flavonoides",
@@ -832,7 +827,7 @@
       "APERITIVA",
       "CARMINATIVA",
       "DIURÉTICA",
-      "ANTIESPASMÓDICA",
+      "ESPASMOLÍTICA",
       "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
@@ -1354,7 +1349,6 @@
     "nombreBotanico": "Drosera rotundifolia",
     "acciones": [
       "ANTIBACTERIANA",
-      "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "ANTITUSIVA-BÉQUICA",
       "EXPECTORANTE"
@@ -1380,7 +1374,6 @@
     "nombreComun": "ELECAMPANA, HELENIO",
     "nombreBotanico": "Inula helenium",
     "acciones": [
-      "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "ANTIINFECCIOSA",
       "ANTITUSIVA-BÉQUICA",
@@ -2061,7 +2054,6 @@
     "nombreComun": "HINOJO",
     "nombreBotanico": "Foeniculum vulgare",
     "acciones": [
-      "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "ANTIINFECCIOSA",
       "DIGESTIVA",
@@ -2446,7 +2438,6 @@
     "acciones": [
       "ANSIOLÍTICA",
       "ANTIDIARREICA",
-      "ANTIESPASMÓDICA",
       "ANTIPRURIGINOSA",
       "ESPASMOLÍTICA",
       "ANTIINFLAMATORIA",
@@ -2541,7 +2532,6 @@
     "nombreComun": "MELILOTO",
     "nombreBotanico": "Melilotus officinalis",
     "acciones": [
-      "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "ANTIHEMORROIDAL",
       "EXPECTORANTE",
@@ -2629,7 +2619,6 @@
     "nombreBotanico": "Achillea millefolium",
     "acciones": [
       "ANTIBACTERIANA",
-      "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "ANTIINFECCIOSA",
       "DIGESTIVA",
@@ -2659,12 +2648,11 @@
     "nombreBotanico": "Moringa oleifera",
     "acciones": [
       "ANTIBACTERIANA",
-      "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "ANTIULCEROSA",
       "DIURÉTICA",
       "HEPATOPROTECTORA",
-      "HIPERTENSORA",
+      "HIPOTENSORA",
       "HIPOGLUCEMIANTE"
     ],
     "principiosActivos": [
@@ -2689,7 +2677,6 @@
     "nombreComun": "NARANJO AMARGO",
     "nombreBotanico": "Citrus aurantium",
     "acciones": [
-      "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "CARMINATIVA",
       "DIGESTIVA",
@@ -2940,7 +2927,6 @@
       "ANTIINFECCIOSA",
       "ANTIFÚNGICA",
       "ANTIHELMÍNTICA-VERMÍFUGA",
-      "ANTIINFECCIOSA",
       "ANTIULCEROSA",
       "ASTRINGENTE"
     ],
@@ -3133,6 +3119,7 @@
       "GASTROPROTECTORA",
       "ANTI-HELICOBACTER PYLORI",
       "SIALAGOGA",
+      "HIPERTENSORA",
       "CICATRIZANTE",
       "ANTIINFLAMATORIA",
       "PROTECTORA DE LA MUCOSA"
@@ -3161,7 +3148,6 @@
     "acciones": [
       "ANTICANCERÍGENA",
       "HIPOTENSORA",
-      "ANTIHIPERTENSIVA",
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
       "ANTIOXIDANTE",
@@ -3194,7 +3180,6 @@
     "acciones": [
       "ANALGÉSICA",
       "ANTIASMÁTICA",
-      "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "ANTIINFECCIOSA",
       "ANTIMICROBIANA",
@@ -4026,7 +4011,6 @@
     "acciones": [
       "SEDANTE",
       "ANSIOLÍTICA",
-      "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "CARMINATIVA"
     ],
@@ -4171,7 +4155,6 @@
     "nombreBotanico": "Ruta graveolens",
     "acciones": [
       "EMENAGOGA",
-      "ANTIESPASMÓDICA",
       "ABORTIVA",
       "ESPASMOLÍTICA"
     ],
@@ -4326,7 +4309,7 @@
       "ANTIINFLAMATORIA",
       "ANTILITIÁSICA",
       "ANTILITIÁSICA RENAL",
-      "ANTIESPASMÓDICA"
+      "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
       "Saponinas",
@@ -5153,7 +5136,7 @@
       "SEDANTE",
       "DEMULCENTE",
       "ANTIINFLAMATORIA",
-      "ANTIESPASMÓDICA"
+      "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
       "Iridoides",
@@ -5327,6 +5310,7 @@
     "acciones": [
       "NOOTRÓPICA",
       "DIURÉTICA",
+      "HIPERTENSORA",
       "ADELGAZANTE"
     ],
     "principiosActivos": [
@@ -5511,7 +5495,7 @@
     "acciones": [
       "SEDANTE",
       "ANSIOLÍTICA",
-      "ANTIESPASMÓDICA"
+      "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
       "Flavonoides",
@@ -5586,7 +5570,7 @@
     "acciones": [
       "EMENAGOGA",
       "ESTROGÉNICA",
-      "ANTIESPASMÓDICA"
+      "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
       "Furanocumarinas",
@@ -6726,7 +6710,7 @@
   },
   {
     "id": 243,
-    "nombreComun": "NUEZ (fruto del NOGAL)",
+    "nombreComun": "NUEZ (FRUTO DEL NOGAL)",
     "nombreBotanico": "Juglans regia",
     "acciones": [
       "NUTRITIVA",
@@ -7812,7 +7796,6 @@
     "nombreComun": "MUNDILLO",
     "nombreBotanico": "Viburnum opulus",
     "acciones": [
-      "ANTIESPASMÓDICA",
       "ESPASMOLÍTICA",
       "SEDANTE"
     ],
@@ -8323,7 +8306,7 @@
       "DIURÉTICA",
       "ANTILITIÁSICA",
       "ANTIINFECCIOSA",
-      "ANTIESPASMÓDICA"
+      "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
       "Saponinas",
@@ -8380,7 +8363,7 @@
     "nombreBotanico": "Prunus avium",
     "acciones": [
       "DIURÉTICA",
-      "DEPURATIVA",
+      "DEPURATIVA GENERAL",
       "ANTILITIÁSICA"
     ],
     "principiosActivos": [
@@ -8442,7 +8425,7 @@
       "ANTISÉPTICA",
       "CICATRIZANTE",
       "EMOLIENTE",
-      "ANTITUSÍVA",
+      "ANTITUSIVA-BÉQUICA",
       "NUTRITIVA"
     ],
     "principiosActivos": [
@@ -8581,7 +8564,7 @@
     "nombreComun": "ÑAME SILVESTRE",
     "nombreBotanico": "Dioscorea villosa",
     "acciones": [
-      "ANTIESPASMÓDICA",
+      "ESPASMOLÍTICA",
       "ANTIINFLAMATORIA",
       "ANALGÉSICA",
       "EMENAGOGA"

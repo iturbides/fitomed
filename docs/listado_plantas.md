@@ -186,7 +186,7 @@
 
 *Carum carvi*
 
-- **Acciones:** ANTIESPASMÓDICA, ESPASMOLÍTICA, ANTISÉPTICA, CARMINATIVA, EUPÉPTICA
+- **Acciones:** ESPASMOLÍTICA, ANTISÉPTICA, CARMINATIVA, EUPÉPTICA
 - **Principios activos:** Aceite esencial, Flavonoides, Taninos
 - **Droga vegetal:** Fruto | **Uso:** Infusión
 - **Observación:** -
@@ -266,7 +266,7 @@
 
 *Papaver rhoeas*
 
-- **Acciones:** ANTIESPASMÓDICA, ESPASMOLÍTICA, ANTITUSIVA-BÉQUICA, DEMULCENTE, SEDANTE SUAVE
+- **Acciones:** ESPASMOLÍTICA, ANTITUSIVA-BÉQUICA, DEMULCENTE, SEDANTE SUAVE
 - **Principios activos:** Antocianinas, Mucílagos, Alcaloides isoquinolínicos
 - **Droga vegetal:** Pétalo | **Uso:** Infusión
 - **Observación:** -
@@ -286,7 +286,7 @@
 
 *Angelica archangelica*
 
-- **Acciones:** ANTIBACTERIANA, ANTIESPASMÓDICA, ESPASMOLÍTICA, APERITIVA, CARMINATIVA, COLAGOGA, EMENAGOGA, TÓNICO DIGESTIVO
+- **Acciones:** ANTIBACTERIANA, ESPASMOLÍTICA, APERITIVA, CARMINATIVA, COLAGOGA, EMENAGOGA, TÓNICO DIGESTIVO
 - **Principios activos:** Furanocumarinas, Aceite esencial, Cumarina simple
 - **Droga vegetal:** Raíz | **Uso:** Infusión
 - **Observación:** FOTOSENSIBILIZANTE
@@ -296,7 +296,7 @@
 
 *Angelica sinensis*
 
-- **Acciones:** EMENAGOGA, ESTROGÉNICA, ANTIESPASMÓDICA
+- **Acciones:** EMENAGOGA, ESTROGÉNICA, ESPASMOLÍTICA
 - **Principios activos:** Furanocumarinas, Aceite esencial, Flavonoides, Ftálidos
 - **Droga vegetal:** Raíz | **Uso:** Decocción; Cápsula; Extracto seco
 - **Observación:** Fotosensibilizante y con posible efecto anticoagulante; evitar junto con anticoagulantes y durante el embarazo.
@@ -316,7 +316,7 @@
 
 *Pimpinella anisum*
 
-- **Acciones:** ANTIESPASMÓDICA, ESPASMOLÍTICA, CARMINATIVA, DIGESTIVA, EUPÉPTICA, EXPECTORANTE
+- **Acciones:** ESPASMOLÍTICA, CARMINATIVA, DIGESTIVA, EUPÉPTICA, EXPECTORANTE
 - **Principios activos:** Aceite esencial, Anetol, Flavonoides
 - **Droga vegetal:** Fruto | **Uso:** Infusión
 - **Observación:** -
@@ -376,7 +376,7 @@
 
 *Spergularia rubra*
 
-- **Acciones:** DIURÉTICA, ANTILITIÁSICA, ANTIINFECCIOSA, ANTIESPASMÓDICA
+- **Acciones:** DIURÉTICA, ANTILITIÁSICA, ANTIINFECCIOSA, ESPASMOLÍTICA
 - **Principios activos:** Saponinas, Flavonoides, Sales minerales, Sodio (Na), Potasio (K)
 - **Droga vegetal:** Planta entera florida | **Uso:** Infusión; Decocción
 - **Observación:** -
@@ -516,7 +516,7 @@
 
 *Peumus boldus*
 
-- **Acciones:** ABORTIVA, ANTIESPASMÓDICA, ESPASMOLÍTICA, ANTIINFLAMATORIA, ANTIOXIDANTE, ANTISÉPTICA, COLAGOGA, COLERÉTICA, CLORÚRICA, HEPATOPROTECTORA, LAXANTE SUAVE
+- **Acciones:** ABORTIVA, ESPASMOLÍTICA, ANTIINFLAMATORIA, ANTIOXIDANTE, ANTISÉPTICA, COLAGOGA, COLERÉTICA, CLORÚRICA, HEPATOPROTECTORA, LAXANTE SUAVE
 - **Principios activos:** Alcaloides, Principio amargo, Aceite esencial, Flavonoides, Boldina
 - **Droga vegetal:** Hoja | **Uso:** Infusión
 - **Observación:** ABORTIVA
@@ -566,7 +566,7 @@
 
 *Coffea arabica*
 
-- **Acciones:** NOOTRÓPICA, DIURÉTICA, ADELGAZANTE
+- **Acciones:** NOOTRÓPICA, DIURÉTICA, HIPERTENSORA, ADELGAZANTE
 - **Principios activos:** Cafeína, Ácidos fenólicos, Taninos, Ácido clorogénico, Trigonelina, Diterpenos
 - **Droga vegetal:** Semilla | **Uso:** Polvo; Infusión; Cápsula
 - **Observación:** Evitar o moderar en hipertensión, ansiedad, embarazo e insomnio por su contenido en cafeína.
@@ -656,7 +656,7 @@
 
 *Tropaeolum majus*
 
-- **Acciones:** ANTIMICÓTICA, BACTERIOSTÁTICA, VIRUSTÁTICA
+- **Acciones:** ANTIFÚNGICA, BACTERIOSTÁTICA, ANTIVÍRICA
 - **Principios activos:** Flavonoides, Glucosinolatos, Vitamina C (ácido ascórbico), Aceite esencial
 - **Droga vegetal:** Sumidad florida | **Uso:** Extracto fluido; Infusión; Tintura
 - **Observación:** Uso moderado
@@ -666,7 +666,7 @@
 
 *Elettaria cardamomum*
 
-- **Acciones:** ANALGÉSICA, ANTIOXIDANTE, APERITIVA, CARMINATIVA, DIURÉTICA, ANTIESPASMÓDICA, ANTIINFLAMATORIA
+- **Acciones:** ANALGÉSICA, ANTIOXIDANTE, APERITIVA, CARMINATIVA, DIURÉTICA, ESPASMOLÍTICA, ANTIINFLAMATORIA
 - **Principios activos:** Aceite esencial, Flavonoides, Ácidos fenólicos, Ácidos grasos, Taninos, Esteroles, Alcaloides, Almidón
 - **Droga vegetal:** Semilla | **Uso:** Infusión
 - **Observación:** -
@@ -806,7 +806,7 @@
 
 *Prunus avium*
 
-- **Acciones:** DIURÉTICA, DEPURATIVA, ANTILITIÁSICA
+- **Acciones:** DIURÉTICA, DEPURATIVA GENERAL, ANTILITIÁSICA
 - **Principios activos:** Flavonoides, Taninos, Potasio (K), Mucílagos
 - **Droga vegetal:** Pedúnculo | **Uso:** Infusión; Decocción
 - **Observación:** -
@@ -1116,7 +1116,7 @@
 
 *Drosera rotundifolia*
 
-- **Acciones:** ANTIBACTERIANA, ANTIESPASMÓDICA, ESPASMOLÍTICA, ANTITUSIVA-BÉQUICA, EXPECTORANTE
+- **Acciones:** ANTIBACTERIANA, ESPASMOLÍTICA, ANTITUSIVA-BÉQUICA, EXPECTORANTE
 - **Principios activos:** Naftoquinonas, Flavonoides, Mucílagos
 - **Droga vegetal:** Parte aérea | **Uso:** Decocción; Extracto fluido; Infusión
 - **Observación:** -
@@ -1126,7 +1126,7 @@
 
 *Inula helenium*
 
-- **Acciones:** ANTIESPASMÓDICA, ESPASMOLÍTICA, ANTIINFECCIOSA, ANTITUSIVA-BÉQUICA, EXPECTORANTE, FLUIDIFICANTE
+- **Acciones:** ESPASMOLÍTICA, ANTIINFECCIOSA, ANTITUSIVA-BÉQUICA, EXPECTORANTE, FLUIDIFICANTE
 - **Principios activos:** Inulina, Lactonas sesquiterpénicas, Aceite esencial, Resinas, Alantolactona
 - **Droga vegetal:** Raíz, Rizoma | **Uso:** Decocción; Extracto fluido; Tintura
 - **Observación:** -
@@ -1206,7 +1206,7 @@
 
 *Scutellaria lateriflora*
 
-- **Acciones:** SEDANTE, ANSIOLÍTICA, ANTIESPASMÓDICA
+- **Acciones:** SEDANTE, ANSIOLÍTICA, ESPASMOLÍTICA
 - **Principios activos:** Flavonoides, Iridoides, Taninos, Baicalina
 - **Droga vegetal:** Parte aérea | **Uso:** Infusión; Tintura; Cápsula
 - **Observación:** -
@@ -1626,7 +1626,7 @@
 
 *Herniaria glabra*
 
-- **Acciones:** DIURÉTICA, ANTIINFLAMATORIA, ANTILITIÁSICA, ANTILITIÁSICA RENAL, ANTIESPASMÓDICA
+- **Acciones:** DIURÉTICA, ANTIINFLAMATORIA, ANTILITIÁSICA, ANTILITIÁSICA RENAL, ESPASMOLÍTICA
 - **Principios activos:** Saponinas, Flavonoides, Cumarina simple
 - **Droga vegetal:** Parte aérea | **Uso:** Infusión; Decocción
 - **Observación:** -
@@ -1676,7 +1676,7 @@
 
 *Foeniculum vulgare*
 
-- **Acciones:** ANTIESPASMÓDICA, ESPASMOLÍTICA, ANTIINFECCIOSA, DIGESTIVA, CARMINATIVA, ANTISÉPTICA, ANTIINFLAMATORIA, EUPÉPTICA
+- **Acciones:** ESPASMOLÍTICA, ANTIINFECCIOSA, DIGESTIVA, CARMINATIVA, ANTISÉPTICA, ANTIINFLAMATORIA, EUPÉPTICA
 - **Principios activos:** Aceite esencial, Flavonoides, Cumarina simple, Furanocumarinas, Esteroles, Fenchona, Estragol
 - **Droga vegetal:** Fruto, Raíz | **Uso:** Infusión
 - **Observación:** -
@@ -1776,7 +1776,7 @@
 
 *Lavandula angustifolia*
 
-- **Acciones:** SEDANTE, ANSIOLÍTICA, ANTIESPASMÓDICA, ESPASMOLÍTICA, CARMINATIVA
+- **Acciones:** SEDANTE, ANSIOLÍTICA, ESPASMOLÍTICA, CARMINATIVA
 - **Principios activos:** Aceite esencial, Taninos, Flavonoides, Linalol, Acetato de linalilo
 - **Droga vegetal:** Flor | **Uso:** Infusión; Aceite esencial; Cápsula; Inhalación
 - **Observación:** -
@@ -1986,7 +1986,7 @@
 
 *Matricaria recutita, Matricaria chamomilla*
 
-- **Acciones:** ANSIOLÍTICA, ANTIDIARREICA, ANTIESPASMÓDICA, ANTIPRURIGINOSA, ESPASMOLÍTICA, ANTIINFLAMATORIA, ANTIULCEROSA, CICATRIZANTE, GASTROPROTECTORA, DEMULCENTE, SEDANTE, TRANQUILIZANTE, VULNERARIA
+- **Acciones:** ANSIOLÍTICA, ANTIDIARREICA, ANTIPRURIGINOSA, ESPASMOLÍTICA, ANTIINFLAMATORIA, ANTIULCEROSA, CICATRIZANTE, GASTROPROTECTORA, DEMULCENTE, SEDANTE, TRANQUILIZANTE, VULNERARIA
 - **Principios activos:** Mucílagos, Aceite esencial, Flavonoides, Cumarina simple, Bisabolol, Camazuleno, Apigenina
 - **Droga vegetal:** Flor | **Uso:** Infusión
 - **Observación:** -
@@ -2046,7 +2046,7 @@
 
 *Melilotus officinalis*
 
-- **Acciones:** ANTIESPASMÓDICA, ESPASMOLÍTICA, ANTIHEMORROIDAL, EXPECTORANTE, VENOTÓNICA, VASOPROTECTORA
+- **Acciones:** ESPASMOLÍTICA, ANTIHEMORROIDAL, EXPECTORANTE, VENOTÓNICA, VASOPROTECTORA
 - **Principios activos:** Ácido salicílico, Dicumarina, Flavonoides, Mucílagos
 - **Droga vegetal:** Corteza, Semilla | **Uso:** Decocción; Extracto fluido; Infusión
 - **Observación:** No con anticoagulantes
@@ -2106,7 +2106,7 @@
 
 *Néctar floral transformado por Apis mellifera*
 
-- **Acciones:** ANTISÉPTICA, CICATRIZANTE, EMOLIENTE, ANTITUSÍVA, NUTRITIVA
+- **Acciones:** ANTISÉPTICA, CICATRIZANTE, EMOLIENTE, ANTITUSIVA-BÉQUICA, NUTRITIVA
 - **Principios activos:** Azúcares, Fructosa, Glucosa, Enzimas, Glucosa oxidasa, Ácidos fenólicos, Flavonoides, Ácidos orgánicos
 - **Droga vegetal:** Miel | **Uso:** Uso interno directo; Jarabe; Uso externo (cura de heridas)
 - **Observación:** -
@@ -2116,7 +2116,7 @@
 
 *Achillea millefolium*
 
-- **Acciones:** ANTIBACTERIANA, ANTIESPASMÓDICA, ESPASMOLÍTICA, ANTIINFECCIOSA, DIGESTIVA, APERITIVA, HEMOSTÁTICA, ANTIHEMORRÁGICA, TÓNICO DIGESTIVO
+- **Acciones:** ANTIBACTERIANA, ESPASMOLÍTICA, ANTIINFECCIOSA, DIGESTIVA, APERITIVA, HEMOSTÁTICA, ANTIHEMORRÁGICA, TÓNICO DIGESTIVO
 - **Principios activos:** Aceite esencial, Lactonas sesquiterpénicas, Flavonoides, Taninos
 - **Droga vegetal:** Sumidad florida | **Uso:** Infusión
 - **Observación:** -
@@ -2126,7 +2126,7 @@
 
 *Moringa oleifera*
 
-- **Acciones:** ANTIBACTERIANA, ANTIESPASMÓDICA, ESPASMOLÍTICA, ANTIULCEROSA, DIURÉTICA, HEPATOPROTECTORA, HIPERTENSORA, HIPOGLUCEMIANTE
+- **Acciones:** ANTIBACTERIANA, ESPASMOLÍTICA, ANTIULCEROSA, DIURÉTICA, HEPATOPROTECTORA, HIPOTENSORA, HIPOGLUCEMIANTE
 - **Principios activos:** Flavonoides, Glucosinolatos, Vitamina C (ácido ascórbico), Polifenoles, Calcio (Ca), Hierro (Fe)
 - **Droga vegetal:** Hoja | **Uso:** Infusión
 - **Observación:** -
@@ -2176,7 +2176,7 @@
 
 *Viburnum opulus*
 
-- **Acciones:** ANTIESPASMÓDICA, ESPASMOLÍTICA, SEDANTE
+- **Acciones:** ESPASMOLÍTICA, SEDANTE
 - **Principios activos:** Taninos, Cumarina simple, Ácidos orgánicos
 - **Droga vegetal:** Corteza | **Uso:** Decocción; Tintura; Extracto fluido
 - **Observación:** -
@@ -2186,7 +2186,7 @@
 
 *Dioscorea villosa*
 
-- **Acciones:** ANTIESPASMÓDICA, ANTIINFLAMATORIA, ANALGÉSICA, EMENAGOGA
+- **Acciones:** ESPASMOLÍTICA, ANTIINFLAMATORIA, ANALGÉSICA, EMENAGOGA
 - **Principios activos:** Saponinas esteroidales, Diosgenina, Esteroles, Almidón
 - **Droga vegetal:** Raíz, Rizoma | **Uso:** Decocción; Extracto; Cápsula
 - **Observación:** -
@@ -2206,7 +2206,7 @@
 
 *Citrus aurantium*
 
-- **Acciones:** ANTIESPASMÓDICA, ESPASMOLÍTICA, CARMINATIVA, DIGESTIVA, SEDANTE SUAVE
+- **Acciones:** ESPASMOLÍTICA, CARMINATIVA, DIGESTIVA, SEDANTE SUAVE
 - **Principios activos:** Aceite esencial, Flavonoides, Alcaloides, Sinefrina, Hesperidina
 - **Droga vegetal:** Azahar, Flor | **Uso:** Infusión
 - **Observación:** -
@@ -2252,7 +2252,7 @@
 - **Observación:** -
 - **Notas:** Cactácea originaria de América, cuya penca se usa tradicionalmente en la alimentación y para ayudar a regular la glucemia.
 
-## NUEZ (fruto del NOGAL) [243]
+## NUEZ (FRUTO DEL NOGAL) [243]
 
 *Juglans regia*
 
@@ -2396,7 +2396,7 @@
 
 *Tabebuia avellanedae*
 
-- **Acciones:** ANTICANCERÍGENA, ANTIINFECCIOSA, ANTIFÚNGICA, ANTIHELMÍNTICA-VERMÍFUGA, ANTIINFECCIOSA, ANTIULCEROSA, ASTRINGENTE
+- **Acciones:** ANTICANCERÍGENA, ANTIINFECCIOSA, ANTIFÚNGICA, ANTIHELMÍNTICA-VERMÍFUGA, ANTIULCEROSA, ASTRINGENTE
 - **Principios activos:** Naftoquinonas, Taninos, Flavonoides, Lapachol, Beta-lapachona
 - **Droga vegetal:** Corteza | **Uso:** Decocción
 - **Observación:** -
@@ -2646,7 +2646,7 @@
 
 *Glycyrrhiza glabra*
 
-- **Acciones:** ABORTIVA, ANTIÁCIDA, ANTIULCEROSA, DEMULCENTE, DIGESTIVA, FLUIDIFICANTE, GASTROPROTECTORA, ANTI-HELICOBACTER PYLORI, SIALAGOGA, CICATRIZANTE, ANTIINFLAMATORIA, PROTECTORA DE LA MUCOSA
+- **Acciones:** ABORTIVA, ANTIÁCIDA, ANTIULCEROSA, DEMULCENTE, DIGESTIVA, FLUIDIFICANTE, GASTROPROTECTORA, ANTI-HELICOBACTER PYLORI, SIALAGOGA, HIPERTENSORA, CICATRIZANTE, ANTIINFLAMATORIA, PROTECTORA DE LA MUCOSA
 - **Principios activos:** Glicirricina, Flavonoides, Cumarina simple, Isoflavonas, Liquiritina, Saponinas triterpenoides
 - **Droga vegetal:** Raíz | **Uso:** Decocción
 - **Observación:** ABORTIVA
@@ -2656,7 +2656,7 @@
 
 *Ganoderma lucidum*
 
-- **Acciones:** ANTICANCERÍGENA, HIPOTENSORA, ANTIHIPERTENSIVA, ANTIHISTAMÍNICA, ANTIALÉRGICA, ANTIOXIDANTE, ANTIVÍRICA, HIPOLIPEMIANTE, INMUNOESTIMULANTE, ANTIINFLAMATORIA
+- **Acciones:** ANTICANCERÍGENA, HIPOTENSORA, ANTIHISTAMÍNICA, ANTIALÉRGICA, ANTIOXIDANTE, ANTIVÍRICA, HIPOLIPEMIANTE, INMUNOESTIMULANTE, ANTIINFLAMATORIA
 - **Principios activos:** Polisacáridos, Triterpenos, Ergosterol, Beta-glucanos, Ácidos ganodéricos
 - **Droga vegetal:** Cuerpo fructífero | **Uso:** Extracto seco; Polvo
 - **Observación:** -
@@ -2686,7 +2686,7 @@
 
 *Rosmarinus officinalis, Salvia rosmarinus*
 
-- **Acciones:** ANALGÉSICA, ANTIASMÁTICA, ANTIESPASMÓDICA, ESPASMOLÍTICA, ANTIINFECCIOSA, ANTIMICROBIANA, ANTIOXIDANTE, ANTISÉPTICA, BRONCODILATADORA, COLAGOGA, COLERÉTICA, HEPATOPROTECTORA, HIPERTENSORA, NOOTRÓPICA
+- **Acciones:** ANALGÉSICA, ANTIASMÁTICA, ESPASMOLÍTICA, ANTIINFECCIOSA, ANTIMICROBIANA, ANTIOXIDANTE, ANTISÉPTICA, BRONCODILATADORA, COLAGOGA, COLERÉTICA, HEPATOPROTECTORA, HIPERTENSORA, NOOTRÓPICA
 - **Principios activos:** Aceite esencial, Ácido rosmarínico, Flavonoides, Ácido carnósico, Carnosol, Cineol
 - **Droga vegetal:** Hoja, Sumidad florida | **Uso:** Infusión
 - **Observación:** -
@@ -2726,7 +2726,7 @@
 
 *Ruta graveolens*
 
-- **Acciones:** EMENAGOGA, ANTIESPASMÓDICA, ABORTIVA, ESPASMOLÍTICA
+- **Acciones:** EMENAGOGA, ABORTIVA, ESPASMOLÍTICA
 - **Principios activos:** Furanocumarinas, Alcaloides, Aceite esencial
 - **Droga vegetal:** Hoja | **Uso:** Infusión; Tintura
 - **Observación:** Planta abortiva y fotosensibilizante; contraindicada en embarazo y su uso interno requiere supervisión profesional por su toxicidad a dosis altas.
@@ -3126,7 +3126,7 @@
 
 *Verbena officinalis*
 
-- **Acciones:** DIGESTIVA, SEDANTE, DEMULCENTE, ANTIINFLAMATORIA, ANTIESPASMÓDICA
+- **Acciones:** DIGESTIVA, SEDANTE, DEMULCENTE, ANTIINFLAMATORIA, ESPASMOLÍTICA
 - **Principios activos:** Iridoides, Flavonoides, Taninos, Verbascósido
 - **Droga vegetal:** Parte aérea | **Uso:** Infusión; Tintura
 - **Observación:** -
