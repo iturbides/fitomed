@@ -12,6 +12,11 @@ import {
 import { mostrarFicha } from "./ficha.js";
 import { mostrarListado } from "./listado.js";
 import { mostrarFichaAfeccion } from "./afecciones.js";
+import {
+    buscarEmuntorios,
+    htmlTarjetasEmuntorios,
+    mostrarFichaEmuntorio
+} from "./emuntorios.js";
 
 
 export function inicializarBuscador() {
@@ -87,6 +92,23 @@ function gestionarClick(evento) {
 
         mostrarFichaAfeccion(
             Number(afeccion.dataset.id)
+        );
+
+        return;
+
+    }
+
+
+    // ==========================================
+    // Resultado de emuntorio (DETOX)
+    // ==========================================
+
+    const emuntorio = evento.target.closest(".resultado-emuntorio");
+
+    if (emuntorio) {
+
+        mostrarFichaEmuntorio(
+            Number(emuntorio.dataset.id)
         );
 
         return;
@@ -217,7 +239,10 @@ function buscar() {
 
     const resultados = obtenerResultados(texto);
 
-    mostrarResultados(resultados);
+    // Emuntorios (DETOX): se muestran encima de las plantas
+    const emuntorios = buscarEmuntorios(texto);
+
+    mostrarResultados(resultados, emuntorios);
 
 }
 
@@ -744,12 +769,12 @@ function calcularPrioridad(planta, texto) {
 /**
  * Muestra los resultados normales de plantas.
  */
-function mostrarResultados(resultados) {
+function mostrarResultados(resultados, emuntorios = []) {
 
     const app = document.getElementById("app");
 
 
-    if (resultados.length === 0) {
+    if (resultados.length === 0 && emuntorios.length === 0) {
 
         app.innerHTML = `
             <p>No se han encontrado plantas.</p>
@@ -760,7 +785,8 @@ function mostrarResultados(resultados) {
     }
 
 
-    let html = "";
+    // Las tarjetas de emuntorio van primero
+    let html = htmlTarjetasEmuntorios(emuntorios);
 
 
     resultados.forEach(({ planta }) => {

@@ -1,6 +1,6 @@
 # Referencia de afecciones
 
-81 afecciones de `afecciones.json`, ordenadas alfabéticamente (entre corchetes, el `id` del JSON).
+86 afecciones de `afecciones.json`, ordenadas alfabéticamente (entre corchetes, el `id` del JSON).
 
 ## ACNÉ [23]
 
@@ -38,11 +38,17 @@
 - **Síntomas:** INQUIETUD, TAQUICARDIA, TENSIÓN MUSCULAR, PREOCUPACIÓN EXCESIVA, DIFICULTAD PARA RESPIRAR
 - **Recomendaciones:** Plantas ansiolíticas como la Valeriana, la Pasiflora, la Manzanilla Dulce, la Lavanda o la Escutelaria. Practicar respiración consciente, actividad física regular y reducir el consumo de estimulantes como la cafeína.
 
+## ARTRITIS [82]
+
+- **Definición:** Inflamación de una o varias articulaciones, de origen inflamatorio o autoinmune, que provoca dolor, hinchazón, calor y rigidez, a menudo más intensa por la mañana.
+- **Síntomas:** DOLOR ARTICULAR, INFLAMACIÓN Y CALOR LOCAL, RIGIDEZ MATUTINA, ENROJECIMIENTO, LIMITACIÓN DE MOVIMIENTO
+- **Recomendaciones:** Por orden de actuación: plantas depurativas de los emuntorios como la Ortiga Verde, el Abedul, el Diente de León o la Bardana; nutritivas como la Spirulina o la Cola de Caballo; antiinflamatorias y analgésicas como el Harpagofito, la Cúrcuma, la Boswelia, el Sauce o el Jengibre; y antioxidantes e inmunomoduladoras como el Reishi o la Esquisandra. Seguir una dieta antiinflamatoria rica en frutas, verduras y omega 3, y mantener el movimiento suave. En las formas autoinmunes, las plantas inmunoestimulantes deben usarse con supervisión médica, y el Sauce, por sus salicilatos, no debe combinarse con anticoagulantes.
+
 ## ARTROSIS [55]
 
 - **Definición:** Enfermedad degenerativa de las articulaciones por desgaste del cartílago, que provoca dolor, rigidez y limitación del movimiento, especialmente con la edad o el uso repetido.
 - **Síntomas:** DOLOR ARTICULAR, RIGIDEZ ARTICULAR, LIMITACIÓN DE MOVIMIENTO, INFLAMACIÓN DE LA ARTICULACIÓN
-- **Recomendaciones:** Plantas antirreumáticas y antiinflamatorias como el Harpagofito, el Sauce, la Cúrcuma o el Jengibre, junto con analgésicas como la Ulmaria. Mantener un peso saludable y ejercicio de bajo impacto para proteger la articulación.
+- **Recomendaciones:** Por orden de actuación: plantas depurativas de los emuntorios como la Ortiga Verde, el Abedul, el Diente de León o la Bardana; nutritivas y remineralizantes como la Cola de Caballo o la Spirulina; antiinflamatorias y analgésicas como el Harpagofito, el Sauce, la Cúrcuma, el Jengibre o la Ulmaria; y antioxidantes e inmunomoduladoras como el Reishi o la Esquisandra. Mantener un peso saludable, hacer ejercicio de bajo impacto y seguir una dieta antiinflamatoria rica en frutas, verduras y omega 3. El Sauce y la Ulmaria contienen salicilatos, y la Cúrcuma y el Jengibre pueden potenciar los anticoagulantes.
 
 ## ASMA [52]
 
@@ -266,6 +272,12 @@
 - **Síntomas:** ARDOR DE ESTÓMAGO, REGURGITACIÓN, DOLOR TORÁCICO, SENSACIÓN DE NUDO EN LA GARGANTA
 - **Recomendaciones:** Plantas demulcentes y protectoras de la mucosa como el Regaliz o el Olmo Americano, que ayudan a calmar la irritación esofágica. Evitar comidas copiosas, no acostarse justo después de comer, y reducir el peso corporal si existe sobrepeso.
 
+## HERPES LABIAL [86]
+
+- **Definición:** Infección viral recurrente de los labios y la zona que los rodea, causada por el virus del herpes simple, que provoca vesículas dolorosas que se secan y forman costra.
+- **Síntomas:** HORMIGUEO O PICOR PREVIO, VESÍCULAS EN EL LABIO, DOLOR O ESCOZOR, COSTRAS, ENROJECIMIENTO
+- **Recomendaciones:** En uso tópico y desde los primeros síntomas, plantas antivíricas y cicatrizantes como la Melisa, el Propóleo, la Agrimonia o la Caléndula; por vía interna, plantas inmunomoduladoras como la Equinacea o el Reishi para reducir las recurrencias. Evitar el contacto directo con las lesiones, no compartir utensilios ni toallas, proteger los labios del sol y controlar el estrés, que suele desencadenar los brotes. El Propóleo puede producir alergia de contacto. Si las lesiones son muy frecuentes, aparecen cerca de los ojos o la persona está inmunodeprimida, consultar al médico.
+
 ## HÍGADO GRASO [31]
 
 - **Definición:** Acumulación excesiva de grasa en las células del hígado, generalmente asociada a sobrepeso, resistencia a la insulina o consumo elevado de alcohol.
@@ -289,6 +301,12 @@
 - **Definición:** Elevación sostenida de la presión arterial por encima de los valores normales, que aumenta el riesgo de enfermedad cardiovascular.
 - **Síntomas:** SIN SÍNTOMAS EVIDENTES, CEFALEA, MAREOS, ZUMBIDO DE OÍDOS, PALPITACIONES
 - **Recomendaciones:** Como apoyo y nunca en sustitución del tratamiento médico, plantas hipotensoras como el Espino Albar, el Olivo, el Hibisco, el Ajo o el Apio. Reducir el consumo de sal, mantener un peso saludable, hacer ejercicio y controlar la tensión con regularidad. Pueden potenciar los antihipertensivos.
+
+## HIPOTENSIÓN ARTERIAL [85]
+
+- **Definición:** Descenso de la presión arterial por debajo de los valores normales, que puede provocar mareos, debilidad y, en ocasiones, desmayos, sobre todo al ponerse de pie.
+- **Síntomas:** MAREO AL LEVANTARSE, FATIGA, VISIÓN BORROSA, SENSACIÓN DE DESMAYO, MANOS Y PIES FRÍOS
+- **Recomendaciones:** Como apoyo, plantas hipertensoras como el Romero, y venotónicas y vasoprotectoras como el Castaño de Indias, el Rusco, la Vid Roja o la Centella Asiática, que mejoran el tono de las venas y el retorno venoso, útiles sobre todo en la hipotensión al ponerse de pie. El Regaliz eleva la tensión por su glicirricina, pero solo debe usarse de forma puntual y con supervisión médica, y está contraindicado en hipertensión, enfermedad cardíaca o renal y con diuréticos. Levantarse despacio, repartir la comida en varias tomas pequeñas, mantener una buena hidratación, evitar el alcohol y los cambios bruscos de temperatura, y valorar medias de compresión. Si hay desmayos repetidos, consultar al médico.
 
 ## INAPETENCIA [58]
 
@@ -326,6 +344,12 @@
 - **Síntomas:** DOLOR EN EL HIPOCONDRIO DERECHO, NAUSEAS, DIGESTIONES PESADAS, INTOLERANCIA A LAS GRASAS
 - **Recomendaciones:** Plantas colagogas y antilitiásicas biliares como el Crisantelo o el Rábano Negro, junto con coleréticas como la Alcachofera o el Boldo que favorecen el vaciado de la vesícula. Moderar el consumo de grasas saturadas y mantener un peso saludable.
 
+## LUMBALGIA [84]
+
+- **Definición:** Dolor localizado en la zona lumbar de la espalda, de origen mecánico o muscular en la mayoría de los casos, que puede limitar los movimientos.
+- **Síntomas:** DOLOR EN LA ZONA LUMBAR, RIGIDEZ, CONTRACTURA MUSCULAR, DOLOR AL MOVERSE, IRRADIACIÓN A LOS GLÚTEOS
+- **Recomendaciones:** Plantas antiinflamatorias y analgésicas como el Harpagofito, el Sauce, la Ulmaria, la Cúrcuma, el Jengibre o la Boswelia; antioxidantes como el Romero; y eutróficas como la Ortiga Verde o la Cola de Caballo. En uso externo, el Árnica, la Cayena o el Romero en friegas o cataplasmas. Mantener la actividad suave, evitar el reposo prolongado, cuidar la postura y la ergonomía, y aplicar calor local en las contracturas. Consultar al médico si el dolor se irradia a la pierna con pérdida de fuerza, si hay alteración al orinar, fiebre, si aparece tras un traumatismo o si dura más de seis semanas.
+
 ## MENOPAUSIA [67]
 
 - **Definición:** Etapa en la que cesa la menstruación de forma definitiva por el descenso de las hormonas ováricas, con síntomas que pueden afectar a la calidad de vida.
@@ -355,6 +379,12 @@
 - **Definición:** Infección del tejido pulmonar, de origen bacteriano o vírico, que provoca fiebre alta, tos con flemas y dificultad respiratoria.
 - **Síntomas:** FIEBRE ALTA, TOS CON FLEMA, DIFICULTAD PARA RESPIRAR, DOLOR TORÁCICO, FATIGA
 - **Recomendaciones:** Es una infección que requiere siempre diagnóstico y tratamiento médico, habitualmente con antibióticos; plantas expectorantes como el Tomillo o inmunoestimulantes como el Própoleo pueden usarse únicamente como apoyo durante la recuperación, nunca como tratamiento principal.
+
+## OSTEOPOROSIS [83]
+
+- **Definición:** Enfermedad en la que los huesos pierden densidad y se vuelven frágiles, con mayor riesgo de fracturas, especialmente tras la menopausia y con la edad.
+- **Síntomas:** SIN SÍNTOMAS EVIDENTES, DOLOR ÓSEO, PÉRDIDA DE ESTATURA, FRACTURAS POR FRAGILIDAD, ENCORVAMIENTO DE LA ESPALDA
+- **Recomendaciones:** Plantas remineralizantes y nutritivas (eutróficas) como la Ortiga Verde, la Cola de Caballo, la Alfalfa o el Perejil; depurativas como el Diente de León; alcalinizantes como la Alfalfa o la Spirulina; antioxidantes como el Olivo o la Cúrcuma; y fitoestrogénicas como el Trébol Rojo, la Soja o el Shatavari. Asegurar un buen aporte de vitamina D (sol moderado, pescado azul, huevo), vitamina K (verduras de hoja verde, brócoli, col), calcio (lácteos o alternativas enriquecidas, sésamo, almendras, sardinas con espina) y magnesio (frutos secos, semillas, legumbres, cereales integrales). Seguir una dieta equilibrada con proteína suficiente, limitar la sal, el alcohol, el tabaco, el exceso de cafeína y los refrescos de cola, hacer ejercicio de carga y fuerza y prevenir las caídas. Las plantas con efecto estrogénico no deben usarse con antecedentes de cáncer hormonodependiente sin supervisión médica, y la vitamina K interacciona con los anticoagulantes.
 
 ## OTITIS [51]
 

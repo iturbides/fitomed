@@ -1,0 +1,275 @@
+[
+  {
+    "id": 1,
+    "emuntorio": "HÍGADO",
+    "titulo": "DEPURACIÓN HEPÁTICA",
+    "palabrasClave": [
+      "hígado",
+      "higado",
+      "hepática",
+      "hepatica",
+      "depuración hepática",
+      "detox hepático",
+      "depurar el hígado"
+    ],
+    "definicion": "En naturopatía, el hígado es el principal órgano de depuración del organismo: transforma y elimina sustancias de desecho, fármacos, alcohol y toxinas, y participa en el metabolismo de las grasas, los azúcares y las hormonas. La depuración hepática busca apoyar esta función con plantas y hábitos.",
+    "funcion": "Transformación y eliminación de sustancias de desecho, producción de bilis para la digestión de las grasas y metabolismo de nutrientes y hormonas.",
+    "causas": [
+      "EXCESO DE ALCOHOL",
+      "ALIMENTACIÓN RICA EN GRASAS Y AZÚCARES",
+      "CONSUMO FRECUENTE DE MEDICAMENTOS",
+      "SOBREPESO",
+      "ESTRÉS PROLONGADO",
+      "EXPOSICIÓN A TÓXICOS AMBIENTALES"
+    ],
+    "sintomas": [
+      "DIGESTIONES PESADAS",
+      "INTOLERANCIA A LAS GRASAS",
+      "NÁUSEAS",
+      "CANSANCIO",
+      "MOLESTIA EN LA ZONA DEL HIPOCONDRIO DERECHO",
+      "PIEL OPACA O AMARILLENTA"
+    ],
+    "acciones": [
+      "DEPURATIVA HEPÁTICA",
+      "COLERÉTICA",
+      "COLAGOGA",
+      "HEPATOPROTECTORA"
+    ],
+    "habitos": "Reducir el alcohol, las grasas saturadas, los fritos y los azúcares refinados; aumentar las verduras amargas y crucíferas y la fibra; mantener un peso saludable, hacer ejercicio con regularidad y respetar los horarios de comida y de sueño.",
+    "precauciones": "Las plantas coleréticas y colagogas están contraindicadas en la obstrucción de las vías biliares y requieren supervisión médica en la litiasis biliar. Algunas plantas pueden ser hepatotóxicas con un uso prolongado o a dosis altas, y pueden interferir con fármacos metabolizados en el hígado. Ante ictericia, dolor intenso o alteraciones en la analítica, consultar al médico.",
+    "afeccionesRelacionadas": [
+      31,
+      29,
+      30,
+      59,
+      61
+    ]
+  },
+  {
+    "id": 2,
+    "emuntorio": "RIÑÓN",
+    "titulo": "DEPURACIÓN RENAL",
+    "palabrasClave": [
+      "riñón",
+      "rinon",
+      "riñones",
+      "renal",
+      "depuración renal",
+      "detox renal",
+      "depurar los riñones"
+    ],
+    "definicion": "En naturopatía, el riñón es el principal emuntorio de las sustancias solubles: filtra la sangre, elimina los residuos metabólicos en la orina y regula los líquidos y los minerales del organismo. La depuración renal busca favorecer esta eliminación.",
+    "funcion": "Filtrado de la sangre, eliminación de residuos como la urea y el ácido úrico por la orina, y regulación del agua, los minerales y la tensión arterial.",
+    "causas": [
+      "INGESTA INSUFICIENTE DE LÍQUIDOS",
+      "EXCESO DE SAL",
+      "DIETA RICA EN PROTEÍNAS ANIMALES Y PURINAS",
+      "SEDENTARISMO",
+      "USO PROLONGADO DE ANALGÉSICOS",
+      "INFECCIONES URINARIAS DE REPETICIÓN"
+    ],
+    "sintomas": [
+      "RETENCIÓN DE LÍQUIDOS",
+      "TOBILLOS Y PÁRPADOS HINCHADOS",
+      "ORINA ESCASA O MUY CONCENTRADA",
+      "DOLOR LUMBAR",
+      "MICCIONES FRECUENTES O MOLESTAS",
+      "ARENILLAS EN LA ORINA"
+    ],
+    "acciones": [
+      "DEPURATIVA RENAL",
+      "DIURÉTICA",
+      "ANTILITIÁSICA RENAL"
+    ],
+    "habitos": "Beber agua suficiente a lo largo del día, reducir la sal y el exceso de proteínas animales, aumentar las frutas y las verduras y mantener una actividad física regular.",
+    "precauciones": "Las plantas diuréticas pueden potenciar los diuréticos y los antihipertensivos y alterar los niveles de potasio. Deben evitarse o consultarse con el médico en la insuficiencia renal o cardíaca, y no deben usarse de forma prolongada. Ante sangre en la orina, dolor intenso o fiebre, consultar al médico.",
+    "afeccionesRelacionadas": [
+      8,
+      9,
+      11,
+      10,
+      70
+    ]
+  },
+  {
+    "id": 3,
+    "emuntorio": "INTESTINO",
+    "titulo": "DEPURACIÓN INTESTINAL",
+    "palabrasClave": [
+      "intestino",
+      "intestinal",
+      "colon",
+      "depuración intestinal",
+      "detox intestinal",
+      "depurar el intestino"
+    ],
+    "definicion": "En naturopatía, el intestino es un emuntorio fundamental: elimina los residuos de la digestión y alberga la microbiota. La depuración intestinal busca regular el tránsito y favorecer la evacuación.",
+    "funcion": "Absorción de nutrientes, eliminación de los residuos de la digestión a través de las heces y mantenimiento de la microbiota intestinal.",
+    "causas": [
+      "DIETA POBRE EN FIBRA",
+      "POCA HIDRATACIÓN",
+      "SEDENTARISMO",
+      "ESTRÉS",
+      "USO FRECUENTE DE LAXANTES O ANTIBIÓTICOS",
+      "IGNORAR EL REFLEJO DE DEFECAR"
+    ],
+    "sintomas": [
+      "ESTREÑIMIENTO",
+      "DISTENSIÓN ABDOMINAL",
+      "GASES",
+      "HECES DURAS O IRREGULARES",
+      "SENSACIÓN DE EVACUACIÓN INCOMPLETA",
+      "MAL ALIENTO"
+    ],
+    "acciones": [
+      "DEPURATIVA INTESTINAL",
+      "LAXANTE",
+      "LAXANTE SUAVE",
+      "LAXANTE MECÁNICO"
+    ],
+    "habitos": "Aumentar la fibra con verduras, frutas, legumbres y cereales integrales, beber suficiente agua, hacer ejercicio con regularidad y establecer un horario fijo para evacuar. Cuidar la microbiota con alimentos fermentados.",
+    "precauciones": "Las plantas laxantes de acción irritante (antraquinónicas) no deben usarse de forma prolongada ni en embarazo, lactancia, obstrucción intestinal o enfermedad inflamatoria intestinal. Los laxantes mecánicos requieren abundante agua y pueden interferir con la absorción de fármacos. Ante un estreñimiento persistente, sangre en las heces o dolor abdominal, consultar al médico.",
+    "afeccionesRelacionadas": [
+      37,
+      66,
+      40,
+      42,
+      73
+    ]
+  },
+  {
+    "id": 4,
+    "emuntorio": "PIEL",
+    "titulo": "DEPURACIÓN CUTÁNEA",
+    "palabrasClave": [
+      "piel",
+      "cutánea",
+      "cutanea",
+      "depuración cutánea",
+      "detox cutáneo",
+      "depurar la piel"
+    ],
+    "definicion": "En naturopatía, la piel es un emuntorio que elimina sustancias a través del sudor y refleja el estado de los demás órganos depuradores. La depuración cutánea busca favorecer esa eliminación y mejorar el estado de la piel.",
+    "funcion": "Barrera protectora, regulación de la temperatura y eliminación de sustancias a través del sudor y la secreción sebácea.",
+    "causas": [
+      "SOBRECARGA DE OTROS EMUNTORIOS",
+      "ALIMENTACIÓN RICA EN AZÚCARES Y GRASAS",
+      "ESTRÉS",
+      "FALTA DE HIDRATACIÓN",
+      "COSMÉTICOS Y PRODUCTOS IRRITANTES",
+      "SEDENTARISMO Y POCA SUDORACIÓN"
+    ],
+    "sintomas": [
+      "ERUPCIONES CUTÁNEAS",
+      "ACNÉ",
+      "PIEL APAGADA O GRASA",
+      "PICOR",
+      "SEQUEDAD",
+      "SUDORACIÓN ESCASA"
+    ],
+    "acciones": [
+      "DEPURATIVA CUTÁNEA",
+      "DIAFORÉTICA",
+      "SUDORÍFICA"
+    ],
+    "habitos": "Beber agua, seguir una dieta rica en frutas y verduras y baja en azúcares, hacer ejercicio que favorezca la sudoración, mantener una higiene suave y apoyar antes el hígado y el intestino, cuya sobrecarga suele reflejarse en la piel.",
+    "precauciones": "Las plantas diaforéticas y sudoríficas deben usarse con cuidado en caso de fiebre alta, deshidratación o enfermedad cardíaca. Algunas plantas depurativas pueden ser fotosensibilizantes. Ante lesiones persistentes, dolorosas o que cambian de aspecto, consultar al médico.",
+    "afeccionesRelacionadas": [
+      23,
+      24,
+      60,
+      79,
+      25
+    ]
+  },
+  {
+    "id": 5,
+    "emuntorio": "PULMÓN",
+    "titulo": "DEPURACIÓN PULMONAR",
+    "palabrasClave": [
+      "pulmón",
+      "pulmon",
+      "pulmones",
+      "pulmonar",
+      "depuración pulmonar",
+      "detox pulmonar",
+      "depurar los pulmones"
+    ],
+    "definicion": "En naturopatía, el pulmón es un emuntorio que elimina gases y secreciones del aparato respiratorio. La depuración pulmonar busca favorecer la expulsión de la mucosidad y mejorar la función respiratoria.",
+    "funcion": "Intercambio de gases y eliminación de secreciones y partículas inhaladas mediante la mucosidad y la tos.",
+    "causas": [
+      "TABACO",
+      "CONTAMINACIÓN AMBIENTAL",
+      "RESFRIADOS Y BRONQUITIS DE REPETICIÓN",
+      "AMBIENTES SECOS O CON POLVO",
+      "ALERGIAS",
+      "SEDENTARISMO"
+    ],
+    "sintomas": [
+      "TOS CON FLEMAS",
+      "MUCOSIDAD ABUNDANTE",
+      "DIFICULTAD PARA EXPECTORAR",
+      "RESPIRACIÓN SUPERFICIAL",
+      "OPRESIÓN EN EL PECHO"
+    ],
+    "acciones": [
+      "DEPURATIVA PULMONAR",
+      "EXPECTORANTE",
+      "MUCOLÍTICA"
+    ],
+    "habitos": "Evitar el tabaco y los ambientes contaminados, mantener una buena hidratación para fluidificar las secreciones, practicar respiración profunda y ejercicio aeróbico y ventilar los espacios cerrados.",
+    "precauciones": "Pocas plantas tienen la acción depurativa pulmonar como tal, por lo que se combinan con expectorantes y mucolíticas. No conviene suprimir la tos productiva con antitusivos sin indicación. Si hay dificultad para respirar, fiebre alta, esputo con sangre o tos de más de tres semanas, consultar al médico.",
+    "afeccionesRelacionadas": [
+      53,
+      65,
+      52,
+      50,
+      44
+    ]
+  },
+  {
+    "id": 6,
+    "emuntorio": "GENERAL",
+    "titulo": "DEPURACIÓN GENERAL",
+    "palabrasClave": [
+      "depuración general",
+      "detox",
+      "detox general",
+      "depurar el organismo",
+      "depuración",
+      "emuntorios"
+    ],
+    "definicion": "En naturopatía, la depuración general se plantea como un apoyo global a los distintos emuntorios, sobre todo cuando varios están sobrecargados, y se asocia al drenaje de la sangre y de los líquidos del organismo.",
+    "funcion": "Favorecer de forma conjunta la eliminación de residuos metabólicos a través de los distintos órganos depuradores.",
+    "causas": [
+      "ALIMENTACIÓN DESEQUILIBRADA",
+      "SEDENTARISMO",
+      "ESTRÉS CRÓNICO",
+      "ALCOHOL Y TABACO",
+      "EXPOSICIÓN A CONTAMINANTES",
+      "DESCANSO INSUFICIENTE"
+    ],
+    "sintomas": [
+      "CANSANCIO PERSISTENTE",
+      "PIEL APAGADA",
+      "DIGESTIONES PESADAS",
+      "DOLORES ARTICULARES DIFUSOS",
+      "RETENCIÓN DE LÍQUIDOS",
+      "SENSACIÓN DE PESADEZ"
+    ],
+    "acciones": [
+      "DEPURATIVA GENERAL",
+      "QUELANTE"
+    ],
+    "habitos": "Abrir primero las vías de eliminación (hígado, riñón, intestino y piel) antes de depurar de forma intensa, mantener una dieta rica en vegetales, beber suficiente agua, hacer ejercicio y dormir bien. Evitar los ayunos prolongados y las dietas depurativas drásticas.",
+    "precauciones": "Las curas depurativas no deben hacerse en embarazo, lactancia o infancia, ni con enfermedades graves o medicación crónica sin supervisión médica. Deben tener una duración limitada y no sustituyen al tratamiento médico.",
+    "afeccionesRelacionadas": [
+      55,
+      82,
+      70,
+      18,
+      72
+    ]
+  }
+]

@@ -54,6 +54,13 @@ Permite consultar las afecciones o patologías registradas en la aplicación.
 * **Búsqueda:** Al escribir `?` seguido de un texto (ejemplos: `? gastritis` o `? tos`), se filtran las afecciones cuyo **nombre, definición o síntomas** contienen ese texto. La búsqueda no distingue mayúsculas ni tildes, y las afecciones cuyo nombre empieza por lo escrito aparecen en primer lugar.
 * **Ficha de la afección:** Al seleccionar una afección del listado, se abre su ficha detallada.
 
+### 5. Búsqueda de Depuración de Emuntorios (`DETOX`)
+Permite consultar la depuración de los principales órganos de eliminación del organismo (emuntorios) desde la propia búsqueda general, sin necesidad de atajo.
+
+* **Palabras de activación:** Al escribir `detox`, `depuración` o `emuntorios`, aparecen las fichas de todos los emuntorios. También se activan con el nombre del órgano o de su depuración (por ejemplo, `hígado`, `riñón`, `piel`, `intestino` o `pulmón`), a partir de 4 letras.
+* **Resultados diferenciados:** Las fichas aparecen encima de las plantas, con un color propio y una insignia «DETOX» para distinguirlas.
+* **Ficha del emuntorio:** Reúne la definición, función, causas de sobrecarga, síntomas, plantas (principales y de apoyo), hábitos, precauciones y afecciones relacionadas. Las plantas y las afecciones son enlaces a sus fichas.
+
 ---
 
 ## 📂 Registro y Estructura de Datos
@@ -136,6 +143,8 @@ El repositorio incluye archivos de apoyo para revisar y mantener la coherencia d
 * `principios_activos_referencia.md`: lista de las etiquetas válidas de `principiosActivos`, con el número de plantas que usa cada una.
 * `droga_vegetal_referencia.md`: lista de los valores válidos de `drogaVegetal`.
 * `listado_plantas.md`: listado completo de plantas en texto, pensado para revisión e impresión.
+* `emuntorios_referencia.md`: referencia de las fichas de depuración de emuntorios, con las plantas asociadas.
+* `afecciones_referencia.md`: referencia de las afecciones, con su definición, síntomas y recomendaciones.
 
 Estos archivos se generan a partir de `plantas_medicinales.json`, por lo que conviene regenerarlos cada vez que se modifiquen los datos.
 
@@ -168,5 +177,6 @@ FitoMed es una **Progressive Web App (PWA)**, lo que significa que no necesitas 
 * Valores de droga vegetal: **39**
 * Definiciones: **497**
 * Afecciones **81**
+* Emuntorios: **6**
 
 ---

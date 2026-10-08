@@ -543,3 +543,155 @@ body.dark {
 }
 
 
+/* ==========================================
+   Emuntorios (DETOX)
+========================================== */
+
+/* Insignia que distingue los resultados DETOX de las plantas */
+
+.insignia {
+
+    display: inline-block;
+
+    margin-bottom: .45rem;
+
+    padding: .15rem .6rem;
+
+    border-radius: 999px;
+
+    background: #64506d;
+
+    color: #f2f2f2;
+
+    font-size: .7rem;
+    font-weight: 700;
+    letter-spacing: .08em;
+
+}
+
+/* Tarjeta de resultado */
+
+.resultado.resultado-emuntorio {
+
+    background: #2f2837;
+
+    border-color: #64506d;
+
+}
+
+.resultado.resultado-emuntorio:hover {
+
+    background: #3a3044;
+
+}
+
+.resultado-emuntorio h2 {
+
+    color: #e3d3ec;
+
+}
+
+.resultado-emuntorio .detalle {
+
+    font-size: .92rem;
+
+    color: var(--text-soft);
+
+}
+
+/* Ficha */
+
+.ficha.ficha-emuntorio {
+
+    border-color: #64506d;
+
+}
+
+.ficha-emuntorio h3 {
+
+    color: #c8aedb;
+
+}
+
+.ficha .lista-texto {
+
+    padding-left: 1.2rem;
+
+    margin-top: .3rem;
+
+}
+
+.ficha .lista-texto li {
+
+    line-height: 1.6;
+
+}
+
+.ficha-emuntorio .precauciones {
+
+    padding: .6rem .9rem;
+
+    background: #7b6b1f;
+
+    color: #fff6c2;
+
+    border-radius: 8px;
+
+    line-height: 1.5;
+
+}
+
+.ficha-emuntorio details summary {
+
+    cursor: pointer;
+
+    margin-bottom: .6rem;
+
+    color: #c8aedb;
+
+    font-weight: 600;
+
+}
+
+/* Enlaces a plantas y afecciones */
+
+.enlace {
+
+    padding: .40rem .80rem;
+
+    border: none;
+    border-radius: 999px;
+
+    color: #f2f2f2;
+
+    font-size: .88rem;
+
+    cursor: pointer;
+
+    transition: .18s ease;
+
+}
+
+.enlace:hover {
+
+    filter: brightness(1.15);
+
+}
+
+.enlace:active {
+
+    transform: scale(.97);
+
+}
+
+.enlace-planta {
+
+    background: #4b6b52;
+
+}
+
+.enlace-afeccion {
+
+    background: #6d4a4a;
+
+}
