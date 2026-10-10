@@ -4,13 +4,13 @@
     "nombreComun": "ABEDUL",
     "nombreBotanico": "Betula alba",
     "acciones": [
-      "ANTIGOTOSA",
+      "DIURÉTICA",
       "HIPOURICEMIANTE",
+      "ANTIGOTOSA",
       "DEPURATIVA RENAL",
       "AZOTÚRICA",
       "ANTILITIÁSICA",
-      "ANTILITIÁSICA RENAL",
-      "DIURÉTICA"
+      "ANTILITIÁSICA RENAL"
     ],
     "principiosActivos": [
       "Flavonoides",
@@ -26,7 +26,7 @@
       "Decocción"
     ],
     "observacion": "",
-    "notas": "Árbol caducifolio del hemisferio norte, cuya hoja es un diurético clásico europeo para depurar el organismo y aliviar molestias relacionadas con el ácido úrico."
+    "notas": "Árbol caducifolio del hemisferio norte, cuya hoja es un diurético clásico europeo para depurar el organismo y aliviar molestias relacionadas con el ácido úrico. La savia es un axcelente remedio contra las inflamaciones renales y de la vejiga. También sirve para purificar la sangre y tradicionalmente se solía utilizar como remedio para la costra láctea de los bebés. El sangrado de la savia se hace a finales de invierno."
   },
   {
     "id": 2,
@@ -63,11 +63,11 @@
     "nombreBotanico": "Cichorium intybus",
     "acciones": [
       "APERITIVA",
+      "TÓNICO DIGESTIVO",
       "COLAGOGA",
       "COLERÉTICA",
       "EUPÉPTICA",
       "LAXANTE SUAVE",
-      "TÓNICO DIGESTIVO",
       "DEPURATIVA HEPÁTICA"
     ],
     "principiosActivos": [
@@ -77,13 +77,15 @@
       "Lactonas sesquiterpénicas"
     ],
     "drogaVegetal": [
-      "Raíz"
+      "Raíz",
+      "Flor",
+      "Hoja"
     ],
     "uso": [
       "Decocción"
     ],
     "observacion": "",
-    "notas": "Planta de flores azules muy común en Europa, cuya raíz tostada se usa como sucedáneo del café y como tónico digestivo y hepático suave."
+    "notas": "Planta de flores azules muy común en Europa, cuya raíz tostada se usa como sucedáneo del café y como tónico digestivo y hepático suave. Las hojas o las flores frescas o secas, se tradicionalmente se suelen utilizar en tisanas para favorecer la digestión después de las comidas."
   },
   {
     "id": 4,
@@ -2024,18 +2026,17 @@
   {
     "id": 71,
     "nombreComun": "HIERBALUISA, MARÍA LUISA",
-    "nombreBotanico": "Lippia triphylla, Lippia citrodora, Aloysia triphylla",
+    "nombreBotanico": "Lippia triphylla, Lippia citrodora, Aloysia citrodora",
     "acciones": [
-      "ANTIALÉRGICA",
       "DIGESTIVA",
       "CARMINATIVA",
-      "ESPASMOLÍTICA"
+      "ESPASMOLÍTICA",
+      "TRANQUILIZANTE" 
     ],
     "principiosActivos": [
       "Aceite esencial",
       "Flavonoides",
       "Iridoides",
-      "Furanocumarinas",
       "Citral",
       "Verbascósido"
     ],
@@ -3982,7 +3983,10 @@
     "nombreBotanico": "Vitex agnus-castus",
     "acciones": [
       "ESTROGÉNICA",
-      "SEDANTE"
+      "SEDANTE",
+      "ESPASMOLÍTICA",
+      "DIURÉTICA",
+      "CARMINATIVA"
     ],
     "principiosActivos": [
       "Flavonoides",
@@ -3993,7 +3997,8 @@
       "Aucubina"
     ],
     "drogaVegetal": [
-      "Fruto"
+      "Fruto",
+      "Hoja"
     ],
     "uso": [
       "Infusión",
@@ -4002,7 +4007,7 @@
       "Cápsula"
     ],
     "observacion": "",
-    "notas": "Arbusto mediterráneo cuyo fruto se usa tradicionalmente para regular el ciclo menstrual y aliviar molestias premenstruales, por su efecto sobre la prolactina."
+    "notas": "Arbusto mediterráneo cuyo fruto se usa tradicionalmente para regular el ciclo menstrual y aliviar molestias premenstruales, por su efecto sobre la prolactina. La infusión de las hojas tienen acción diurética, espasmolítica y carminativa."
   },
   {
     "id": 139,
