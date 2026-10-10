@@ -26,7 +26,7 @@
       "Decocción"
     ],
     "observacion": "",
-    "notas": "Árbol caducifolio del hemisferio norte, cuya hoja es un diurético clásico europeo para depurar el organismo y aliviar molestias relacionadas con el ácido úrico. La savia es un axcelente remedio contra las inflamaciones renales y de la vejiga. También sirve para purificar la sangre y tradicionalmente se solía utilizar como remedio para la costra láctea de los bebés. El sangrado de la savia se hace a finales de invierno."
+    "notas": "Árbol caducifolio del hemisferio norte, cuya hoja es un diurético clásico europeo para depurar el organismo y aliviar molestias relacionadas con el ácido úrico. La savia es un excelente remedio contra las inflamaciones renales y de la vejiga. También sirve para purificar la sangre y tradicionalmente se solía utilizar como remedio para la costra láctea de los bebés. El sangrado de la savia se hace a finales de invierno."
   },
   {
     "id": 2,
@@ -62,8 +62,8 @@
     "nombreComun": "ACHICORIA",
     "nombreBotanico": "Cichorium intybus",
     "acciones": [
-      "APERITIVA",
       "TÓNICO DIGESTIVO",
+      "APERITIVA",
       "COLAGOGA",
       "COLERÉTICA",
       "EUPÉPTICA",
@@ -85,20 +85,20 @@
       "Decocción"
     ],
     "observacion": "",
-    "notas": "Planta de flores azules muy común en Europa, cuya raíz tostada se usa como sucedáneo del café y como tónico digestivo y hepático suave. Las hojas o las flores frescas o secas, se tradicionalmente se suelen utilizar en tisanas para favorecer la digestión después de las comidas."
+    "notas": "Planta de flores azules muy común en Europa, cuya raíz tostada se usa como sucedáneo del café y como tónico digestivo y hepático suave. Las hojas o las flores, frescas o secas, se suelen utilizar tradicionalmente en tisanas para favorecer la digestión después de las comidas."
   },
   {
     "id": 4,
     "nombreComun": "AGRIMONIA",
     "nombreBotanico": "Agrimonia eupatoria",
     "acciones": [
-      "ANTIBACTERIANA",
+      "ASTRINGENTE",
       "ANTIDIARREICA",
+      "ANTIBACTERIANA",
       "ANTIVÍRICA",
       "CICATRIZANTE",
       "HEMOSTÁTICA",
-      "ANTIHEMORRÁGICA",
-      "ASTRINGENTE"
+      "ANTIHEMORRÁGICA"
     ],
     "principiosActivos": [
       "Taninos",
@@ -120,12 +120,13 @@
     "nombreComun": "AJEDREA",
     "nombreBotanico": "Satureja montana",
     "acciones": [
+      "ANTISÉPTICA",
+      "CARMINATIVA",
+      "DIGESTIVA",
       "ANTIMICROBIANA",
       "ANTIHELMÍNTICA-VERMÍFUGA",
       "APERITIVA",
-      "DIGESTIVA",
-      "EUPÉPTICA",
-      "CARMINATIVA"
+      "EUPÉPTICA"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -191,10 +192,10 @@
     "nombreComun": "ALBAHACA",
     "nombreBotanico": "Ocimum basilicum",
     "acciones": [
+      "DIGESTIVA",
       "ANTISÉPTICA",
       "CARMINATIVA",
-      "ESPASMOLÍTICA",
-      "DIGESTIVA"
+      "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -272,10 +273,10 @@
     "nombreComun": "ALFALFA, MIELGA",
     "nombreBotanico": "Medicago sativa",
     "acciones": [
+      "REMINERALIZANTE",
       "ALCALINIZANTE",
       "ESTROGÉNICA",
       "NUTRITIVA",
-      "REMINERALIZANTE",
       "HIPOCOLESTEROLEMIANTE"
     ],
     "principiosActivos": [
@@ -329,11 +330,11 @@
     "nombreComun": "ALHOLVA, FENOGRECO",
     "nombreBotanico": "Trigonella foenum-graecum",
     "acciones": [
+      "TÓNICO DIGESTIVO",
+      "HIPOGLUCEMIANTE",
       "APERITIVA",
       "DEMULCENTE",
-      "GASTROPROTECTORA",
-      "TÓNICO DIGESTIVO",
-      "HIPOGLUCEMIANTE"
+      "GASTROPROTECTORA"
     ],
     "principiosActivos": [
       "Flavonoides",
@@ -388,10 +389,10 @@
     "nombreComun": "AMAPOLA",
     "nombreBotanico": "Papaver rhoeas",
     "acciones": [
-      "ESPASMOLÍTICA",
       "ANTITUSIVA-BÉQUICA",
-      "DEMULCENTE",
-      "SEDANTE SUAVE"
+      "SEDANTE SUAVE",
+      "ESPASMOLÍTICA",
+      "DEMULCENTE"
     ],
     "principiosActivos": [
       "Antocianinas",
@@ -412,13 +413,13 @@
     "nombreComun": "ANGÉLICA",
     "nombreBotanico": "Angelica archangelica",
     "acciones": [
+      "TÓNICO DIGESTIVO",
       "ANTIBACTERIANA",
       "ESPASMOLÍTICA",
       "APERITIVA",
       "CARMINATIVA",
       "COLAGOGA",
-      "EMENAGOGA",
-      "TÓNICO DIGESTIVO"
+      "EMENAGOGA"
     ],
     "principiosActivos": [
       "Furanocumarinas",
@@ -439,9 +440,9 @@
     "nombreComun": "ANÍS VERDE",
     "nombreBotanico": "Pimpinella anisum",
     "acciones": [
-      "ESPASMOLÍTICA",
-      "CARMINATIVA",
       "DIGESTIVA",
+      "CARMINATIVA",
+      "ESPASMOLÍTICA",
       "EUPÉPTICA",
       "EXPECTORANTE"
     ],
@@ -464,13 +465,13 @@
     "nombreComun": "ARÁNDANO AZUL",
     "nombreBotanico": "Vaccinium myrtillus",
     "acciones": [
+      "VASOPROTECTORA",
       "ANTIAGREGANTE PLAQUETARIA",
       "FLUIDIFICANTE",
       "HIPOVISCOSIZANTE",
       "ANTIOXIDANTE",
       "ASTRINGENTE",
       "ANTIINFECCIOSA",
-      "VASOPROTECTORA",
       "VENOTÓNICA"
     ],
     "principiosActivos": [
@@ -520,10 +521,10 @@
     "nombreComun": "ARTEMISA",
     "nombreBotanico": "Artemisia vulgaris",
     "acciones": [
-      "ABORTIVA",
-      "ALERGÉNICA",
+      "EMENAGOGA",
       "ANTIHELMÍNTICA-VERMÍFUGA",
-      "EMENAGOGA"
+      "ABORTIVA",
+      "ALERGÉNICA"
     ],
     "principiosActivos": [
       "Cumarina simple",
@@ -545,8 +546,8 @@
     "nombreComun": "ARTEMISIA",
     "nombreBotanico": "Artemisia annua",
     "acciones": [
-      "ANTIINFECCIOSA",
       "ANTIMALÁRICA",
+      "ANTIINFECCIOSA",
       "DIAFORÉTICA",
       "FEBRÍFUGA"
     ],
@@ -572,10 +573,10 @@
     "nombreBotanico": "Astragalus membranaceus",
     "acciones": [
       "ADAPTÓGENA",
+      "INMUNOESTIMULANTE",
       "ANTIOXIDANTE",
       "ANTIVÍRICA",
       "HEPATOPROTECTORA",
-      "INMUNOESTIMULANTE",
       "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
@@ -600,10 +601,10 @@
     "nombreComun": "BARDANA",
     "nombreBotanico": "Arctium lappa",
     "acciones": [
+      "DEPURATIVA CUTÁNEA",
       "ANTIINFECCIOSA",
       "ANTIINFLAMATORIA",
       "DEPURATIVA INTESTINAL",
-      "DEPURATIVA CUTÁNEA",
       "DEPURATIVA RENAL",
       "EUPÉPTICA",
       "LAXANTE SUAVE"
@@ -629,11 +630,11 @@
     "nombreComun": "BIBHITAKI, BAHEDA",
     "nombreBotanico": "Terminalia bellirica",
     "acciones": [
+      "ANTIOXIDANTE",
+      "HIPOURICEMIANTE",
       "ANTICANCERÍGENA",
       "ANTIGOTOSA",
-      "HIPOURICEMIANTE",
       "ANTIINFLAMATORIA",
-      "ANTIOXIDANTE",
       "ASTRINGENTE"
     ],
     "principiosActivos": [
@@ -688,9 +689,9 @@
     "nombreComun": "BOSWELIA",
     "nombreBotanico": "Boswellia serrata",
     "acciones": [
+      "ANTIINFLAMATORIA",
       "ANALGÉSICA",
       "ANTIASMÁTICA",
-      "ANTIINFLAMATORIA",
       "BRONCODILATADORA",
       "DIAFORÉTICA",
       "DIURÉTICA",
@@ -741,7 +742,7 @@
   },
   {
     "id": 27,
-    "nombreComun": "CALENDULA",
+    "nombreComun": "CALÉNDULA",
     "nombreBotanico": "Calendula officinalis",
     "acciones": [
       "ANTIINFLAMATORIA",
@@ -772,11 +773,11 @@
     "nombreComun": "CANELA",
     "nombreBotanico": "Cinnamomum verum",
     "acciones": [
+      "HIPOGLUCEMIANTE",
       "ANTIMICROBIANA",
       "APERITIVA",
       "CARMINATIVA",
-      "EUPÉPTICA",
-      "HIPOGLUCEMIANTE"
+      "EUPÉPTICA"
     ],
     "principiosActivos": [
       "Cumarina simple",
@@ -798,6 +799,7 @@
     "nombreComun": "CAPUCHINA",
     "nombreBotanico": "Tropaeolum majus",
     "acciones": [
+      "ANTIMICROBIANA",
       "ANTIFÚNGICA",
       "BACTERIOSTÁTICA",
       "ANTIVÍRICA"
@@ -856,6 +858,7 @@
     "nombreComun": "CARDO MARIANO",
     "nombreBotanico": "Silybum marianum",
     "acciones": [
+      "HEPATOPROTECTORA",
       "ANTICANCERÍGENA",
       "ANTIOXIDANTE",
       "ANTITUMORAL",
@@ -863,7 +866,6 @@
       "COLERÉTICA",
       "DEPURATIVA HEPÁTICA",
       "DIGESTIVA",
-      "HEPATOPROTECTORA",
       "HIPOCOLESTEROLEMIANTE",
       "CLORÚRICA",
       "DIURÉTICA"
@@ -895,8 +897,8 @@
     "nombreComun": "CASTAÑO DE INDIAS",
     "nombreBotanico": "Aesculus hippocastanum",
     "acciones": [
-      "ANTIEDEMATOSA",
       "ANTIHEMORROIDAL",
+      "ANTIEDEMATOSA",
       "HEMOSTÁTICA",
       "ANTIHEMORRÁGICA",
       "VASORREGENERADORA",
@@ -925,10 +927,10 @@
     "nombreComun": "CEBOLLA",
     "nombreBotanico": "Allium cepa",
     "acciones": [
+      "ANTIINFLAMATORIA",
       "ANTIHISTAMÍNICA",
       "ANTIHELMÍNTICA-VERMÍFUGA",
       "ANTIALÉRGICA",
-      "ANTIINFLAMATORIA",
       "BRONCODILATADORA",
       "EXPECTORANTE",
       "MUCOLÍTICA",
@@ -980,8 +982,8 @@
     "nombreComun": "CHAMPIÑON DEL SOL",
     "nombreBotanico": "Agaricus subrufescens, A. blazei",
     "acciones": [
-      "ANTICANCERÍGENA",
       "INMUNOMODULADORA",
+      "ANTICANCERÍGENA",
       "ANTIINFECCIOSA",
       "HEPATOPROTECTORA"
     ],
@@ -1036,11 +1038,11 @@
     "nombreComun": "CILANTRO",
     "nombreBotanico": "Coriandrum sativum",
     "acciones": [
+      "DIGESTIVA",
       "CARMINATIVA",
       "DEPURATIVA GENERAL",
       "HIPOGLUCEMIANTE",
-      "QUELANTE",
-      "DIGESTIVA"
+      "QUELANTE"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -1063,9 +1065,9 @@
     "nombreComun": "CIPRÉS",
     "nombreBotanico": "Cupressus sempervirens",
     "acciones": [
-      "ANTIHEMORROIDAL",
+      "VENOTÓNICA",
       "ASTRINGENTE",
-      "VENOTÓNICA"
+      "ANTIHEMORROIDAL"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -1123,13 +1125,13 @@
     "nombreComun": "COLA DE CABALLO",
     "nombreBotanico": "Equisetum arvense",
     "acciones": [
+      "DIURÉTICA",
       "ANTIEDEMATOSA",
       "ANTIGOTOSA",
       "HIPOURICEMIANTE",
       "ANTILITIÁSICA",
       "DEPURATIVA RENAL",
       "NATRIURÉTICA-SALURÉTICA",
-      "DIURÉTICA",
       "NUTRITIVA",
       "HEMOSTÁTICA",
       "ANTIHEMORRÁGICA",
@@ -1156,9 +1158,9 @@
     "nombreComun": "COMINO",
     "nombreBotanico": "Cuminum cyminum",
     "acciones": [
+      "CARMINATIVA",
       "ANTIHELMÍNTICA-VERMÍFUGA",
       "ANTIMICROBIANA",
-      "CARMINATIVA",
       "ESPASMOLÍTICA",
       "EUPÉPTICA"
     ],
@@ -1181,8 +1183,8 @@
     "nombreComun": "COPALCHI",
     "nombreBotanico": "Hintonia latiflora",
     "acciones": [
-      "HIPOCOLESTEROLEMIANTE",
       "HIPOGLUCEMIANTE",
+      "HIPOCOLESTEROLEMIANTE",
       "TÓNICO DIGESTIVO"
     ],
     "principiosActivos": [
@@ -1311,6 +1313,8 @@
     "nombreComun": "DIENTE DE LEÓN",
     "nombreBotanico": "Taraxacum officinale",
     "acciones": [
+      "DEPURATIVA HEPÁTICA",
+      "DEPURATIVA RENAL",
       "ADELGAZANTE",
       "ANTIGOTOSA",
       "HIPOURICEMIANTE",
@@ -1318,9 +1322,7 @@
       "APERITIVA",
       "COLAGOGA",
       "COLERÉTICA",
-      "DEPURATIVA HEPÁTICA",
       "DEPURATIVA INTESTINAL",
-      "DEPURATIVA RENAL",
       "DIURÉTICA",
       "CLORÚRICA",
       "EUPÉPTICA",
@@ -1350,9 +1352,9 @@
     "nombreComun": "DROSERA",
     "nombreBotanico": "Drosera rotundifolia",
     "acciones": [
+      "ANTITUSIVA-BÉQUICA",
       "ANTIBACTERIANA",
       "ESPASMOLÍTICA",
-      "ANTITUSIVA-BÉQUICA",
       "EXPECTORANTE"
     ],
     "principiosActivos": [
@@ -1376,10 +1378,10 @@
     "nombreComun": "ELECAMPANA, HELENIO",
     "nombreBotanico": "Inula helenium",
     "acciones": [
+      "EXPECTORANTE",
+      "ANTITUSIVA-BÉQUICA",
       "ESPASMOLÍTICA",
       "ANTIINFECCIOSA",
-      "ANTITUSIVA-BÉQUICA",
-      "EXPECTORANTE",
       "FLUIDIFICANTE"
     ],
     "principiosActivos": [
@@ -1437,9 +1439,9 @@
     "nombreComun": "ENELDO",
     "nombreBotanico": "Anethum graveolens",
     "acciones": [
+      "ESPASMOLÍTICA",
       "ANTIFÚNGICA",
       "CARMINATIVA",
-      "ESPASMOLÍTICA",
       "BACTERIOSTÁTICA",
       "PROTECTORA DE LA MUCOSA"
     ],
@@ -1463,9 +1465,9 @@
     "nombreComun": "EQUINACEA",
     "nombreBotanico": "Echinacea purpurea",
     "acciones": [
+      "INMUNOMODULADORA",
       "ANTIINFLAMATORIA",
-      "ANTIVÍRICA",
-      "INMUNOMODULADORA"
+      "ANTIVÍRICA"
     ],
     "principiosActivos": [
       "Polisacáridos",
@@ -1492,8 +1494,8 @@
     "nombreComun": "ERÍSIMO",
     "nombreBotanico": "Sisymbrium officinale",
     "acciones": [
-      "ANTIINFLAMATORIA",
       "EXPECTORANTE",
+      "ANTIINFLAMATORIA",
       "ANTIBACTERIANA",
       "ANTIFÚNGICA",
       "ESPASMOLÍTICA"
@@ -1551,6 +1553,7 @@
     "nombreComun": "ESQUISANDRA",
     "nombreBotanico": "Schisandra chinensis",
     "acciones": [
+      "ADAPTÓGENA",
       "ANTICANCERÍGENA",
       "ANTIINFLAMATORIA",
       "ANTIOXIDANTE",
@@ -1661,9 +1664,9 @@
     "nombreComun": "FRESNO",
     "nombreBotanico": "Fraxinus excelsior",
     "acciones": [
+      "DIURÉTICA",
       "DEPURATIVA RENAL",
-      "ANTIINFLAMATORIA",
-      "DIURÉTICA"
+      "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
       "Flavonoides",
@@ -1712,10 +1715,10 @@
     "nombreComun": "GENCIANA",
     "nombreBotanico": "Gentiana lutea",
     "acciones": [
+      "TÓNICO DIGESTIVO",
       "ANTIBACTERIANA",
       "APERITIVA",
       "ESPASMOLÍTICA",
-      "TÓNICO DIGESTIVO",
       "COLAGOGA"
     ],
     "principiosActivos": [
@@ -1743,9 +1746,9 @@
     "nombreComun": "GIMNEMA",
     "nombreBotanico": "Gymnema sylvestre",
     "acciones": [
+      "HIPOGLUCEMIANTE",
       "HEPATOPROTECTORA",
-      "HIPOCOLESTEROLEMIANTE",
-      "HIPOGLUCEMIANTE"
+      "HIPOCOLESTEROLEMIANTE"
     ],
     "principiosActivos": [
       "Saponinas",
@@ -1766,12 +1769,12 @@
     "nombreComun": "GINKGO, ÁRBOL DE LOS 40 ESCUDOS",
     "nombreBotanico": "Ginkgo biloba",
     "acciones": [
+      "NOOTRÓPICA",
       "ANTIAGREGANTE PLAQUETARIA",
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
       "ANTIOXIDANTE",
       "CARDIOTÓNICA",
-      "NOOTRÓPICA",
       "VASODILATADORA",
       "VASOPROTECTORA"
     ],
@@ -1798,6 +1801,7 @@
     "nombreComun": "GINSENG COREANO",
     "nombreBotanico": "Panax ginseng",
     "acciones": [
+      "ADAPTÓGENA",
       "ANTIOXIDANTE",
       "ANTIVÍRICA",
       "HIPOLIPEMIANTE",
@@ -1825,11 +1829,11 @@
     "nombreComun": "GORDOLOBO",
     "nombreBotanico": "Verbascum thapsus, V. densiflorum, V. phlomoides",
     "acciones": [
+      "EXPECTORANTE",
+      "ANTITUSIVA-BÉQUICA",
       "ANTIINFLAMATORIA",
       "ANTIVÍRICA",
-      "ANTITUSIVA-BÉQUICA",
-      "DEMULCENTE",
-      "EXPECTORANTE"
+      "DEMULCENTE"
     ],
     "principiosActivos": [
       "Carotenoides",
@@ -1881,9 +1885,9 @@
     "nombreComun": "GROSELLERO NEGRO",
     "nombreBotanico": "Ribes nigrum",
     "acciones": [
-      "ANALGÉSICA",
       "ANTIINFLAMATORIA",
       "ANTIALÉRGICA",
+      "ANALGÉSICA",
       "ANTIHISTAMÍNICA"
     ],
     "principiosActivos": [
@@ -1910,9 +1914,9 @@
     "nombreComun": "GUGUL",
     "nombreBotanico": "Commiphora mukul",
     "acciones": [
+      "HIPOCOLESTEROLEMIANTE",
       "ANTIAGREGANTE PLAQUETARIA",
       "ANTIMALÁRICA",
-      "HIPOCOLESTEROLEMIANTE",
       "HIPOLIPEMIANTE",
       "ANTIINFLAMATORIA"
     ],
@@ -1936,12 +1940,12 @@
     "nombreComun": "HAMAMELIS",
     "nombreBotanico": "Hamamelis virginiana",
     "acciones": [
-      "ANTIINFLAMATORIA",
       "ASTRINGENTE",
+      "VENOTÓNICA",
+      "ANTIINFLAMATORIA",
       "ANTIINFECCIOSA",
       "VASOPROTECTORA",
       "HEMOSTÁTICA",
-      "VENOTÓNICA",
       "ANTIOXIDANTE"
     ],
     "principiosActivos": [
@@ -1967,15 +1971,15 @@
     "nombreComun": "HELICRISO, SOL DE ORO, PERPETUA, SIEMPRE VIVA",
     "nombreBotanico": "Helichrysum arenarium, H. italicum, H. stoechas",
     "acciones": [
-      "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
+      "EXPECTORANTE",
+      "ANTIHISTAMÍNICA",
       "ANTIINFLAMATORIA",
       "ANTITUSIVA-BÉQUICA",
       "COLAGOGA",
       "COLERÉTICA",
       "DIURÉTICA",
-      "ESPASMOLÍTICA",
-      "EXPECTORANTE"
+      "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -2031,7 +2035,7 @@
       "DIGESTIVA",
       "CARMINATIVA",
       "ESPASMOLÍTICA",
-      "TRANQUILIZANTE" 
+      "TRANQUILIZANTE"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -2055,10 +2059,10 @@
     "nombreComun": "HINOJO",
     "nombreBotanico": "Foeniculum vulgare",
     "acciones": [
+      "CARMINATIVA",
       "ESPASMOLÍTICA",
       "ANTIINFECCIOSA",
       "DIGESTIVA",
-      "CARMINATIVA",
       "ANTISÉPTICA",
       "ANTIINFLAMATORIA",
       "EUPÉPTICA"
@@ -2087,9 +2091,9 @@
     "nombreComun": "JARA",
     "nombreBotanico": "Cistus incanus",
     "acciones": [
+      "ANTIOXIDANTE",
       "ANTIINFLAMATORIA",
       "ANTIMICROBIANA",
-      "ANTIOXIDANTE",
       "ANTIVÍRICA"
     ],
     "principiosActivos": [
@@ -2115,12 +2119,12 @@
     "nombreComun": "JENGIBRE",
     "nombreBotanico": "Zingiber officinale",
     "acciones": [
+      "DIGESTIVA",
+      "ANTIINFLAMATORIA",
       "ADELGAZANTE",
       "ANALGÉSICA",
       "ANTIAGREGANTE PLAQUETARIA",
-      "ANTIINFLAMATORIA",
       "CARMINATIVA",
-      "DIGESTIVA",
       "PANCREÁTICA EXÓGENA",
       "SIALAGOGA",
       "COLAGOGA",
@@ -2145,12 +2149,12 @@
   },
   {
     "id": 75,
-    "nombreComun": "JUDIA VERDE",
+    "nombreComun": "JUDÍA VERDE",
     "nombreBotanico": "Phaseolus vulgaris",
     "acciones": [
       "DIURÉTICA",
-      "NUTRITIVA",
-      "HIPOGLUCEMIANTE"
+      "HIPOGLUCEMIANTE",
+      "NUTRITIVA"
     ],
     "principiosActivos": [
       "Flavonoides",
@@ -2226,10 +2230,10 @@
     "nombreComun": "LÍQUEN DE ISLANDIA",
     "nombreBotanico": "Cetraria islandica",
     "acciones": [
+      "EXPECTORANTE",
       "ANTIINFECCIOSA",
       "ANTITUSIVA-BÉQUICA",
       "DEMULCENTE",
-      "EXPECTORANTE",
       "INMUNOMODULADORA"
     ],
     "principiosActivos": [
@@ -2290,17 +2294,17 @@
     "nombreComun": "LLANTÉN MENOR",
     "nombreBotanico": "Plantago lanceolata",
     "acciones": [
+      "ANTIINFLAMATORIA",
+      "EXPECTORANTE",
       "ANTIALÉRGICA",
       "DIGESTIVA",
       "ANTIINFECCIOSA",
-      "ANTIINFLAMATORIA",
       "PROTECTORA DE LA MUCOSA",
       "ANTITUSIVA-BÉQUICA",
       "CICATRIZANTE",
       "DEMULCENTE",
       "ANTIPRURIGINOSA",
       "DEPURATIVA PULMONAR",
-      "EXPECTORANTE",
       "FLUIDIFICANTE",
       "MUCOLÍTICA",
       "VULNERARIA"
@@ -2380,8 +2384,8 @@
     "nombreComun": "MALVAVISCO, ALTEA",
     "nombreBotanico": "Althaea officinalis",
     "acciones": [
-      "ANTIINFLAMATORIA",
       "ANTITUSIVA-BÉQUICA",
+      "ANTIINFLAMATORIA",
       "DEMULCENTE",
       "EXPECTORANTE",
       "ANTIPRURIGINOSA",
@@ -2408,13 +2412,13 @@
   },
   {
     "id": 84,
-    "nombreComun": "MANZANILLA DE MAHÓN ABRÓTANO HEMBRA",
+    "nombreComun": "MANZANILLA DE MAHÓN, ABRÓTANO HEMBRA",
     "nombreBotanico": "Santolina chamaecyparissus",
     "acciones": [
+      "DIGESTIVA",
       "ANTIHELMÍNTICA-VERMÍFUGA",
       "ANTIINFLAMATORIA",
-      "CARMINATIVA",
-      "DIGESTIVA"
+      "CARMINATIVA"
     ],
     "principiosActivos": [
       "Ácidos fenólicos",
@@ -2473,9 +2477,9 @@
     "nombreComun": "MANZANILLA ROMANA",
     "nombreBotanico": "Chamaemelum nobile",
     "acciones": [
+      "DIGESTIVA",
       "ANTIINFLAMATORIA",
       "CARMINATIVA",
-      "DIGESTIVA",
       "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
@@ -2499,15 +2503,15 @@
     "nombreComun": "MARRUBIO",
     "nombreBotanico": "Marrubium vulgare",
     "acciones": [
+      "EXPECTORANTE",
+      "TÓNICO DIGESTIVO",
       "ANTIASMÁTICA",
       "ANTIINFECCIOSA",
       "BRONCODILATADORA",
-      "TÓNICO DIGESTIVO",
       "COLERÉTICA",
       "DEPURATIVA HEPÁTICA",
       "DEPURATIVA INTESTINAL",
       "DEPURATIVA PULMONAR",
-      "EXPECTORANTE",
       "HIPOGLUCEMIANTE",
       "HIPOTENSORA",
       "PANCREÁTICA EXÓGENA"
@@ -2533,10 +2537,10 @@
     "nombreComun": "MELILOTO",
     "nombreBotanico": "Melilotus officinalis",
     "acciones": [
+      "VENOTÓNICA",
       "ESPASMOLÍTICA",
       "ANTIHEMORROIDAL",
       "EXPECTORANTE",
-      "VENOTÓNICA",
       "VASOPROTECTORA"
     ],
     "principiosActivos": [
@@ -2590,11 +2594,11 @@
     "nombreComun": "MENTA",
     "nombreBotanico": "Mentha piperita",
     "acciones": [
+      "DIGESTIVA",
       "ANTIEMÉTICA",
       "ANTIOXIDANTE",
       "CARMINATIVA",
       "COLERÉTICA",
-      "DIGESTIVA",
       "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
@@ -2619,10 +2623,11 @@
     "nombreComun": "MILENRAMA",
     "nombreBotanico": "Achillea millefolium",
     "acciones": [
+      "CICATRIZANTE",
+      "DIGESTIVA",
       "ANTIBACTERIANA",
       "ESPASMOLÍTICA",
       "ANTIINFECCIOSA",
-      "DIGESTIVA",
       "APERITIVA",
       "HEMOSTÁTICA",
       "ANTIHEMORRÁGICA",
@@ -2735,11 +2740,11 @@
     "nombreBotanico": "Olea europaea",
     "acciones": [
       "HIPOCOLESTEROLEMIANTE",
+      "HIPOTENSORA",
       "HIPOGLUCEMIANTE",
       "EMOLIENTE",
       "VASODILATADORA",
       "VASODILATADORA CORONARIA",
-      "HIPOTENSORA",
       "ANALGÉSICA",
       "DIURÉTICA",
       "ANTIOXIDANTE"
@@ -2762,14 +2767,14 @@
   },
   {
     "id": 96,
-    "nombreComun": "OREGANO",
+    "nombreComun": "ORÉGANO",
     "nombreBotanico": "Origanum vulgare",
     "acciones": [
+      "DIGESTIVA",
+      "ANTIMICROBIANA",
       "ANTIBACTERIANA",
       "ANTIFÚNGICA",
       "ANTIINFECCIOSA",
-      "DIGESTIVA",
-      "ANTIMICROBIANA",
       "CARMINATIVA"
     ],
     "principiosActivos": [
@@ -2798,10 +2803,10 @@
     "nombreComun": "ORTIGA VERDE",
     "nombreBotanico": "Urtica dioica",
     "acciones": [
-      "ANTIGOTOSA",
       "HIPOURICEMIANTE",
-      "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
+      "ANTIGOTOSA",
+      "ANTIHISTAMÍNICA",
       "ANTILITIÁSICA",
       "DEPURATIVA HEPÁTICA",
       "DEPURATIVA RENAL",
@@ -2845,11 +2850,11 @@
     "nombreComun": "ORTOSIFÓN",
     "nombreBotanico": "Orthosiphon stamineus",
     "acciones": [
+      "DIURÉTICA",
       "DEPURATIVA HEPÁTICA",
       "DEPURATIVA RENAL",
       "AZOTÚRICA",
-      "URICOSÚRICA",
-      "DIURÉTICA"
+      "URICOSÚRICA"
     ],
     "principiosActivos": [
       "Flavonoides",
@@ -2872,9 +2877,9 @@
     "nombreComun": "PAPAYA VERDE",
     "nombreBotanico": "Carica papaya",
     "acciones": [
-      "ANTIINFECCIOSA",
       "DIGESTIVA",
       "ANTIINFLAMATORIA",
+      "ANTIINFECCIOSA",
       "PROTECTORA DE LA MUCOSA"
     ],
     "principiosActivos": [
@@ -2978,9 +2983,9 @@
     "nombreComun": "PEREJIL",
     "nombreBotanico": "Petroselinum sativum",
     "acciones": [
+      "DIURÉTICA",
       "DEPURATIVA RENAL",
       "DEPURATIVA GENERAL",
-      "DIURÉTICA",
       "ABORTIVA",
       "REMINERALIZANTE"
     ],
@@ -3010,9 +3015,9 @@
     "nombreComun": "PIÑA",
     "nombreBotanico": "Ananas comosus",
     "acciones": [
-      "ANTIINFECCIOSA",
       "DIGESTIVA",
       "ANTIINFLAMATORIA",
+      "ANTIINFECCIOSA",
       "PROTECTORA DE LA MUCOSA"
     ],
     "principiosActivos": [
@@ -3061,10 +3066,10 @@
     "nombreComun": "PINO MARÍTIMO",
     "nombreBotanico": "Pinus pinaster",
     "acciones": [
+      "ANTIOXIDANTE",
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
       "ANTIINFLAMATORIA",
-      "ANTIOXIDANTE",
       "VASOPROTECTORA"
     ],
     "principiosActivos": [
@@ -3111,11 +3116,11 @@
     "nombreComun": "REGALIZ",
     "nombreBotanico": "Glycyrrhiza glabra",
     "acciones": [
+      "DIGESTIVA",
       "ABORTIVA",
       "ANTIÁCIDA",
       "ANTIULCEROSA",
       "DEMULCENTE",
-      "DIGESTIVA",
       "FLUIDIFICANTE",
       "GASTROPROTECTORA",
       "ANTI-HELICOBACTER PYLORI",
@@ -3147,6 +3152,8 @@
     "nombreComun": "REISHI",
     "nombreBotanico": "Ganoderma lucidum",
     "acciones": [
+      "ADAPTÓGENA",
+      "INMUNOESTIMULANTE",
       "ANTICANCERÍGENA",
       "HIPOTENSORA",
       "ANTIHISTAMÍNICA",
@@ -3154,7 +3161,6 @@
       "ANTIOXIDANTE",
       "ANTIVÍRICA",
       "HIPOLIPEMIANTE",
-      "INMUNOESTIMULANTE",
       "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
@@ -3179,6 +3185,7 @@
     "nombreComun": "ROMERO",
     "nombreBotanico": "Rosmarinus officinalis, Salvia rosmarinus",
     "acciones": [
+      "NOOTRÓPICA",
       "ANALGÉSICA",
       "ANTIASMÁTICA",
       "ESPASMOLÍTICA",
@@ -3190,8 +3197,7 @@
       "COLAGOGA",
       "COLERÉTICA",
       "HEPATOPROTECTORA",
-      "HIPERTENSORA",
-      "NOOTRÓPICA"
+      "HIPERTENSORA"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -3216,11 +3222,11 @@
     "nombreComun": "ROMPEPIEDRAS",
     "nombreBotanico": "Lepidium latifolium",
     "acciones": [
+      "ANTILITIÁSICA RENAL",
       "DEPURATIVA HEPÁTICA",
       "DEPURATIVA RENAL",
       "DIURÉTICA",
-      "ANTILITIÁSICA",
-      "ANTILITIÁSICA RENAL"
+      "ANTILITIÁSICA"
     ],
     "principiosActivos": [
       "Compuestos azufrados",
@@ -3269,8 +3275,8 @@
     "nombreComun": "RUSCO",
     "nombreBotanico": "Ruscus aculeatus",
     "acciones": [
-      "VASOPROTECTORA",
       "VENOTÓNICA",
+      "VASOPROTECTORA",
       "ANTIINFLAMATORIA",
       "ANTIEDEMATOSA"
     ],
@@ -3299,12 +3305,12 @@
     "nombreComun": "SANGRE DE DRAGO",
     "nombreBotanico": "Croton lechleri",
     "acciones": [
-      "ANALGÉSICA",
+      "CICATRIZANTE",
       "ANTIDIARREICA",
+      "ANALGÉSICA",
       "ANTIINFECCIOSA",
       "ANTIINFLAMATORIA",
-      "ANTIOXIDANTE",
-      "CICATRIZANTE"
+      "ANTIOXIDANTE"
     ],
     "principiosActivos": [
       "Taninos",
@@ -3353,12 +3359,12 @@
     "nombreComun": "SAÚCO",
     "nombreBotanico": "Sambucus nigra",
     "acciones": [
+      "ANTIVÍRICA",
       "DEPURATIVA CUTÁNEA",
       "DEPURATIVA RENAL",
       "DIAFORÉTICA",
       "FEBRÍFUGA",
-      "SUDORÍFICA",
-      "ANTIVÍRICA"
+      "SUDORÍFICA"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -3407,10 +3413,10 @@
     "nombreComun": "SHIITAKE",
     "nombreBotanico": "Lentinula edodes",
     "acciones": [
+      "INMUNOMODULADORA",
       "ANTIBACTERIANA",
       "ANTIHELMÍNTICA-VERMÍFUGA",
-      "ANTIVÍRICA",
-      "INMUNOMODULADORA"
+      "ANTIVÍRICA"
     ],
     "principiosActivos": [
       "Polisacáridos",
@@ -3436,8 +3442,8 @@
     "nombreComun": "SHISO",
     "nombreBotanico": "Perilla frutescens",
     "acciones": [
-      "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
+      "ANTIHISTAMÍNICA",
       "ANTIINFLAMATORIA",
       "BRONCODILATADORA",
       "ANTIASMÁTICA"
@@ -3468,9 +3474,9 @@
     "nombreComun": "SPIRULINA (ALGA)",
     "nombreBotanico": "Arthrospira platensis",
     "acciones": [
+      "NUTRITIVA",
       "ALCALINIZANTE",
       "DEPURATIVA GENERAL",
-      "NUTRITIVA",
       "QUELANTE",
       "INMUNOESTIMULANTE",
       "ANTIOXIDANTE"
@@ -3508,14 +3514,14 @@
     "nombreComun": "TÉ VERDE",
     "nombreBotanico": "Camellia sinensis",
     "acciones": [
+      "ANTIOXIDANTE",
       "ANTIAGREGANTE PLAQUETARIA",
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
       "ANTIADENOMATOSA",
       "BRONCODILATADORA",
       "ANTITUMORAL",
-      "HIPOCOLESTEROLEMIANTE",
-      "ANTIOXIDANTE"
+      "HIPOCOLESTEROLEMIANTE"
     ],
     "principiosActivos": [
       "Catequinas",
@@ -3588,11 +3594,12 @@
     "nombreComun": "TOMILLO",
     "nombreBotanico": "Thymus sp.",
     "acciones": [
+      "DIGESTIVA",
+      "ANTISÉPTICA",
       "ANTIINFLAMATORIA",
       "ANTIINFECCIOSA",
       "CARMINATIVA",
       "BRONCODILATADORA",
-      "DIGESTIVA",
       "INMUNOESTIMULANTE"
     ],
     "principiosActivos": [
@@ -3621,9 +3628,9 @@
     "nombreBotanico": "Potentilla erecta",
     "acciones": [
       "ANTIDIARREICA",
+      "CICATRIZANTE",
       "ANTIINFLAMATORIA",
       "ANTIOXIDANTE",
-      "CICATRIZANTE",
       "HEMOSTÁTICA",
       "ANTIHEMORRÁGICA"
     ],
@@ -3677,9 +3684,9 @@
     "nombreComun": "UÑA DE GATO",
     "nombreBotanico": "Uncaria tomentosa",
     "acciones": [
+      "INMUNOMODULADORA",
       "ANTIINFLAMATORIA",
-      "ANTIVÍRICA",
-      "INMUNOMODULADORA"
+      "ANTIVÍRICA"
     ],
     "principiosActivos": [
       "Diterpenos",
@@ -3703,6 +3710,7 @@
     "nombreComun": "URUCUM, ONOTO, ACHIOTE",
     "nombreBotanico": "Bixa orellana",
     "acciones": [
+      "CICATRIZANTE",
       "ANTIINFLAMATORIA",
       "PROTECTORA DE LA MUCOSA",
       "ANTIMICROBIANA",
@@ -3732,11 +3740,11 @@
     "nombreComun": "VARA DE ORO",
     "nombreBotanico": "Solidago virgaurea",
     "acciones": [
+      "DIURÉTICA",
       "DEPURATIVA RENAL",
       "ANTILITIÁSICA",
       "ANTILITIÁSICA RENAL",
-      "ANTIINFECCIOSA",
-      "DIURÉTICA"
+      "ANTIINFECCIOSA"
     ],
     "principiosActivos": [
       "Flavonoides",
@@ -3758,9 +3766,9 @@
     "nombreComun": "VID ROJA",
     "nombreBotanico": "Vitis vinifera",
     "acciones": [
+      "VENOTÓNICA",
       "ANTICANCERÍGENA",
       "ANTIADENOMATOSA",
-      "VENOTÓNICA",
       "VASOPROTECTORA"
     ],
     "principiosActivos": [
@@ -3784,11 +3792,11 @@
     "nombreComun": "VIJAYSAR (ÁRBOL DE LA DIABETES)",
     "nombreBotanico": "Pterocarpus marsupium",
     "acciones": [
+      "HIPOGLUCEMIANTE",
       "ANTIINFLAMATORIA",
       "ANTIOXIDANTE",
       "ASTRINGENTE",
-      "ANTIINFECCIOSA",
-      "HIPOGLUCEMIANTE"
+      "ANTIINFECCIOSA"
     ],
     "principiosActivos": [
       "Flavonoides",
@@ -3837,10 +3845,10 @@
     "nombreComun": "ZARAGATONA",
     "nombreBotanico": "Plantago psyllium",
     "acciones": [
+      "LAXANTE MECÁNICO",
       "ANTIINFLAMATORIA",
       "PROTECTORA DE LA MUCOSA",
-      "DEPURATIVA INTESTINAL",
-      "LAXANTE MECÁNICO"
+      "DEPURATIVA INTESTINAL"
     ],
     "principiosActivos": [
       "Mucílagos",
@@ -4007,7 +4015,7 @@
       "Cápsula"
     ],
     "observacion": "",
-    "notas": "Arbusto mediterráneo cuyo fruto se usa tradicionalmente para regular el ciclo menstrual y aliviar molestias premenstruales, por su efecto sobre la prolactina. La infusión de las hojas tienen acción diurética, espasmolítica y carminativa."
+    "notas": "Arbusto mediterráneo cuyo fruto se usa tradicionalmente para regular el ciclo menstrual y aliviar molestias premenstruales, por su efecto sobre la prolactina. La infusión de las hojas tiene acción diurética, espasmolítica y carminativa."
   },
   {
     "id": 139,
@@ -4075,9 +4083,9 @@
     "nombreComun": "CENTELLA ASIÁTICA",
     "nombreBotanico": "Centella asiatica",
     "acciones": [
+      "VENOTÓNICA",
       "CICATRIZANTE",
       "VULNERARIA",
-      "VENOTÓNICA",
       "VASOPROTECTORA"
     ],
     "principiosActivos": [
@@ -4105,10 +4113,10 @@
     "nombreComun": "ANÍS ESTRELLADO",
     "nombreBotanico": "Illicium verum",
     "acciones": [
-      "CARMINATIVA",
       "DIGESTIVA",
-      "ESPASMOLÍTICA",
-      "EXPECTORANTE"
+      "EXPECTORANTE",
+      "CARMINATIVA",
+      "ESPASMOLÍTICA"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -4132,10 +4140,10 @@
     "nombreComun": "CAYENA",
     "nombreBotanico": "Capsicum annuum",
     "acciones": [
-      "ANALGÉSICA",
       "RUBEFACIENTE",
-      "CARMINATIVA",
-      "DIGESTIVA"
+      "DIGESTIVA",
+      "ANALGÉSICA",
+      "CARMINATIVA"
     ],
     "principiosActivos": [
       "Capsaicina",
@@ -4311,10 +4319,10 @@
     "nombreBotanico": "Herniaria glabra",
     "acciones": [
       "DIURÉTICA",
+      "ESPASMOLÍTICA",
       "ANTIINFLAMATORIA",
       "ANTILITIÁSICA",
-      "ANTILITIÁSICA RENAL",
-      "ESPASMOLÍTICA"
+      "ANTILITIÁSICA RENAL"
     ],
     "principiosActivos": [
       "Saponinas",
@@ -4363,8 +4371,8 @@
     "nombreComun": "HIBISCO",
     "nombreBotanico": "Hibiscus sabdariffa",
     "acciones": [
-      "DIURÉTICA",
       "HIPOTENSORA",
+      "DIURÉTICA",
       "ANTIOXIDANTE"
     ],
     "principiosActivos": [
@@ -4414,8 +4422,8 @@
     "nombreComun": "NUEZ DE COLA",
     "nombreBotanico": "Cola nitida",
     "acciones": [
-      "NOOTRÓPICA",
-      "DIGESTIVA"
+      "DIGESTIVA",
+      "NOOTRÓPICA"
     ],
     "principiosActivos": [
       "Cafeína",
@@ -4727,8 +4735,8 @@
     "nombreBotanico": "Juniperus communis",
     "acciones": [
       "DIURÉTICA",
-      "CARMINATIVA",
-      "DIGESTIVA"
+      "DIGESTIVA",
+      "CARMINATIVA"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -4770,7 +4778,7 @@
       "Extracto fluido"
     ],
     "observacion": "",
-    "notas": "Planta umbelífera europea de sabor similar al apio, cuya raíz se usa tradicionalmente como diurético e digestivo."
+    "notas": "Planta umbelífera europea de sabor similar al apio, cuya raíz se usa tradicionalmente como diurético y digestivo."
   },
   {
     "id": 168,
@@ -4828,7 +4836,7 @@
   },
   {
     "id": 170,
-    "nombreComun": "POLIGALA",
+    "nombreComun": "POLÍGALA",
     "nombreBotanico": "Polygala senega",
     "acciones": [
       "EXPECTORANTE",
@@ -4907,9 +4915,9 @@
     "nombreComun": "PIMPINELA",
     "nombreBotanico": "Sanguisorba officinalis",
     "acciones": [
+      "ANTIDIARREICA",
       "ASTRINGENTE",
-      "HEMOSTÁTICA",
-      "ANTIDIARREICA"
+      "HEMOSTÁTICA"
     ],
     "principiosActivos": [
       "Taninos",
@@ -5062,8 +5070,8 @@
     "nombreComun": "CARDO SANTO",
     "nombreBotanico": "Cnicus benedictus",
     "acciones": [
-      "APERITIVA",
       "TÓNICO DIGESTIVO",
+      "APERITIVA",
       "COLERÉTICA"
     ],
     "principiosActivos": [
@@ -5086,8 +5094,8 @@
     "nombreComun": "AJENJO",
     "nombreBotanico": "Artemisia absinthium",
     "acciones": [
-      "APERITIVA",
       "TÓNICO DIGESTIVO",
+      "APERITIVA",
       "ANTIHELMÍNTICA-VERMÍFUGA"
     ],
     "principiosActivos": [
@@ -5343,8 +5351,8 @@
     "nombreBotanico": "Theobroma cacao",
     "acciones": [
       "ANTIOXIDANTE",
-      "VASODILATADORA",
       "EMOLIENTE",
+      "VASODILATADORA",
       "NOOTRÓPICA"
     ],
     "principiosActivos": [
@@ -5364,7 +5372,7 @@
       "Cápsula"
     ],
     "observacion": "",
-    "notas": "Árbol originario de América tropical cuya semilla, rica en flavonoides, se usa por su efecto antioxidante y sobre el ánimo.La manteca de Cacao es rica en lípidos y un excelente emoliente."
+    "notas": "Árbol originario de América tropical cuya semilla, rica en flavonoides, se usa por su efecto antioxidante y sobre el ánimo. La manteca de Cacao es rica en lípidos y un excelente emoliente."
   },
   {
     "id": 191,
@@ -5524,8 +5532,8 @@
     "nombreComun": "DAMIANA",
     "nombreBotanico": "Turnera diffusa",
     "acciones": [
-      "ADAPTÓGENA",
-      "TÓNICO DIGESTIVO"
+      "TÓNICO DIGESTIVO",
+      "ADAPTÓGENA"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -5653,8 +5661,8 @@
     "nombreComun": "NUEZ MOSCADA",
     "nombreBotanico": "Myristica fragrans",
     "acciones": [
-      "CARMINATIVA",
       "DIGESTIVA",
+      "CARMINATIVA",
       "SEDANTE"
     ],
     "principiosActivos": [
@@ -5931,8 +5939,8 @@
     "nombreComun": "ESPINACA",
     "nombreBotanico": "Spinacia oleracea",
     "acciones": [
-      "NUTRITIVA",
-      "REMINERALIZANTE"
+      "REMINERALIZANTE",
+      "NUTRITIVA"
     ],
     "principiosActivos": [
       "Hierro (Fe)",
@@ -5958,8 +5966,8 @@
     "nombreComun": "REMOLACHA",
     "nombreBotanico": "Beta vulgaris",
     "acciones": [
-      "DEPURATIVA HEPÁTICA",
       "HIPOTENSORA",
+      "DEPURATIVA HEPÁTICA",
       "NUTRITIVA"
     ],
     "principiosActivos": [
@@ -6012,9 +6020,9 @@
     "nombreComun": "LIMÓN",
     "nombreBotanico": "Citrus limon",
     "acciones": [
+      "DIGESTIVA",
       "ANTISÉPTICA",
       "ANTILITIÁSICA",
-      "DIGESTIVA",
       "ANTIOXIDANTE"
     ],
     "principiosActivos": [
@@ -6143,8 +6151,8 @@
     "nombreComun": "SÉSAMO",
     "nombreBotanico": "Sesamum indicum",
     "acciones": [
-      "NUTRITIVA",
       "HIPOCOLESTEROLEMIANTE",
+      "NUTRITIVA",
       "ANTIOXIDANTE"
     ],
     "principiosActivos": [
@@ -6225,8 +6233,8 @@
     "nombreComun": "AVENA",
     "nombreBotanico": "Avena sativa",
     "acciones": [
-      "NUTRITIVA",
       "HIPOCOLESTEROLEMIANTE",
+      "NUTRITIVA",
       "ANTIPRURIGINOSA",
       "SEDANTE"
     ],
@@ -6256,6 +6264,7 @@
     "nombreComun": "CEBADA",
     "nombreBotanico": "Hordeum vulgare",
     "acciones": [
+      "REMINERALIZANTE",
       "NUTRITIVA",
       "HIPOCOLESTEROLEMIANTE"
     ],
@@ -6309,8 +6318,8 @@
     "nombreBotanico": "Rubus fruticosus",
     "acciones": [
       "ASTRINGENTE",
-      "ANTIDIARREICA",
-      "ANTIOXIDANTE"
+      "ANTIOXIDANTE",
+      "ANTIDIARREICA"
     ],
     "principiosActivos": [
       "Taninos",
@@ -6690,8 +6699,8 @@
     "nombreBotanico": "Prunus dulcis",
     "acciones": [
       "NUTRITIVA",
-      "DEMULCENTE",
       "EMOLIENTE",
+      "DEMULCENTE",
       "HIPOCOLESTEROLEMIANTE"
     ],
     "principiosActivos": [
@@ -6718,9 +6727,9 @@
     "nombreComun": "NUEZ (FRUTO DEL NOGAL)",
     "nombreBotanico": "Juglans regia",
     "acciones": [
-      "NUTRITIVA",
+      "ASTRINGENTE",
       "HIPOGLUCEMIANTE",
-      "ASTRINGENTE"
+      "NUTRITIVA"
     ],
     "principiosActivos": [
       "Ácidos grasos",
@@ -6798,9 +6807,9 @@
     "nombreBotanico": "Cannabis sativa",
     "acciones": [
       "NUTRITIVA",
+      "ANTIINFLAMATORIA",
       "ANALGÉSICA",
-      "ANSIOLÍTICA",
-      "ANTIINFLAMATORIA"
+      "ANSIOLÍTICA"
     ],
     "principiosActivos": [
       "Omega 3",
@@ -6850,8 +6859,8 @@
     "nombreComun": "CASTAÑA",
     "nombreBotanico": "Castanea sativa",
     "acciones": [
-      "NUTRITIVA",
-      "ANTITUSIVA-BÉQUICA"
+      "ANTITUSIVA-BÉQUICA",
+      "NUTRITIVA"
     ],
     "principiosActivos": [
       "Almidón",
@@ -6897,8 +6906,8 @@
     "nombreComun": "GROSELLERO ROJO",
     "nombreBotanico": "Ribes rubrum",
     "acciones": [
-      "ANTIOXIDANTE",
-      "DIURÉTICA"
+      "DIURÉTICA",
+      "ANTIOXIDANTE"
     ],
     "principiosActivos": [
       "Vitamina C (ácido ascórbico)",
@@ -6991,8 +7000,8 @@
     "nombreComun": "MELOCOTÓN",
     "nombreBotanico": "Prunus persica",
     "acciones": [
-      "SEDANTE",
-      "DIURÉTICA"
+      "DIURÉTICA",
+      "SEDANTE"
     ],
     "principiosActivos": [
       "Flavonoides",
@@ -7091,8 +7100,8 @@
     "nombreComun": "MARACUYÁ",
     "nombreBotanico": "Passiflora edulis",
     "acciones": [
-      "ANTIOXIDANTE",
-      "SEDANTE"
+      "SEDANTE",
+      "ANTIOXIDANTE"
     ],
     "principiosActivos": [
       "Vitamina C (ácido ascórbico)",
@@ -7114,8 +7123,8 @@
     "nombreComun": "MANGO",
     "nombreBotanico": "Mangifera indica",
     "acciones": [
-      "ANTIOXIDANTE",
-      "HIPOGLUCEMIANTE"
+      "HIPOGLUCEMIANTE",
+      "ANTIOXIDANTE"
     ],
     "principiosActivos": [
       "Carotenoides",
@@ -7190,8 +7199,8 @@
     "nombreComun": "CORDYCEPS",
     "nombreBotanico": "Cordyceps militaris",
     "acciones": [
-      "ADAPTÓGENA",
       "INMUNOMODULADORA",
+      "ADAPTÓGENA",
       "ANTIOXIDANTE"
     ],
     "principiosActivos": [
@@ -7317,6 +7326,7 @@
     "nombreComun": "USNEA",
     "nombreBotanico": "Usnea barbata",
     "acciones": [
+      "ANTISÉPTICA",
       "ANTIBACTERIANA",
       "ANTIFÚNGICA",
       "EXPECTORANTE"
@@ -7366,8 +7376,8 @@
     "nombreComun": "SOJA",
     "nombreBotanico": "Glycine max",
     "acciones": [
-      "ESTROGÉNICA",
       "HIPOCOLESTEROLEMIANTE",
+      "ESTROGÉNICA",
       "NUTRITIVA"
     ],
     "principiosActivos": [
@@ -7632,8 +7642,8 @@
     "nombreBotanico": "Nigella sativa",
     "acciones": [
       "ANTIINFLAMATORIA",
-      "ANTIOXIDANTE",
-      "DIGESTIVA"
+      "DIGESTIVA",
+      "ANTIOXIDANTE"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -7825,9 +7835,9 @@
     "nombreComun": "CODONOPSIS",
     "nombreBotanico": "Codonopsis pilosula",
     "acciones": [
+      "INMUNOESTIMULANTE",
       "ADAPTÓGENA",
-      "NUTRITIVA",
-      "INMUNOESTIMULANTE"
+      "NUTRITIVA"
     ],
     "principiosActivos": [
       "Polisacáridos",
@@ -7903,8 +7913,8 @@
     "nombreComun": "ALCAPARRA",
     "nombreBotanico": "Capparis spinosa",
     "acciones": [
-      "ANTIINFLAMATORIA",
-      "ANTIOXIDANTE"
+      "ANTIOXIDANTE",
+      "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
       "Flavonoides",
@@ -8050,8 +8060,8 @@
     "nombreBotanico": "Alpinia officinarum",
     "acciones": [
       "DIGESTIVA",
-      "CARMINATIVA",
-      "ANTIEMÉTICA"
+      "ANTIEMÉTICA",
+      "CARMINATIVA"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -8127,8 +8137,8 @@
     "nombreBotanico": "Terminalia chebula",
     "acciones": [
       "LAXANTE",
-      "ANTIOXIDANTE",
-      "DIGESTIVA"
+      "DIGESTIVA",
+      "ANTIOXIDANTE"
     ],
     "principiosActivos": [
       "Taninos",
@@ -8253,9 +8263,9 @@
     "nombreBotanico": "Juglans regia",
     "acciones": [
       "ASTRINGENTE",
+      "ANTISÉPTICA",
       "ANTIHELMÍNTICA-VERMÍFUGA",
-      "ANTIDIARREICA",
-      "ANTISÉPTICA"
+      "ANTIDIARREICA"
     ],
     "principiosActivos": [
       "Taninos",
@@ -8280,11 +8290,11 @@
     "nombreComun": "LESPEDEZA",
     "nombreBotanico": "Lespedeza capitata",
     "acciones": [
+      "HIPOCOLESTEROLEMIANTE",
       "DIURÉTICA",
       "AZOTÚRICA",
       "HIPOAZOTEMIANTE",
       "HIPOURICEMIANTE",
-      "HIPOCOLESTEROLEMIANTE",
       "PROTECTORA CAPILAR"
     ],
     "principiosActivos": [
@@ -8308,8 +8318,8 @@
     "nombreComun": "ARENARIA ROJA, SABLINA ROJA",
     "nombreBotanico": "Spergularia rubra",
     "acciones": [
-      "DIURÉTICA",
       "ANTILITIÁSICA",
+      "DIURÉTICA",
       "ANTIINFECCIOSA",
       "ESPASMOLÍTICA"
     ],
@@ -8335,10 +8345,10 @@
     "nombreComun": "LIMONERO",
     "nombreBotanico": "Citrus limonum, Citrus limon",
     "acciones": [
-      "ANTIESCORBÚTICA",
-      "ANTIOXIDANTE",
       "VENOTÓNICA",
-      "ANTISÉPTICA"
+      "ANTISÉPTICA",
+      "ANTIESCORBÚTICA",
+      "ANTIOXIDANTE"
     ],
     "principiosActivos": [
       "Vitamina C (ácido ascórbico)",
@@ -8393,12 +8403,12 @@
     "nombreBotanico": "Resina apícola recolectada por Apis mellifera",
     "acciones": [
       "ANTISÉPTICA",
+      "CICATRIZANTE",
+      "INMUNOESTIMULANTE",
       "ANTIBACTERIANA",
       "ANTIINFECCIOSA",
       "ANTIVÍRICA",
-      "ANTIINFLAMATORIA",
-      "CICATRIZANTE",
-      "INMUNOESTIMULANTE"
+      "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
       "Flavonoides",
@@ -8427,10 +8437,10 @@
     "nombreComun": "MIEL",
     "nombreBotanico": "Néctar floral transformado por Apis mellifera",
     "acciones": [
-      "ANTISÉPTICA",
-      "CICATRIZANTE",
-      "EMOLIENTE",
       "ANTITUSIVA-BÉQUICA",
+      "CICATRIZANTE",
+      "ANTISÉPTICA",
+      "EMOLIENTE",
       "NUTRITIVA"
     ],
     "principiosActivos": [
@@ -8459,8 +8469,8 @@
     "nombreComun": "EPILOBIO",
     "nombreBotanico": "Epilobium sp.",
     "acciones": [
-      "ANTIINFLAMATORIA",
       "ANTIOXIDANTE",
+      "ANTIINFLAMATORIA",
       "ASTRINGENTE",
       "DIURÉTICA"
     ],
@@ -8541,8 +8551,8 @@
     "nombreComun": "UXI",
     "nombreBotanico": "Endopleura uchi",
     "acciones": [
-      "ANTIINFLAMATORIA",
       "ANTIOXIDANTE",
+      "ANTIINFLAMATORIA",
       "ANTIBACTERIANA",
       "HIPOGLUCEMIANTE",
       "HIPOLIPEMIANTE"
@@ -8599,8 +8609,8 @@
     "acciones": [
       "ADAPTÓGENA",
       "ANTIINFLAMATORIA",
-      "INMUNOESTIMULANTE",
-      "ANALGÉSICA"
+      "ANALGÉSICA",
+      "INMUNOESTIMULANTE"
     ],
     "principiosActivos": [
       "Ecdisteroides",
@@ -8650,9 +8660,9 @@
     "nombreComun": "VINCAPERVINCA",
     "nombreBotanico": "Vinca minor",
     "acciones": [
+      "NOOTRÓPICA",
       "VASODILATADORA",
       "ANTIOXIDANTE",
-      "NOOTRÓPICA",
       "ASTRINGENTE"
     ],
     "principiosActivos": [
@@ -8708,8 +8718,8 @@
     "nombreBotanico": "Viola tricolor",
     "acciones": [
       "DEPURATIVA CUTÁNEA",
-      "ANTIINFLAMATORIA",
       "EXPECTORANTE",
+      "ANTIINFLAMATORIA",
       "ANTIOXIDANTE",
       "ANTIPRURIGINOSA"
     ],
@@ -8782,7 +8792,7 @@
       "Cápsulas",
       "Uso tópico"
     ],
-    "observacion": "Puede interactuar con anticoagulantes y aumentar el riesgo de sangrado; se recomienda precaución en personas con trastornos convulsivos. No se recomienda su uso durante el embarazo sin supervisión profesional. Es importante suplementar también co Vitamina E y Omega 3.",
+    "observacion": "Puede interactuar con anticoagulantes y aumentar el riesgo de sangrado; se recomienda precaución en personas con trastornos convulsivos. No se recomienda su uso durante el embarazo sin supervisión profesional. Es importante suplementar también con Vitamina E y Omega 3.",
     "notas": "Planta originaria de Norteamérica, naturalizada en Europa. Su aceite de semillas es rico en ácido gamma-linolénico (GLA), un ácido graso omega-6 poco frecuente en el reino vegetal, por el que se emplea tradicionalmente en el síndrome premenstrual, la dermatitis atópica y los síntomas de la menopausia."
   }
 ]
