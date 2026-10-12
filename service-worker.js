@@ -3,7 +3,7 @@
 // Service Worker
 // ==========================================
 
-const CACHE = "fitomed-v0.10.21";
+const CACHE = "fitomed-v0.10.22";
 
 const ARCHIVOS = [
 
@@ -20,6 +20,7 @@ const ARCHIVOS = [
     "./js/listado.js",
     "./js/afecciones.js",
     "./js/emuntorios.js",
+    "./js/navegacion.js",
 
     "./data/plantas_medicinales.json",
     "./data/definiciones.json",
