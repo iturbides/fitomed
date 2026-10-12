@@ -5,12 +5,15 @@
 // ==========================================
 
 import { obtenerAfecciones, obtenerAfeccionPorId } from "./datos.js";
+import { registrarVista, insertarBotonVolver } from "./navegacion.js";
 
 
 /**
  * Muestra el listado de afecciones que comparten un síntoma.
  */
 export function mostrarListadoAfecciones(sintoma) {
+
+    registrarVista(() => mostrarListadoAfecciones(sintoma));
 
     const app = document.getElementById("app");
 
@@ -46,6 +49,8 @@ export function mostrarListadoAfecciones(sintoma) {
 
     });
 
+    insertarBotonVolver(app);
+
 }
 
 
@@ -59,6 +64,8 @@ export function mostrarFichaAfeccion(id) {
     if (!afeccion) {
         return;
     }
+
+    registrarVista(() => mostrarFichaAfeccion(id));
 
     const app = document.getElementById("app");
 
@@ -100,6 +107,8 @@ export function mostrarFichaAfeccion(id) {
     `;
 
     app.appendChild(contenedor);
+
+    insertarBotonVolver(contenedor);
 
     // Eventos de las etiquetas de síntomas
     document.querySelectorAll(".etiqueta-sintoma").forEach(etiqueta => {

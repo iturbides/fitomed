@@ -17,6 +17,7 @@ import {
     htmlTarjetasEmuntorios,
     mostrarFichaEmuntorio
 } from "./emuntorios.js";
+import { reiniciarNavegacion, sinRegistrar } from "./navegacion.js";
 
 
 export function inicializarBuscador() {
@@ -132,9 +133,32 @@ function gestionarClick(evento) {
 
 
 /**
- * Realiza la búsqueda.
+ * Se ejecuta al escribir en el buscador. La búsqueda es la vista
+ * raíz del historial: se guarda el texto para poder restaurarla
+ * al volver desde una ficha o un listado.
  */
 function buscar() {
+
+    const input = document.getElementById("buscar");
+
+    const texto = input.value;
+
+    reiniciarNavegacion(() => {
+        input.value = texto;
+        ejecutarBusqueda();
+    });
+
+    // Los listados que lance la propia búsqueda (p. ej. "! acción")
+    // no cuentan como navegación.
+    sinRegistrar(ejecutarBusqueda);
+
+}
+
+
+/**
+ * Realiza la búsqueda.
+ */
+function ejecutarBusqueda() {
 
     const input = document.getElementById("buscar");
 

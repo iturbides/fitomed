@@ -5,10 +5,13 @@
 // ==========================================
 
 import { obtenerPlantas } from "./datos.js";
+import { registrarVista, insertarBotonVolver } from "./navegacion.js";
 
 const app = document.getElementById("app");
 
 export function mostrarListado(tipo, valor) {
+
+    registrarVista(() => mostrarListado(tipo, valor));
 
     const plantas = obtenerPlantas();
 
@@ -61,5 +64,7 @@ export function mostrarListado(tipo, valor) {
         `;
 
     });
+
+    insertarBotonVolver(app);
 
 }

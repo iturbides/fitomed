@@ -13,6 +13,7 @@ import {
 } from "./datos.js";
 import { mostrarFicha } from "./ficha.js";
 import { mostrarFichaAfeccion } from "./afecciones.js";
+import { registrarVista, insertarBotonVolver } from "./navegacion.js";
 
 
 // Mínimo de letras para activar los disparadores
@@ -186,6 +187,8 @@ export function mostrarFichaEmuntorio(id) {
         return;
     }
 
+    registrarVista(() => mostrarFichaEmuntorio(id));
+
     const app = document.getElementById("app");
 
     const { principales, apoyo } = obtenerPlantasEmuntorio(emuntorio);
@@ -252,6 +255,8 @@ export function mostrarFichaEmuntorio(id) {
         </div>
 
     `;
+
+    insertarBotonVolver(app.querySelector(".ficha-emuntorio"));
 
     // Enlaces a las fichas de plantas
     app.querySelectorAll("[data-planta]").forEach(boton => {

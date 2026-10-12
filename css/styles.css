@@ -695,3 +695,25 @@ body.dark {
     background: #6d4a4a;
 
 }
+
+
+/* boton volver */
+
+.btn-volver {
+    display: block;
+    width: fit-content;
+    margin: 0 0 1rem 0;
+    padding: 0.5rem 0.9rem;
+    font: inherit;
+    color: inherit;
+    background: transparent;
+    border: 1px solid currentColor;
+    border-radius: 8px;
+    cursor: pointer;
+    opacity: 0.85;
+}
+ 
+.btn-volver:hover,
+.btn-volver:focus-visible {
+    opacity: 1;
+}

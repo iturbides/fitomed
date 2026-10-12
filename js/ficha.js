@@ -6,6 +6,7 @@
 
 import { obtenerPlantaPorId } from "./datos.js";
 import { mostrarListado } from "./listado.js";
+import { registrarVista, insertarBotonVolver } from "./navegacion.js";
 
 const app = document.getElementById("app");
 
@@ -16,6 +17,8 @@ export function mostrarFicha(id) {
     if (!planta) {
         return;
     }
+
+    registrarVista(() => mostrarFicha(id));
 
     app.innerHTML = "";
 
@@ -105,6 +108,8 @@ title="Buscar imágenes en Ecosia"
     `;
 
     app.appendChild(contenedor);
+
+    insertarBotonVolver(contenedor);
 
         // Eventos de las etiquetas
     document.querySelectorAll(".etiqueta").forEach(etiqueta => {
