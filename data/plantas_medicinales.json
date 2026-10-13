@@ -35,6 +35,7 @@
     "acciones": [
       "ANTIOXIDANTE",
       "NUTRITIVA",
+      "ANTIESCORBÚTICA",
       "HIPOGLUCEMIANTE",
       "INMUNOESTIMULANTE"
     ],
@@ -55,7 +56,7 @@
       "Comer fresco"
     ],
     "observacion": "",
-    "notas": "Fruto tropical americano con uno de los contenidos de vitamina C más altos entre las frutas, usado como antioxidante y refuerzo nutricional."
+    "notas": "Fruto tropical americano con uno de los contenidos de vitamina C más altos entre las frutas, usado como antioxidante y refuerzo nutricional. Su actividad antioxidante se potencia cuando se combina con vitamina E y β-caroteno."
   },
   {
     "id": 3,
@@ -97,6 +98,7 @@
       "ANTIBACTERIANA",
       "ANTIVÍRICA",
       "CICATRIZANTE",
+      "HEPATOPROTECTORA",
       "HEMOSTÁTICA",
       "ANTIHEMORRÁGICA"
     ],
@@ -121,9 +123,9 @@
     "nombreBotanico": "Satureja montana",
     "acciones": [
       "ANTISÉPTICA",
+      "ANTIMICROBIANA",
       "CARMINATIVA",
       "DIGESTIVA",
-      "ANTIMICROBIANA",
       "ANTIHELMÍNTICA-VERMÍFUGA",
       "APERITIVA",
       "EUPÉPTICA"
@@ -1238,6 +1240,7 @@
       "ANALGÉSICA",
       "ANTIAGREGANTE PLAQUETARIA",
       "ANTICANCERÍGENA",
+      "NEUROPROTECTORA",
       "ANTIADENOMATOSA",
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
@@ -1771,6 +1774,7 @@
     "acciones": [
       "NOOTRÓPICA",
       "ANTIAGREGANTE PLAQUETARIA",
+      "NEUROPROTECTORA",
       "ANTIHISTAMÍNICA",
       "ANTIALÉRGICA",
       "ANTIOXIDANTE",
@@ -1803,6 +1807,7 @@
     "acciones": [
       "ADAPTÓGENA",
       "ANTIOXIDANTE",
+      "NEUROPROTECTORA",
       "ANTIVÍRICA",
       "HIPOLIPEMIANTE",
       "INMUNOMODULADORA",
@@ -4085,6 +4090,7 @@
     "acciones": [
       "VENOTÓNICA",
       "CICATRIZANTE",
+      "NEUROPROTECTORA",
       "VULNERARIA",
       "VASOPROTECTORA"
     ],
@@ -4503,6 +4509,7 @@
     "nombreBotanico": "Bacopa monnieri",
     "acciones": [
       "NOOTRÓPICA",
+      "NEUROPROTECTORA",
       "ANSIOLÍTICA"
     ],
     "principiosActivos": [
@@ -4891,7 +4898,10 @@
     "acciones": [
       "COLERÉTICA",
       "COLAGOGA",
-      "ANTIBACTERIANA"
+      "ANTIBACTERIANA",
+      "ANTIOXIDANTE",
+      "HIPOGLUCEMIANTE",
+      "HIPOLIPEMIANTE"
     ],
     "principiosActivos": [
       "Berberina",
@@ -7398,10 +7408,13 @@
   },
   {
     "id": 270,
-    "nombreComun": "AÇAÍ",
+    "nombreComun": "AÇAÍ, ASAÍ",
     "nombreBotanico": "Euterpe oleracea",
     "acciones": [
       "ANTIOXIDANTE",
+      "ANTIINFLAMATORIA",
+      "HIPOLIPEMIANTE",
+      "NEUROPROTECTORA",
       "NUTRITIVA"
     ],
     "principiosActivos": [
@@ -8236,10 +8249,11 @@
   },
   {
     "id": 304,
-    "nombreComun": "AGAR-AGAR",
+    "nombreComun": "AGAR-AGAR, AGAR",
     "nombreBotanico": "Gelidium sp.",
     "acciones": [
-      "LAXANTE MECÁNICO"
+      "LAXANTE MECÁNICO",
+      "SACIANTE"
     ],
     "principiosActivos": [
       "Polisacáridos",
