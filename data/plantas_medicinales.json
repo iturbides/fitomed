@@ -215,7 +215,7 @@
       "Infusión"
     ],
     "observacion": "",
-    "notas": "Planta aromática de origen tropical muy usada en cocina, con propiedades digestivas y relajantes suaves."
+    "notas": "Planta aromática de origen tropical muy usada en cocina, con propiedades digestivas y relajantes suaves. Sus extractos y aceites esenciales demuestran una actividad antimicrobiana notable contra bacterias grampositivas y gramnegativas, así como frente a hongos. Asimismo, exhibe una marcada acción antioxidante que neutraliza radicales libres de manera comparable a antioxidantes sintéticos."
   },
   {
     "id": 8,
@@ -241,9 +241,10 @@
       "Hoja"
     ],
     "uso": [
-      "Infusión"
+      "Infusión",
+      "Extracto seco"
     ],
-    "observacion": "",
+    "observacion": "Se ha descrito que ocasionalmente puede provocar molestias digestivas, aunque no existen suficientes evidencias al respecto.",
     "notas": "Planta mediterránea cuyas hojas son uno de los remedios hepáticos y digestivos más usados en fitoterapia europea."
   },
   {
@@ -5000,6 +5001,8 @@
     "nombreComun": "ÁLAMO NEGRO, CHOPO",
     "nombreBotanico": "Populus nigra",
     "acciones": [
+      "ANTIBACTERIANA",
+      "CICATRIZANTE",
       "ANTIINFLAMATORIA",
       "DIURÉTICA",
       "ANALGÉSICA"
@@ -5012,7 +5015,8 @@
       "Aceite esencial"
     ],
     "drogaVegetal": [
-      "Yema"
+      "Yema",
+      "Hoja"
     ],
     "uso": [
       "Tintura",
@@ -5020,7 +5024,7 @@
       "Uso tópico"
     ],
     "observacion": "",
-    "notas": "Árbol europeo cuyas yemas resinosas, ricas en salicilatos, se usan tradicionalmente para molestias articulares y urinarias."
+    "notas": "Árbol europeo cuyas yemas resinosas, ricas en salicilatos, se usan tradicionalmente para molestias articulares y urinarias. La yema tiene acción antibacteriana y cicatrizante."
   },
   {
     "id": 177,
@@ -5104,6 +5108,10 @@
     "nombreComun": "AJENJO",
     "nombreBotanico": "Artemisia absinthium",
     "acciones": [
+      "CARMINATIVA",
+      "ESPASMOLÍTICA",
+      "ANTIFÚNGICA",
+      "ANTIBACTERIANA",
       "TÓNICO DIGESTIVO",
       "APERITIVA",
       "ANTIHELMÍNTICA-VERMÍFUGA"
@@ -6556,7 +6564,7 @@
   },
   {
     "id": 236,
-    "nombreComun": "CALABAZA (SEMILLA)",
+    "nombreComun": "CALABAZA",
     "nombreBotanico": "Cucurbita pepo",
     "acciones": [
       "ANTIINFLAMATORIA",
@@ -7754,6 +7762,9 @@
     "acciones": [
       "ANTIBACTERIANA",
       "HIPOTENSORA",
+      "DIGESTIVA",
+      "CARDIOTÓNICA",
+      "ANTIAGREGANTE PLAQUETARIA",
       "DEPURATIVA GENERAL"
     ],
     "principiosActivos": [
@@ -7763,7 +7774,9 @@
       "Aliína"
     ],
     "drogaVegetal": [
-      "Hoja"
+      "Hoja",
+      "Bulbo",
+      "Toda la planta"
     ],
     "uso": [
       "Comer fresco",
