@@ -8,9 +8,10 @@
       "HINCHAZÓN",
       "ARDOR",
       "SACIEDAD PRECOZ",
-      "NAUSEAS"
+      "NAUSEAS",
+      "ERUCTOS"
     ],
-    "recomendaciones": "Plantas carminativas y digestivas como el Hinojo, el Anís Verde, la Manzanilla Romana o el Jengibre, junto con eupépticas como la Achicoria o el Diente de León que estimulan la digestión. Comer despacio, evitar comidas copiosas y reducir el consumo de grasas y alimentos ultraprocesados."
+    "recomendaciones": "Plantas carminativas y digestivas como el Hinojo, el Anís Verde, la Manzanilla Romana o el Jengibre, junto con eupépticas como la Achicoria o el Diente de León que estimulan la digestión. También Menta, Genciana y Achicoria como eupépticas y tónicas, y coleréticas y colagogas como la Alcachofera, el Cardo Mariano o el Boldo; para la insuficiencia de enzimas, Marrubio, Alcaravea y Fumaria, y plantas ricas en enzimas como la Papaya, la Piña, los Higos frescos o el Jengibre. Comer despacio, evitar comidas copiosas y reducir el consumo de grasas y alimentos ultraprocesados. Entre sus causas están el estrés, la mala masticación, la dieta incorrecta, la disbiosis y la hiposecreción de ácido clorhídrico, bilis o enzimas."
   },
   {
     "id": 2,
@@ -107,7 +108,7 @@
       "HENDIDURA TRAS PRESIÓN EN LA PIEL",
       "REDUCCIÓN DE LA ORINA"
     ],
-    "recomendaciones": "Plantas diuréticas como el Diente de León, el Abedul o la Cola de Caballo, junto con venotónicas y antiedematosas como el Rusco, el Meliloto o la Centella Asiática, que favorecen el retorno venoso. Otras diuréticas y saluréticas: Cereza, Fresno, Grama de las Boticas, Lespedeza, Rompepiedras, Maíz, Ortiga Verde, Ortosifón (Té de Java), Vara de Oro, Vellosilla y Zarzaparrilla; el objetivo es el lavado renal. Reducir el consumo de sal, mantener las piernas en alto y practicar actividad física regular. Seguir una dieta natural y baja en sal. Ante un aumento repentino de peso con reducción de la orina, o si el origen es cardíaco, renal o hepático, consultar al médico."
+    "recomendaciones": "Plantas diuréticas como el Diente de León, el Abedul o la Cola de Caballo, junto con venotónicas y antiedematosas como el Rusco, el Meliloto o la Centella Asiática, que favorecen el retorno venoso. La Esparraguera también es diurética. Otras diuréticas y saluréticas: Cereza, Fresno, Grama de las Boticas, Lespedeza, Rompepiedras, Maíz, Ortiga Verde, Ortosifón (Té de Java), Vara de Oro, Vellosilla y Zarzaparrilla; el objetivo es el lavado renal. Reducir el consumo de sal, mantener las piernas en alto y practicar actividad física regular. Seguir una dieta natural y baja en sal. Ante un aumento repentino de peso con reducción de la orina, o si el origen es cardíaco, renal o hepático, consultar al médico."
   },
   {
     "id": 9,
@@ -369,7 +370,7 @@
       "HECES CLARAS",
       "FATIGA"
     ],
-    "recomendaciones": "Plantas coleréticas y colagogas como el Boldo, el Desmodio, la Alcachofera o el Cardo Mariano, que favorecen la producción y el flujo de bilis, junto con hepatoprotectoras como la Cúrcuma. Requiere siempre valoración médica para identificar la causa."
+    "recomendaciones": "Plantas coleréticas y colagogas como el Boldo, el Desmodio, la Alcachofera o el Cardo Mariano, que favorecen la producción y el flujo de bilis, junto con hepatoprotectoras como la Cúrcuma. Coleréticas adicionales: Fumaria, Menta y Romero; colagogas: Ajo, Rábano Negro, Diente de León y Sol de Oro. Requiere siempre valoración médica para identificar la causa."
   },
   {
     "id": 30,
@@ -381,7 +382,7 @@
       "DIGESTIONES PESADAS",
       "INTOLERANCIA A LAS GRASAS"
     ],
-    "recomendaciones": "Plantas colagogas y antilitiásicas biliares como el Crisantelo o el Rábano Negro, junto con coleréticas como la Alcachofera o el Boldo que favorecen el vaciado de la vesícula. Moderar el consumo de grasas saturadas y mantener un peso saludable."
+    "recomendaciones": "Plantas colagogas y antilitiásicas biliares como el Crisantelo o el Rábano Negro, junto con coleréticas como la Alcachofera o el Boldo que favorecen el vaciado de la vesícula. Coleréticas: Cardo Mariano, Cúrcuma, Fumaria, Menta y Romero; colagogas: Ajo, Desmodio y Diente de León; y Ácido málico (zumo de manzana), que dilata los conductos hepatobiliares y ablanda los cálculos. Moderar el consumo de grasas saturadas y mantener un peso saludable. Se forman por cálculos de colesterol en la vesícula, con fermentaciones intestinales y riesgo de obstrucción de los conductos."
   },
   {
     "id": 31,
@@ -393,7 +394,7 @@
       "DIGESTIONES PESADAS",
       "AUMENTO DE PESO"
     ],
-    "recomendaciones": "Plantas hepatoprotectoras como el Cardo Mariano, el Desmodio o la Cúrcuma, junto con depurativas hepáticas como la Alcachofera o el Diente de León. Reducir el consumo de azúcares refinados, alcohol y grasas saturadas, y mantener actividad física regular."
+    "recomendaciones": "Plantas hepatoprotectoras como el Cardo Mariano, el Desmodio o la Cúrcuma, junto con depurativas hepáticas como la Alcachofera o el Diente de León. Hepatoprotectoras: Cardo Mariano (silimarina), Alcachofera, Desmodio y Cúrcuma; coleréticas: Boldo, Fumaria, Menta y Romero; colagogas: Ajo y Rábano Negro; con Ortosifón y Ortiga como apoyo depurativo. Reducir el consumo de azúcares refinados, alcohol y grasas saturadas, y mantener actividad física regular. Para apoyar la desintoxicación hepática: fase I (activadoras: Alcaravea, Eneldo, Tomillo, Hipérico; inhibidoras: zumo de Pomelo, Curcumina, Capsaicina) y fase II (Cúrcuma, Arándanos, Té Verde, crucíferas, Diente de León, Cardo Mariano, Romero, Ajo), con aporte de vitaminas del grupo B, magnesio, zinc, glicina y taurina."
   },
   {
     "id": 32,
@@ -405,7 +406,7 @@
       "DIFICULTAD PARA COMER O HABLAR",
       "ENROJECIMIENTO"
     ],
-    "recomendaciones": "Plantas cicatrizantes y protectoras de la mucosa como el Regaliz o la Caléndula, en forma de enjuagues, junto con antiinflamatorias como la Manzanilla Dulce. Evitar alimentos ácidos o irritantes mientras persistan las lesiones."
+    "recomendaciones": "Plantas cicatrizantes y protectoras de la mucosa como el Regaliz o la Caléndula, en forma de enjuagues, junto con antiinflamatorias como la Manzanilla Dulce. También Própolis, Salvia, Sangre de Drago, Agrimonia, Eucalipto, Tomillo, Aloe y Tepezcohuite, en enjuagues, pinceladas o por vía oral (tisanas, cápsulas). Evitar alimentos ácidos o irritantes mientras persistan las lesiones. Entre las causas se citan la insuficiencia hepatobiliar, el estreñimiento, la candidiasis, el terreno acidificado, las alergias y la inmunodeficiencia."
   },
   {
     "id": 33,
@@ -417,7 +418,7 @@
       "DOLOR TORÁCICO",
       "SENSACIÓN DE NUDO EN LA GARGANTA"
     ],
-    "recomendaciones": "Plantas demulcentes y protectoras de la mucosa como el Regaliz o el Olmo Americano, que ayudan a calmar la irritación esofágica. Evitar comidas copiosas, no acostarse justo después de comer, y reducir el peso corporal si existe sobrepeso."
+    "recomendaciones": "Plantas demulcentes y protectoras de la mucosa como el Regaliz o el Olmo Americano, que ayudan a calmar la irritación esofágica. Plantas mucilaginosas como el Malvavisco, el Regaliz o el Llantén, y antiinflamatorias como la Caléndula o el Aloe. Evitar comidas copiosas, no acostarse justo después de comer, y reducir el peso corporal si existe sobrepeso. Evitar la dieta ácida y especiada. El test del bicarbonato permite evaluar si hay hipo o hiperclorhidria. Entre las causas están la presión diafragmática (tos, obesidad, embarazo), la edad, las lesiones y el nerviosismo."
   },
   {
     "id": 34,
@@ -428,9 +429,12 @@
       "DOLOR EPIGÁSTRICO",
       "NAUSEAS",
       "SENSACIÓN DE PLENITUD",
-      "PÉRDIDA DE APETITO"
+      "PÉRDIDA DE APETITO",
+      "VÓMITOS",
+      "HALITOSIS",
+      "LENGUA SABURRAL"
     ],
-    "recomendaciones": "Plantas gastroprotectoras y antiulcerosas como el Regaliz o la Manzanilla Dulce, junto con acción frente a Helicobacter pylori como el propio Regaliz o el Urucum. Evitar el picante, el alcohol, el café y las comidas muy copiosas."
+    "recomendaciones": "Plantas gastroprotectoras y antiulcerosas como el Regaliz o la Manzanilla Dulce, junto con acción frente a Helicobacter pylori como el propio Regaliz o el Urucum. Mucilaginosas como la Linaza, la Zaragatona, la Ispágula, el Fenogreco o el Aloe; cicatrizantes como la Sangre de Drago y el zumo de col o de patata; y, frente a Helicobacter pylori, Ajo, Alcaravea, Clavo, Cardamomo, Tomillo y Mástica. Evitar el picante, el alcohol, el café y las comidas muy copiosas. Evitar café, té, alcohol, fritos, azúcar, carnes rojas y quesos grasos. Entre las causas están la mala alimentación, el café y el alcohol, los antiinflamatorios (AINEs), Helicobacter pylori y los alimentos muy fríos o muy calientes."
   },
   {
     "id": 35,
@@ -441,9 +445,12 @@
       "ARDOR",
       "NAUSEAS",
       "SENSACIÓN DE ACIDEZ",
-      "PÉRDIDA DE APETITO"
+      "PÉRDIDA DE APETITO",
+      "PIROSIS",
+      "VÓMITOS CON SANGRE",
+      "HECES CON SANGRE"
     ],
-    "recomendaciones": "Plantas antiulcerosas y protectoras de la mucosa como el Regaliz, la Col-Brócoli o la Manzanilla Dulce, junto con acción antibacteriana frente a Helicobacter pylori. Requiere siempre diagnóstico y seguimiento médico para descartar complicaciones."
+    "recomendaciones": "Plantas antiulcerosas y protectoras de la mucosa como el Regaliz, la Col-Brócoli o la Manzanilla Dulce, junto con acción antibacteriana frente a Helicobacter pylori. Alcalinizantes que neutralizan el ácido clorhídrico y la pepsina, y cicatrizantes como el zumo de col, la patata cruda, el Aloe y la Sangre de Drago; frente a Helicobacter pylori, Ajo, Urucum, Alcaravea, Clavo, Cardamomo, Tomillo y Mástica. Requiere siempre diagnóstico y seguimiento médico para descartar complicaciones. Una fórmula tradicional combina zumo de col, patata y aloe con extracto de Sangre de Drago, 3-5 veces al día, la primera en ayunas; y una tisana de Regaliz, Malva, Llantén y Hierbaluisa, 3 veces al día. El estrés agrava la úlcera."
   },
   {
     "id": 36,
@@ -455,7 +462,7 @@
       "DESHIDRATACIÓN",
       "NAUSEAS"
     ],
-    "recomendaciones": "Plantas antidiarreicas y astringentes como la Tormentilla, la Agrimonia, el Algarrobo o la Manzanilla Dulce. Mantener una hidratación adecuada con sales de rehidratación y evitar lácteos y grasas mientras persistan los síntomas."
+    "recomendaciones": "Plantas antidiarreicas y astringentes como la Tormentilla, la Agrimonia, el Algarrobo o la Manzanilla Dulce. Otras astringentes: Nogal, Frambueso, Arándano, Hamamelis y Grosellero Negro; la harina de Algarrobo, la manzana rallada, la Zanahoria y el carbón vegetal actúan como antidiarreicos. Mantener una hidratación adecuada con sales de rehidratación y evitar lácteos y grasas mientras persistan los síntomas. Ayudan los sueros caseros, el agua de coco, la manzana rallada y el limón. Entre las causas están el SII, las intolerancias (lactosa, gluten), las infecciones, la colitis ulcerosa, el Crohn y la diverticulitis."
   },
   {
     "id": 37,
@@ -467,7 +474,7 @@
       "SENSACIÓN DE EVACUACIÓN INCOMPLETA",
       "HINCHAZÓN ABDOMINAL"
     ],
-    "recomendaciones": "Plantas laxantes mecánicas como la Zaragatona o el Lino (Linaza), de acción suave y segura a largo plazo, o laxantes estimulantes como la Frángula o la Cáscara Sagrada para un uso puntual. Aumentar la ingesta de agua y fibra, y mantener actividad física regular."
+    "recomendaciones": "Plantas laxantes mecánicas como la Zaragatona o el Lino (Linaza), de acción suave y segura a largo plazo, o laxantes estimulantes como la Frángula o la Cáscara Sagrada para un uso puntual. Otros laxantes mecánicos: Psyllium, Ispágula, Chía, Glucomanano y Agar-agar; laxantes suaves como la Bardana, la Achicoria, la Malva o el Malvavisco; y el Sen como laxante irritante de uso puntual. Aumentar la ingesta de agua y fibra, y mantener actividad física regular. Ayudan las ciruelas, la uva, los higos, la papaya y el kiwi. Entre las causas están la dieta pobre en fibra, el estrés, reprimir las evacuaciones y el exceso de estrógenos. Durante el embarazo y la lactancia evitar el Sen, la Frángula y la Cáscara Sagrada."
   },
   {
     "id": 38,
@@ -478,9 +485,11 @@
       "DOLOR ABDOMINAL",
       "URGENCIA PARA DEFECAR",
       "FATIGA",
-      "PÉRDIDA DE PESO"
+      "PÉRDIDA DE PESO",
+      "MOCO EN LAS HECES",
+      "ANEMIA POR FALTA DE HIERRO"
     ],
-    "recomendaciones": "Plantas antiinflamatorias y protectoras de la mucosa como la Cúrcuma, el Regaliz o el Llantén Menor pueden usarse como apoyo, nunca en sustitución del tratamiento médico especializado. El seguimiento por digestivo es imprescindible para el control de los brotes."
+    "recomendaciones": "Plantas antiinflamatorias y protectoras de la mucosa como la Cúrcuma, el Regaliz o el Llantén Menor pueden usarse como apoyo, nunca en sustitución del tratamiento médico especializado. Como apoyo también Psyllium, Achicoria y Bardana (ricas en FOS), Menta y Jengibre como digestivas, Hinojo como carminativa, y Aloe, Sangre de Drago y Tepezcohuite como cicatrizantes y antiinflamatorias. El seguimiento por digestivo es imprescindible para el control de los brotes."
   },
   {
     "id": 39,
@@ -491,9 +500,11 @@
       "DIARREA",
       "FATIGA",
       "PÉRDIDA DE PESO",
-      "FIEBRE"
+      "FIEBRE",
+      "DIARREA NOCTURNA",
+      "FÍSTULAS O ABSCESOS ANALES"
     ],
-    "recomendaciones": "Plantas antiinflamatorias como la Cúrcuma, junto con demulcentes y protectoras de la mucosa como el Regaliz o el Olmo Americano, siempre como complemento del tratamiento médico. El seguimiento por digestivo y una dieta individualizada son fundamentales."
+    "recomendaciones": "Plantas antiinflamatorias como la Cúrcuma, junto con demulcentes y protectoras de la mucosa como el Regaliz o el Olmo Americano, siempre como complemento del tratamiento médico. Como apoyo también Psyllium, Achicoria y Bardana (ricas en FOS), Menta y Jengibre como digestivas, Hinojo como carminativa, y Aloe, Sangre de Drago y Tepezcohuite como cicatrizantes y antiinflamatorias. El seguimiento por digestivo y una dieta individualizada son fundamentales."
   },
   {
     "id": 40,
@@ -505,7 +516,7 @@
       "ALTERNANCIA DE DIARREA Y ESTREÑIMIENTO",
       "GASES"
     ],
-    "recomendaciones": "Plantas carminativas y antiespasmódicas como la Menta, el Hinojo, la Manzanilla Romana o el Comino, que ayudan a reducir el dolor y los gases. Identificar y evitar los alimentos desencadenantes, y gestionar el estrés, que suele agravar los síntomas."
+    "recomendaciones": "Plantas carminativas y antiespasmódicas como la Menta, el Hinojo, la Manzanilla Romana o el Comino, que ayudan a reducir el dolor y los gases. También Jengibre y Manzanilla Dulce. Identificar y evitar los alimentos desencadenantes, y gestionar el estrés, que suele agravar los síntomas. Evitar lácteos, gluten y alimentos irritantes. El dolor suele aliviarse con la defecación."
   },
   {
     "id": 41,
@@ -515,9 +526,11 @@
       "DOLOR ABDOMINAL",
       "FIEBRE",
       "NAUSEAS",
-      "CAMBIOS EN EL RITMO INTESTINAL"
+      "CAMBIOS EN EL RITMO INTESTINAL",
+      "DOLOR EN LA FOSA ILÍACA IZQUIERDA",
+      "SENSIBILIDAD AL PALPAR"
     ],
-    "recomendaciones": "En el brote agudo el manejo es médico y puede requerir dieta específica o antibióticos; entre brotes, plantas antiinflamatorias como la Cúrcuma y una dieta rica en fibra pueden ayudar a prevenir nuevos episodios. Ante dolor intenso o fiebre, acudir a valoración médica."
+    "recomendaciones": "En el brote agudo el manejo es médico y puede requerir dieta específica o antibióticos; entre brotes, plantas antiinflamatorias como la Cúrcuma y una dieta rica en fibra pueden ayudar a prevenir nuevos episodios. Fibra soluble (Psyllium), probióticos y plantas antiinflamatorias como el Aloe o la Caléndula. Ante dolor intenso o fiebre, acudir a valoración médica. Suele originarse por estreñimiento crónico, con acumulación de heces en los divertículos."
   },
   {
     "id": 42,
@@ -529,7 +542,7 @@
       "CAMBIOS EN EL RITMO INTESTINAL",
       "MOLESTIAS LEVES"
     ],
-    "recomendaciones": "Una dieta rica en fibra junto con plantas laxantes mecánicas como la Zaragatona o el Lino (Linaza) ayudan a mantener un tránsito intestinal regular y reducir la presión en el colon. Mantener una buena hidratación y actividad física regular."
+    "recomendaciones": "Una dieta rica en fibra junto con plantas laxantes mecánicas como la Zaragatona o el Lino (Linaza) ayudan a mantener un tránsito intestinal regular y reducir la presión en el colon. Fibra soluble (Psyllium), probióticos y plantas antiinflamatorias como el Aloe o la Caléndula. Mantener una buena hidratación y actividad física regular."
   },
   {
     "id": 43,
@@ -542,7 +555,7 @@
       "MOLESTIAS DIGESTIVAS",
       "DIFICULTAD PARA RESPIRAR"
     ],
-    "recomendaciones": "Plantas antihistamínicas y antialérgicas como la Ortiga Verde, el Ginkgo o la Cúrcuma pueden ayudar a modular la respuesta ante síntomas leves, pero la base del manejo es identificar y evitar el alimento implicado. Ante signos de reacción grave (dificultad para respirar, hinchazón importante), es una urgencia médica."
+    "recomendaciones": "Plantas antihistamínicas y antialérgicas como la Ortiga Verde, el Ginkgo o la Cúrcuma pueden ayudar a modular la respuesta ante síntomas leves, pero la base del manejo es identificar y evitar el alimento implicado. Antialérgicas adicionales: Grosellero Negro, Perilla, Helicriso y Fumaria. La disbiosis intestinal favorece la hiperpermeabilidad y estas reacciones, por lo que ayudan los probióticos y los prebióticos. Ante signos de reacción grave (dificultad para respirar, hinchazón importante), es una urgencia médica."
   },
   {
     "id": 44,
@@ -552,9 +565,11 @@
       "CONGESTIÓN NASAL",
       "PRESIÓN FACIAL",
       "DOLOR DE CABEZA",
-      "SECRECIÓN NASAL"
+      "SECRECIÓN NASAL",
+      "MAL ALIENTO",
+      "TOS NOCTURNA"
     ],
-    "recomendaciones": "Plantas expectorantes y mucolíticas como el Eucalipto, la Hiedra o el Llantén Mayor, junto con antiinflamatorias como la Cúrcuma. Los vahos con Eucalipto o Pino y los lavados nasales con suero salino ayudan a despejar la congestión."
+    "recomendaciones": "Plantas expectorantes y mucolíticas como el Eucalipto, la Hiedra o el Llantén Mayor, junto con antiinflamatorias como la Cúrcuma. Antiinfecciosas: Orégano, Marrubio, Ajedrea, Helenio, Tomillo y Ajo (por vía oral o inhalación); descongestionantes y antiinflamatorias: Grosellero Negro, Malvavisco, Gordolobo y Sol de Oro por vía oral, y Lavanda, Menta y Eucalipto en inhalación. En la forma crónica, inmunológicas (Equinácea, Própoleo, Uña de Gato), depurativas hepáticas e intestinales y plantas ricas en betacarotenos (Aloe, mucilaginosas). Los vahos con Eucalipto o Pino y los lavados nasales con suero salino ayudan a despejar la congestión. Entre las causas están infecciones (virus, bacterias, hongos), alergias, rinitis, pólipos y desvío de tabique."
   },
   {
     "id": 45,
@@ -564,9 +579,10 @@
       "CONGESTIÓN NASAL",
       "ESTORNUDOS",
       "SECRECIÓN NASAL",
-      "PICOR NASAL"
+      "PICOR NASAL",
+      "OJOS LLOROSOS"
     ],
-    "recomendaciones": "En la rinitis alérgica, plantas antihistamínicas como la Cúrcuma, el Ginkgo o la Ortiga Verde pueden ayudar a modular la respuesta; en la de origen infeccioso, expectorantes como el Eucalipto o el Llantén Mayor. Identificar y evitar el alérgeno cuando sea posible."
+    "recomendaciones": "En la rinitis alérgica, plantas antihistamínicas como la Cúrcuma, el Ginkgo o la Ortiga Verde pueden ayudar a modular la respuesta; en la de origen infeccioso, expectorantes como el Eucalipto o el Llantén Mayor. En la rinitis simple, astringentes como el Hamamelis o el Roble y antiinfecciosas como la Menta, el Eucalipto o el Pino; en la alérgica, antialérgicas como el Grosellero Negro, el Llantén, el Gordolobo, el Pensamiento, el Helicriso, la Fumaria, el Pino Marítimo o la Perilla. Identificar y evitar el alérgeno cuando sea posible. Los lavados nasales con suero fisiológico o agua de mar, con infusión de plantas astringentes o antialérgicas, ayudan a despejar."
   },
   {
     "id": 46,
@@ -576,9 +592,10 @@
       "DOLOR DE GARGANTA",
       "DIFICULTAD PARA TRAGAR",
       "ENROJECIMIENTO DE LA GARGANTA",
-      "FIEBRE LEVE"
+      "FIEBRE LEVE",
+      "GANGLIOS INFLAMADOS"
     ],
-    "recomendaciones": "Plantas antisépticas y antiinflamatorias como la Salvia, el Tomillo o el Regaliz, en forma de gárgaras o infusión, junto con el Própoleo por su acción antibacteriana. Mantener una buena hidratación y evitar el tabaco y los irritantes."
+    "recomendaciones": "Plantas antisépticas y antiinflamatorias como la Salvia, el Tomillo o el Regaliz, en forma de gárgaras o infusión, junto con el Própoleo por su acción antibacteriana. Antiinfecciosas por vía oral: Equinácea, Tomillo, Helenio, Uña de Gato y Marrubio; antiinflamatorias y demulcentes: Gordolobo, Llantén, Violeta y Malvavisco; antisépticas en gárgaras: Tomillo, Romero, Salvia y Própoleo; analgésicas y febrífugas: Sauce y Ulmaria. Mantener una buena hidratación y evitar el tabaco y los irritantes."
   },
   {
     "id": 47,
@@ -589,9 +606,10 @@
       "DIFICULTAD PARA TRAGAR",
       "INFLAMACIÓN DE LAS AMÍGDALAS",
       "FIEBRE",
-      "PLACAS BLANQUECINAS EN LA GARGANTA"
+      "PLACAS BLANQUECINAS EN LA GARGANTA",
+      "GANGLIOS INFLAMADOS"
     ],
-    "recomendaciones": "Plantas antisépticas como la Salvia o el Tomillo, en gárgaras, junto con el Própoleo o la Equinácea como apoyo inmunitario. Si aparecen placas, fiebre alta o el dolor de garganta es muy intenso, conviene descartar un origen bacteriano con un profesional médico."
+    "recomendaciones": "Plantas antisépticas como la Salvia o el Tomillo, en gárgaras, junto con el Própoleo o la Equinácea como apoyo inmunitario. Antiinfecciosas por vía oral: Equinácea, Tomillo, Helenio, Uña de Gato y Marrubio; antiinflamatorias y demulcentes: Gordolobo, Llantén, Violeta y Malvavisco; antisépticas en gárgaras: Tomillo, Romero, Salvia y Própoleo; analgésicas y febrífugas: Sauce y Ulmaria. Si aparecen placas, fiebre alta o el dolor de garganta es muy intenso, conviene descartar un origen bacteriano con un profesional médico."
   },
   {
     "id": 48,
@@ -601,9 +619,11 @@
       "RONQUERA",
       "DOLOR DE GARGANTA",
       "TOS SECA",
-      "DIFICULTAD PARA HABLAR"
+      "DIFICULTAD PARA HABLAR",
+      "GANGLIOS INFLAMADOS",
+      "SEQUEDAD DE GARGANTA"
     ],
-    "recomendaciones": "Plantas emolientes y antiinflamatorias como el Regaliz o el Malvavisco (Altea), junto con el Tomillo por su acción expectorante si hay mucosidad asociada. Descansar la voz, evitar el tabaco y mantener una buena hidratación."
+    "recomendaciones": "Plantas emolientes y antiinflamatorias como el Regaliz o el Malvavisco (Altea), junto con el Tomillo por su acción expectorante si hay mucosidad asociada. Demulcentes y antiinflamatorias: Malvavisco, Llantén, Gordolobo, Erísimo y Salvia; antisépticas: Tomillo y Orégano. Descansar la voz, evitar el tabaco y mantener una buena hidratación. Evitar el aire acondicionado y el esfuerzo vocal. Entre las causas están las infecciones, las alergias, el reflujo y los irritantes."
   },
   {
     "id": 49,
@@ -614,9 +634,11 @@
       "DOLOR MUSCULAR",
       "MALESTAR GENERAL",
       "DOLOR DE CABEZA",
-      "TOS"
+      "TOS",
+      "NÁUSEAS",
+      "VÓMITOS"
     ],
-    "recomendaciones": "Plantas antivíricas e inmunoestimulantes como el Saúco, la Equinácea, el Astrágalo o el Própoleo, junto con el Sauce o la Ulmaria para el malestar y la fiebre. Reposo, buena hidratación y aislamiento en los primeros días para evitar el contagio."
+    "recomendaciones": "Plantas antivíricas e inmunoestimulantes como el Saúco, la Equinácea, el Astrágalo o el Própoleo, junto con el Sauce o la Ulmaria para el malestar y la fiebre. Antivíricas y antiinfecciosas: Marrubio, Gordolobo, Equinácea, Saúco, Ajo, Tomillo y Própoleo; expectorantes: Anís, Llantén, Romero, Hinojo y Eucalipto; mucolíticas: Cebolla y Hiedra; antipiréticas y analgésicas: Sauce, Ulmaria y Saúco; antitusivas: Drosera (tos seca), Helenio, Líquen de Islandia y Grindelia; en inhalación, aceites esenciales de Lavanda, Pino y Niaouli. Beber líquidos (zumos, caldos, tisanas) y evitar los lácteos. Reposo, buena hidratación y aislamiento en los primeros días para evitar el contagio."
   },
   {
     "id": 50,
@@ -627,9 +649,11 @@
       "ESTORNUDOS",
       "DOLOR DE GARGANTA",
       "TOS",
-      "FIEBRE LEVE"
+      "FIEBRE LEVE",
+      "RINORREA",
+      "CARRASPERA"
     ],
-    "recomendaciones": "Plantas expectorantes y antivíricas como el Saúco, el Eucalipto o el Tomillo, junto con el Própoleo como apoyo inmunitario. Descanso, buena hidratación y vahos con Eucalipto para aliviar la congestión."
+    "recomendaciones": "Plantas expectorantes y antivíricas como el Saúco, el Eucalipto o el Tomillo, junto con el Própoleo como apoyo inmunitario. Antivíricas y antiinfecciosas: Marrubio, Gordolobo, Equinácea, Saúco, Ajo, Tomillo y Própoleo; expectorantes: Anís, Llantén, Romero, Hinojo y Eucalipto; mucolíticas: Cebolla y Hiedra; antipiréticas y analgésicas: Sauce, Ulmaria y Saúco; antitusivas: Drosera (tos seca), Helenio, Líquen de Islandia y Grindelia; en inhalación, aceites esenciales de Lavanda, Pino y Niaouli. Beber líquidos (zumos, caldos, tisanas) y evitar los lácteos. Descanso, buena hidratación y vahos con Eucalipto para aliviar la congestión."
   },
   {
     "id": 51,
@@ -639,9 +663,12 @@
       "DOLOR DE OÍDO",
       "SENSACIÓN DE OÍDO TAPONADO",
       "PÉRDIDA DE AUDICIÓN TEMPORAL",
-      "FIEBRE"
+      "FIEBRE",
+      "PICOR EN EL OÍDO",
+      "HINCHAZÓN",
+      "SUPURACIÓN"
     ],
-    "recomendaciones": "El Ajo y el Própoleo, por su acción antiinfecciosa, se han usado tradicionalmente como apoyo, aunque el dolor de oído en niños o la fiebre asociada requieren siempre valoración médica antes de aplicar cualquier remedio en el oído."
+    "recomendaciones": "El Ajo y el Própoleo, por su acción antiinfecciosa, se han usado tradicionalmente como apoyo, aunque el dolor de oído en niños o la fiebre asociada requieren siempre valoración médica antes de aplicar cualquier remedio en el oído. En la otitis media (causas: resfriados, alergias, exceso de moco, adenoides, humo de tabaco), por vía interna se emplean antiinfecciosas como el Gordolobo, la Equinácea y el Tomillo, y antiinflamatorias como el Harpagofito o el Llantén; en la otitis externa u «oído del nadador» (infección bacteriana en la mayoría de los casos), Gordolobo, Equinácea, Helenio, Tomillo y Caléndula, y de forma tópica en la piel externa, aceites esenciales diluidos en aceite base (Niaouli, Espliego, Geranio) y Manzanilla o Lavanda como antiinflamatorias. No aplicar nada en el conducto si hay supuración o sospecha de perforación del tímpano."
   },
   {
     "id": 52,
@@ -653,7 +680,7 @@
       "OPRESIÓN EN EL PECHO",
       "TOS"
     ],
-    "recomendaciones": "Plantas broncodilatadoras y antiasmáticas como la Boswelia, el Marrubio o el Romero pueden usarse como apoyo, nunca en sustitución de la medicación broncodilatadora pautada. Evitar los desencadenantes conocidos (alérgenos, humo, frío) y mantener un seguimiento médico regular."
+    "recomendaciones": "Plantas broncodilatadoras y antiasmáticas como la Boswelia, el Marrubio o el Romero pueden usarse como apoyo, nunca en sustitución de la medicación broncodilatadora pautada. Broncodilatadoras y antidisneicas: Fumaria, Viburno, Té Verde, Desmodio, Esquisandra y Perilla; antiespasmódicas: Drosera, Grindelia, Biznaga, Tomillo y Anís Verde; expectorantes: Regaliz, Gordolobo, Helenio y Malva; antioxidantes: Ginkgo, Té Verde, Quercetina, Selenio y vitaminas A, C y E; y sedantes como la Pasiflora, la Amapola, la Valeriana o el Tilo. Evitar los desencadenantes conocidos (alérgenos, humo, frío) y mantener un seguimiento médico regular. Entre los desencadenantes están la genética, el ejercicio, el estrés, las alergias (polen, ácaros) y los cambios climáticos. Seguir una dieta alcalina, hipoalergénica y rica en antioxidantes."
   },
   {
     "id": 53,
@@ -663,9 +690,10 @@
       "TOS CON FLEMA",
       "DIFICULTAD PARA RESPIRAR",
       "SIBILANCIAS",
-      "FATIGA"
+      "FATIGA",
+      "DOLOR TORÁCICO"
     ],
-    "recomendaciones": "Plantas expectorantes y broncodilatadoras como el Tomillo, el Marrubio, la Hiedra o el Grindelia, junto con antiinflamatorias como el Eucalipto. Mantener una buena hidratación para fluidificar las secreciones y evitar el humo del tabaco."
+    "recomendaciones": "Plantas expectorantes y broncodilatadoras como el Tomillo, el Marrubio, la Hiedra o el Grindelia, junto con antiinflamatorias como el Eucalipto. Antiinfecciosas orales: Helenio, Marrubio, Capuchina y Laurel; en inhalación, Hisopo, Pino, Niaouli y Árbol del Té; expectorantes y fluidificantes: Helenio, Líquen de Islandia, Drosera y Regaliz; broncodilatadoras: Boswelia, Desmodio, Perilla, Té Verde y Viburno. Mantener una buena hidratación para fluidificar las secreciones y evitar el humo del tabaco. Puede ser infecciosa (virus, bacterias) o asmática (crónica, con broncoespasmo y disnea)."
   },
   {
     "id": 54,
@@ -714,7 +742,7 @@
       "PESADEZ DE PIERNAS",
       "PEQUEÑAS HEMORRAGIAS CUTÁNEAS"
     ],
-    "recomendaciones": "Plantas vasoprotectoras y venotónicas como la Vid Roja, el Castaño de Indias, el Hamamelis, el Rusco o la Centella Asiática, que fortalecen la pared de los capilares. Un aporte adecuado de vitamina C y bioflavonoides a través de la dieta también contribuye a la salud vascular."
+    "recomendaciones": "Plantas vasoprotectoras y venotónicas como la Vid Roja, el Castaño de Indias, el Hamamelis, el Rusco o la Centella Asiática, que fortalecen la pared de los capilares. También Ciprés, Ginkgo, Meliloto, Arándanos, Grosellas, Limón, Naranja y Escaramujo como vasoprotectoras. Un aporte adecuado de vitamina C y bioflavonoides a través de la dieta también contribuye a la salud vascular."
   },
   {
     "id": 58,
@@ -738,7 +766,7 @@
       "INTOLERANCIA A LAS GRASAS",
       "HINCHAZÓN ABDOMINAL"
     ],
-    "recomendaciones": "Plantas colagogas y coleréticas como la Alcachofera, el Boldo, el Desmodio o el Rábano Negro, que favorecen un vaciado biliar más regular. Comidas menos copiosas y reducir el consumo de grasas saturadas suele aliviar los síntomas."
+    "recomendaciones": "Plantas colagogas y coleréticas como la Alcachofera, el Boldo, el Desmodio o el Rábano Negro, que favorecen un vaciado biliar más regular. También Cardo Mariano, Cúrcuma, Fumaria, Menta, Romero, Ajo y Diente de León. Comidas menos copiosas y reducir el consumo de grasas saturadas suele aliviar los síntomas."
   },
   {
     "id": 60,
@@ -762,7 +790,7 @@
       "ARCO CORNEAL",
       "ANALÍTICA ALTERADA"
     ],
-    "recomendaciones": "Plantas hipocolesterolemiantes e hipolipemiantes como la Alcachofera, el Ajo, la Cúrcuma, el Olivo o el Té Verde, junto con fuentes de fibra soluble como la Avena o la Linaza. Dieta rica en fibra y baja en grasas saturadas, ejercicio regular y control analítico periódico. El Ajo puede interaccionar con los anticoagulantes."
+    "recomendaciones": "Plantas hipocolesterolemiantes e hipolipemiantes como la Alcachofera, el Ajo, la Cúrcuma, el Olivo o el Té Verde, junto con fuentes de fibra soluble como la Avena o la Linaza. También Soja (lecitina), Levadura de Arroz Rojo, Reishi y Guggul. Dieta rica en fibra y baja en grasas saturadas, ejercicio regular y control analítico periódico. El Ajo puede interaccionar con los anticoagulantes. La Levadura de Arroz Rojo actúa como las estatinas y no debe combinarse con ellas sin supervisión médica."
   },
   {
     "id": 62,
@@ -775,7 +803,7 @@
       "VISIÓN BORROSA",
       "CICATRIZACIÓN LENTA"
     ],
-    "recomendaciones": "Como apoyo al tratamiento médico, plantas hipoglucemiantes como la Canela, el Alholva, la Gimnema, el Olivo o el Nopal, junto con la Cúrcuma. Dieta de bajo índice glucémico, ejercicio regular y control de la glucemia. Estas plantas pueden potenciar los antidiabéticos, por lo que se deben usar con supervisión médica."
+    "recomendaciones": "Como apoyo al tratamiento médico, plantas hipoglucemiantes como la Canela, el Alholva, la Gimnema, el Olivo o el Nopal, junto con la Cúrcuma. Otras hipoglucemiantes: Ajo, Cilantro, Estevia, Judía (vainas), Ginseng y Salvia; como apoyo indirecto, antioxidantes como el Té Verde y vasoprotectoras como el Ginkgo o la Vid Roja. Dieta de bajo índice glucémico, ejercicio regular y control de la glucemia. Estas plantas pueden potenciar los antidiabéticos, por lo que se deben usar con supervisión médica. En la diabetes tipo 1 (autoinmune, insulinodependiente) solo como apoyo. También son relevantes la prediabetes y la diabetes gestacional, con intolerancia a la glucosa."
   },
   {
     "id": 63,
@@ -788,7 +816,7 @@
       "ZUMBIDO DE OÍDOS",
       "PALPITACIONES"
     ],
-    "recomendaciones": "Como apoyo y nunca en sustitución del tratamiento médico, plantas hipotensoras como el Espino Albar, el Olivo, el Hibisco, el Ajo o el Apio. Reducir el consumo de sal, mantener un peso saludable, hacer ejercicio y controlar la tensión con regularidad. Pueden potenciar los antihipertensivos."
+    "recomendaciones": "Como apoyo y nunca en sustitución del tratamiento médico, plantas hipotensoras como el Espino Albar, el Olivo, el Hibisco, el Ajo o el Apio. Otras plantas: Cebolla, Ginkgo, Reishi y Alpiste como hipotensoras; Valeriana, Pasiflora, Amapola, Tilo y Melisa como sedantes-hipotensoras; y diuréticas como el Abedul, la Cola de Caballo, la Esparraguera, el Maíz, el Fresno, la Cereza o el Ortosifón. Reducir el consumo de sal, mantener un peso saludable, hacer ejercicio y controlar la tensión con regularidad. Pueden potenciar los antihipertensivos. Se considera hipertensión una tensión ≥ 140/90 mmHg (normal: 120/70-130/85 mmHg). Entre las causas están la genética, la obesidad, la dieta alta en sal, el estrés y el sedentarismo."
   },
   {
     "id": 64,
@@ -801,7 +829,7 @@
       "CALAMBRES NOCTURNOS",
       "PICOR EN LAS PIERNAS"
     ],
-    "recomendaciones": "Plantas venotónicas y vasoprotectoras como el Castaño de Indias, el Rusco, la Vid Roja, la Centella Asiática o el Hamamelis. Evitar estar mucho tiempo de pie o sentado, elevar las piernas al descansar, caminar a diario y evitar el calor excesivo."
+    "recomendaciones": "Plantas venotónicas y vasoprotectoras como el Castaño de Indias, el Rusco, la Vid Roja, la Centella Asiática o el Hamamelis. También Ciprés, Ginkgo, Meliloto y Avellano; como vasoregeneradoras, Cola de Caballo, Bambú, Aloe Vera, Bayas de Goji, Acerola, Rosa Canina y Baobab. Evitar estar mucho tiempo de pie o sentado, elevar las piernas al descansar, caminar a diario y evitar el calor excesivo. Entre las causas están la estasis venosa, la obesidad, el embarazo, el sedentarismo y la genética."
   },
   {
     "id": 65,
@@ -814,7 +842,7 @@
       "RONQUERA",
       "OPRESIÓN EN EL PECHO"
     ],
-    "recomendaciones": "En la tos seca, plantas demulcentes y antitusivas como la Malva Común, el Malvavisco, el Llantén Menor o el Líquen de Islandia; en la tos con flemas, plantas expectorantes y mucolíticas como el Eucalipto, el Gordolobo, el Tomillo Serpol o la Hiedra. Mantener una buena hidratación y evitar el humo del tabaco. Si dura más de dos semanas o hay fiebre alta, consultar al médico."
+    "recomendaciones": "En la tos seca, plantas demulcentes y antitusivas como la Malva Común, el Malvavisco, el Llantén Menor o el Líquen de Islandia; en la tos con flemas, plantas expectorantes y mucolíticas como el Eucalipto, el Gordolobo, el Tomillo Serpol o la Hiedra. Antitusivas y béquicas adicionales: Drosera (tos seca), Helenio, Grindelia, Amapola, Anís Verde, Capuchina, Violeta, Marrubio y Tilo; expectorantes: Anís, Hinojo, Romero, Regaliz, Erísimo, Cebolla, Ajo, Helicriso y yemas de Pino. Mantener una buena hidratación y evitar el humo del tabaco. Si dura más de dos semanas o hay fiebre alta, consultar al médico."
   },
   {
     "id": 66,
@@ -827,7 +855,7 @@
       "CÓLICOS",
       "RUIDOS INTESTINALES"
     ],
-    "recomendaciones": "Plantas carminativas como el Hinojo, el Anís Verde, la Alcaravea, el Comino, la Menta o el Jengibre, que favorecen la expulsión de gases. Comer despacio, masticar bien y reducir las bebidas con gas y los alimentos flatulentos."
+    "recomendaciones": "Plantas carminativas como el Hinojo, el Anís Verde, la Alcaravea, el Comino, la Menta o el Jengibre, que favorecen la expulsión de gases. Menta, Anís e Hinojo son las carminativas clásicas. Comer despacio, masticar bien y reducir las bebidas con gas y los alimentos flatulentos."
   },
   {
     "id": 67,
@@ -852,7 +880,7 @@
       "RECUPERACIÓN LENTA",
       "HERPES O AFTAS RECURRENTES"
     ],
-    "recomendaciones": "Plantas inmunomoduladoras e inmunoestimulantes como la Equinacea, el Astrágalo, el Reishi, el Shiitake, el Eleuterococo o la Acerola, junto con el Própoleo. Dormir lo suficiente, seguir una dieta rica en frutas y verduras, hacer ejercicio moderado y controlar el estrés. Evitar las plantas inmunoestimulantes en enfermedades autoinmunes."
+    "recomendaciones": "Plantas inmunomoduladoras e inmunoestimulantes como la Equinacea, el Astrágalo, el Reishi, el Shiitake, el Eleuterococo o la Acerola, junto con el Própoleo. También Uña de Gato, Maitake, Champiñón del Sol, Ashwagandha, Ginseng, Rodiola, Suma, Té Verde, Cúrcuma y Brócoli; y como inmunoestimulantes antiinfecciosos, Ajo, Ajedrea, Helenio, Marrubio, Tomillo y Própoleo. Dormir lo suficiente, seguir una dieta rica en frutas y verduras, hacer ejercicio moderado y controlar el estrés. Evitar las plantas inmunoestimulantes en enfermedades autoinmunes. Entre las causas están el déficit de ácidos grasos esenciales, de vitaminas y minerales, el exceso de tóxicos, el deterioro de la flora intestinal y el estrés crónico. Ayudan los antioxidantes (vitaminas C y E, selenio, zinc) y la depuración hepática e intestinal."
   },
   {
     "id": 69,
@@ -916,7 +944,7 @@
       "INFLAMACIÓN",
       "SENSACIÓN DE BULTO"
     ],
-    "recomendaciones": "Plantas venotónicas, antihemorroidales y astringentes como el Castaño de Indias, el Hamamelis, el Rusco, la Vid Roja o el Ciprés, por vía interna y en pomadas o baños de asiento. Aumentar la fibra y la hidratación para evitar el estreñimiento, no forzar al defecar y mantener una buena higiene de la zona."
+    "recomendaciones": "Plantas venotónicas, antihemorroidales y astringentes como el Castaño de Indias, el Hamamelis, el Rusco, la Vid Roja o el Ciprés, por vía interna y en pomadas o baños de asiento. También Nogal, Algarrobo y Roble (tópico, en baños de asiento). Aumentar la fibra y la hidratación para evitar el estreñimiento, no forzar al defecar y mantener una buena higiene de la zona."
   },
   {
     "id": 74,
@@ -929,7 +957,7 @@
       "PÉRDIDA DE APETITO",
       "INQUIETUD NOCTURNA"
     ],
-    "recomendaciones": "Plantas antihelmínticas y vermífugas como el Ajo, la Semilla de Calabaza, el Ajenjo, la Ajedrea o el Neem, como apoyo al tratamiento antiparasitario. Lavado frecuente de manos, higiene de los alimentos y tratamiento de todos los convivientes. El Ajenjo no debe usarse durante el embarazo ni de forma prolongada. Es necesario el diagnóstico médico."
+    "recomendaciones": "Plantas antihelmínticas y vermífugas como el Ajo, la Semilla de Calabaza, el Ajenjo, la Ajedrea o el Neem, como apoyo al tratamiento antiparasitario. También Artemisa (no en el embarazo), Cebolla, Nogal y Papaya (látex) como vermífugas. Lavado frecuente de manos, higiene de los alimentos y tratamiento de todos los convivientes. El Ajenjo no debe usarse durante el embarazo ni de forma prolongada. Es necesario el diagnóstico médico."
   },
   {
     "id": 75,
@@ -941,7 +969,7 @@
       "SANGRADO POR HERIDAS SUPERFICIALES",
       "HEMATOMAS"
     ],
-    "recomendaciones": "Plantas hemostáticas y astringentes como la Bolsa de Pastor, la Milenrama, la Agrimonia, la Cola de Caballo o la Tormentilla, por vía tópica en compresas o enjuagues. También Alfalfa y Ciprés como antihemorrágicas. Presionar la zona y mantenerla limpia. Si el sangrado es abundante, persistente o recurrente, acudir al médico."
+    "recomendaciones": "Plantas hemostáticas y astringentes como la Bolsa de Pastor, la Milenrama, la Agrimonia, la Cola de Caballo o la Tormentilla, por vía tópica en compresas o enjuagues. También Avellano, Roble y Hamamelis (hemostáticas, vasoconstrictoras y cicatrizantes). También Alfalfa y Ciprés como antihemorrágicas. Presionar la zona y mantenerla limpia. Si el sangrado es abundante, persistente o recurrente, acudir al médico."
   },
   {
     "id": 76,
@@ -1017,7 +1045,7 @@
       "NERVIOSISMO",
       "OPRESIÓN EN EL PECHO"
     ],
-    "recomendaciones": "Plantas cardiotónicas y sedantes suaves como el Espino Albar, la Melisa, el Muérdago o la Pasiflora, como apoyo en palpitaciones de origen nervioso. Reducir la cafeína y el alcohol, practicar técnicas de relajación y descartar siempre una causa cardíaca con el médico."
+    "recomendaciones": "Plantas cardiotónicas y sedantes suaves como el Espino Albar, la Melisa, el Muérdago o la Pasiflora, como apoyo en palpitaciones de origen nervioso. Antiarrítmicas: Biznaga, Agripalma y Melisa; sedantes: Valeriana, Amapola y Tilo. Reducir la cafeína y el alcohol, practicar técnicas de relajación y descartar siempre una causa cardíaca con el médico."
   },
   {
     "id": 82,
@@ -1069,7 +1097,7 @@
       "SENSACIÓN DE DESMAYO",
       "MANOS Y PIES FRÍOS"
     ],
-    "recomendaciones": "Como apoyo, plantas hipertensoras como el Romero, y venotónicas y vasoprotectoras como el Castaño de Indias, el Rusco, la Vid Roja o la Centella Asiática, que mejoran el tono de las venas y el retorno venoso, útiles sobre todo en la hipotensión al ponerse de pie. El Regaliz eleva la tensión por su glicirricina, pero solo debe usarse de forma puntual y con supervisión médica, y está contraindicado en hipertensión, enfermedad cardíaca o renal y con diuréticos. Levantarse despacio, repartir la comida en varias tomas pequeñas, mantener una buena hidratación, evitar el alcohol y los cambios bruscos de temperatura, y valorar medias de compresión. Si hay desmayos repetidos, consultar al médico."
+    "recomendaciones": "Como apoyo, plantas hipertensoras como el Romero, y venotónicas y vasoprotectoras como el Castaño de Indias, el Rusco, la Vid Roja o la Centella Asiática, que mejoran el tono de las venas y el retorno venoso, útiles sobre todo en la hipotensión al ponerse de pie. Espino Blanco como reguladora de la tensión, y adaptógenas como el Ginseng, el Eleuterococo o la Rodiola. El Regaliz eleva la tensión por su glicirricina, pero solo debe usarse de forma puntual y con supervisión médica, y está contraindicado en hipertensión, enfermedad cardíaca o renal y con diuréticos. Levantarse despacio, repartir la comida en varias tomas pequeñas, mantener una buena hidratación, evitar el alcohol y los cambios bruscos de temperatura, y valorar medias de compresión. Si hay desmayos repetidos, consultar al médico."
   },
   {
     "id": 86,
@@ -1137,5 +1165,102 @@
       "INFLAMACIÓN DE LA ZONA"
     ],
     "recomendaciones": "Plantas cicatrizantes como la Centella Asiática, el Aloe Vera, la Caléndula, la Rosa Mosqueta, el Hipérico, el Tepezcohuite o la Sangre de Drago, junto con antisépticas como el Tomillo, la Lavanda o el Árbol del Té para prevenir la infección. Mantener la zona limpia y protegida, y tratar la causa de fondo (circulación, presión, glucemia). Requiere valoración médica, especialmente si hay diabetes o mala circulación, o si la úlcera no mejora o muestra signos de infección."
+  },
+  {
+    "id": 91,
+    "afeccion": "ALERGIAS (HIPERSENSIBILIDAD)",
+    "definicion": "Reacción exagerada del sistema inmunitario ante sustancias normalmente inofensivas, como el polen, el polvo o ciertos alimentos, favorecida por la disbiosis intestinal y la sobrecarga hepática.",
+    "sintomas": [
+      "ESTORNUDOS",
+      "PICOR",
+      "OJOS LLOROSOS",
+      "CONGESTIÓN NASAL",
+      "RONCHAS EN LA PIEL"
+    ],
+    "recomendaciones": "Plantas antialérgicas como el Grosellero Negro, la Perilla, el Helicriso y la Fumaria, junto con el Llantén, el Pensamiento, la Calaguala o el Pino Marítimo. Apoyar la desintoxicación hepática (Cardo Mariano, Alcachofera, Cúrcuma) y la higiene intestinal con probióticos, prebióticos y fibra. Aumentar el Omega 3 y evitar los lácteos, el azúcar y las harinas refinadas. Los alérgenos externos (polen, polvo) son desencadenantes, no la causa de fondo. Ante dificultad para respirar o hinchazón importante, es una urgencia médica."
+  },
+  {
+    "id": 92,
+    "afeccion": "INSUFICIENCIA PANCREÁTICA EXOCRINA",
+    "definicion": "Déficit de las enzimas que el páncreas segrega al duodeno (amilasa, lipasa, tripsina), lo que dificulta la digestión de los alimentos.",
+    "sintomas": [
+      "DISPEPSIA",
+      "HECES PASTOSAS CON RESTOS DE ALIMENTOS",
+      "DIGESTIONES PESADAS"
+    ],
+    "recomendaciones": "Plantas eupépticas como la Genciana, el Marrubio, la Alcaravea, la Fumaria o la Achicoria, junto con alimentos y plantas ricas en enzimas como el Jengibre, la Ortiga Mayor, la Papaya, la Piña, los Higos frescos y los germinados. Conviene confirmar el déficit enzimático con un profesional médico."
+  },
+  {
+    "id": 93,
+    "afeccion": "INSUFICIENCIA CARDÍACA",
+    "definicion": "Incapacidad del corazón para bombear la sangre con eficacia, lo que provoca fatiga, falta de aire y retención de líquidos.",
+    "sintomas": [
+      "FATIGA",
+      "FALTA DE AIRE",
+      "HINCHAZÓN DE TOBILLOS Y PIERNAS",
+      "AUMENTO DE PESO POR RETENCIÓN DE LÍQUIDOS"
+    ],
+    "recomendaciones": "Como apoyo y nunca en sustitución del tratamiento médico, plantas cardiotónicas y cardioprotectoras como la Agripalma, el Ajo, el Espino Blanco, el Olivo o el Tilo, junto con diuréticas como el Abedul o la Cola de Caballo. Reducir la sal y controlar el peso. Requiere siempre seguimiento cardiológico: las plantas cardiotónicas y diuréticas pueden interaccionar con la medicación cardíaca."
+  },
+  {
+    "id": 94,
+    "afeccion": "ANGINA DE PECHO E INSUFICIENCIA CORONARIA",
+    "definicion": "Dolor torácico por falta de oxígeno en el músculo cardíaco, desencadenado por el esfuerzo físico, el estrés o la obstrucción de las arterias coronarias.",
+    "sintomas": [
+      "DOLOR U OPRESIÓN EN EL PECHO",
+      "DOLOR AL ESFUERZO",
+      "DOLOR QUE SE IRRADIA AL BRAZO",
+      "FALTA DE AIRE"
+    ],
+    "recomendaciones": "Como complemento, plantas vasodilatadoras coronarias y vasoprotectoras como el Ajo, la Biznaga, el Espino Blanco, el Olivo, el Tilo (albura) o el Ginkgo. Reducir los factores de riesgo: dieta baja en grasas saturadas y sal, ejercicio adaptado, no fumar y controlar el estrés. El dolor torácico requiere valoración médica urgente. El Ajo y el Ginkgo pueden interaccionar con los anticoagulantes."
+  },
+  {
+    "id": 95,
+    "afeccion": "TROMBOSIS Y SÍNDROME TROMBÓTICO",
+    "definicion": "Formación de un coágulo (trombo) de plaquetas y fibrina que obstruye un vaso; si se desprende puede viajar como émbolo. En las venas se asocia a estasis, hipercoagulabilidad o daño vascular, e incluye la flebitis (inflamación de una vena).",
+    "sintomas": [
+      "HINCHAZÓN DE UNA PIERNA",
+      "DOLOR LOCAL",
+      "ENROJECIMIENTO",
+      "CALOR LOCAL",
+      "VENA DOLOROSA E INFLAMADA"
+    ],
+    "recomendaciones": "Plantas antiagregantes plaquetarias e hipoviscosizantes como el Ajo, el Ginkgo, el Meliloto, la Ulmaria, la Curcumina, la Papaína, la Bromelina y el Arándano, solo como apoyo. Evitar la estasis, mantenerse en movimiento y bien hidratado. Estas plantas potencian los anticoagulantes y deben usarse con supervisión médica. Una trombosis requiere siempre valoración médica urgente."
+  },
+  {
+    "id": 96,
+    "afeccion": "ISQUEMIA CEREBRAL",
+    "definicion": "Reducción del flujo sanguíneo al cerebro, por trombosis, embolia o hemorragia (accidente cerebrovascular), que priva de oxígeno al tejido cerebral.",
+    "sintomas": [
+      "PÉRDIDA DE FUERZA O SENSIBILIDAD EN UN LADO DEL CUERPO",
+      "DIFICULTAD PARA HABLAR",
+      "MAREOS",
+      "ALTERACIONES DE LA VISIÓN",
+      "DOLOR DE CABEZA INTENSO"
+    ],
+    "recomendaciones": "Como prevención y apoyo tras la valoración médica, plantas vasodilatadoras cerebrales y antiagregantes como el Ginkgo, la Vincapervinca, el Ajo, el Meliloto o la Ulmaria. Controlar la tensión, el colesterol y la glucosa, y evitar el tabaco. Un ictus es una urgencia médica. El Ajo, el Ginkgo y la Ulmaria pueden interaccionar con los anticoagulantes."
+  },
+  {
+    "id": 97,
+    "afeccion": "ENFERMEDAD DE RAYNAUD",
+    "definicion": "Alteración circulatoria en la que los vasos de las extremidades se contraen en exceso ante el frío o el estrés, dejando los dedos pálidos, fríos y dolorosos.",
+    "sintomas": [
+      "DEDOS FRÍOS",
+      "CAMBIO DE COLOR DE LOS DEDOS",
+      "HORMIGUEO",
+      "DOLOR"
+    ],
+    "recomendaciones": "Plantas vasodilatadoras periféricas y antiespasmódicas como el Ginkgo, la Amapola, el Espino Blanco, la Ajedrea o el Jengibre. Abrigar manos y pies, evitar el frío y el tabaco, y controlar el estrés. Conviene la valoración médica."
+  },
+  {
+    "id": 98,
+    "afeccion": "ARTERIOSCLEROSIS Y ATEROSCLEROSIS",
+    "definicion": "Endurecimiento y pérdida de elasticidad de la pared arterial (arteriosclerosis) y acumulación de placas de colesterol y grasas que estrechan las arterias (aterosclerosis).",
+    "sintomas": [
+      "SIN SÍNTOMAS EVIDENTES EN FASES INICIALES",
+      "COLESTEROL ELEVADO EN ANALÍTICA",
+      "TENSIÓN ARTERIAL ELEVADA"
+    ],
+    "recomendaciones": "Como apoyo, plantas hipolipemiantes como el Ajo, la Cúrcuma, la Soja (lecitina), la Levadura de Arroz Rojo, el Reishi, el Guggul o el Té Verde, y vasoprotectoras y antiagregantes como el Ginkgo, la Vid Roja o los Arándanos. Entre las causas están el envejecimiento, la hipertensión, la diabetes, el tabaquismo, la dieta alta en grasas saturadas y colesterol, y el sedentarismo. La Levadura de Arroz Rojo actúa como las estatinas, y el Ajo y el Ginkgo pueden interaccionar con los anticoagulantes."
   }
 ]
