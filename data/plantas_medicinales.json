@@ -447,7 +447,8 @@
       "CARMINATIVA",
       "ESPASMOLÍTICA",
       "EUPÉPTICA",
-      "EXPECTORANTE"
+      "EXPECTORANTE",
+      "DEPURATIVA PULMONAR"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -669,7 +670,8 @@
       "COLERÉTICA",
       "CLORÚRICA",
       "HEPATOPROTECTORA",
-      "LAXANTE SUAVE"
+      "LAXANTE SUAVE",
+      "DEPURATIVA HEPÁTICA"
     ],
     "principiosActivos": [
       "Alcaloides",
@@ -1280,7 +1282,7 @@
   {
     "id": 45,
     "nombreComun": "DESMODIO",
-    "nombreBotanico": "Desmodium ascendens",
+    "nombreBotanico": "Desmodium adscendens",
     "acciones": [
       "ANTIHISTAMÍNICA",
       "BRONCODILATADORA",
@@ -1839,7 +1841,8 @@
       "ANTITUSIVA-BÉQUICA",
       "ANTIINFLAMATORIA",
       "ANTIVÍRICA",
-      "DEMULCENTE"
+      "DEMULCENTE",
+      "DEPURATIVA PULMONAR"
     ],
     "principiosActivos": [
       "Carotenoides",
@@ -1894,7 +1897,9 @@
       "ANTIINFLAMATORIA",
       "ANTIALÉRGICA",
       "ANALGÉSICA",
-      "ANTIHISTAMÍNICA"
+      "ANTIHISTAMÍNICA",
+      "DIURÉTICA",
+      "DEPURATIVA RENAL"
     ],
     "principiosActivos": [
       "Vitamina C (ácido ascórbico)",
@@ -5211,11 +5216,13 @@
   {
     "id": 184,
     "nombreComun": "ZARZAPARRILLA",
-    "nombreBotanico": "Smilax aristolochiifolia",
+    "nombreBotanico": "Smilax aspera",
     "acciones": [
       "DEPURATIVA CUTÁNEA",
       "ANTIINFLAMATORIA",
-      "DIURÉTICA"
+      "DIURÉTICA",
+      "DEPURATIVA RENAL",
+      "DEPURATIVA GENERAL"
     ],
     "principiosActivos": [
       "Saponinas",
@@ -5232,7 +5239,7 @@
       "Cápsula"
     ],
     "observacion": "",
-    "notas": "Enredadera originaria de América Central, cuya raíz se usa tradicionalmente como depurativo cutáneo y articular."
+    "notas": "Enredadera espinosa de la región mediterránea, de la familia de las esmilacáceas, cuya raíz se usa tradicionalmente como depurativo cutáneo y articular y como diurético."
   },
   {
     "id": 185,
@@ -6198,7 +6205,8 @@
       "NUTRITIVA",
       "LAXANTE",
       "HIPOCOLESTEROLEMIANTE",
-      "LAXANTE MECÁNICO"
+      "LAXANTE MECÁNICO",
+      "DEPURATIVA INTESTINAL"
     ],
     "principiosActivos": [
       "Mucílagos",
@@ -8192,7 +8200,8 @@
       "LAXANTE MECÁNICO",
       "PROTECTORA DE LA MUCOSA",
       "ANTIPRURIGINOSA",
-      "ANTIINFLAMATORIA"
+      "ANTIINFLAMATORIA",
+      "DEPURATIVA INTESTINAL"
     ],
     "principiosActivos": [
       "Mucílagos",

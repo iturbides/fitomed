@@ -36,7 +36,7 @@
       "COLAGOGA",
       "HEPATOPROTECTORA"
     ],
-    "habitos": "Reducir el alcohol, las grasas saturadas, los fritos y los azúcares refinados; aumentar las verduras amargas y crucíferas y la fibra; mantener un peso saludable, hacer ejercicio con regularidad y respetar los horarios de comida y de sueño.",
+    "habitos": "Reducir el alcohol, las grasas saturadas, los fritos y los azúcares refinados; aumentar las verduras amargas y crucíferas, los alimentos ricos en antioxidantes y la fibra (que capta la bilis y las toxinas en el intestino y las elimina con las heces); mantener un peso saludable, hacer ejercicio con regularidad y respetar los horarios de comida y de sueño.",
     "precauciones": "Las plantas coleréticas y colagogas están contraindicadas en la obstrucción de las vías biliares y requieren supervisión médica en la litiasis biliar. Algunas plantas pueden ser hepatotóxicas con un uso prolongado o a dosis altas, y pueden interferir con fármacos metabolizados en el hígado. Ante ictericia, dolor intenso o alteraciones en la analítica, consultar al médico.",
     "afeccionesRelacionadas": [
       31,
@@ -82,8 +82,8 @@
       "DIURÉTICA",
       "ANTILITIÁSICA RENAL"
     ],
-    "habitos": "Beber agua suficiente a lo largo del día, reducir la sal y el exceso de proteínas animales, aumentar las frutas y las verduras y mantener una actividad física regular.",
-    "precauciones": "Las plantas diuréticas pueden potenciar los diuréticos y los antihipertensivos y alterar los niveles de potasio. Deben evitarse o consultarse con el médico en la insuficiencia renal o cardíaca, y no deben usarse de forma prolongada. Ante sangre en la orina, dolor intenso o fiebre, consultar al médico.",
+    "habitos": "Beber agua suficiente a lo largo del día, reducir la sal y el exceso de proteínas animales, aumentar las frutas y las verduras y mantener una actividad física regular. No forzar la diuresis más de lo necesario.",
+    "precauciones": "Las plantas diuréticas pueden potenciar los diuréticos y los antihipertensivos y alterar los niveles de potasio. No conviene abusar del aumento de la diuresis, ya que con la orina se pierden grandes cantidades de potasio y sales. Deben evitarse o consultarse con el médico en la insuficiencia renal o cardíaca, y no deben usarse de forma prolongada. Ante sangre en la orina, dolor intenso o fiebre, consultar al médico.",
     "afeccionesRelacionadas": [
       8,
       9,
@@ -112,7 +112,9 @@
       "SEDENTARISMO",
       "ESTRÉS",
       "USO FRECUENTE DE LAXANTES O ANTIBIÓTICOS",
-      "IGNORAR EL REFLEJO DE DEFECAR"
+      "IGNORAR EL REFLEJO DE DEFECAR",
+      "DESEQUILIBRIO DE LA FLORA INTESTINAL",
+      "AUMENTO DE LA PERMEABILIDAD INTESTINAL"
     ],
     "sintomas": [
       "ESTREÑIMIENTO",
@@ -128,7 +130,7 @@
       "LAXANTE SUAVE",
       "LAXANTE MECÁNICO"
     ],
-    "habitos": "Aumentar la fibra con verduras, frutas, legumbres y cereales integrales, beber suficiente agua, hacer ejercicio con regularidad y establecer un horario fijo para evacuar. Cuidar la microbiota con alimentos fermentados.",
+    "habitos": "Aumentar la fibra con verduras, frutas, legumbres y cereales integrales, beber suficiente agua, hacer ejercicio con regularidad y establecer un horario fijo para evacuar. Evitar el estreñimiento, que favorece la reabsorción de toxinas en el intestino, y cuidar la microbiota con alimentos fermentados.",
     "precauciones": "Las plantas laxantes de acción irritante (antraquinónicas) no deben usarse de forma prolongada ni en embarazo, lactancia, obstrucción intestinal o enfermedad inflamatoria intestinal. Los laxantes mecánicos requieren abundante agua y pueden interferir con la absorción de fármacos. Ante un estreñimiento persistente, sangre en las heces o dolor abdominal, consultar al médico.",
     "afeccionesRelacionadas": [
       37,
@@ -173,8 +175,8 @@
       "DIAFORÉTICA",
       "SUDORÍFICA"
     ],
-    "habitos": "Beber agua, seguir una dieta rica en frutas y verduras y baja en azúcares, hacer ejercicio que favorezca la sudoración, mantener una higiene suave y apoyar antes el hígado y el intestino, cuya sobrecarga suele reflejarse en la piel.",
-    "precauciones": "Las plantas diaforéticas y sudoríficas deben usarse con cuidado en caso de fiebre alta, deshidratación o enfermedad cardíaca. Algunas plantas depurativas pueden ser fotosensibilizantes. Ante lesiones persistentes, dolorosas o que cambian de aspecto, consultar al médico.",
+    "habitos": "Beber agua, seguir una dieta rica en frutas y verduras y baja en azúcares, hacer ejercicio que favorezca la sudoración, mantener una higiene suave y apoyar antes el hígado, el riñón y el intestino, cuya sobrecarga suele reflejarse en la piel.",
+    "precauciones": "Las plantas diaforéticas y sudoríficas deben usarse con cuidado en caso de fiebre alta, deshidratación o enfermedad cardíaca. Algunas plantas depurativas pueden ser fotosensibilizantes. Al empezar a depurar puede producirse una crisis curativa, es decir, un empeoramiento transitorio de la piel según el criterio naturista. Ante lesiones persistentes, dolorosas o que cambian de aspecto, consultar al médico.",
     "afeccionesRelacionadas": [
       23,
       24,
@@ -235,6 +237,9 @@
     "palabrasClave": [
       "depuración general",
       "detox",
+      "sangre",
+      "depurar sangre",
+      "depuración sanguínea",
       "detox general",
       "depurar el organismo",
       "depuración",
@@ -248,7 +253,8 @@
       "ESTRÉS CRÓNICO",
       "ALCOHOL Y TABACO",
       "EXPOSICIÓN A CONTAMINANTES",
-      "DESCANSO INSUFICIENTE"
+      "DESCANSO INSUFICIENTE",
+      "SOBRECARGA DEL SISTEMA DE DESINTOXICACIÓN"
     ],
     "sintomas": [
       "CANSANCIO PERSISTENTE",
@@ -262,8 +268,8 @@
       "DEPURATIVA GENERAL",
       "QUELANTE"
     ],
-    "habitos": "Abrir primero las vías de eliminación (hígado, riñón, intestino y piel) antes de depurar de forma intensa, mantener una dieta rica en vegetales, beber suficiente agua, hacer ejercicio y dormir bien. Evitar los ayunos prolongados y las dietas depurativas drásticas.",
-    "precauciones": "Las curas depurativas no deben hacerse en embarazo, lactancia o infancia, ni con enfermedades graves o medicación crónica sin supervisión médica. Deben tener una duración limitada y no sustituyen al tratamiento médico.",
+    "habitos": "Abrir primero las vías de eliminación (hígado, riñón, intestino y piel) antes de depurar de forma intensa; reducir al máximo la exposición a tóxicos; mantener una dieta rica en vegetales y en nutrientes (vitaminas, minerales, aminoácidos, antioxidantes); beber suficiente agua; hacer ejercicio todos los días (yoga, caminar...); favorecer la sudoración regular y dormir las horas necesarias. Mantener la depuración un mínimo de 21 días, iniciándola en luna nueva según el criterio naturista. Pueden incluirse ayunos breves y supervisados; evitar los ayunos prolongados y las dietas depurativas drásticas.",
+    "precauciones": "Las curas depurativas no deben hacerse en embarazo, lactancia o infancia, ni con enfermedades graves o medicación crónica sin supervisión médica. Deben tener una duración definida y no sustituyen al tratamiento médico. Durante la depuración puede aparecer una crisis curativa (cansancio, dolor de cabeza, mucosidad, náuseas, diarrea...), que según el criterio naturista es transitoria y forma parte de la eliminación de toxinas; si hay fiebre, vómitos, diarrea intensa o dolor, o los síntomas persisten, consultar al médico en lugar de atribuirlos a la depuración.",
     "afeccionesRelacionadas": [
       55,
       82,
