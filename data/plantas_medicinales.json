@@ -280,7 +280,13 @@
       "ALCALINIZANTE",
       "ESTROGÉNICA",
       "NUTRITIVA",
-      "HIPOCOLESTEROLEMIANTE"
+      "HIPOCOLESTEROLEMIANTE",
+      "ANTIOXIDANTE",
+      "HIPOLIPEMIANTE",
+      "ANTIBACTERIANA",
+      "ANTIFÚNGICA",
+      "ANTIINFLAMATORIA",
+      "NEUROPROTECTORA"
     ],
     "principiosActivos": [
       "Calcio (Ca)",
@@ -290,7 +296,21 @@
       "Magnesio (Mg)",
       "Potasio (K)",
       "Quercetina",
-      "Saponinas"
+      "Saponinas",
+      "Saponinas triterpenoides",
+      "Flavonoides",
+      "Genisteína",
+      "Daidzeína",
+      "Apigenina",
+      "Beta-sitosterol",
+      "Estigmasterol",
+      "Alcaloides",
+      "Estaquidrina",
+      "Trigonelina",
+      "Ácidos fenólicos",
+      "Ácido ferúlico",
+      "Ácido salicílico",
+      "Polisacáridos"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -299,8 +319,8 @@
       "Infusión",
       "Cápsula"
     ],
-    "observacion": "",
-    "notas": "Leguminosa forrajera muy cultivada, cuya hoja se usa tradicionalmente como remineralizante y para molestias hormonales leves."
+    "observacion": "Por su contenido en isoflavonas tiene efecto estrogénico, por lo que se aconseja evitarla en caso de antecedentes de cáncer hormonodependiente sin supervisión médica. Es rica en vitamina K, que puede interferir con los anticoagulantes (warfarina, Sintrom). Las semillas y los brotes contienen canavanina, un aminoácido que se ha relacionado con reacciones de tipo lupus, por lo que se recomienda evitar su consumo en personas con lupus u otras enfermedades autoinmunes.",
+    "notas": "Leguminosa forrajera muy cultivada, cuya hoja se usa tradicionalmente como remineralizante y para molestias hormonales leves. Es rica en más de 120 metabolitos secundarios, entre ellos saponinas triterpénicas, flavonoides e isoflavonas (genisteína, daidzeína, biocanina A, formononetina), fitoesteroles, alcaloides, ácidos fenólicos y polisacáridos. En estudios experimentales se le atribuyen actividad antioxidante e hipolipemiante (reduce el colesterol plasmático), antibacteriana y antifúngica (frente a Staphylococcus aureus y cepas de Escherichia coli formadoras de biopelícula), antiinflamatoria, estrogénica y neuroprotectora; la evidencia en humanos es todavía limitada."
   },
   {
     "id": 11,
@@ -528,12 +548,23 @@
       "EMENAGOGA",
       "ANTIHELMÍNTICA-VERMÍFUGA",
       "ABORTIVA",
-      "ALERGÉNICA"
+      "ALERGÉNICA",
+      "ANTIOXIDANTE",
+      "ANTIBACTERIANA",
+      "ANTIFÚNGICA",
+      "ESPASMOLÍTICA",
+      "ANALGÉSICA",
+      "HEPATOPROTECTORA",
+      "ANTIINFLAMATORIA"
     ],
     "principiosActivos": [
       "Cumarina simple",
       "Flavonoides",
-      "Tujona"
+      "Tujona",
+      "Aceite esencial",
+      "Lactonas sesquiterpénicas",
+      "Cineol",
+      "Alcanfor"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -542,8 +573,8 @@
       "Infusión",
       "Tintura"
     ],
-    "observacion": "ABORTIVA",
-    "notas": "Planta europea de la misma familia que el ajenjo, tradicionalmente usada como emenagoga y antiparasitaria, con un uso interno que requiere prudencia."
+    "observacion": "Planta abortiva y emenagoga: contraindicada en el embarazo. Su aceite esencial contiene tuyona y alcanfor, por lo que se recomienda no prolongar su uso interno ni emplear el aceite esencial sin supervisión profesional. Por pertenecer a la familia de las asteráceas, puede provocar reacciones alérgicas en personas sensibles.",
+    "notas": "Planta europea de la misma familia que el ajenjo, conocida también como mugwort, tradicionalmente usada como emenagoga y antiparasitaria, con un uso interno que requiere prudencia. Su extracto y su aceite esencial, rico en monoterpenos como cineol, tuyona y alcanfor, han mostrado en estudios de laboratorio actividad antioxidante, antimicrobiana (frente a Staphylococcus aureus y Candida albicans), antiinflamatoria, antiespasmódica, analgésica y hepatoprotectora. Se trata sobre todo de ensayos in vitro o preclínicos, por lo que faltan estudios clínicos en humanos que confirmen estos efectos."
   },
   {
     "id": 20,
@@ -4066,7 +4097,8 @@
       "ANTIINFLAMATORIA",
       "ASTRINGENTE",
       "EUPÉPTICA",
-      "SUDORÍFICA"
+      "SUDORÍFICA",
+      "ABORTIVA"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -4671,13 +4703,22 @@
     "acciones": [
       "ANTISÉPTICA",
       "ANTIFÚNGICA",
-      "ANTIBACTERIANA"
+      "ANTIBACTERIANA",
+      "ANTIMICROBIANA",
+      "ANTIINFLAMATORIA",
+      "CICATRIZANTE"
     ],
     "principiosActivos": [
       "Aceite esencial",
       "Terpinen-4-ol",
       "Cineol",
-      "Gamma-terpineno"
+      "Gamma-terpineno",
+      "Alfa-terpineno",
+      "Alfa-terpineol",
+      "p-Cimeno",
+      "Beta-cariofileno",
+      "Triterpenos",
+      "Ácido betulínico"
     ],
     "drogaVegetal": [
       "Hoja"
@@ -4686,8 +4727,8 @@
       "Aceite esencial",
       "Uso tópico"
     ],
-    "observacion": "Solo para uso externo; no ingerir. Puede causar sensibilización cutánea en algunas personas.",
-    "notas": "Árbol australiano cuyo aceite esencial es uno de los antisépticos naturales de uso tópico más extendidos en Europa."
+    "observacion": "Solo para uso externo; no ingerir. Aplicar diluido, ya que el aceite puro puede irritar la piel; puede causar sensibilización cutánea en algunas personas, y el aceite oxidado o envejecido aumenta ese riesgo. Evitar el contacto con los ojos y las mucosas.",
+    "notas": "Árbol australiano cuyo aceite esencial, destilado de las hojas y compuesto en un 80-90 % por monoterpenos volátiles, es uno de los antisépticos naturales de uso tópico más extendidos en Europa. Su componente principal es el terpinen-4-ol, acompañado de γ-terpineno, α-terpineno y 1,8-cineol. Tiene una acción antimicrobiana de amplio espectro frente a bacterias grampositivas y gramnegativas (Staphylococcus aureus, Enterococcus faecalis), es eficaz frente a levaduras como Candida albicans y puede inhibir biopelículas bacterianas. Por vía tópica se usa también como antiinflamatorio y cicatrizante en afecciones de la piel como el acné o la dermatitis de contacto."
   },
   {
     "id": 164,
@@ -4724,12 +4765,21 @@
       "ANTIINFLAMATORIA",
       "ANTICANCERÍGENA",
       "ANTIMICROBIANA",
-      "ANTIOXIDANTE"
+      "ANTIOXIDANTE",
+      "VASOPROTECTORA"
     ],
     "principiosActivos": [
       "Proantocianidinas",
       "Antocianinas",
-      "Vitamina C (ácido ascórbico)"
+      "Vitamina C (ácido ascórbico)",
+      "Flavonoles",
+      "Quercetina",
+      "Hiperósido",
+      "Ácidos fenólicos",
+      "Ácido ferúlico",
+      "Ácido cafeico",
+      "Ácido elágico",
+      "Iridoides"
     ],
     "drogaVegetal": [
       "Fruto"
@@ -4739,8 +4789,8 @@
       "Cápsula",
       "Extracto seco"
     ],
-    "observacion": "",
-    "notas": "Arbusto norteamericano cuyo fruto es uno de los productos más usados en Europa para prevenir infecciones urinarias recurrentes, al dificultar la adhesión bacteriana."
+    "observacion": "Se utiliza como medida preventiva y no sustituye el tratamiento médico de una infección urinaria ya establecida; si aparecen fiebre, dolor lumbar o sangre en la orina, consultar al médico. Por su contenido en oxalatos se aconseja precaución en personas con antecedentes de litiasis renal por oxalato, y se han descrito posibles interacciones con los anticoagulantes (warfarina, Sintrom), por lo que conviene consultarlo con un profesional si se toman.",
+    "notas": "Arbusto norteamericano cuyo fruto es uno de los productos más usados en Europa para prevenir infecciones urinarias recurrentes, al dificultar la adhesión bacteriana. Sus proantocianidinas de tipo A impiden que las fimbrias de Escherichia coli uropatógena se fijen al epitelio de la vejiga. Además es rico en antocianinas, flavonoles y ácidos fenólicos, a los que se atribuye una elevada capacidad antioxidante, un efecto protector cardiovascular y un posible apoyo frente a la obesidad y la resistencia a la insulina."
   },
   {
     "id": 166,
@@ -5119,7 +5169,8 @@
       "ANTIBACTERIANA",
       "TÓNICO DIGESTIVO",
       "APERITIVA",
-      "ANTIHELMÍNTICA-VERMÍFUGA"
+      "ANTIHELMÍNTICA-VERMÍFUGA",
+      "ABORTIVA"
     ],
     "principiosActivos": [
       "Lactonas amargas",
@@ -5324,7 +5375,8 @@
     "nombreBotanico": "Mentha pulegium",
     "acciones": [
       "CARMINATIVA",
-      "EMENAGOGA"
+      "EMENAGOGA",
+      "ABORTIVA"
     ],
     "principiosActivos": [
       "Aceite esencial",
@@ -5837,7 +5889,8 @@
     "acciones": [
       "ANTIDEPRESIVA",
       "ANTIOXIDANTE",
-      "DIGESTIVA"
+      "DIGESTIVA",
+      "ABORTIVA"
     ],
     "principiosActivos": [
       "Crocina",
@@ -5861,7 +5914,8 @@
     "nombreBotanico": "Tanacetum parthenium",
     "acciones": [
       "ANTIMIGRAÑOSA",
-      "ANTIINFLAMATORIA"
+      "ANTIINFLAMATORIA",
+      "ABORTIVA"
     ],
     "principiosActivos": [
       "Lactonas sesquiterpénicas",

@@ -304,6 +304,19 @@ body.dark {
 
 }
 
+/* Acción ABORTIVA: mismo color que la observación,
+   para que destaque a primera vista */
+
+.etiqueta[data-tipo="accion"][data-valor="ABORTIVA"] {
+
+    background: #7b6b1f;
+
+    color: #fff6c2;
+
+    font-weight: 600;
+
+}
+
 /* ==========================================
    Nombre botánico
 ========================================== */
